@@ -1,0 +1,1298 @@
+{
+ "set": "sv01",
+ "nome_pt": "Escarlate e Violeta",
+ "nome_en": "Scarlet & Violet",
+ "total": 258,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Pineco",
+   "en": "Pineco"
+  },
+  {
+   "n": "002",
+   "pt": "Heracross",
+   "en": "Heracross"
+  },
+  {
+   "n": "003",
+   "pt": "Shroomish",
+   "en": "Shroomish"
+  },
+  {
+   "n": "004",
+   "pt": "Breloom",
+   "en": "Breloom"
+  },
+  {
+   "n": "005",
+   "pt": "Cacnea",
+   "en": "Cacnea"
+  },
+  {
+   "n": "006",
+   "pt": "Cacturne",
+   "en": "Cacturne"
+  },
+  {
+   "n": "007",
+   "pt": "Tropius",
+   "en": "Tropius"
+  },
+  {
+   "n": "008",
+   "pt": "Scatterbug",
+   "en": "Scatterbug"
+  },
+  {
+   "n": "009",
+   "pt": "Spewpa",
+   "en": "Spewpa"
+  },
+  {
+   "n": "010",
+   "pt": "Vivillon",
+   "en": "Vivillon"
+  },
+  {
+   "n": "011",
+   "pt": "Skiddo",
+   "en": "Skiddo"
+  },
+  {
+   "n": "012",
+   "pt": "Gogoat",
+   "en": "Gogoat"
+  },
+  {
+   "n": "013",
+   "pt": "Sprigatito",
+   "en": "Sprigatito"
+  },
+  {
+   "n": "014",
+   "pt": "Floragato",
+   "en": "Floragato"
+  },
+  {
+   "n": "015",
+   "pt": "Meowscarada",
+   "en": "Meowscarada"
+  },
+  {
+   "n": "016",
+   "pt": "Tarountula",
+   "en": "Tarountula"
+  },
+  {
+   "n": "017",
+   "pt": "Tarountula",
+   "en": "Tarountula"
+  },
+  {
+   "n": "018",
+   "pt": "Tarountula",
+   "en": "Tarountula"
+  },
+  {
+   "n": "019",
+   "pt": "Spidops ex",
+   "en": "Spidops ex"
+  },
+  {
+   "n": "020",
+   "pt": "Smoliv",
+   "en": "Smoliv"
+  },
+  {
+   "n": "021",
+   "pt": "Smoliv",
+   "en": "Smoliv"
+  },
+  {
+   "n": "022",
+   "pt": "Dolliv",
+   "en": "Dolliv"
+  },
+  {
+   "n": "023",
+   "pt": "Arboliva",
+   "en": "Arboliva"
+  },
+  {
+   "n": "024",
+   "pt": "Toedscool",
+   "en": "Toedscool"
+  },
+  {
+   "n": "025",
+   "pt": "Toedscool",
+   "en": "Toedscool"
+  },
+  {
+   "n": "026",
+   "pt": "Toedscruel",
+   "en": "Toedscruel"
+  },
+  {
+   "n": "027",
+   "pt": "Capsakid",
+   "en": "Capsakid"
+  },
+  {
+   "n": "028",
+   "pt": "Capsakid",
+   "en": "Capsakid"
+  },
+  {
+   "n": "029",
+   "pt": "Scovillain",
+   "en": "Scovillain"
+  },
+  {
+   "n": "030",
+   "pt": "Growlithe",
+   "en": "Growlithe"
+  },
+  {
+   "n": "031",
+   "pt": "Growlithe",
+   "en": "Growlithe"
+  },
+  {
+   "n": "032",
+   "pt": "Arcanine ex",
+   "en": "Arcanine ex"
+  },
+  {
+   "n": "033",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "034",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "035",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "036",
+   "pt": "Fuecoco",
+   "en": "Fuecoco"
+  },
+  {
+   "n": "037",
+   "pt": "Crocalor",
+   "en": "Crocalor"
+  },
+  {
+   "n": "038",
+   "pt": "Skeledirge",
+   "en": "Skeledirge"
+  },
+  {
+   "n": "039",
+   "pt": "Charcadet",
+   "en": "Charcadet"
+  },
+  {
+   "n": "040",
+   "pt": "Charcadet",
+   "en": "Charcadet"
+  },
+  {
+   "n": "041",
+   "pt": "Armarouge",
+   "en": "Armarouge"
+  },
+  {
+   "n": "042",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "043",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "044",
+   "pt": "Magikarp",
+   "en": "Magikarp"
+  },
+  {
+   "n": "045",
+   "pt": "Gyarados ex",
+   "en": "Gyarados ex"
+  },
+  {
+   "n": "046",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "047",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "048",
+   "pt": "Alomomola",
+   "en": "Alomomola"
+  },
+  {
+   "n": "049",
+   "pt": "Clauncher",
+   "en": "Clauncher"
+  },
+  {
+   "n": "050",
+   "pt": "Clawitzer",
+   "en": "Clawitzer"
+  },
+  {
+   "n": "051",
+   "pt": "Bruxish",
+   "en": "Bruxish"
+  },
+  {
+   "n": "052",
+   "pt": "Quaxly",
+   "en": "Quaxly"
+  },
+  {
+   "n": "053",
+   "pt": "Quaxwell",
+   "en": "Quaxwell"
+  },
+  {
+   "n": "054",
+   "pt": "Quaquaval",
+   "en": "Quaquaval"
+  },
+  {
+   "n": "055",
+   "pt": "Wiglett",
+   "en": "Wiglett"
+  },
+  {
+   "n": "056",
+   "pt": "Wiglett",
+   "en": "Wiglett"
+  },
+  {
+   "n": "057",
+   "pt": "Wugtrio",
+   "en": "Wugtrio"
+  },
+  {
+   "n": "058",
+   "pt": "Cetoddle",
+   "en": "Cetoddle"
+  },
+  {
+   "n": "059",
+   "pt": "Cetoddle",
+   "en": "Cetoddle"
+  },
+  {
+   "n": "060",
+   "pt": "Cetitan",
+   "en": "Cetitan"
+  },
+  {
+   "n": "061",
+   "pt": "Dondozo",
+   "en": "Dondozo"
+  },
+  {
+   "n": "062",
+   "pt": "Tatsugiri",
+   "en": "Tatsugiri"
+  },
+  {
+   "n": "063",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "064",
+   "pt": "Magneton",
+   "en": "Magneton"
+  },
+  {
+   "n": "065",
+   "pt": "Magnezone ex",
+   "en": "Magnezone ex"
+  },
+  {
+   "n": "066",
+   "pt": "Mareep",
+   "en": "Mareep"
+  },
+  {
+   "n": "067",
+   "pt": "Flaaffy",
+   "en": "Flaaffy"
+  },
+  {
+   "n": "068",
+   "pt": "Pachirisu",
+   "en": "Pachirisu"
+  },
+  {
+   "n": "069",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "070",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "071",
+   "pt": "Toxel",
+   "en": "Toxel"
+  },
+  {
+   "n": "072",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "073",
+   "pt": "Pawmi",
+   "en": "Pawmi"
+  },
+  {
+   "n": "074",
+   "pt": "Pawmi",
+   "en": "Pawmi"
+  },
+  {
+   "n": "075",
+   "pt": "Pawmo",
+   "en": "Pawmo"
+  },
+  {
+   "n": "076",
+   "pt": "Pawmot",
+   "en": "Pawmot"
+  },
+  {
+   "n": "077",
+   "pt": "Wattrel",
+   "en": "Wattrel"
+  },
+  {
+   "n": "078",
+   "pt": "Wattrel",
+   "en": "Wattrel"
+  },
+  {
+   "n": "079",
+   "pt": "Kilowattrel",
+   "en": "Kilowattrel"
+  },
+  {
+   "n": "080",
+   "pt": "Miraidon",
+   "en": "Miraidon"
+  },
+  {
+   "n": "081",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "082",
+   "pt": "Drowzee",
+   "en": "Drowzee"
+  },
+  {
+   "n": "083",
+   "pt": "Hypno",
+   "en": "Hypno"
+  },
+  {
+   "n": "084",
+   "pt": "Ralts",
+   "en": "Ralts"
+  },
+  {
+   "n": "085",
+   "pt": "Kirlia",
+   "en": "Kirlia"
+  },
+  {
+   "n": "086",
+   "pt": "Gardevoir ex",
+   "en": "Gardevoir ex"
+  },
+  {
+   "n": "087",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "088",
+   "pt": "Banette ex",
+   "en": "Banette ex"
+  },
+  {
+   "n": "089",
+   "pt": "Drifloon",
+   "en": "Drifloon"
+  },
+  {
+   "n": "090",
+   "pt": "Drifblim",
+   "en": "Drifblim"
+  },
+  {
+   "n": "091",
+   "pt": "Flabébé",
+   "en": "Flabébé"
+  },
+  {
+   "n": "092",
+   "pt": "Floette",
+   "en": "Floette"
+  },
+  {
+   "n": "093",
+   "pt": "Florges",
+   "en": "Florges"
+  },
+  {
+   "n": "094",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "095",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "096",
+   "pt": "Klefki",
+   "en": "Klefki"
+  },
+  {
+   "n": "097",
+   "pt": "Fidough",
+   "en": "Fidough"
+  },
+  {
+   "n": "098",
+   "pt": "Fidough",
+   "en": "Fidough"
+  },
+  {
+   "n": "099",
+   "pt": "Dachsbun",
+   "en": "Dachsbun"
+  },
+  {
+   "n": "100",
+   "pt": "Flittle",
+   "en": "Flittle"
+  },
+  {
+   "n": "101",
+   "pt": "Flittle",
+   "en": "Flittle"
+  },
+  {
+   "n": "102",
+   "pt": "Flittle",
+   "en": "Flittle"
+  },
+  {
+   "n": "103",
+   "pt": "Espathra",
+   "en": "Espathra"
+  },
+  {
+   "n": "104",
+   "pt": "Greavard",
+   "en": "Greavard"
+  },
+  {
+   "n": "105",
+   "pt": "Greavard",
+   "en": "Greavard"
+  },
+  {
+   "n": "106",
+   "pt": "Houndstone",
+   "en": "Houndstone"
+  },
+  {
+   "n": "107",
+   "pt": "Mankey",
+   "en": "Mankey"
+  },
+  {
+   "n": "108",
+   "pt": "Primeape",
+   "en": "Primeape"
+  },
+  {
+   "n": "109",
+   "pt": "Annihilape",
+   "en": "Annihilape"
+  },
+  {
+   "n": "110",
+   "pt": "Meditite",
+   "en": "Meditite"
+  },
+  {
+   "n": "111",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "112",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "113",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "114",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "115",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "116",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "117",
+   "pt": "Krookodile",
+   "en": "Krookodile"
+  },
+  {
+   "n": "118",
+   "pt": "Hawlucha",
+   "en": "Hawlucha"
+  },
+  {
+   "n": "119",
+   "pt": "Silicobra",
+   "en": "Silicobra"
+  },
+  {
+   "n": "120",
+   "pt": "Sandaconda",
+   "en": "Sandaconda"
+  },
+  {
+   "n": "121",
+   "pt": "Stonjourner",
+   "en": "Stonjourner"
+  },
+  {
+   "n": "122",
+   "pt": "Klawf",
+   "en": "Klawf"
+  },
+  {
+   "n": "123",
+   "pt": "Presa Grande ex",
+   "en": "Great Tusk ex"
+  },
+  {
+   "n": "124",
+   "pt": "Koraidon",
+   "en": "Koraidon"
+  },
+  {
+   "n": "125",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "126",
+   "pt": "Grimer",
+   "en": "Grimer"
+  },
+  {
+   "n": "127",
+   "pt": "Muk",
+   "en": "Muk"
+  },
+  {
+   "n": "128",
+   "pt": "Seviper",
+   "en": "Seviper"
+  },
+  {
+   "n": "129",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "130",
+   "pt": "Croagunk",
+   "en": "Croagunk"
+  },
+  {
+   "n": "131",
+   "pt": "Toxicroak ex",
+   "en": "Toxicroak ex"
+  },
+  {
+   "n": "132",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "133",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "134",
+   "pt": "Kingambit",
+   "en": "Kingambit"
+  },
+  {
+   "n": "135",
+   "pt": "Maschiff",
+   "en": "Maschiff"
+  },
+  {
+   "n": "136",
+   "pt": "Maschiff",
+   "en": "Maschiff"
+  },
+  {
+   "n": "137",
+   "pt": "Mabosstiff",
+   "en": "Mabosstiff"
+  },
+  {
+   "n": "138",
+   "pt": "Bombirdier",
+   "en": "Bombirdier"
+  },
+  {
+   "n": "139",
+   "pt": "Forretress",
+   "en": "Forretress"
+  },
+  {
+   "n": "140",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "141",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "142",
+   "pt": "Revavroom",
+   "en": "Revavroom"
+  },
+  {
+   "n": "143",
+   "pt": "Trilho Férreo ex",
+   "en": "Iron Treads ex"
+  },
+  {
+   "n": "144",
+   "pt": "Chansey",
+   "en": "Chansey"
+  },
+  {
+   "n": "145",
+   "pt": "Blissey",
+   "en": "Blissey"
+  },
+  {
+   "n": "146",
+   "pt": "Zangoose",
+   "en": "Zangoose"
+  },
+  {
+   "n": "147",
+   "pt": "Zangoose",
+   "en": "Zangoose"
+  },
+  {
+   "n": "148",
+   "pt": "Starly",
+   "en": "Starly"
+  },
+  {
+   "n": "149",
+   "pt": "Staravia",
+   "en": "Staravia"
+  },
+  {
+   "n": "150",
+   "pt": "Staraptor",
+   "en": "Staraptor"
+  },
+  {
+   "n": "151",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "152",
+   "pt": "Greedent",
+   "en": "Greedent"
+  },
+  {
+   "n": "153",
+   "pt": "Indeedee",
+   "en": "Indeedee"
+  },
+  {
+   "n": "154",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "155",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "156",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "157",
+   "pt": "Oinkologne",
+   "en": "Oinkologne"
+  },
+  {
+   "n": "158",
+   "pt": "Oinkologne ex",
+   "en": "Oinkologne ex"
+  },
+  {
+   "n": "159",
+   "pt": "Tandemaus",
+   "en": "Tandemaus"
+  },
+  {
+   "n": "160",
+   "pt": "Tandemaus",
+   "en": "Tandemaus"
+  },
+  {
+   "n": "161",
+   "pt": "Maushold",
+   "en": "Maushold"
+  },
+  {
+   "n": "162",
+   "pt": "Squawkabilly",
+   "en": "Squawkabilly"
+  },
+  {
+   "n": "163",
+   "pt": "Cyclizar",
+   "en": "Cyclizar"
+  },
+  {
+   "n": "164",
+   "pt": "Cyclizar",
+   "en": "Cyclizar"
+  },
+  {
+   "n": "165",
+   "pt": "Flamigo",
+   "en": "Flamigo"
+  },
+  {
+   "n": "166",
+   "pt": "Arven",
+   "en": "Arven"
+  },
+  {
+   "n": "167",
+   "pt": "Quadra de Praia",
+   "en": "Beach Court"
+  },
+  {
+   "n": "168",
+   "pt": "Martelo Esmagador",
+   "en": "Crushing Hammer"
+  },
+  {
+   "n": "169",
+   "pt": "Faixa de Desafio",
+   "en": "Defiance Band"
+  },
+  {
+   "n": "170",
+   "pt": "Gerador Elétrico",
+   "en": "Electric Generator"
+  },
+  {
+   "n": "171",
+   "pt": "Recuperação de Energia",
+   "en": "Energy Retrieval"
+  },
+  {
+   "n": "172",
+   "pt": "Busca de Energia",
+   "en": "Energy Search"
+  },
+  {
+   "n": "173",
+   "pt": "Substituição de Energia",
+   "en": "Energy Switch"
+  },
+  {
+   "n": "174",
+   "pt": "Compart. Exp.",
+   "en": "Exp. Share"
+  },
+  {
+   "n": "175",
+   "pt": "Jacques",
+   "en": "Jacq"
+  },
+  {
+   "n": "176",
+   "pt": "Juiz",
+   "en": "Judge"
+  },
+  {
+   "n": "177",
+   "pt": "Catarina",
+   "en": "Katy"
+  },
+  {
+   "n": "178",
+   "pt": "Mesaledo",
+   "en": "Mesagoza"
+  },
+  {
+   "n": "179",
+   "pt": "Miriam",
+   "en": "Miriam"
+  },
+  {
+   "n": "180",
+   "pt": "Noêmia",
+   "en": "Nemona"
+  },
+  {
+   "n": "181",
+   "pt": "Bola de Ninho",
+   "en": "Nest Ball"
+  },
+  {
+   "n": "182",
+   "pt": "Pal Pad",
+   "en": "Pal Pad"
+  },
+  {
+   "n": "183",
+   "pt": "Penélope",
+   "en": "Penny"
+  },
+  {
+   "n": "184",
+   "pt": "Cesta de Piquenique",
+   "en": "Picnic Basket"
+  },
+  {
+   "n": "185",
+   "pt": "Poké Bola",
+   "en": "Poké Ball"
+  },
+  {
+   "n": "186",
+   "pt": "Pokégear 3.0",
+   "en": "Pokégear 3.0"
+  },
+  {
+   "n": "187",
+   "pt": "Pegador de Pokémon",
+   "en": "Pokémon Catcher"
+  },
+  {
+   "n": "188",
+   "pt": "Poção",
+   "en": "Potion"
+  },
+  {
+   "n": "189",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "190",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "191",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "192",
+   "pt": "Peitoral de Pedra",
+   "en": "Rock Chestplate"
+  },
+  {
+   "n": "193",
+   "pt": "Capacete de Pedra",
+   "en": "Rocky Helmet"
+  },
+  {
+   "n": "194",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "195",
+   "pt": "Recruta da Equipe Star",
+   "en": "Team Star Grunt"
+  },
+  {
+   "n": "196",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "197",
+   "pt": "Faixa de Vitalidade",
+   "en": "Vitality Band"
+  },
+  {
+   "n": "198",
+   "pt": "Jovem",
+   "en": "Youngster"
+  },
+  {
+   "n": "199",
+   "pt": "Tarountula",
+   "en": "Tarountula"
+  },
+  {
+   "n": "200",
+   "pt": "Dolliv",
+   "en": "Dolliv"
+  },
+  {
+   "n": "201",
+   "pt": "Toedscool",
+   "en": "Toedscool"
+  },
+  {
+   "n": "202",
+   "pt": "Scovillain",
+   "en": "Scovillain"
+  },
+  {
+   "n": "203",
+   "pt": "Armarouge",
+   "en": "Armarouge"
+  },
+  {
+   "n": "204",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "205",
+   "pt": "Clauncher",
+   "en": "Clauncher"
+  },
+  {
+   "n": "206",
+   "pt": "Wiglett",
+   "en": "Wiglett"
+  },
+  {
+   "n": "207",
+   "pt": "Dondozo",
+   "en": "Dondozo"
+  },
+  {
+   "n": "208",
+   "pt": "Pachirisu",
+   "en": "Pachirisu"
+  },
+  {
+   "n": "209",
+   "pt": "Pawmot",
+   "en": "Pawmot"
+  },
+  {
+   "n": "210",
+   "pt": "Drowzee",
+   "en": "Drowzee"
+  },
+  {
+   "n": "211",
+   "pt": "Ralts",
+   "en": "Ralts"
+  },
+  {
+   "n": "212",
+   "pt": "Kirlia",
+   "en": "Kirlia"
+  },
+  {
+   "n": "213",
+   "pt": "Fidough",
+   "en": "Fidough"
+  },
+  {
+   "n": "214",
+   "pt": "Greavard",
+   "en": "Greavard"
+  },
+  {
+   "n": "215",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "216",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "217",
+   "pt": "Klawf",
+   "en": "Klawf"
+  },
+  {
+   "n": "218",
+   "pt": "Mabosstiff",
+   "en": "Mabosstiff"
+  },
+  {
+   "n": "219",
+   "pt": "Bombirdier",
+   "en": "Bombirdier"
+  },
+  {
+   "n": "220",
+   "pt": "Kingambit",
+   "en": "Kingambit"
+  },
+  {
+   "n": "221",
+   "pt": "Starly",
+   "en": "Starly"
+  },
+  {
+   "n": "222",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "223",
+   "pt": "Spidops ex",
+   "en": "Spidops ex"
+  },
+  {
+   "n": "224",
+   "pt": "Arcanine ex",
+   "en": "Arcanine ex"
+  },
+  {
+   "n": "225",
+   "pt": "Gyarados ex",
+   "en": "Gyarados ex"
+  },
+  {
+   "n": "226",
+   "pt": "Magnezone ex",
+   "en": "Magnezone ex"
+  },
+  {
+   "n": "227",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "228",
+   "pt": "Gardevoir ex",
+   "en": "Gardevoir ex"
+  },
+  {
+   "n": "229",
+   "pt": "Banette ex",
+   "en": "Banette ex"
+  },
+  {
+   "n": "230",
+   "pt": "Presa Grande ex",
+   "en": "Great Tusk ex"
+  },
+  {
+   "n": "231",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "232",
+   "pt": "Toxicroak ex",
+   "en": "Toxicroak ex"
+  },
+  {
+   "n": "233",
+   "pt": "Trilho Férreo ex",
+   "en": "Iron Treads ex"
+  },
+  {
+   "n": "234",
+   "pt": "Oinkologne ex",
+   "en": "Oinkologne ex"
+  },
+  {
+   "n": "235",
+   "pt": "Arven",
+   "en": "Arven"
+  },
+  {
+   "n": "236",
+   "pt": "Jacques",
+   "en": "Jacq"
+  },
+  {
+   "n": "237",
+   "pt": "Catarina",
+   "en": "Katy"
+  },
+  {
+   "n": "238",
+   "pt": "Miriam",
+   "en": "Miriam"
+  },
+  {
+   "n": "239",
+   "pt": "Penélope",
+   "en": "Penny"
+  },
+  {
+   "n": "240",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "241",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "242",
+   "pt": "Recruta da Equipe Star",
+   "en": "Team Star Grunt"
+  },
+  {
+   "n": "243",
+   "pt": "Spidops ex",
+   "en": "Spidops ex"
+  },
+  {
+   "n": "244",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "245",
+   "pt": "Gardevoir ex",
+   "en": "Gardevoir ex"
+  },
+  {
+   "n": "246",
+   "pt": "Presa Grande ex",
+   "en": "Great Tusk ex"
+  },
+  {
+   "n": "247",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "248",
+   "pt": "Trilho Férreo ex",
+   "en": "Iron Treads ex"
+  },
+  {
+   "n": "249",
+   "pt": "Arven",
+   "en": "Arven"
+  },
+  {
+   "n": "250",
+   "pt": "Jacques",
+   "en": "Jacq"
+  },
+  {
+   "n": "251",
+   "pt": "Miriam",
+   "en": "Miriam"
+  },
+  {
+   "n": "252",
+   "pt": "Penélope",
+   "en": "Penny"
+  },
+  {
+   "n": "253",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "254",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "255",
+   "pt": "Bola de Ninho",
+   "en": "Nest Ball"
+  },
+  {
+   "n": "256",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "257",
+   "pt": "Energia Lightning Básica",
+   "en": "Basic Lightning Energy"
+  },
+  {
+   "n": "258",
+   "pt": "Energia Fighting Básica",
+   "en": "Basic Fighting Energy"
+  }
+ ]
+}

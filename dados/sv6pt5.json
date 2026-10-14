@@ -1,0 +1,503 @@
+{
+ "set": "sv6pt5",
+ "nome_pt": "Fábulas Nebulosas",
+ "nome_en": "Shrouded Fable",
+ "total": 99,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Joltik",
+   "en": "Joltik"
+  },
+  {
+   "n": "002",
+   "pt": "Galvantula",
+   "en": "Galvantula"
+  },
+  {
+   "n": "003",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "004",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "005",
+   "pt": "Decidueye",
+   "en": "Decidueye"
+  },
+  {
+   "n": "006",
+   "pt": "Tapu Bulu",
+   "en": "Tapu Bulu"
+  },
+  {
+   "n": "007",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "008",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "009",
+   "pt": "Mariposa Férrea",
+   "en": "Iron Moth"
+  },
+  {
+   "n": "010",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "011",
+   "pt": "Seadra",
+   "en": "Seadra"
+  },
+  {
+   "n": "012",
+   "pt": "Kingdra ex",
+   "en": "Kingdra ex"
+  },
+  {
+   "n": "013",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "014",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "015",
+   "pt": "Revavroom ex",
+   "en": "Revavroom ex"
+  },
+  {
+   "n": "016",
+   "pt": "Drowzee",
+   "en": "Drowzee"
+  },
+  {
+   "n": "017",
+   "pt": "Hypno",
+   "en": "Hypno"
+  },
+  {
+   "n": "018",
+   "pt": "Duskull",
+   "en": "Duskull"
+  },
+  {
+   "n": "019",
+   "pt": "Dusclops",
+   "en": "Dusclops"
+  },
+  {
+   "n": "020",
+   "pt": "Dusknoir",
+   "en": "Dusknoir"
+  },
+  {
+   "n": "021",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "022",
+   "pt": "Sylveon",
+   "en": "Sylveon"
+  },
+  {
+   "n": "023",
+   "pt": "Croagunk",
+   "en": "Croagunk"
+  },
+  {
+   "n": "024",
+   "pt": "Toxicroak",
+   "en": "Toxicroak"
+  },
+  {
+   "n": "025",
+   "pt": "Ursaluna Lua Sangrenta",
+   "en": "Bloodmoon Ursaluna"
+  },
+  {
+   "n": "026",
+   "pt": "Asa Rasteira",
+   "en": "Slither Wing"
+  },
+  {
+   "n": "027",
+   "pt": "Zubat",
+   "en": "Zubat"
+  },
+  {
+   "n": "028",
+   "pt": "Golbat",
+   "en": "Golbat"
+  },
+  {
+   "n": "029",
+   "pt": "Crobat",
+   "en": "Crobat"
+  },
+  {
+   "n": "030",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "031",
+   "pt": "Zorua",
+   "en": "Zorua"
+  },
+  {
+   "n": "032",
+   "pt": "Zoroark",
+   "en": "Zoroark"
+  },
+  {
+   "n": "033",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "034",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "035",
+   "pt": "Yveltal",
+   "en": "Yveltal"
+  },
+  {
+   "n": "036",
+   "pt": "Okidogi ex",
+   "en": "Okidogi ex"
+  },
+  {
+   "n": "037",
+   "pt": "Munkidori ex",
+   "en": "Munkidori ex"
+  },
+  {
+   "n": "038",
+   "pt": "Fezandipiti ex",
+   "en": "Fezandipiti ex"
+  },
+  {
+   "n": "039",
+   "pt": "Pecharunt ex",
+   "en": "Pecharunt ex"
+  },
+  {
+   "n": "040",
+   "pt": "Genesect",
+   "en": "Genesect"
+  },
+  {
+   "n": "041",
+   "pt": "Cufant",
+   "en": "Cufant"
+  },
+  {
+   "n": "042",
+   "pt": "Copperajah",
+   "en": "Copperajah"
+  },
+  {
+   "n": "043",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "044",
+   "pt": "Axew",
+   "en": "Axew"
+  },
+  {
+   "n": "045",
+   "pt": "Fraxure",
+   "en": "Fraxure"
+  },
+  {
+   "n": "046",
+   "pt": "Haxorus",
+   "en": "Haxorus"
+  },
+  {
+   "n": "047",
+   "pt": "Kyurem",
+   "en": "Kyurem"
+  },
+  {
+   "n": "048",
+   "pt": "Meowth",
+   "en": "Meowth"
+  },
+  {
+   "n": "049",
+   "pt": "Persian",
+   "en": "Persian"
+  },
+  {
+   "n": "050",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "051",
+   "pt": "Furfrou",
+   "en": "Furfrou"
+  },
+  {
+   "n": "052",
+   "pt": "Stufful",
+   "en": "Stufful"
+  },
+  {
+   "n": "053",
+   "pt": "Bewear",
+   "en": "Bewear"
+  },
+  {
+   "n": "054",
+   "pt": "Academia à Noite",
+   "en": "Academy at Night"
+  },
+  {
+   "n": "055",
+   "pt": "Moti Vinculante",
+   "en": "Binding Mochi"
+  },
+  {
+   "n": "056",
+   "pt": "Cassiopeia",
+   "en": "Cassiopeia"
+  },
+  {
+   "n": "057",
+   "pt": "Tenacidade do Colress",
+   "en": "Colress's Tenacity"
+  },
+  {
+   "n": "058",
+   "pt": "Laser Perigoso",
+   "en": "Dangerous Laser"
+  },
+  {
+   "n": "059",
+   "pt": "Dom Secreto da Janine",
+   "en": "Janine's Secret Art"
+  },
+  {
+   "n": "060",
+   "pt": "Zona de Neutralização",
+   "en": "Neutralization Zone"
+  },
+  {
+   "n": "061",
+   "pt": "Maca Noturna",
+   "en": "Night Stretcher"
+  },
+  {
+   "n": "062",
+   "pt": "Poké Vital A",
+   "en": "Poké Vital A"
+  },
+  {
+   "n": "063",
+   "pt": "Ampulheta Poderosa",
+   "en": "Powerglass"
+  },
+  {
+   "n": "064",
+   "pt": "Tramoias do Xerosic",
+   "en": "Xerosic's Machinations"
+  },
+  {
+   "n": "065",
+   "pt": "Tapu Bulu",
+   "en": "Tapu Bulu"
+  },
+  {
+   "n": "066",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "067",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "068",
+   "pt": "Duskull",
+   "en": "Duskull"
+  },
+  {
+   "n": "069",
+   "pt": "Dusclops",
+   "en": "Dusclops"
+  },
+  {
+   "n": "070",
+   "pt": "Dusknoir",
+   "en": "Dusknoir"
+  },
+  {
+   "n": "071",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "072",
+   "pt": "Munkidori",
+   "en": "Munkidori"
+  },
+  {
+   "n": "073",
+   "pt": "Fezandipiti",
+   "en": "Fezandipiti"
+  },
+  {
+   "n": "074",
+   "pt": "Okidogi",
+   "en": "Okidogi"
+  },
+  {
+   "n": "075",
+   "pt": "Zorua",
+   "en": "Zorua"
+  },
+  {
+   "n": "076",
+   "pt": "Cufant",
+   "en": "Cufant"
+  },
+  {
+   "n": "077",
+   "pt": "Fraxure",
+   "en": "Fraxure"
+  },
+  {
+   "n": "078",
+   "pt": "Persian",
+   "en": "Persian"
+  },
+  {
+   "n": "079",
+   "pt": "Bewear",
+   "en": "Bewear"
+  },
+  {
+   "n": "080",
+   "pt": "Kingdra ex",
+   "en": "Kingdra ex"
+  },
+  {
+   "n": "081",
+   "pt": "Revavroom ex",
+   "en": "Revavroom ex"
+  },
+  {
+   "n": "082",
+   "pt": "Okidogi ex",
+   "en": "Okidogi ex"
+  },
+  {
+   "n": "083",
+   "pt": "Munkidori ex",
+   "en": "Munkidori ex"
+  },
+  {
+   "n": "084",
+   "pt": "Fezandipiti ex",
+   "en": "Fezandipiti ex"
+  },
+  {
+   "n": "085",
+   "pt": "Pecharunt ex",
+   "en": "Pecharunt ex"
+  },
+  {
+   "n": "086",
+   "pt": "Cassiopeia",
+   "en": "Cassiopeia"
+  },
+  {
+   "n": "087",
+   "pt": "Tenacidade do Colress",
+   "en": "Colress's Tenacity"
+  },
+  {
+   "n": "088",
+   "pt": "Dom Secreto da Janine",
+   "en": "Janine's Secret Art"
+  },
+  {
+   "n": "089",
+   "pt": "Tramoias do Xerosic",
+   "en": "Xerosic's Machinations"
+  },
+  {
+   "n": "090",
+   "pt": "Okidogi ex",
+   "en": "Okidogi ex"
+  },
+  {
+   "n": "091",
+   "pt": "Munkidori ex",
+   "en": "Munkidori ex"
+  },
+  {
+   "n": "092",
+   "pt": "Fezandipiti ex",
+   "en": "Fezandipiti ex"
+  },
+  {
+   "n": "093",
+   "pt": "Pecharunt ex",
+   "en": "Pecharunt ex"
+  },
+  {
+   "n": "094",
+   "pt": "Cassiopeia",
+   "en": "Cassiopeia"
+  },
+  {
+   "n": "095",
+   "pt": "Pecharunt ex",
+   "en": "Pecharunt ex"
+  },
+  {
+   "n": "096",
+   "pt": "Recipiente Terrestre",
+   "en": "Earthen Vessel"
+  },
+  {
+   "n": "097",
+   "pt": "Ampulheta Poderosa",
+   "en": "Powerglass"
+  },
+  {
+   "n": "098",
+   "pt": "Energia Darkness Básica",
+   "en": "Basic Darkness Energy"
+  },
+  {
+   "n": "099",
+   "pt": "Energia Metal Básica",
+   "en": "Basic Metal Energy"
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "set": "pgo",
+ "nome_pt": "Pokémon GO",
+ "nome_en": "Pokémon GO",
+ "total": 88,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "002",
+   "pt": "Ivysaur",
+   "en": "Ivysaur"
+  },
+  {
+   "n": "003",
+   "pt": "Venusaur",
+   "en": "Venusaur"
+  },
+  {
+   "n": "004",
+   "pt": "Venusaur Radiante",
+   "en": "Radiant Venusaur"
+  },
+  {
+   "n": "005",
+   "pt": "Exeggutor de Alola V",
+   "en": "Alolan Exeggutor V"
+  },
+  {
+   "n": "006",
+   "pt": "Spinarak",
+   "en": "Spinarak"
+  },
+  {
+   "n": "007",
+   "pt": "Ariados",
+   "en": "Ariados"
+  },
+  {
+   "n": "008",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "009",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "010",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "011",
+   "pt": "Charizard Radiante",
+   "en": "Radiant Charizard"
+  },
+  {
+   "n": "012",
+   "pt": "Moltres",
+   "en": "Moltres"
+  },
+  {
+   "n": "013",
+   "pt": "Numel",
+   "en": "Numel"
+  },
+  {
+   "n": "014",
+   "pt": "Camerupt",
+   "en": "Camerupt"
+  },
+  {
+   "n": "015",
+   "pt": "Squirtle",
+   "en": "Squirtle"
+  },
+  {
+   "n": "016",
+   "pt": "Wartortle",
+   "en": "Wartortle"
+  },
+  {
+   "n": "017",
+   "pt": "Blastoise",
+   "en": "Blastoise"
+  },
+  {
+   "n": "018",
+   "pt": "Blastoise Radiante",
+   "en": "Radiant Blastoise"
+  },
+  {
+   "n": "019",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "020",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "021",
+   "pt": "Magikarp",
+   "en": "Magikarp"
+  },
+  {
+   "n": "022",
+   "pt": "Gyarados",
+   "en": "Gyarados"
+  },
+  {
+   "n": "023",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "024",
+   "pt": "Articuno",
+   "en": "Articuno"
+  },
+  {
+   "n": "025",
+   "pt": "Wimpod",
+   "en": "Wimpod"
+  },
+  {
+   "n": "026",
+   "pt": "Golisopod",
+   "en": "Golisopod"
+  },
+  {
+   "n": "027",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "028",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "029",
+   "pt": "Zapdos",
+   "en": "Zapdos"
+  },
+  {
+   "n": "030",
+   "pt": "Mewtwo V",
+   "en": "Mewtwo V"
+  },
+  {
+   "n": "031",
+   "pt": "Mewtwo V-ASTRO",
+   "en": "Mewtwo VSTAR"
+  },
+  {
+   "n": "032",
+   "pt": "Natu",
+   "en": "Natu"
+  },
+  {
+   "n": "033",
+   "pt": "Xatu",
+   "en": "Xatu"
+  },
+  {
+   "n": "034",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "035",
+   "pt": "Sylveon",
+   "en": "Sylveon"
+  },
+  {
+   "n": "036",
+   "pt": "Onix",
+   "en": "Onix"
+  },
+  {
+   "n": "037",
+   "pt": "Larvitar",
+   "en": "Larvitar"
+  },
+  {
+   "n": "038",
+   "pt": "Pupitar",
+   "en": "Pupitar"
+  },
+  {
+   "n": "039",
+   "pt": "Solrock",
+   "en": "Solrock"
+  },
+  {
+   "n": "040",
+   "pt": "Conkeldurr V",
+   "en": "Conkeldurr V"
+  },
+  {
+   "n": "041",
+   "pt": "Rattata de Alola",
+   "en": "Alolan Rattata"
+  },
+  {
+   "n": "042",
+   "pt": "Raticate de Alola",
+   "en": "Alolan Raticate"
+  },
+  {
+   "n": "043",
+   "pt": "Tyranitar",
+   "en": "Tyranitar"
+  },
+  {
+   "n": "044",
+   "pt": "Steelix",
+   "en": "Steelix"
+  },
+  {
+   "n": "045",
+   "pt": "Meltan",
+   "en": "Meltan"
+  },
+  {
+   "n": "046",
+   "pt": "Melmetal",
+   "en": "Melmetal"
+  },
+  {
+   "n": "047",
+   "pt": "Melmetal V",
+   "en": "Melmetal V"
+  },
+  {
+   "n": "048",
+   "pt": "Melmetal VMAX",
+   "en": "Melmetal VMAX"
+  },
+  {
+   "n": "049",
+   "pt": "Dragonite V",
+   "en": "Dragonite V"
+  },
+  {
+   "n": "050",
+   "pt": "Dragonite V-ASTRO",
+   "en": "Dragonite VSTAR"
+  },
+  {
+   "n": "051",
+   "pt": "Chansey",
+   "en": "Chansey"
+  },
+  {
+   "n": "052",
+   "pt": "Blissey",
+   "en": "Blissey"
+  },
+  {
+   "n": "053",
+   "pt": "Ditto",
+   "en": "Ditto"
+  },
+  {
+   "n": "054",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "055",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "056",
+   "pt": "Aipom",
+   "en": "Aipom"
+  },
+  {
+   "n": "057",
+   "pt": "Ambipom",
+   "en": "Ambipom"
+  },
+  {
+   "n": "058",
+   "pt": "Slaking V",
+   "en": "Slaking V"
+  },
+  {
+   "n": "059",
+   "pt": "Bidoof",
+   "en": "Bidoof"
+  },
+  {
+   "n": "060",
+   "pt": "Bibarel",
+   "en": "Bibarel"
+  },
+  {
+   "n": "061",
+   "pt": "Pidove",
+   "en": "Pidove"
+  },
+  {
+   "n": "062",
+   "pt": "Tranquill",
+   "en": "Tranquill"
+  },
+  {
+   "n": "063",
+   "pt": "Unfezant",
+   "en": "Unfezant"
+  },
+  {
+   "n": "064",
+   "pt": "Blanche",
+   "en": "Blanche"
+  },
+  {
+   "n": "065",
+   "pt": "Candela",
+   "en": "Candela"
+  },
+  {
+   "n": "066",
+   "pt": "Incubadora de Ovo",
+   "en": "Egg Incubator"
+  },
+  {
+   "n": "067",
+   "pt": "Módulo Atrair",
+   "en": "Lure Module"
+  },
+  {
+   "n": "068",
+   "pt": "Poképarada",
+   "en": "PokéStop"
+  },
+  {
+   "n": "069",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "070",
+   "pt": "Spark",
+   "en": "Spark"
+  },
+  {
+   "n": "071",
+   "pt": "Exeggutor de Alola V",
+   "en": "Alolan Exeggutor V"
+  },
+  {
+   "n": "072",
+   "pt": "Mewtwo V",
+   "en": "Mewtwo V"
+  },
+  {
+   "n": "073",
+   "pt": "Conkeldurr V",
+   "en": "Conkeldurr V"
+  },
+  {
+   "n": "074",
+   "pt": "Conkeldurr V",
+   "en": "Conkeldurr V"
+  },
+  {
+   "n": "075",
+   "pt": "Melmetal V",
+   "en": "Melmetal V"
+  },
+  {
+   "n": "076",
+   "pt": "Dragonite V",
+   "en": "Dragonite V"
+  },
+  {
+   "n": "077",
+   "pt": "Slaking V",
+   "en": "Slaking V"
+  },
+  {
+   "n": "078",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "079",
+   "pt": "Mewtwo V-ASTRO",
+   "en": "Mewtwo VSTAR"
+  },
+  {
+   "n": "080",
+   "pt": "Melmetal VMAX",
+   "en": "Melmetal VMAX"
+  },
+  {
+   "n": "081",
+   "pt": "Dragonite V-ASTRO",
+   "en": "Dragonite VSTAR"
+  },
+  {
+   "n": "082",
+   "pt": "Blanche",
+   "en": "Blanche"
+  },
+  {
+   "n": "083",
+   "pt": "Candela",
+   "en": "Candela"
+  },
+  {
+   "n": "084",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "085",
+   "pt": "Spark",
+   "en": "Spark"
+  },
+  {
+   "n": "086",
+   "pt": "Mewtwo V-ASTRO",
+   "en": "Mewtwo VSTAR"
+  },
+  {
+   "n": "087",
+   "pt": "Incubadora de Ovo",
+   "en": "Egg Incubator"
+  },
+  {
+   "n": "088",
+   "pt": "Módulo Atrair",
+   "en": "Lure Module"
+  }
+ ]
+}

@@ -1,0 +1,868 @@
+{
+ "set": "sm1",
+ "nome_pt": "Sol e Lua",
+ "nome_en": "Sun & Moon",
+ "total": 172,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Caterpie",
+   "en": "Caterpie"
+  },
+  {
+   "n": "2",
+   "pt": "Metapod",
+   "en": "Metapod"
+  },
+  {
+   "n": "3",
+   "pt": "Butterfree",
+   "en": "Butterfree"
+  },
+  {
+   "n": "4",
+   "pt": "Paras",
+   "en": "Paras"
+  },
+  {
+   "n": "5",
+   "pt": "Parasect",
+   "en": "Parasect"
+  },
+  {
+   "n": "6",
+   "pt": "Pinsir",
+   "en": "Pinsir"
+  },
+  {
+   "n": "7",
+   "pt": "Surskit",
+   "en": "Surskit"
+  },
+  {
+   "n": "8",
+   "pt": "Masquerain",
+   "en": "Masquerain"
+  },
+  {
+   "n": "9",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "10",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "11",
+   "pt": "Decidueye",
+   "en": "Decidueye"
+  },
+  {
+   "n": "12",
+   "pt": "Decidueye GX",
+   "en": "Decidueye GX"
+  },
+  {
+   "n": "13",
+   "pt": "Grubbin",
+   "en": "Grubbin"
+  },
+  {
+   "n": "14",
+   "pt": "Fomantis",
+   "en": "Fomantis"
+  },
+  {
+   "n": "15",
+   "pt": "Lurantis GX",
+   "en": "Lurantis GX"
+  },
+  {
+   "n": "16",
+   "pt": "Morelull",
+   "en": "Morelull"
+  },
+  {
+   "n": "17",
+   "pt": "Shiinotic",
+   "en": "Shiinotic"
+  },
+  {
+   "n": "18",
+   "pt": "Bounsweet",
+   "en": "Bounsweet"
+  },
+  {
+   "n": "19",
+   "pt": "Steenee",
+   "en": "Steenee"
+  },
+  {
+   "n": "20",
+   "pt": "Tsareena",
+   "en": "Tsareena"
+  },
+  {
+   "n": "21",
+   "pt": "Growlithe",
+   "en": "Growlithe"
+  },
+  {
+   "n": "22",
+   "pt": "Arcanine",
+   "en": "Arcanine"
+  },
+  {
+   "n": "23",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "24",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "25",
+   "pt": "Torracat",
+   "en": "Torracat"
+  },
+  {
+   "n": "26",
+   "pt": "Incineroar",
+   "en": "Incineroar"
+  },
+  {
+   "n": "27",
+   "pt": "Incineroar GX",
+   "en": "Incineroar GX"
+  },
+  {
+   "n": "28",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "29",
+   "pt": "Golduck",
+   "en": "Golduck"
+  },
+  {
+   "n": "30",
+   "pt": "Poliwag",
+   "en": "Poliwag"
+  },
+  {
+   "n": "31",
+   "pt": "Poliwhirl",
+   "en": "Poliwhirl"
+  },
+  {
+   "n": "32",
+   "pt": "Poliwrath",
+   "en": "Poliwrath"
+  },
+  {
+   "n": "33",
+   "pt": "Shellder",
+   "en": "Shellder"
+  },
+  {
+   "n": "34",
+   "pt": "Cloyster",
+   "en": "Cloyster"
+  },
+  {
+   "n": "35",
+   "pt": "Lapras GX",
+   "en": "Lapras GX"
+  },
+  {
+   "n": "36",
+   "pt": "Corsola",
+   "en": "Corsola"
+  },
+  {
+   "n": "37",
+   "pt": "Wingull",
+   "en": "Wingull"
+  },
+  {
+   "n": "38",
+   "pt": "Pelipper",
+   "en": "Pelipper"
+  },
+  {
+   "n": "39",
+   "pt": "Popplio",
+   "en": "Popplio"
+  },
+  {
+   "n": "40",
+   "pt": "Brionne",
+   "en": "Brionne"
+  },
+  {
+   "n": "41",
+   "pt": "Primarina",
+   "en": "Primarina"
+  },
+  {
+   "n": "42",
+   "pt": "Primarina GX",
+   "en": "Primarina GX"
+  },
+  {
+   "n": "43",
+   "pt": "Crabominable",
+   "en": "Crabominable"
+  },
+  {
+   "n": "44",
+   "pt": "Wishiwashi",
+   "en": "Wishiwashi"
+  },
+  {
+   "n": "45",
+   "pt": "Dewpider",
+   "en": "Dewpider"
+  },
+  {
+   "n": "46",
+   "pt": "Araquanid",
+   "en": "Araquanid"
+  },
+  {
+   "n": "47",
+   "pt": "Pyukumuku",
+   "en": "Pyukumuku"
+  },
+  {
+   "n": "48",
+   "pt": "Bruxish",
+   "en": "Bruxish"
+  },
+  {
+   "n": "49",
+   "pt": "Chinchou",
+   "en": "Chinchou"
+  },
+  {
+   "n": "50",
+   "pt": "Lanturn",
+   "en": "Lanturn"
+  },
+  {
+   "n": "51",
+   "pt": "Charjabug",
+   "en": "Charjabug"
+  },
+  {
+   "n": "52",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "53",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "54",
+   "pt": "Zubat",
+   "en": "Zubat"
+  },
+  {
+   "n": "55",
+   "pt": "Golbat",
+   "en": "Golbat"
+  },
+  {
+   "n": "56",
+   "pt": "Crobat",
+   "en": "Crobat"
+  },
+  {
+   "n": "57",
+   "pt": "Grimer de Alola",
+   "en": "Alolan Grimer"
+  },
+  {
+   "n": "58",
+   "pt": "Muk de Alola",
+   "en": "Alolan Muk"
+  },
+  {
+   "n": "59",
+   "pt": "Drowzee",
+   "en": "Drowzee"
+  },
+  {
+   "n": "60",
+   "pt": "Hypno",
+   "en": "Hypno"
+  },
+  {
+   "n": "61",
+   "pt": "Espeon GX",
+   "en": "Espeon GX"
+  },
+  {
+   "n": "62",
+   "pt": "Mareanie",
+   "en": "Mareanie"
+  },
+  {
+   "n": "63",
+   "pt": "Toxapex",
+   "en": "Toxapex"
+  },
+  {
+   "n": "64",
+   "pt": "Cosmog",
+   "en": "Cosmog"
+  },
+  {
+   "n": "65",
+   "pt": "Cosmoem",
+   "en": "Cosmoem"
+  },
+  {
+   "n": "66",
+   "pt": "Lunala GX",
+   "en": "Lunala GX"
+  },
+  {
+   "n": "67",
+   "pt": "Makuhita",
+   "en": "Makuhita"
+  },
+  {
+   "n": "68",
+   "pt": "Hariyama",
+   "en": "Hariyama"
+  },
+  {
+   "n": "69",
+   "pt": "Roggenrola",
+   "en": "Roggenrola"
+  },
+  {
+   "n": "70",
+   "pt": "Boldore",
+   "en": "Boldore"
+  },
+  {
+   "n": "71",
+   "pt": "Gigalith",
+   "en": "Gigalith"
+  },
+  {
+   "n": "72",
+   "pt": "Crabrawler",
+   "en": "Crabrawler"
+  },
+  {
+   "n": "73",
+   "pt": "Passimian",
+   "en": "Passimian"
+  },
+  {
+   "n": "74",
+   "pt": "Sandygast",
+   "en": "Sandygast"
+  },
+  {
+   "n": "75",
+   "pt": "Palossand",
+   "en": "Palossand"
+  },
+  {
+   "n": "76",
+   "pt": "Rattata de Alola",
+   "en": "Alolan Rattata"
+  },
+  {
+   "n": "77",
+   "pt": "Raticate de Alola",
+   "en": "Alolan Raticate"
+  },
+  {
+   "n": "78",
+   "pt": "Meowth de Alola",
+   "en": "Alolan Meowth"
+  },
+  {
+   "n": "79",
+   "pt": "Persian de Alola",
+   "en": "Alolan Persian"
+  },
+  {
+   "n": "80",
+   "pt": "Umbreon GX",
+   "en": "Umbreon GX"
+  },
+  {
+   "n": "81",
+   "pt": "Carvanha",
+   "en": "Carvanha"
+  },
+  {
+   "n": "82",
+   "pt": "Sharpedo",
+   "en": "Sharpedo"
+  },
+  {
+   "n": "83",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "84",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "85",
+   "pt": "Krookodile",
+   "en": "Krookodile"
+  },
+  {
+   "n": "86",
+   "pt": "Diglett de Alola",
+   "en": "Alolan Diglett"
+  },
+  {
+   "n": "87",
+   "pt": "Dugtrio de Alola",
+   "en": "Alolan Dugtrio"
+  },
+  {
+   "n": "88",
+   "pt": "Skarmory",
+   "en": "Skarmory"
+  },
+  {
+   "n": "89",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  },
+  {
+   "n": "90",
+   "pt": "Snubbull",
+   "en": "Snubbull"
+  },
+  {
+   "n": "91",
+   "pt": "Granbull",
+   "en": "Granbull"
+  },
+  {
+   "n": "92",
+   "pt": "Cutiefly",
+   "en": "Cutiefly"
+  },
+  {
+   "n": "93",
+   "pt": "Ribombee",
+   "en": "Ribombee"
+  },
+  {
+   "n": "94",
+   "pt": "Dratini",
+   "en": "Dratini"
+  },
+  {
+   "n": "95",
+   "pt": "Dragonair",
+   "en": "Dragonair"
+  },
+  {
+   "n": "96",
+   "pt": "Dragonite",
+   "en": "Dragonite"
+  },
+  {
+   "n": "97",
+   "pt": "Spearow",
+   "en": "Spearow"
+  },
+  {
+   "n": "98",
+   "pt": "Fearow",
+   "en": "Fearow"
+  },
+  {
+   "n": "99",
+   "pt": "Kangaskhan",
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "100",
+   "pt": "Tauros GX",
+   "en": "Tauros GX"
+  },
+  {
+   "n": "101",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "102",
+   "pt": "Spinda",
+   "en": "Spinda"
+  },
+  {
+   "n": "103",
+   "pt": "Lillipup",
+   "en": "Lillipup"
+  },
+  {
+   "n": "104",
+   "pt": "Herdier",
+   "en": "Herdier"
+  },
+  {
+   "n": "105",
+   "pt": "Stoutland",
+   "en": "Stoutland"
+  },
+  {
+   "n": "106",
+   "pt": "Pikipek",
+   "en": "Pikipek"
+  },
+  {
+   "n": "107",
+   "pt": "Trumbeak",
+   "en": "Trumbeak"
+  },
+  {
+   "n": "108",
+   "pt": "Toucannon",
+   "en": "Toucannon"
+  },
+  {
+   "n": "109",
+   "pt": "Yungoos",
+   "en": "Yungoos"
+  },
+  {
+   "n": "110",
+   "pt": "Gumshoos GX",
+   "en": "Gumshoos GX"
+  },
+  {
+   "n": "111",
+   "pt": "Stufful",
+   "en": "Stufful"
+  },
+  {
+   "n": "112",
+   "pt": "Bewear",
+   "en": "Bewear"
+  },
+  {
+   "n": "113",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "114",
+   "pt": "Sonho Recheado Grande",
+   "en": "Big Malasada"
+  },
+  {
+   "n": "115",
+   "pt": "Martelo Esmagador",
+   "en": "Crushing Hammer"
+  },
+  {
+   "n": "116",
+   "pt": "Recuperação de Energia",
+   "en": "Energy Retrieval"
+  },
+  {
+   "n": "117",
+   "pt": "Substituição de Energia",
+   "en": "Energy Switch"
+  },
+  {
+   "n": "118",
+   "pt": "Compart. Exp.",
+   "en": "Exp. Share"
+  },
+  {
+   "n": "119",
+   "pt": "Grande Bola",
+   "en": "Great Ball"
+  },
+  {
+   "n": "120",
+   "pt": "Hibi",
+   "en": "Hau"
+  },
+  {
+   "n": "121",
+   "pt": "Luan",
+   "en": "Ilima"
+  },
+  {
+   "n": "122",
+   "pt": "Lílian",
+   "en": "Lillie"
+  },
+  {
+   "n": "123",
+   "pt": "Bola de Ninho",
+   "en": "Nest Ball"
+  },
+  {
+   "n": "124",
+   "pt": "Farpa Venenosa",
+   "en": "Poison Barb"
+  },
+  {
+   "n": "125",
+   "pt": "Poké Bola",
+   "en": "Poké Ball"
+  },
+  {
+   "n": "126",
+   "pt": "Pegador de Pokémon",
+   "en": "Pokémon Catcher"
+  },
+  {
+   "n": "127",
+   "pt": "Poção",
+   "en": "Potion"
+  },
+  {
+   "n": "128",
+   "pt": "Professor Nogueira",
+   "en": "Professor Kukui"
+  },
+  {
+   "n": "129",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "130",
+   "pt": "Repelente",
+   "en": "Repel"
+  },
+  {
+   "n": "131",
+   "pt": "Pokédex Rotom",
+   "en": "Rotom Dex"
+  },
+  {
+   "n": "132",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "133",
+   "pt": "Recruta da Equipe Skull",
+   "en": "Team Skull Grunt"
+  },
+  {
+   "n": "134",
+   "pt": "Bola Tempo",
+   "en": "Timer Ball"
+  },
+  {
+   "n": "135",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "136",
+   "pt": "Energia Incolor Dupla",
+   "en": "Double Colorless Energy"
+  },
+  {
+   "n": "137",
+   "pt": "Energia Arco-Íris",
+   "en": "Rainbow Energy"
+  },
+  {
+   "n": "138",
+   "pt": "Lurantis GX",
+   "en": "Lurantis GX"
+  },
+  {
+   "n": "139",
+   "pt": "Lapras GX",
+   "en": "Lapras GX"
+  },
+  {
+   "n": "140",
+   "pt": "Espeon GX",
+   "en": "Espeon GX"
+  },
+  {
+   "n": "141",
+   "pt": "Lunala GX",
+   "en": "Lunala GX"
+  },
+  {
+   "n": "142",
+   "pt": "Umbreon GX",
+   "en": "Umbreon GX"
+  },
+  {
+   "n": "143",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  },
+  {
+   "n": "144",
+   "pt": "Tauros GX",
+   "en": "Tauros GX"
+  },
+  {
+   "n": "145",
+   "pt": "Gumshoos GX",
+   "en": "Gumshoos GX"
+  },
+  {
+   "n": "146",
+   "pt": "Luan",
+   "en": "Ilima"
+  },
+  {
+   "n": "147",
+   "pt": "Lílian",
+   "en": "Lillie"
+  },
+  {
+   "n": "148",
+   "pt": "Professor Nogueira",
+   "en": "Professor Kukui"
+  },
+  {
+   "n": "149",
+   "pt": "Recruta da Equipe Skull",
+   "en": "Team Skull Grunt"
+  },
+  {
+   "n": "150",
+   "pt": "Lurantis GX",
+   "en": "Lurantis GX"
+  },
+  {
+   "n": "151",
+   "pt": "Lapras GX",
+   "en": "Lapras GX"
+  },
+  {
+   "n": "152",
+   "pt": "Espeon GX",
+   "en": "Espeon GX"
+  },
+  {
+   "n": "153",
+   "pt": "Lunala GX",
+   "en": "Lunala GX"
+  },
+  {
+   "n": "154",
+   "pt": "Umbreon GX",
+   "en": "Umbreon GX"
+  },
+  {
+   "n": "155",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  },
+  {
+   "n": "156",
+   "pt": "Tauros GX",
+   "en": "Tauros GX"
+  },
+  {
+   "n": "157",
+   "pt": "Gumshoos GX",
+   "en": "Gumshoos GX"
+  },
+  {
+   "n": "158",
+   "pt": "Bola de Ninho",
+   "en": "Nest Ball"
+  },
+  {
+   "n": "159",
+   "pt": "Pokédex Rotom",
+   "en": "Rotom Dex"
+  },
+  {
+   "n": "160",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "161",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "162",
+   "pt": "Energia Psíquica",
+   "en": "Psychic Energy"
+  },
+  {
+   "n": "163",
+   "pt": "Energia de Metal",
+   "en": "Metal Energy"
+  },
+  {
+   "n": "164",
+   "pt": null,
+   "en": "Grass Energy"
+  },
+  {
+   "n": "165",
+   "pt": null,
+   "en": "Fire Energy"
+  },
+  {
+   "n": "166",
+   "pt": null,
+   "en": "Water Energy"
+  },
+  {
+   "n": "167",
+   "pt": null,
+   "en": "Lightning Energy"
+  },
+  {
+   "n": "168",
+   "pt": null,
+   "en": "Psychic Energy"
+  },
+  {
+   "n": "169",
+   "pt": null,
+   "en": "Fighting Energy"
+  },
+  {
+   "n": "170",
+   "pt": null,
+   "en": "Darkness Energy"
+  },
+  {
+   "n": "171",
+   "pt": null,
+   "en": "Metal Energy"
+  },
+  {
+   "n": "172",
+   "pt": null,
+   "en": "Fairy Energy"
+  }
+ ]
+}

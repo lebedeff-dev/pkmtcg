@@ -1,0 +1,373 @@
+{
+ "set": "swsh45",
+ "nome_pt": "Destinos Brilhantes ",
+ "nome_en": "Shining Fates",
+ "total": 73,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "2",
+   "pt": "Yanmega",
+   "en": "Yanmega"
+  },
+  {
+   "n": "3",
+   "pt": "Celebi",
+   "en": "Celebi"
+  },
+  {
+   "n": "4",
+   "pt": "Cacnea",
+   "en": "Cacnea"
+  },
+  {
+   "n": "5",
+   "pt": "Tropius",
+   "en": "Tropius"
+  },
+  {
+   "n": "6",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "7",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "8",
+   "pt": "Decidueye",
+   "en": "Decidueye"
+  },
+  {
+   "n": "9",
+   "pt": "Dhelmise V",
+   "en": "Dhelmise V"
+  },
+  {
+   "n": "10",
+   "pt": "Dhelmise VMAX",
+   "en": "Dhelmise VMAX"
+  },
+  {
+   "n": "11",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "12",
+   "pt": "Thwackey",
+   "en": "Thwackey"
+  },
+  {
+   "n": "13",
+   "pt": "Rillaboom",
+   "en": "Rillaboom"
+  },
+  {
+   "n": "14",
+   "pt": "Gossifleur",
+   "en": "Gossifleur"
+  },
+  {
+   "n": "15",
+   "pt": "Eldegoss",
+   "en": "Eldegoss"
+  },
+  {
+   "n": "16",
+   "pt": "Zarude",
+   "en": "Zarude"
+  },
+  {
+   "n": "17",
+   "pt": "Reshiram",
+   "en": "Reshiram"
+  },
+  {
+   "n": "18",
+   "pt": "Cinderace V",
+   "en": "Cinderace V"
+  },
+  {
+   "n": "19",
+   "pt": "Cinderace VMAX",
+   "en": "Cinderace VMAX"
+  },
+  {
+   "n": "20",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "21",
+   "pt": "Kyogre",
+   "en": "Kyogre"
+  },
+  {
+   "n": "22",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "23",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "24",
+   "pt": "Manaphy",
+   "en": "Manaphy"
+  },
+  {
+   "n": "25",
+   "pt": "Volcanion",
+   "en": "Volcanion"
+  },
+  {
+   "n": "26",
+   "pt": "Chewtle",
+   "en": "Chewtle"
+  },
+  {
+   "n": "27",
+   "pt": "Drednaw",
+   "en": "Drednaw"
+  },
+  {
+   "n": "28",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "29",
+   "pt": "Snom",
+   "en": "Snom"
+  },
+  {
+   "n": "30",
+   "pt": "Frosmoth",
+   "en": "Frosmoth"
+  },
+  {
+   "n": "31",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "32",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "33",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "34",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "35",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "36",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "37",
+   "pt": "Morpeko V",
+   "en": "Morpeko V"
+  },
+  {
+   "n": "38",
+   "pt": "Morpeko VMAX",
+   "en": "Morpeko VMAX"
+  },
+  {
+   "n": "39",
+   "pt": "Indeedee V",
+   "en": "Indeedee V"
+  },
+  {
+   "n": "40",
+   "pt": "Trapinch",
+   "en": "Trapinch"
+  },
+  {
+   "n": "41",
+   "pt": "Koffing",
+   "en": "Koffing"
+  },
+  {
+   "n": "42",
+   "pt": "Weezing de Galar",
+   "en": "Galarian Weezing"
+  },
+  {
+   "n": "43",
+   "pt": "Spinarak",
+   "en": "Spinarak"
+  },
+  {
+   "n": "44",
+   "pt": "Crobat V",
+   "en": "Crobat V"
+  },
+  {
+   "n": "45",
+   "pt": "Crobat VMAX",
+   "en": "Crobat VMAX"
+  },
+  {
+   "n": "46",
+   "pt": "Yveltal",
+   "en": "Yveltal"
+  },
+  {
+   "n": "47",
+   "pt": "Nickit",
+   "en": "Nickit"
+  },
+  {
+   "n": "48",
+   "pt": "Thievul",
+   "en": "Thievul"
+  },
+  {
+   "n": "49",
+   "pt": "Cufant",
+   "en": "Cufant"
+  },
+  {
+   "n": "50",
+   "pt": "Ditto V",
+   "en": "Ditto V"
+  },
+  {
+   "n": "51",
+   "pt": "Ditto VMAX",
+   "en": "Ditto VMAX"
+  },
+  {
+   "n": "52",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "53",
+   "pt": "Greedent V",
+   "en": "Greedent V"
+  },
+  {
+   "n": "54",
+   "pt": "Cramorant V",
+   "en": "Cramorant V"
+  },
+  {
+   "n": "55",
+   "pt": "Cramorant VMAX",
+   "en": "Cramorant VMAX"
+  },
+  {
+   "n": "56",
+   "pt": "Indeedee",
+   "en": "Indeedee"
+  },
+  {
+   "n": "57",
+   "pt": "Cara da Bola",
+   "en": "Ball Guy"
+  },
+  {
+   "n": "58",
+   "pt": "Ordem da Chefia",
+   "en": "Boss's Orders (Lysandre)"
+  },
+  {
+   "n": "59",
+   "pt": "Treinador de Ginásio",
+   "en": "Gym Trainer"
+  },
+  {
+   "n": "60",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research (Professor Juniper)"
+  },
+  {
+   "n": "61",
+   "pt": "Escudo Enferrujado",
+   "en": "Rusted Shield"
+  },
+  {
+   "n": "62",
+   "pt": "Espada Enferrujada",
+   "en": "Rusted Sword"
+  },
+  {
+   "n": "63",
+   "pt": "Toalha da Equipe Yell",
+   "en": "Team Yell Towel"
+  },
+  {
+   "n": "64",
+   "pt": "Alcremie V",
+   "en": "Alcremie V"
+  },
+  {
+   "n": "65",
+   "pt": "Cara da Bola",
+   "en": "Ball Guy"
+  },
+  {
+   "n": "66",
+   "pt": "Ornitólogo",
+   "en": "Bird Keeper"
+  },
+  {
+   "n": "67",
+   "pt": "Clara Petra",
+   "en": "Cara Liss"
+  },
+  {
+   "n": "68",
+   "pt": "Treinador de Ginásio",
+   "en": "Gym Trainer"
+  },
+  {
+   "n": "69",
+   "pt": "Pietro",
+   "en": "Piers"
+  },
+  {
+   "n": "70",
+   "pt": "Poké Criança",
+   "en": "Poké Kid"
+  },
+  {
+   "n": "71",
+   "pt": "Rossi",
+   "en": "Rose"
+  },
+  {
+   "n": "72",
+   "pt": "Skyla",
+   "en": "Skyla"
+  },
+  {
+   "n": "73",
+   "pt": "Alcremie VMAX",
+   "en": "Alcremie VMAX"
+  }
+ ]
+}

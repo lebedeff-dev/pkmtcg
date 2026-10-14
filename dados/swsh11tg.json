@@ -1,0 +1,158 @@
+{
+ "set": "swsh11tg",
+ "nome_pt": "Origem Perdida Galeria de Treinador",
+ "nome_en": "Lost Origin Trainer Gallery",
+ "total": 30,
+ "cartas": [
+  {
+   "n": "TG01",
+   "pt": "Parasect",
+   "en": "Parasect"
+  },
+  {
+   "n": "TG02",
+   "pt": "Roserade",
+   "en": "Roserade"
+  },
+  {
+   "n": "TG03",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "TG04",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "TG05",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "TG06",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "TG07",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "TG08",
+   "pt": "Arcanine de Hisui",
+   "en": "Hisuian Arcanine"
+  },
+  {
+   "n": "TG09",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "TG10",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "TG11",
+   "pt": "Castform",
+   "en": "Castform"
+  },
+  {
+   "n": "TG12",
+   "pt": "Orbeetle V",
+   "en": "Orbeetle V"
+  },
+  {
+   "n": "TG13",
+   "pt": "Orbeetle VMAX",
+   "en": "Orbeetle VMAX"
+  },
+  {
+   "n": "TG14",
+   "pt": "Centiskorch V",
+   "en": "Centiskorch V"
+  },
+  {
+   "n": "TG15",
+   "pt": "Centiskorch VMAX",
+   "en": "Centiskorch VMAX"
+  },
+  {
+   "n": "TG16",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "TG17",
+   "pt": "Pikachu VMAX",
+   "en": "Pikachu VMAX"
+  },
+  {
+   "n": "TG18",
+   "pt": "Enamorus V",
+   "en": "Enamorus V"
+  },
+  {
+   "n": "TG19",
+   "pt": "Gallade V",
+   "en": "Gallade V"
+  },
+  {
+   "n": "TG20",
+   "pt": "Crobat V",
+   "en": "Crobat V"
+  },
+  {
+   "n": "TG21",
+   "pt": "Eternatus V",
+   "en": "Eternatus V"
+  },
+  {
+   "n": "TG22",
+   "pt": "Eternatus VMAX",
+   "en": "Eternatus VMAX"
+  },
+  {
+   "n": "TG23",
+   "pt": "Descoberta da Aventureira",
+   "en": "Adventurer's Discovery"
+  },
+  {
+   "n": "TG24",
+   "pt": "Ordem da Chefia",
+   "en": "Boss's Orders"
+  },
+  {
+   "n": "TG25",
+   "pt": "Chef",
+   "en": "Cook"
+  },
+  {
+   "n": "TG26",
+   "pt": "Kabu",
+   "en": "Kabu"
+  },
+  {
+   "n": "TG27",
+   "pt": "Vanessa",
+   "en": "Nessa"
+  },
+  {
+   "n": "TG28",
+   "pt": "Alba",
+   "en": "Opal"
+  },
+  {
+   "n": "TG29",
+   "pt": "Pikachu VMAX",
+   "en": "Pikachu VMAX"
+  },
+  {
+   "n": "TG30",
+   "pt": "Mew VMAX",
+   "en": "Mew VMAX"
+  }
+ ]
+}

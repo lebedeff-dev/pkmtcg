@@ -1,0 +1,628 @@
+{
+ "set": "me03",
+ "nome_pt": "Equilíbrio Perfeito",
+ "nome_en": "Perfect Order",
+ "total": 124,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Spinarak",
+   "en": "Spinarak"
+  },
+  {
+   "n": "002",
+   "pt": "Ariados",
+   "en": "Ariados"
+  },
+  {
+   "n": "003",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "004",
+   "pt": "Snivy",
+   "en": "Snivy"
+  },
+  {
+   "n": "005",
+   "pt": "Servine",
+   "en": "Servine"
+  },
+  {
+   "n": "006",
+   "pt": "Serperior",
+   "en": "Serperior"
+  },
+  {
+   "n": "007",
+   "pt": "Scatterbug",
+   "en": "Scatterbug"
+  },
+  {
+   "n": "008",
+   "pt": "Spewpa",
+   "en": "Spewpa"
+  },
+  {
+   "n": "009",
+   "pt": "Vivillon",
+   "en": "Vivillon"
+  },
+  {
+   "n": "010",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "011",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "012",
+   "pt": "Decidueye ex",
+   "en": "Decidueye ex"
+  },
+  {
+   "n": "013",
+   "pt": "Fletchinder",
+   "en": "Fletchinder"
+  },
+  {
+   "n": "014",
+   "pt": "Talonflame",
+   "en": "Talonflame"
+  },
+  {
+   "n": "015",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "016",
+   "pt": "Salazzle ex",
+   "en": "Salazzle ex"
+  },
+  {
+   "n": "017",
+   "pt": "Turtonator",
+   "en": "Turtonator"
+  },
+  {
+   "n": "018",
+   "pt": "Seel",
+   "en": "Seel"
+  },
+  {
+   "n": "019",
+   "pt": "Dewgong",
+   "en": "Dewgong"
+  },
+  {
+   "n": "020",
+   "pt": "Staryu",
+   "en": "Staryu"
+  },
+  {
+   "n": "021",
+   "pt": "Mega Starmie ex",
+   "en": "Mega Starmie ex"
+  },
+  {
+   "n": "022",
+   "pt": "Lapras ex",
+   "en": "Lapras ex"
+  },
+  {
+   "n": "023",
+   "pt": "Amaura",
+   "en": "Amaura"
+  },
+  {
+   "n": "024",
+   "pt": "Aurorus",
+   "en": "Aurorus"
+  },
+  {
+   "n": "025",
+   "pt": "Volcanion",
+   "en": "Volcanion"
+  },
+  {
+   "n": "026",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "027",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "028",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "029",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "030",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "031",
+   "pt": "Mega Clefable ex",
+   "en": "Mega Clefable ex"
+  },
+  {
+   "n": "032",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "033",
+   "pt": "Espurr",
+   "en": "Espurr"
+  },
+  {
+   "n": "034",
+   "pt": "Meowstic",
+   "en": "Meowstic"
+  },
+  {
+   "n": "035",
+   "pt": "Spritzee",
+   "en": "Spritzee"
+  },
+  {
+   "n": "036",
+   "pt": "Aromatisse",
+   "en": "Aromatisse"
+  },
+  {
+   "n": "037",
+   "pt": "Nosepass",
+   "en": "Nosepass"
+  },
+  {
+   "n": "038",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "039",
+   "pt": "Hippopotas",
+   "en": "Hippopotas"
+  },
+  {
+   "n": "040",
+   "pt": "Hippowdon",
+   "en": "Hippowdon"
+  },
+  {
+   "n": "041",
+   "pt": "Landorus",
+   "en": "Landorus"
+  },
+  {
+   "n": "042",
+   "pt": "Binacle",
+   "en": "Binacle"
+  },
+  {
+   "n": "043",
+   "pt": "Barbaracle",
+   "en": "Barbaracle"
+  },
+  {
+   "n": "044",
+   "pt": "Tyrunt",
+   "en": "Tyrunt"
+  },
+  {
+   "n": "045",
+   "pt": "Tyrantrum",
+   "en": "Tyrantrum"
+  },
+  {
+   "n": "046",
+   "pt": "Hawlucha",
+   "en": "Hawlucha"
+  },
+  {
+   "n": "047",
+   "pt": "Mega Zygarde ex",
+   "en": "Mega Zygarde ex"
+  },
+  {
+   "n": "048",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "049",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "050",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "051",
+   "pt": "Skorupi",
+   "en": "Skorupi"
+  },
+  {
+   "n": "052",
+   "pt": "Drapion",
+   "en": "Drapion"
+  },
+  {
+   "n": "053",
+   "pt": "Yveltal ex",
+   "en": "Yveltal ex"
+  },
+  {
+   "n": "054",
+   "pt": "Chien-Pao",
+   "en": "Chien-Pao"
+  },
+  {
+   "n": "055",
+   "pt": "Mega Skarmory ex",
+   "en": "Mega Skarmory ex"
+  },
+  {
+   "n": "056",
+   "pt": "Honedge",
+   "en": "Honedge"
+  },
+  {
+   "n": "057",
+   "pt": "Doublade",
+   "en": "Doublade"
+  },
+  {
+   "n": "058",
+   "pt": "Aegislash",
+   "en": "Aegislash"
+  },
+  {
+   "n": "059",
+   "pt": "Klefki",
+   "en": "Klefki"
+  },
+  {
+   "n": "060",
+   "pt": "Rattata",
+   "en": "Rattata"
+  },
+  {
+   "n": "061",
+   "pt": "Raticate",
+   "en": "Raticate"
+  },
+  {
+   "n": "062",
+   "pt": "Meowth ex",
+   "en": "Meowth ex"
+  },
+  {
+   "n": "063",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "064",
+   "pt": "Bunnelby",
+   "en": "Bunnelby"
+  },
+  {
+   "n": "065",
+   "pt": "Diggersby",
+   "en": "Diggersby"
+  },
+  {
+   "n": "066",
+   "pt": "Fletchling",
+   "en": "Fletchling"
+  },
+  {
+   "n": "067",
+   "pt": "Furfrou",
+   "en": "Furfrou"
+  },
+  {
+   "n": "068",
+   "pt": "Fóssil de Mandíbula Arcaico",
+   "en": "Antique Jaw Fossil"
+  },
+  {
+   "n": "069",
+   "pt": "Fóssil de Vela Arcaico",
+   "en": "Antique Sail Fossil"
+  },
+  {
+   "n": "070",
+   "pt": "Núcleo de Memória",
+   "en": "Core Memory"
+  },
+  {
+   "n": "071",
+   "pt": "Martelo Esmagador",
+   "en": "Crushing Hammer"
+  },
+  {
+   "n": "072",
+   "pt": "Busca de Energia",
+   "en": "Energy Search"
+  },
+  {
+   "n": "073",
+   "pt": "Mata-Energia",
+   "en": "Energy Swatter"
+  },
+  {
+   "n": "074",
+   "pt": "Pá de Cavar",
+   "en": "Hole-Digging Shovel"
+  },
+  {
+   "n": "075",
+   "pt": "Jaci",
+   "en": "Jacinthe"
+  },
+  {
+   "n": "076",
+   "pt": "Juiz",
+   "en": "Judge"
+  },
+  {
+   "n": "077",
+   "pt": "Cidade de Lumiose",
+   "en": "Lumiose City"
+  },
+  {
+   "n": "078",
+   "pt": "Crepe de Lumiose",
+   "en": "Lumiose Galette"
+  },
+  {
+   "n": "079",
+   "pt": "Naveen",
+   "en": "Naveen"
+  },
+  {
+   "n": "080",
+   "pt": "Poké Bola",
+   "en": "Poké Ball"
+  },
+  {
+   "n": "081",
+   "pt": "Poké Tablet",
+   "en": "Poké Pad"
+  },
+  {
+   "n": "082",
+   "pt": "Pegador de Pokémon",
+   "en": "Pokémon Catcher"
+  },
+  {
+   "n": "083",
+   "pt": "Poção",
+   "en": "Potion"
+  },
+  {
+   "n": "084",
+   "pt": "Encorajamento da Rose",
+   "en": "Rosa's Encouragement"
+  },
+  {
+   "n": "085",
+   "pt": "Tarragon",
+   "en": "Tarragon"
+  },
+  {
+   "n": "086",
+   "pt": "Energia Grass Crescente",
+   "en": "Growing Grass Energy"
+  },
+  {
+   "n": "087",
+   "pt": "Energia Fighting Rochosa",
+   "en": "Rocky Fighting Energy"
+  },
+  {
+   "n": "088",
+   "pt": "Energia Psychic Telepática",
+   "en": "Telepathic Psychic Energy"
+  },
+  {
+   "n": "089",
+   "pt": "Spewpa",
+   "en": "Spewpa"
+  },
+  {
+   "n": "090",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "091",
+   "pt": "Talonflame",
+   "en": "Talonflame"
+  },
+  {
+   "n": "092",
+   "pt": "Aurorus",
+   "en": "Aurorus"
+  },
+  {
+   "n": "093",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "094",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "095",
+   "pt": "Espurr",
+   "en": "Espurr"
+  },
+  {
+   "n": "096",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "097",
+   "pt": "Drapion",
+   "en": "Drapion"
+  },
+  {
+   "n": "098",
+   "pt": "Doublade",
+   "en": "Doublade"
+  },
+  {
+   "n": "099",
+   "pt": "Raticate",
+   "en": "Raticate"
+  },
+  {
+   "n": "100",
+   "pt": "Decidueye ex",
+   "en": "Decidueye ex"
+  },
+  {
+   "n": "101",
+   "pt": "Salazzle ex",
+   "en": "Salazzle ex"
+  },
+  {
+   "n": "102",
+   "pt": "Mega Starmie ex",
+   "en": "Mega Starmie ex"
+  },
+  {
+   "n": "103",
+   "pt": "Mega Clefable ex",
+   "en": "Mega Clefable ex"
+  },
+  {
+   "n": "104",
+   "pt": "Mega Zygarde ex",
+   "en": "Mega Zygarde ex"
+  },
+  {
+   "n": "105",
+   "pt": "Yveltal ex",
+   "en": "Yveltal ex"
+  },
+  {
+   "n": "106",
+   "pt": "Mega Skarmory ex",
+   "en": "Mega Skarmory ex"
+  },
+  {
+   "n": "107",
+   "pt": "Meowth ex",
+   "en": "Meowth ex"
+  },
+  {
+   "n": "108",
+   "pt": "Reciclador de Energia",
+   "en": "Energy Recycler"
+  },
+  {
+   "n": "109",
+   "pt": "Floresta da Vitalidade",
+   "en": "Forest of Vitality"
+  },
+  {
+   "n": "110",
+   "pt": "Jaci",
+   "en": "Jacinthe"
+  },
+  {
+   "n": "111",
+   "pt": "Cidade de Lumiose",
+   "en": "Lumiose City"
+  },
+  {
+   "n": "112",
+   "pt": "Naveen",
+   "en": "Naveen"
+  },
+  {
+   "n": "113",
+   "pt": "Poké Tablet",
+   "en": "Poké Pad"
+  },
+  {
+   "n": "114",
+   "pt": "Encorajamento da Rose",
+   "en": "Rosa's Encouragement"
+  },
+  {
+   "n": "115",
+   "pt": "Cinza Sagrada",
+   "en": "Sacred Ash"
+  },
+  {
+   "n": "116",
+   "pt": "Tarragon",
+   "en": "Tarragon"
+  },
+  {
+   "n": "117",
+   "pt": "Fragmento Encantado",
+   "en": "Wondrous Patch"
+  },
+  {
+   "n": "118",
+   "pt": "Mega Starmie ex",
+   "en": "Mega Starmie ex"
+  },
+  {
+   "n": "119",
+   "pt": "Mega Clefable ex",
+   "en": "Mega Clefable ex"
+  },
+  {
+   "n": "120",
+   "pt": "Mega Zygarde ex",
+   "en": "Mega Zygarde ex"
+  },
+  {
+   "n": "121",
+   "pt": "Meowth ex",
+   "en": "Meowth ex"
+  },
+  {
+   "n": "122",
+   "pt": "Jaci",
+   "en": "Jacinthe"
+  },
+  {
+   "n": "123",
+   "pt": "Encorajamento da Rose",
+   "en": "Rosa's Encouragement"
+  },
+  {
+   "n": "124",
+   "pt": "Mega Zygarde ex",
+   "en": "Mega Zygarde ex"
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "set": "cel25",
+ "nome_pt": "Celebrações",
+ "nome_en": "Celebrations",
+ "total": 25,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Ho-Oh",
+   "en": "Ho-Oh"
+  },
+  {
+   "n": "2",
+   "pt": "Reshiram",
+   "en": "Reshiram"
+  },
+  {
+   "n": "3",
+   "pt": "Kyogre",
+   "en": "Kyogre"
+  },
+  {
+   "n": "4",
+   "pt": "Palkia",
+   "en": "Palkia"
+  },
+  {
+   "n": "5",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "6",
+   "pt": "Pikachu Voador V",
+   "en": "Flying Pikachu V"
+  },
+  {
+   "n": "7",
+   "pt": "Pikachu Voador VMAX",
+   "en": "Flying Pikachu VMAX"
+  },
+  {
+   "n": "8",
+   "pt": "Pikachu Surfista V",
+   "en": "Surfing Pikachu V"
+  },
+  {
+   "n": "9",
+   "pt": "Pikachu Surfista VMAX",
+   "en": "Surfing Pikachu VMAX"
+  },
+  {
+   "n": "10",
+   "pt": "Zekrom",
+   "en": "Zekrom"
+  },
+  {
+   "n": "11",
+   "pt": "Mew",
+   "en": "Mew"
+  },
+  {
+   "n": "12",
+   "pt": "Xerneas",
+   "en": "Xerneas"
+  },
+  {
+   "n": "13",
+   "pt": "Cosmog",
+   "en": "Cosmog"
+  },
+  {
+   "n": "14",
+   "pt": "Cosmoem",
+   "en": "Cosmoem"
+  },
+  {
+   "n": "15",
+   "pt": "Lunala",
+   "en": "Lunala"
+  },
+  {
+   "n": "16",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "17",
+   "pt": "Groudon",
+   "en": "Groudon"
+  },
+  {
+   "n": "18",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "19",
+   "pt": "Yveltal",
+   "en": "Yveltal"
+  },
+  {
+   "n": "20",
+   "pt": "Dialga",
+   "en": "Dialga"
+  },
+  {
+   "n": "21",
+   "pt": "Solgaleo",
+   "en": "Solgaleo"
+  },
+  {
+   "n": "22",
+   "pt": "Lugia",
+   "en": "Lugia"
+  },
+  {
+   "n": "23",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research (Professor Oak)"
+  },
+  {
+   "n": "24",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research (Professor Oak)"
+  },
+  {
+   "n": "25",
+   "pt": "Mew",
+   "en": "Mew"
+  }
+ ]
+}

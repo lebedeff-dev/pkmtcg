@@ -1,0 +1,1138 @@
+{
+ "set": "sv06",
+ "nome_pt": "Máscaras do Crepúsculo",
+ "nome_en": "Twilight Masquerade",
+ "total": 226,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Tangela",
+   "en": "Tangela"
+  },
+  {
+   "n": "002",
+   "pt": "Tangrowth",
+   "en": "Tangrowth"
+  },
+  {
+   "n": "003",
+   "pt": "Pinsir",
+   "en": "Pinsir"
+  },
+  {
+   "n": "004",
+   "pt": "Spinarak",
+   "en": "Spinarak"
+  },
+  {
+   "n": "005",
+   "pt": "Ariados",
+   "en": "Ariados"
+  },
+  {
+   "n": "006",
+   "pt": "Sunkern",
+   "en": "Sunkern"
+  },
+  {
+   "n": "007",
+   "pt": "Sunflora",
+   "en": "Sunflora"
+  },
+  {
+   "n": "008",
+   "pt": "Heracross",
+   "en": "Heracross"
+  },
+  {
+   "n": "009",
+   "pt": "Volbeat",
+   "en": "Volbeat"
+  },
+  {
+   "n": "010",
+   "pt": "Illumise",
+   "en": "Illumise"
+  },
+  {
+   "n": "011",
+   "pt": "Leafeon",
+   "en": "Leafeon"
+  },
+  {
+   "n": "012",
+   "pt": "Phantump",
+   "en": "Phantump"
+  },
+  {
+   "n": "013",
+   "pt": "Trevenant",
+   "en": "Trevenant"
+  },
+  {
+   "n": "014",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "015",
+   "pt": "Thwackey",
+   "en": "Thwackey"
+  },
+  {
+   "n": "016",
+   "pt": "Rillaboom",
+   "en": "Rillaboom"
+  },
+  {
+   "n": "017",
+   "pt": "Applin",
+   "en": "Applin"
+  },
+  {
+   "n": "018",
+   "pt": "Dipplin",
+   "en": "Dipplin"
+  },
+  {
+   "n": "019",
+   "pt": "Folhas Férreas",
+   "en": "Iron Leaves"
+  },
+  {
+   "n": "020",
+   "pt": "Poltchageist",
+   "en": "Poltchageist"
+  },
+  {
+   "n": "021",
+   "pt": "Poltchageist",
+   "en": "Poltchageist"
+  },
+  {
+   "n": "022",
+   "pt": "Sinistcha",
+   "en": "Sinistcha"
+  },
+  {
+   "n": "023",
+   "pt": "Sinistcha ex",
+   "en": "Sinistcha ex"
+  },
+  {
+   "n": "024",
+   "pt": "Ogerpon Máscara Turquesa",
+   "en": "Teal Mask Ogerpon"
+  },
+  {
+   "n": "025",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "026",
+   "pt": "Vulpix",
+   "en": "Vulpix"
+  },
+  {
+   "n": "027",
+   "pt": "Ninetales",
+   "en": "Ninetales"
+  },
+  {
+   "n": "028",
+   "pt": "Slugma",
+   "en": "Slugma"
+  },
+  {
+   "n": "029",
+   "pt": "Magcargo ex",
+   "en": "Magcargo ex"
+  },
+  {
+   "n": "030",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "031",
+   "pt": "Chimchar",
+   "en": "Chimchar"
+  },
+  {
+   "n": "032",
+   "pt": "Monferno",
+   "en": "Monferno"
+  },
+  {
+   "n": "033",
+   "pt": "Infernape",
+   "en": "Infernape"
+  },
+  {
+   "n": "034",
+   "pt": "Darumaka",
+   "en": "Darumaka"
+  },
+  {
+   "n": "035",
+   "pt": "Darmanitan",
+   "en": "Darmanitan"
+  },
+  {
+   "n": "036",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "037",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "038",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "039",
+   "pt": "Chi-Yu",
+   "en": "Chi-Yu"
+  },
+  {
+   "n": "040",
+   "pt": "Ogerpon Máscara Fornalha ex",
+   "en": "Hearthflame Mask Ogerpon ex"
+  },
+  {
+   "n": "041",
+   "pt": "Poliwag",
+   "en": "Poliwag"
+  },
+  {
+   "n": "042",
+   "pt": "Poliwhirl",
+   "en": "Poliwhirl"
+  },
+  {
+   "n": "043",
+   "pt": "Poliwrath",
+   "en": "Poliwrath"
+  },
+  {
+   "n": "044",
+   "pt": "Goldeen",
+   "en": "Goldeen"
+  },
+  {
+   "n": "045",
+   "pt": "Seaking",
+   "en": "Seaking"
+  },
+  {
+   "n": "046",
+   "pt": "Jynx",
+   "en": "Jynx"
+  },
+  {
+   "n": "047",
+   "pt": "Corphish",
+   "en": "Corphish"
+  },
+  {
+   "n": "048",
+   "pt": "Crawdaunt",
+   "en": "Crawdaunt"
+  },
+  {
+   "n": "049",
+   "pt": "Feebas",
+   "en": "Feebas"
+  },
+  {
+   "n": "050",
+   "pt": "Milotic",
+   "en": "Milotic"
+  },
+  {
+   "n": "051",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "052",
+   "pt": "Glalie",
+   "en": "Glalie"
+  },
+  {
+   "n": "053",
+   "pt": "Froslass",
+   "en": "Froslass"
+  },
+  {
+   "n": "054",
+   "pt": "Glaceon",
+   "en": "Glaceon"
+  },
+  {
+   "n": "055",
+   "pt": "Phione",
+   "en": "Phione"
+  },
+  {
+   "n": "056",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "057",
+   "pt": "Frogadier",
+   "en": "Frogadier"
+  },
+  {
+   "n": "058",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "059",
+   "pt": "Finizen",
+   "en": "Finizen"
+  },
+  {
+   "n": "060",
+   "pt": "Palafin",
+   "en": "Palafin"
+  },
+  {
+   "n": "061",
+   "pt": "Palafin ex",
+   "en": "Palafin ex"
+  },
+  {
+   "n": "062",
+   "pt": "Pacote Férreo",
+   "en": "Iron Bundle"
+  },
+  {
+   "n": "063",
+   "pt": "Onda Ando",
+   "en": "Walking Wake"
+  },
+  {
+   "n": "064",
+   "pt": "Ogerpon Máscara Nascente ex",
+   "en": "Wellspring Mask Ogerpon ex"
+  },
+  {
+   "n": "065",
+   "pt": "Zapdos",
+   "en": "Zapdos"
+  },
+  {
+   "n": "066",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "067",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "068",
+   "pt": "Luxray ex",
+   "en": "Luxray ex"
+  },
+  {
+   "n": "069",
+   "pt": "Emolga",
+   "en": "Emolga"
+  },
+  {
+   "n": "070",
+   "pt": "Helioptile",
+   "en": "Helioptile"
+  },
+  {
+   "n": "071",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "072",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "073",
+   "pt": "Tadbulb",
+   "en": "Tadbulb"
+  },
+  {
+   "n": "074",
+   "pt": "Bellibolt",
+   "en": "Bellibolt"
+  },
+  {
+   "n": "075",
+   "pt": "Wattrel",
+   "en": "Wattrel"
+  },
+  {
+   "n": "076",
+   "pt": "Kilowattrel",
+   "en": "Kilowattrel"
+  },
+  {
+   "n": "077",
+   "pt": "Espinhos Férreos ex",
+   "en": "Iron Thorns ex"
+  },
+  {
+   "n": "078",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "079",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "080",
+   "pt": "Abra",
+   "en": "Abra"
+  },
+  {
+   "n": "081",
+   "pt": "Kadabra",
+   "en": "Kadabra"
+  },
+  {
+   "n": "082",
+   "pt": "Alakazam",
+   "en": "Alakazam"
+  },
+  {
+   "n": "083",
+   "pt": "Girafarig",
+   "en": "Girafarig"
+  },
+  {
+   "n": "084",
+   "pt": "Farigiraf",
+   "en": "Farigiraf"
+  },
+  {
+   "n": "085",
+   "pt": "Chimecho",
+   "en": "Chimecho"
+  },
+  {
+   "n": "086",
+   "pt": "Flabébé",
+   "en": "Flabébé"
+  },
+  {
+   "n": "087",
+   "pt": "Floette",
+   "en": "Floette"
+  },
+  {
+   "n": "088",
+   "pt": "Florges",
+   "en": "Florges"
+  },
+  {
+   "n": "089",
+   "pt": "Swirlix",
+   "en": "Swirlix"
+  },
+  {
+   "n": "090",
+   "pt": "Slurpuff",
+   "en": "Slurpuff"
+  },
+  {
+   "n": "091",
+   "pt": "Sandygast",
+   "en": "Sandygast"
+  },
+  {
+   "n": "092",
+   "pt": "Palossand",
+   "en": "Palossand"
+  },
+  {
+   "n": "093",
+   "pt": "Enamorus",
+   "en": "Enamorus"
+  },
+  {
+   "n": "094",
+   "pt": "Cauda Brado ex",
+   "en": "Scream Tail ex"
+  },
+  {
+   "n": "095",
+   "pt": "Munkidori",
+   "en": "Munkidori"
+  },
+  {
+   "n": "096",
+   "pt": "Fezandipiti",
+   "en": "Fezandipiti"
+  },
+  {
+   "n": "097",
+   "pt": "Sandshrew",
+   "en": "Sandshrew"
+  },
+  {
+   "n": "098",
+   "pt": "Sandslash",
+   "en": "Sandslash"
+  },
+  {
+   "n": "099",
+   "pt": "Growlithe de Hisui",
+   "en": "Hisuian Growlithe"
+  },
+  {
+   "n": "100",
+   "pt": "Arcanine de Hisui",
+   "en": "Hisuian Arcanine"
+  },
+  {
+   "n": "101",
+   "pt": "Nosepass",
+   "en": "Nosepass"
+  },
+  {
+   "n": "102",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "103",
+   "pt": "Timburr",
+   "en": "Timburr"
+  },
+  {
+   "n": "104",
+   "pt": "Gurdurr",
+   "en": "Gurdurr"
+  },
+  {
+   "n": "105",
+   "pt": "Conkeldurr",
+   "en": "Conkeldurr"
+  },
+  {
+   "n": "106",
+   "pt": "Greninja ex",
+   "en": "Greninja ex"
+  },
+  {
+   "n": "107",
+   "pt": "Hawlucha",
+   "en": "Hawlucha"
+  },
+  {
+   "n": "108",
+   "pt": "Glimmet",
+   "en": "Glimmet"
+  },
+  {
+   "n": "109",
+   "pt": "Glimmora",
+   "en": "Glimmora"
+  },
+  {
+   "n": "110",
+   "pt": "Ting-Lu",
+   "en": "Ting-Lu"
+  },
+  {
+   "n": "111",
+   "pt": "Okidogi",
+   "en": "Okidogi"
+  },
+  {
+   "n": "112",
+   "pt": "Ogerpon Máscara Alicerce ex",
+   "en": "Cornerstone Mask Ogerpon ex"
+  },
+  {
+   "n": "113",
+   "pt": "Poochyena",
+   "en": "Poochyena"
+  },
+  {
+   "n": "114",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "115",
+   "pt": "Venipede",
+   "en": "Venipede"
+  },
+  {
+   "n": "116",
+   "pt": "Whirlipede",
+   "en": "Whirlipede"
+  },
+  {
+   "n": "117",
+   "pt": "Scolipede",
+   "en": "Scolipede"
+  },
+  {
+   "n": "118",
+   "pt": "Capuz Bruto",
+   "en": "Brute Bonnet"
+  },
+  {
+   "n": "119",
+   "pt": "Skarmory",
+   "en": "Skarmory"
+  },
+  {
+   "n": "120",
+   "pt": "Aron",
+   "en": "Aron"
+  },
+  {
+   "n": "121",
+   "pt": "Lairon",
+   "en": "Lairon"
+  },
+  {
+   "n": "122",
+   "pt": "Aggron",
+   "en": "Aggron"
+  },
+  {
+   "n": "123",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "124",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "125",
+   "pt": "Revavroom",
+   "en": "Revavroom"
+  },
+  {
+   "n": "126",
+   "pt": "Applin",
+   "en": "Applin"
+  },
+  {
+   "n": "127",
+   "pt": "Dipplin",
+   "en": "Dipplin"
+  },
+  {
+   "n": "128",
+   "pt": "Dreepy",
+   "en": "Dreepy"
+  },
+  {
+   "n": "129",
+   "pt": "Drakloak",
+   "en": "Drakloak"
+  },
+  {
+   "n": "130",
+   "pt": "Dragapult ex",
+   "en": "Dragapult ex"
+  },
+  {
+   "n": "131",
+   "pt": "Tatsugiri",
+   "en": "Tatsugiri"
+  },
+  {
+   "n": "132",
+   "pt": "Farfetch'd",
+   "en": "Farfetch'd"
+  },
+  {
+   "n": "133",
+   "pt": "Chansey",
+   "en": "Chansey"
+  },
+  {
+   "n": "134",
+   "pt": "Blissey ex",
+   "en": "Blissey ex"
+  },
+  {
+   "n": "135",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "136",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "137",
+   "pt": "Aipom",
+   "en": "Aipom"
+  },
+  {
+   "n": "138",
+   "pt": "Ambipom",
+   "en": "Ambipom"
+  },
+  {
+   "n": "139",
+   "pt": "Ducklett",
+   "en": "Ducklett"
+  },
+  {
+   "n": "140",
+   "pt": "Swanna",
+   "en": "Swanna"
+  },
+  {
+   "n": "141",
+   "pt": "Ursaluna Lua Sangrenta ex",
+   "en": "Bloodmoon Ursaluna ex"
+  },
+  {
+   "n": "142",
+   "pt": "Flauta de Acompanhamento",
+   "en": "Accompanying Flute"
+  },
+  {
+   "n": "143",
+   "pt": "Kit Caça-inseto",
+   "en": "Bug Catching Set"
+  },
+  {
+   "n": "144",
+   "pt": "Zelador",
+   "en": "Caretaker"
+  },
+  {
+   "n": "145",
+   "pt": "Carmine",
+   "en": "Carmine"
+  },
+  {
+   "n": "146",
+   "pt": "Centro Comunitário",
+   "en": "Community Center"
+  },
+  {
+   "n": "147",
+   "pt": "Chef",
+   "en": "Cook"
+  },
+  {
+   "n": "148",
+   "pt": "Martelo Avançado",
+   "en": "Enhanced Hammer"
+  },
+  {
+   "n": "149",
+   "pt": "Praça de Festas",
+   "en": "Festival Grounds"
+  },
+  {
+   "n": "150",
+   "pt": "Ventilador Portátil",
+   "en": "Handheld Fan"
+  },
+  {
+   "n": "151",
+   "pt": "Oranzo",
+   "en": "Hassel"
+  },
+  {
+   "n": "152",
+   "pt": "Hiperaroma",
+   "en": "Hyper Aroma"
+  },
+  {
+   "n": "153",
+   "pt": "Torre de Interferência",
+   "en": "Jamming Tower"
+  },
+  {
+   "n": "154",
+   "pt": "Kiran",
+   "en": "Kieran"
+  },
+  {
+   "n": "155",
+   "pt": "Ajuda da Vitória",
+   "en": "Lana's Aid"
+  },
+  {
+   "n": "156",
+   "pt": "Bola Amor",
+   "en": "Love Ball"
+  },
+  {
+   "n": "157",
+   "pt": "Lucian",
+   "en": "Lucian"
+  },
+  {
+   "n": "158",
+   "pt": "Capacete da Sorte",
+   "en": "Lucky Helmet"
+  },
+  {
+   "n": "159",
+   "pt": "Máscara do Ogro",
+   "en": "Ogre's Mask"
+  },
+  {
+   "n": "160",
+   "pt": "Drita",
+   "en": "Perrin"
+  },
+  {
+   "n": "161",
+   "pt": "Moira",
+   "en": "Raifort"
+  },
+  {
+   "n": "162",
+   "pt": "Recolhida Ciclone",
+   "en": "Scoop Up Cyclone"
+  },
+  {
+   "n": "163",
+   "pt": "Caixa Secreta",
+   "en": "Secret Box"
+  },
+  {
+   "n": "164",
+   "pt": "Cinta de Sobrevivência",
+   "en": "Survival Brace"
+  },
+  {
+   "n": "165",
+   "pt": "Carimbo da Injustiça",
+   "en": "Unfair Stamp"
+  },
+  {
+   "n": "166",
+   "pt": "Energia Bumerangue",
+   "en": "Boomerang Energy"
+  },
+  {
+   "n": "167",
+   "pt": "Energia Legado",
+   "en": "Legacy Energy"
+  },
+  {
+   "n": "168",
+   "pt": "Pinsir",
+   "en": "Pinsir"
+  },
+  {
+   "n": "169",
+   "pt": "Sunflora",
+   "en": "Sunflora"
+  },
+  {
+   "n": "170",
+   "pt": "Dipplin",
+   "en": "Dipplin"
+  },
+  {
+   "n": "171",
+   "pt": "Poltchageist",
+   "en": "Poltchageist"
+  },
+  {
+   "n": "172",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "173",
+   "pt": "Infernape",
+   "en": "Infernape"
+  },
+  {
+   "n": "174",
+   "pt": "Froslass",
+   "en": "Froslass"
+  },
+  {
+   "n": "175",
+   "pt": "Phione",
+   "en": "Phione"
+  },
+  {
+   "n": "176",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "177",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "178",
+   "pt": "Wattrel",
+   "en": "Wattrel"
+  },
+  {
+   "n": "179",
+   "pt": "Chimecho",
+   "en": "Chimecho"
+  },
+  {
+   "n": "180",
+   "pt": "Enamorus",
+   "en": "Enamorus"
+  },
+  {
+   "n": "181",
+   "pt": "Growlithe de Hisui",
+   "en": "Hisuian Growlithe"
+  },
+  {
+   "n": "182",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "183",
+   "pt": "Timburr",
+   "en": "Timburr"
+  },
+  {
+   "n": "184",
+   "pt": "Lairon",
+   "en": "Lairon"
+  },
+  {
+   "n": "185",
+   "pt": "Applin",
+   "en": "Applin"
+  },
+  {
+   "n": "186",
+   "pt": "Tatsugiri",
+   "en": "Tatsugiri"
+  },
+  {
+   "n": "187",
+   "pt": "Chansey",
+   "en": "Chansey"
+  },
+  {
+   "n": "188",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "189",
+   "pt": "Sinistcha ex",
+   "en": "Sinistcha ex"
+  },
+  {
+   "n": "190",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "191",
+   "pt": "Magcargo ex",
+   "en": "Magcargo ex"
+  },
+  {
+   "n": "192",
+   "pt": "Ogerpon Máscara Fornalha ex",
+   "en": "Hearthflame Mask Ogerpon ex"
+  },
+  {
+   "n": "193",
+   "pt": "Palafin ex",
+   "en": "Palafin ex"
+  },
+  {
+   "n": "194",
+   "pt": "Ogerpon Máscara Nascente ex",
+   "en": "Wellspring Mask Ogerpon ex"
+  },
+  {
+   "n": "195",
+   "pt": "Luxray ex",
+   "en": "Luxray ex"
+  },
+  {
+   "n": "196",
+   "pt": "Espinhos Férreos ex",
+   "en": "Iron Thorns ex"
+  },
+  {
+   "n": "197",
+   "pt": "Cauda Brado ex",
+   "en": "Scream Tail ex"
+  },
+  {
+   "n": "198",
+   "pt": "Greninja ex",
+   "en": "Greninja ex"
+  },
+  {
+   "n": "199",
+   "pt": "Ogerpon Máscara Alicerce ex",
+   "en": "Cornerstone Mask Ogerpon ex"
+  },
+  {
+   "n": "200",
+   "pt": "Dragapult ex",
+   "en": "Dragapult ex"
+  },
+  {
+   "n": "201",
+   "pt": "Blissey ex",
+   "en": "Blissey ex"
+  },
+  {
+   "n": "202",
+   "pt": "Ursaluna Lua Sangrenta ex",
+   "en": "Bloodmoon Ursaluna ex"
+  },
+  {
+   "n": "203",
+   "pt": "Zelador",
+   "en": "Caretaker"
+  },
+  {
+   "n": "204",
+   "pt": "Carmine",
+   "en": "Carmine"
+  },
+  {
+   "n": "205",
+   "pt": "Oranzo",
+   "en": "Hassel"
+  },
+  {
+   "n": "206",
+   "pt": "Kiran",
+   "en": "Kieran"
+  },
+  {
+   "n": "207",
+   "pt": "Ajuda da Vitória",
+   "en": "Lana's Aid"
+  },
+  {
+   "n": "208",
+   "pt": "Lucian",
+   "en": "Lucian"
+  },
+  {
+   "n": "209",
+   "pt": "Drita",
+   "en": "Perrin"
+  },
+  {
+   "n": "210",
+   "pt": "Sinistcha ex",
+   "en": "Sinistcha ex"
+  },
+  {
+   "n": "211",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "212",
+   "pt": "Ogerpon Máscara Fornalha ex",
+   "en": "Hearthflame Mask Ogerpon ex"
+  },
+  {
+   "n": "213",
+   "pt": "Ogerpon Máscara Nascente ex",
+   "en": "Wellspring Mask Ogerpon ex"
+  },
+  {
+   "n": "214",
+   "pt": "Greninja ex",
+   "en": "Greninja ex"
+  },
+  {
+   "n": "215",
+   "pt": "Ogerpon Máscara Alicerce ex",
+   "en": "Cornerstone Mask Ogerpon ex"
+  },
+  {
+   "n": "216",
+   "pt": "Ursaluna Lua Sangrenta ex",
+   "en": "Bloodmoon Ursaluna ex"
+  },
+  {
+   "n": "217",
+   "pt": "Carmine",
+   "en": "Carmine"
+  },
+  {
+   "n": "218",
+   "pt": "Kiran",
+   "en": "Kieran"
+  },
+  {
+   "n": "219",
+   "pt": "Ajuda da Vitória",
+   "en": "Lana's Aid"
+  },
+  {
+   "n": "220",
+   "pt": "Drita",
+   "en": "Perrin"
+  },
+  {
+   "n": "221",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "222",
+   "pt": "Ursaluna Lua Sangrenta ex",
+   "en": "Bloodmoon Ursaluna ex"
+  },
+  {
+   "n": "223",
+   "pt": "Poffin de Colega",
+   "en": "Buddy-Buddy Poffin"
+  },
+  {
+   "n": "224",
+   "pt": "Martelo Avançado",
+   "en": "Enhanced Hammer"
+  },
+  {
+   "n": "225",
+   "pt": "Skate de Resgate",
+   "en": "Rescue Board"
+  },
+  {
+   "n": "226",
+   "pt": "Energia Luminosa",
+   "en": "Luminous Energy"
+  }
+ ]
+}

@@ -1,0 +1,958 @@
+{
+ "set": "sv09",
+ "nome_pt": "Amigos de Jornada",
+ "nome_en": "Journey Together",
+ "total": 190,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Caterpie",
+   "en": "Caterpie"
+  },
+  {
+   "n": "002",
+   "pt": "Metapod",
+   "en": "Metapod"
+  },
+  {
+   "n": "003",
+   "pt": "Butterfree",
+   "en": "Butterfree"
+  },
+  {
+   "n": "004",
+   "pt": "Paras",
+   "en": "Paras"
+  },
+  {
+   "n": "005",
+   "pt": "Parasect",
+   "en": "Parasect"
+  },
+  {
+   "n": "006",
+   "pt": "Petilil",
+   "en": "Petilil"
+  },
+  {
+   "n": "007",
+   "pt": "Lilligant",
+   "en": "Lilligant"
+  },
+  {
+   "n": "008",
+   "pt": "Maractus",
+   "en": "Maractus"
+  },
+  {
+   "n": "009",
+   "pt": "Karrablast",
+   "en": "Karrablast"
+  },
+  {
+   "n": "010",
+   "pt": "Foongus",
+   "en": "Foongus"
+  },
+  {
+   "n": "011",
+   "pt": "Amoonguss ex",
+   "en": "Amoonguss ex"
+  },
+  {
+   "n": "012",
+   "pt": "Shelmet",
+   "en": "Shelmet"
+  },
+  {
+   "n": "013",
+   "pt": "Accelgor",
+   "en": "Accelgor"
+  },
+  {
+   "n": "014",
+   "pt": "Durant",
+   "en": "Durant"
+  },
+  {
+   "n": "015",
+   "pt": "Virizion",
+   "en": "Virizion"
+  },
+  {
+   "n": "016",
+   "pt": "Sprigatito",
+   "en": "Sprigatito"
+  },
+  {
+   "n": "017",
+   "pt": "Floragato",
+   "en": "Floragato"
+  },
+  {
+   "n": "018",
+   "pt": "Meowscarada",
+   "en": "Meowscarada"
+  },
+  {
+   "n": "019",
+   "pt": "Nymble",
+   "en": "Nymble"
+  },
+  {
+   "n": "020",
+   "pt": "Magmar",
+   "en": "Magmar"
+  },
+  {
+   "n": "021",
+   "pt": "Magmortar",
+   "en": "Magmortar"
+  },
+  {
+   "n": "022",
+   "pt": "Torchic",
+   "en": "Torchic"
+  },
+  {
+   "n": "023",
+   "pt": "Combusken",
+   "en": "Combusken"
+  },
+  {
+   "n": "024",
+   "pt": "Blaziken ex",
+   "en": "Blaziken ex"
+  },
+  {
+   "n": "025",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "026",
+   "pt": "Darumaka do N",
+   "en": "N's Darumaka"
+  },
+  {
+   "n": "027",
+   "pt": "Darmanitan do N",
+   "en": "N's Darmanitan"
+  },
+  {
+   "n": "028",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "029",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "030",
+   "pt": "Reshiram ex",
+   "en": "Reshiram ex"
+  },
+  {
+   "n": "031",
+   "pt": "Volcanion ex",
+   "en": "Volcanion ex"
+  },
+  {
+   "n": "032",
+   "pt": "Articuno",
+   "en": "Articuno"
+  },
+  {
+   "n": "033",
+   "pt": "Remoraid",
+   "en": "Remoraid"
+  },
+  {
+   "n": "034",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "035",
+   "pt": "Lotad",
+   "en": "Lotad"
+  },
+  {
+   "n": "036",
+   "pt": "Lombre",
+   "en": "Lombre"
+  },
+  {
+   "n": "037",
+   "pt": "Ludicolo",
+   "en": "Ludicolo"
+  },
+  {
+   "n": "038",
+   "pt": "Wingull",
+   "en": "Wingull"
+  },
+  {
+   "n": "039",
+   "pt": "Pelipper",
+   "en": "Pelipper"
+  },
+  {
+   "n": "040",
+   "pt": "Wailmer",
+   "en": "Wailmer"
+  },
+  {
+   "n": "041",
+   "pt": "Wailord",
+   "en": "Wailord"
+  },
+  {
+   "n": "042",
+   "pt": "Regice",
+   "en": "Regice"
+  },
+  {
+   "n": "043",
+   "pt": "Veluza ex",
+   "en": "Veluza ex"
+  },
+  {
+   "n": "044",
+   "pt": "Geodude de Alola",
+   "en": "Alolan Geodude"
+  },
+  {
+   "n": "045",
+   "pt": "Graveler de Alola",
+   "en": "Alolan Graveler"
+  },
+  {
+   "n": "046",
+   "pt": "Golem de Alola",
+   "en": "Alolan Golem"
+  },
+  {
+   "n": "047",
+   "pt": "Voltorb da Kissera",
+   "en": "Iono's Voltorb"
+  },
+  {
+   "n": "048",
+   "pt": "Electrode da Kissera",
+   "en": "Iono's Electrode"
+  },
+  {
+   "n": "049",
+   "pt": "Joltik do N",
+   "en": "N's Joltik"
+  },
+  {
+   "n": "050",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "051",
+   "pt": "Tapu Koko ex",
+   "en": "Tapu Koko ex"
+  },
+  {
+   "n": "052",
+   "pt": "Tadbulb da Kissera",
+   "en": "Iono's Tadbulb"
+  },
+  {
+   "n": "053",
+   "pt": "Bellibolt ex da Kissera",
+   "en": "Iono's Bellibolt ex"
+  },
+  {
+   "n": "054",
+   "pt": "Wattrel da Kissera",
+   "en": "Iono's Wattrel"
+  },
+  {
+   "n": "055",
+   "pt": "Kilowattrel da Kissera",
+   "en": "Iono's Kilowattrel"
+  },
+  {
+   "n": "056",
+   "pt": "Clefairy ex da Lílian",
+   "en": "Lillie's Clefairy ex"
+  },
+  {
+   "n": "057",
+   "pt": "Marowak de Alola",
+   "en": "Alolan Marowak"
+  },
+  {
+   "n": "058",
+   "pt": "Mr. Mime",
+   "en": "Mr. Mime"
+  },
+  {
+   "n": "059",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "060",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "061",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "062",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "063",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "064",
+   "pt": "Sigilyph do N",
+   "en": "N's Sigilyph"
+  },
+  {
+   "n": "065",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "066",
+   "pt": "Cutiefly da Lílian",
+   "en": "Lillie's Cutiefly"
+  },
+  {
+   "n": "067",
+   "pt": "Ribombee da Lílian",
+   "en": "Lillie's Ribombee"
+  },
+  {
+   "n": "068",
+   "pt": "Comfey da Lílian",
+   "en": "Lillie's Comfey"
+  },
+  {
+   "n": "069",
+   "pt": "Mimikyu ex",
+   "en": "Mimikyu ex"
+  },
+  {
+   "n": "070",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "071",
+   "pt": "Impidimp",
+   "en": "Impidimp"
+  },
+  {
+   "n": "072",
+   "pt": "Morgrem",
+   "en": "Morgrem"
+  },
+  {
+   "n": "073",
+   "pt": "Grimmsnarl",
+   "en": "Grimmsnarl"
+  },
+  {
+   "n": "074",
+   "pt": "Milcery",
+   "en": "Milcery"
+  },
+  {
+   "n": "075",
+   "pt": "Alcremie ex",
+   "en": "Alcremie ex"
+  },
+  {
+   "n": "076",
+   "pt": "Cubone",
+   "en": "Cubone"
+  },
+  {
+   "n": "077",
+   "pt": "Swinub",
+   "en": "Swinub"
+  },
+  {
+   "n": "078",
+   "pt": "Piloswine",
+   "en": "Piloswine"
+  },
+  {
+   "n": "079",
+   "pt": "Mamoswine ex",
+   "en": "Mamoswine ex"
+  },
+  {
+   "n": "080",
+   "pt": "Larvitar",
+   "en": "Larvitar"
+  },
+  {
+   "n": "081",
+   "pt": "Pupitar",
+   "en": "Pupitar"
+  },
+  {
+   "n": "082",
+   "pt": "Regirock",
+   "en": "Regirock"
+  },
+  {
+   "n": "083",
+   "pt": "Pancham",
+   "en": "Pancham"
+  },
+  {
+   "n": "084",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "085",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "086",
+   "pt": "Silicobra do Lupo",
+   "en": "Hop's Silicobra"
+  },
+  {
+   "n": "087",
+   "pt": "Sandaconda do Lupo",
+   "en": "Hop's Sandaconda"
+  },
+  {
+   "n": "088",
+   "pt": "Toedscool",
+   "en": "Toedscool"
+  },
+  {
+   "n": "089",
+   "pt": "Toedscruel",
+   "en": "Toedscruel"
+  },
+  {
+   "n": "090",
+   "pt": "Klawf",
+   "en": "Klawf"
+  },
+  {
+   "n": "091",
+   "pt": "Koffing",
+   "en": "Koffing"
+  },
+  {
+   "n": "092",
+   "pt": "Weezing",
+   "en": "Weezing"
+  },
+  {
+   "n": "093",
+   "pt": "Wooper de Paldea",
+   "en": "Paldean Wooper"
+  },
+  {
+   "n": "094",
+   "pt": "Clodsire de Paldea ex",
+   "en": "Paldean Clodsire ex"
+  },
+  {
+   "n": "095",
+   "pt": "Tyranitar",
+   "en": "Tyranitar"
+  },
+  {
+   "n": "096",
+   "pt": "Purrloin do N",
+   "en": "N's Purrloin"
+  },
+  {
+   "n": "097",
+   "pt": "Zorua do N",
+   "en": "N's Zorua"
+  },
+  {
+   "n": "098",
+   "pt": "Zoroark ex do N",
+   "en": "N's Zoroark ex"
+  },
+  {
+   "n": "099",
+   "pt": "Pangoro",
+   "en": "Pangoro"
+  },
+  {
+   "n": "100",
+   "pt": "Lokix",
+   "en": "Lokix"
+  },
+  {
+   "n": "101",
+   "pt": "Bombirdier",
+   "en": "Bombirdier"
+  },
+  {
+   "n": "102",
+   "pt": "Escavalier",
+   "en": "Escavalier"
+  },
+  {
+   "n": "103",
+   "pt": "Klink do N",
+   "en": "N's Klink"
+  },
+  {
+   "n": "104",
+   "pt": "Klang do N",
+   "en": "N's Klang"
+  },
+  {
+   "n": "105",
+   "pt": "Klinklang do N",
+   "en": "N's Klinklang"
+  },
+  {
+   "n": "106",
+   "pt": "Stunfisk de Galar",
+   "en": "Galarian Stunfisk"
+  },
+  {
+   "n": "107",
+   "pt": "Magearna",
+   "en": "Magearna"
+  },
+  {
+   "n": "108",
+   "pt": "Corviknight do Lupo",
+   "en": "Hop's Corviknight"
+  },
+  {
+   "n": "109",
+   "pt": "Cufant",
+   "en": "Cufant"
+  },
+  {
+   "n": "110",
+   "pt": "Copperajah",
+   "en": "Copperajah"
+  },
+  {
+   "n": "111",
+   "pt": "Zacian ex do Lupo",
+   "en": "Hop's Zacian ex"
+  },
+  {
+   "n": "112",
+   "pt": "Bagon",
+   "en": "Bagon"
+  },
+  {
+   "n": "113",
+   "pt": "Shelgon",
+   "en": "Shelgon"
+  },
+  {
+   "n": "114",
+   "pt": "Salamence ex",
+   "en": "Salamence ex"
+  },
+  {
+   "n": "115",
+   "pt": "Druddigon",
+   "en": "Druddigon"
+  },
+  {
+   "n": "116",
+   "pt": "Reshiram do N",
+   "en": "N's Reshiram"
+  },
+  {
+   "n": "117",
+   "pt": "Snorlax do Lupo",
+   "en": "Hop's Snorlax"
+  },
+  {
+   "n": "118",
+   "pt": "Sentret",
+   "en": "Sentret"
+  },
+  {
+   "n": "119",
+   "pt": "Furret",
+   "en": "Furret"
+  },
+  {
+   "n": "120",
+   "pt": "Dunsparce",
+   "en": "Dunsparce"
+  },
+  {
+   "n": "121",
+   "pt": "Dudunsparce ex",
+   "en": "Dudunsparce ex"
+  },
+  {
+   "n": "122",
+   "pt": "Kecleon",
+   "en": "Kecleon"
+  },
+  {
+   "n": "123",
+   "pt": "Tropius",
+   "en": "Tropius"
+  },
+  {
+   "n": "124",
+   "pt": "Audino",
+   "en": "Audino"
+  },
+  {
+   "n": "125",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "126",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "127",
+   "pt": "Noibat",
+   "en": "Noibat"
+  },
+  {
+   "n": "128",
+   "pt": "Noivern",
+   "en": "Noivern"
+  },
+  {
+   "n": "129",
+   "pt": "Komala",
+   "en": "Komala"
+  },
+  {
+   "n": "130",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "131",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "132",
+   "pt": "Greedent",
+   "en": "Greedent"
+  },
+  {
+   "n": "133",
+   "pt": "Rookidee do Lupo",
+   "en": "Hop's Rookidee"
+  },
+  {
+   "n": "134",
+   "pt": "Corvisquire do Lupo",
+   "en": "Hop's Corvisquire"
+  },
+  {
+   "n": "135",
+   "pt": "Wooloo do Lupo",
+   "en": "Hop's Wooloo"
+  },
+  {
+   "n": "136",
+   "pt": "Dubwool do Lupo",
+   "en": "Hop's Dubwool"
+  },
+  {
+   "n": "137",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "138",
+   "pt": "Cramorant do Lupo",
+   "en": "Hop's Cramorant"
+  },
+  {
+   "n": "139",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "140",
+   "pt": "Oinkologne",
+   "en": "Oinkologne"
+  },
+  {
+   "n": "141",
+   "pt": "Squawkabilly",
+   "en": "Squawkabilly"
+  },
+  {
+   "n": "142",
+   "pt": "Abílio e Onara",
+   "en": "Billy & O'Nare"
+  },
+  {
+   "n": "143",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "144",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "145",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "146",
+   "pt": "Busca do Brock",
+   "en": "Brock's Scouting"
+  },
+  {
+   "n": "147",
+   "pt": "Bolsa do Lupo",
+   "en": "Hop's Bag"
+  },
+  {
+   "n": "148",
+   "pt": "Faixa da Escolha do Lupo",
+   "en": "Hop's Choice Band"
+  },
+  {
+   "n": "149",
+   "pt": "Espírito de Luta da Iris",
+   "en": "Iris's Fighting Spirit"
+  },
+  {
+   "n": "150",
+   "pt": "Levincia",
+   "en": "Levincia"
+  },
+  {
+   "n": "151",
+   "pt": "Pérola da Lílian",
+   "en": "Lillie's Pearl"
+  },
+  {
+   "n": "152",
+   "pt": "Castelo do N",
+   "en": "N's Castle"
+  },
+  {
+   "n": "153",
+   "pt": "PP Up do N",
+   "en": "N's PP Up"
+  },
+  {
+   "n": "154",
+   "pt": "Postwick",
+   "en": "Postwick"
+  },
+  {
+   "n": "155",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "156",
+   "pt": "Ingresso Resgatável",
+   "en": "Redeemable Ticket"
+  },
+  {
+   "n": "157",
+   "pt": "Baderneiro",
+   "en": "Ruffian"
+  },
+  {
+   "n": "158",
+   "pt": "Superpoção",
+   "en": "Super Potion"
+  },
+  {
+   "n": "159",
+   "pt": "Energia Espinhosa",
+   "en": "Spiky Energy"
+  },
+  {
+   "n": "160",
+   "pt": "Maractus",
+   "en": "Maractus"
+  },
+  {
+   "n": "161",
+   "pt": "Articuno",
+   "en": "Articuno"
+  },
+  {
+   "n": "162",
+   "pt": "Wailord",
+   "en": "Wailord"
+  },
+  {
+   "n": "163",
+   "pt": "Kilowattrel da Kissera",
+   "en": "Iono's Kilowattrel"
+  },
+  {
+   "n": "164",
+   "pt": "Ribombee da Lílian",
+   "en": "Lillie's Ribombee"
+  },
+  {
+   "n": "165",
+   "pt": "Swinub",
+   "en": "Swinub"
+  },
+  {
+   "n": "166",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "167",
+   "pt": "Reshiram do N",
+   "en": "N's Reshiram"
+  },
+  {
+   "n": "168",
+   "pt": "Furret",
+   "en": "Furret"
+  },
+  {
+   "n": "169",
+   "pt": "Noibat",
+   "en": "Noibat"
+  },
+  {
+   "n": "170",
+   "pt": "Wooloo do Lupo",
+   "en": "Hop's Wooloo"
+  },
+  {
+   "n": "171",
+   "pt": "Volcanion ex",
+   "en": "Volcanion ex"
+  },
+  {
+   "n": "172",
+   "pt": "Bellibolt ex da Kissera",
+   "en": "Iono's Bellibolt ex"
+  },
+  {
+   "n": "173",
+   "pt": "Clefairy ex da Lílian",
+   "en": "Lillie's Clefairy ex"
+  },
+  {
+   "n": "174",
+   "pt": "Mamoswine ex",
+   "en": "Mamoswine ex"
+  },
+  {
+   "n": "175",
+   "pt": "Zoroark ex do N",
+   "en": "N's Zoroark ex"
+  },
+  {
+   "n": "176",
+   "pt": "Zacian ex do Lupo",
+   "en": "Hop's Zacian ex"
+  },
+  {
+   "n": "177",
+   "pt": "Salamence ex",
+   "en": "Salamence ex"
+  },
+  {
+   "n": "178",
+   "pt": "Dudunsparce ex",
+   "en": "Dudunsparce ex"
+  },
+  {
+   "n": "179",
+   "pt": "Busca do Brock",
+   "en": "Brock's Scouting"
+  },
+  {
+   "n": "180",
+   "pt": "Espírito de Luta da Iris",
+   "en": "Iris's Fighting Spirit"
+  },
+  {
+   "n": "181",
+   "pt": "Baderneiro",
+   "en": "Ruffian"
+  },
+  {
+   "n": "182",
+   "pt": "Volcanion ex",
+   "en": "Volcanion ex"
+  },
+  {
+   "n": "183",
+   "pt": "Bellibolt ex da Kissera",
+   "en": "Iono's Bellibolt ex"
+  },
+  {
+   "n": "184",
+   "pt": "Clefairy ex da Lílian",
+   "en": "Lillie's Clefairy ex"
+  },
+  {
+   "n": "185",
+   "pt": "Zoroark ex do N",
+   "en": "N's Zoroark ex"
+  },
+  {
+   "n": "186",
+   "pt": "Zacian ex do Lupo",
+   "en": "Hop's Zacian ex"
+  },
+  {
+   "n": "187",
+   "pt": "Salamence ex",
+   "en": "Salamence ex"
+  },
+  {
+   "n": "188",
+   "pt": "Bellibolt ex da Kissera",
+   "en": "Iono's Bellibolt ex"
+  },
+  {
+   "n": "189",
+   "pt": "Zoroark ex do N",
+   "en": "N's Zoroark ex"
+  },
+  {
+   "n": "190",
+   "pt": "Energia Espinhosa",
+   "en": "Spiky Energy"
+  }
+ ]
+}

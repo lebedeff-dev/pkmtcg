@@ -1,0 +1,398 @@
+{
+ "set": "sm75",
+ "nome_pt": "Dragões Soberanos",
+ "nome_en": "Dragon Majesty",
+ "total": 78,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "2",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "3",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "4",
+   "pt": "Torchic",
+   "en": "Torchic"
+  },
+  {
+   "n": "5",
+   "pt": "Combusken",
+   "en": "Combusken"
+  },
+  {
+   "n": "6",
+   "pt": "Blaziken",
+   "en": "Blaziken"
+  },
+  {
+   "n": "7",
+   "pt": "Victini ◇",
+   "en": "Victini ◇"
+  },
+  {
+   "n": "8",
+   "pt": "Darumaka",
+   "en": "Darumaka"
+  },
+  {
+   "n": "9",
+   "pt": "Darmanitan",
+   "en": "Darmanitan"
+  },
+  {
+   "n": "10",
+   "pt": "Heatmor",
+   "en": "Heatmor"
+  },
+  {
+   "n": "11",
+   "pt": "Reshiram GX",
+   "en": "Reshiram GX"
+  },
+  {
+   "n": "12",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "13",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "14",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "15",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "16",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "17",
+   "pt": "Seadra",
+   "en": "Seadra"
+  },
+  {
+   "n": "18",
+   "pt": "Kingdra GX",
+   "en": "Kingdra GX"
+  },
+  {
+   "n": "19",
+   "pt": "Magikarp",
+   "en": "Magikarp"
+  },
+  {
+   "n": "20",
+   "pt": "Gyarados",
+   "en": "Gyarados"
+  },
+  {
+   "n": "21",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "22",
+   "pt": "Totodile",
+   "en": "Totodile"
+  },
+  {
+   "n": "23",
+   "pt": "Croconaw",
+   "en": "Croconaw"
+  },
+  {
+   "n": "24",
+   "pt": "Feraligatr",
+   "en": "Feraligatr"
+  },
+  {
+   "n": "25",
+   "pt": "Wooper",
+   "en": "Wooper"
+  },
+  {
+   "n": "26",
+   "pt": "Quagsire",
+   "en": "Quagsire"
+  },
+  {
+   "n": "27",
+   "pt": "Corsola",
+   "en": "Corsola"
+  },
+  {
+   "n": "28",
+   "pt": "Feebas",
+   "en": "Feebas"
+  },
+  {
+   "n": "29",
+   "pt": "Milotic",
+   "en": "Milotic"
+  },
+  {
+   "n": "30",
+   "pt": "Phione",
+   "en": "Phione"
+  },
+  {
+   "n": "31",
+   "pt": "Wishiwashi",
+   "en": "Wishiwashi"
+  },
+  {
+   "n": "32",
+   "pt": "Trapinch",
+   "en": "Trapinch"
+  },
+  {
+   "n": "33",
+   "pt": "Hydreigon",
+   "en": "Hydreigon"
+  },
+  {
+   "n": "34",
+   "pt": "Dratini",
+   "en": "Dratini"
+  },
+  {
+   "n": "35",
+   "pt": "Dratini",
+   "en": "Dratini"
+  },
+  {
+   "n": "36",
+   "pt": "Dragonair",
+   "en": "Dragonair"
+  },
+  {
+   "n": "37",
+   "pt": "Dragonite GX",
+   "en": "Dragonite GX"
+  },
+  {
+   "n": "38",
+   "pt": "Vibrava",
+   "en": "Vibrava"
+  },
+  {
+   "n": "39",
+   "pt": "Flygon",
+   "en": "Flygon"
+  },
+  {
+   "n": "40",
+   "pt": "Altaria",
+   "en": "Altaria"
+  },
+  {
+   "n": "41",
+   "pt": "Altaria GX",
+   "en": "Altaria GX"
+  },
+  {
+   "n": "42",
+   "pt": "Bagon",
+   "en": "Bagon"
+  },
+  {
+   "n": "43",
+   "pt": "Shelgon",
+   "en": "Shelgon"
+  },
+  {
+   "n": "44",
+   "pt": "Salamence GX",
+   "en": "Salamence GX"
+  },
+  {
+   "n": "45",
+   "pt": "Druddigon",
+   "en": "Druddigon"
+  },
+  {
+   "n": "46",
+   "pt": "Zekrom",
+   "en": "Zekrom"
+  },
+  {
+   "n": "47",
+   "pt": "Kyurem",
+   "en": "Kyurem"
+  },
+  {
+   "n": "48",
+   "pt": "Kyurem Branco GX",
+   "en": "White Kyurem GX"
+  },
+  {
+   "n": "49",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "50",
+   "pt": "Turtonator",
+   "en": "Turtonator"
+  },
+  {
+   "n": "51",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "52",
+   "pt": "Jangmo-o",
+   "en": "Jangmo-o"
+  },
+  {
+   "n": "53",
+   "pt": "Hakamo-o",
+   "en": "Hakamo-o"
+  },
+  {
+   "n": "54",
+   "pt": "Kommo-o",
+   "en": "Kommo-o"
+  },
+  {
+   "n": "55",
+   "pt": "Kangaskhan",
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "56",
+   "pt": "Swablu",
+   "en": "Swablu"
+  },
+  {
+   "n": "57",
+   "pt": "Swablu",
+   "en": "Swablu"
+  },
+  {
+   "n": "58",
+   "pt": "Última Chance de Blaine",
+   "en": "Blaine’s Last Stand"
+  },
+  {
+   "n": "59",
+   "pt": "Grifa de Dragão",
+   "en": "Dragon Talon"
+  },
+  {
+   "n": "60",
+   "pt": "Sílex-de-fogo",
+   "en": "Fiery Flint"
+  },
+  {
+   "n": "61",
+   "pt": "Lance ◇",
+   "en": "Lance ◇"
+  },
+  {
+   "n": "62",
+   "pt": "Boia de Substituição",
+   "en": "Switch Raft"
+  },
+  {
+   "n": "63",
+   "pt": "Vulcão Wela",
+   "en": "Wela Volcano Park"
+  },
+  {
+   "n": "64",
+   "pt": "Zínia",
+   "en": "Zinnia"
+  },
+  {
+   "n": "65",
+   "pt": "Reshiram GX",
+   "en": "Reshiram GX"
+  },
+  {
+   "n": "66",
+   "pt": "Kingdra GX",
+   "en": "Kingdra GX"
+  },
+  {
+   "n": "67",
+   "pt": "Dragonite GX",
+   "en": "Dragonite GX"
+  },
+  {
+   "n": "68",
+   "pt": "Altaria GX",
+   "en": "Altaria GX"
+  },
+  {
+   "n": "69",
+   "pt": "Última Chance de Blaine",
+   "en": "Blaine’s Last Stand"
+  },
+  {
+   "n": "70",
+   "pt": "Zínia",
+   "en": "Zinnia"
+  },
+  {
+   "n": "71",
+   "pt": "Reshiram GX",
+   "en": "Reshiram GX"
+  },
+  {
+   "n": "72",
+   "pt": "Altaria GX",
+   "en": "Altaria GX"
+  },
+  {
+   "n": "73",
+   "pt": "Salamence GX",
+   "en": "Salamence GX"
+  },
+  {
+   "n": "74",
+   "pt": "Kyurem Branco GX",
+   "en": "White Kyurem GX"
+  },
+  {
+   "n": "75",
+   "pt": "Grifa de Dragão",
+   "en": "Dragon Talon"
+  },
+  {
+   "n": "76",
+   "pt": "Sílex-de-fogo",
+   "en": "Fiery Flint"
+  },
+  {
+   "n": "77",
+   "pt": "Boia de Substituição",
+   "en": "Switch Raft"
+  },
+  {
+   "n": "78",
+   "pt": "Ultra Necrozma GX",
+   "en": "Ultra Necrozma GX"
+  }
+ ]
+}

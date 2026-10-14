@@ -1,0 +1,618 @@
+{
+ "set": "me04",
+ "nome_pt": "Caos Ascendente",
+ "nome_en": "Chaos Rising",
+ "total": 122,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Weedle",
+   "en": "Weedle"
+  },
+  {
+   "n": "002",
+   "pt": "Kakuna",
+   "en": "Kakuna"
+  },
+  {
+   "n": "003",
+   "pt": "Beedrill ex",
+   "en": "Beedrill ex"
+  },
+  {
+   "n": "004",
+   "pt": "Carnivine",
+   "en": "Carnivine"
+  },
+  {
+   "n": "005",
+   "pt": "Chespin",
+   "en": "Chespin"
+  },
+  {
+   "n": "006",
+   "pt": "Quilladin",
+   "en": "Quilladin"
+  },
+  {
+   "n": "007",
+   "pt": "Chesnaught",
+   "en": "Chesnaught"
+  },
+  {
+   "n": "008",
+   "pt": "Vulpix",
+   "en": "Vulpix"
+  },
+  {
+   "n": "009",
+   "pt": "Ninetales",
+   "en": "Ninetales"
+  },
+  {
+   "n": "010",
+   "pt": "Ho-Oh",
+   "en": "Ho-Oh"
+  },
+  {
+   "n": "011",
+   "pt": "Fennekin",
+   "en": "Fennekin"
+  },
+  {
+   "n": "012",
+   "pt": "Braixen",
+   "en": "Braixen"
+  },
+  {
+   "n": "013",
+   "pt": "Delphox",
+   "en": "Delphox"
+  },
+  {
+   "n": "014",
+   "pt": "Litleo",
+   "en": "Litleo"
+  },
+  {
+   "n": "015",
+   "pt": "Mega Pyroar ex",
+   "en": "Mega Pyroar ex"
+  },
+  {
+   "n": "016",
+   "pt": "Remoraid",
+   "en": "Remoraid"
+  },
+  {
+   "n": "017",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "018",
+   "pt": "Delibird",
+   "en": "Delibird"
+  },
+  {
+   "n": "019",
+   "pt": "Keldeo",
+   "en": "Keldeo"
+  },
+  {
+   "n": "020",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "021",
+   "pt": "Frogadier",
+   "en": "Frogadier"
+  },
+  {
+   "n": "022",
+   "pt": "Mega Greninja ex",
+   "en": "Mega Greninja ex"
+  },
+  {
+   "n": "023",
+   "pt": "Bergmite",
+   "en": "Bergmite"
+  },
+  {
+   "n": "024",
+   "pt": "Avalugg",
+   "en": "Avalugg"
+  },
+  {
+   "n": "025",
+   "pt": "Wimpod",
+   "en": "Wimpod"
+  },
+  {
+   "n": "026",
+   "pt": "Golisopod",
+   "en": "Golisopod"
+  },
+  {
+   "n": "027",
+   "pt": "Mareep",
+   "en": "Mareep"
+  },
+  {
+   "n": "028",
+   "pt": "Flaaffy",
+   "en": "Flaaffy"
+  },
+  {
+   "n": "029",
+   "pt": "Ampharos",
+   "en": "Ampharos"
+  },
+  {
+   "n": "030",
+   "pt": "Emolga",
+   "en": "Emolga"
+  },
+  {
+   "n": "031",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "032",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "033",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "034",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "035",
+   "pt": "Mega Floette ex",
+   "en": "Mega Floette ex"
+  },
+  {
+   "n": "036",
+   "pt": "Espurr",
+   "en": "Espurr"
+  },
+  {
+   "n": "037",
+   "pt": "Meowstic",
+   "en": "Meowstic"
+  },
+  {
+   "n": "038",
+   "pt": "Phantump",
+   "en": "Phantump"
+  },
+  {
+   "n": "039",
+   "pt": "Trevenant",
+   "en": "Trevenant"
+  },
+  {
+   "n": "040",
+   "pt": "Pumpkaboo",
+   "en": "Pumpkaboo"
+  },
+  {
+   "n": "041",
+   "pt": "Gourgeist ex",
+   "en": "Gourgeist ex"
+  },
+  {
+   "n": "042",
+   "pt": "Xerneas",
+   "en": "Xerneas"
+  },
+  {
+   "n": "043",
+   "pt": "Sudowoodo",
+   "en": "Sudowoodo"
+  },
+  {
+   "n": "044",
+   "pt": "Phanpy",
+   "en": "Phanpy"
+  },
+  {
+   "n": "045",
+   "pt": "Donphan",
+   "en": "Donphan"
+  },
+  {
+   "n": "046",
+   "pt": "Baltoy",
+   "en": "Baltoy"
+  },
+  {
+   "n": "047",
+   "pt": "Claydol",
+   "en": "Claydol"
+  },
+  {
+   "n": "048",
+   "pt": "Mega Gallade ex",
+   "en": "Mega Gallade ex"
+  },
+  {
+   "n": "049",
+   "pt": "Zubat",
+   "en": "Zubat"
+  },
+  {
+   "n": "050",
+   "pt": "Golbat",
+   "en": "Golbat"
+  },
+  {
+   "n": "051",
+   "pt": "Crobat",
+   "en": "Crobat"
+  },
+  {
+   "n": "052",
+   "pt": "Qwilfish",
+   "en": "Qwilfish"
+  },
+  {
+   "n": "053",
+   "pt": "Stunky",
+   "en": "Stunky"
+  },
+  {
+   "n": "054",
+   "pt": "Skuntank",
+   "en": "Skuntank"
+  },
+  {
+   "n": "055",
+   "pt": "Krookodile ex",
+   "en": "Krookodile ex"
+  },
+  {
+   "n": "056",
+   "pt": "Trubbish",
+   "en": "Trubbish"
+  },
+  {
+   "n": "057",
+   "pt": "Garbodor",
+   "en": "Garbodor"
+  },
+  {
+   "n": "058",
+   "pt": "Skrelp",
+   "en": "Skrelp"
+  },
+  {
+   "n": "059",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "060",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "061",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "062",
+   "pt": "Ferroseed",
+   "en": "Ferroseed"
+  },
+  {
+   "n": "063",
+   "pt": "Ferrothorn",
+   "en": "Ferrothorn"
+  },
+  {
+   "n": "064",
+   "pt": "Cobalion ex",
+   "en": "Cobalion ex"
+  },
+  {
+   "n": "065",
+   "pt": "Mega Dragalge ex",
+   "en": "Mega Dragalge ex"
+  },
+  {
+   "n": "066",
+   "pt": "Goomy",
+   "en": "Goomy"
+  },
+  {
+   "n": "067",
+   "pt": "Sliggoo",
+   "en": "Sliggoo"
+  },
+  {
+   "n": "068",
+   "pt": "Goodra",
+   "en": "Goodra"
+  },
+  {
+   "n": "069",
+   "pt": "Tauros",
+   "en": "Tauros"
+  },
+  {
+   "n": "070",
+   "pt": "Patrat",
+   "en": "Patrat"
+  },
+  {
+   "n": "071",
+   "pt": "Watchog",
+   "en": "Watchog"
+  },
+  {
+   "n": "072",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "073",
+   "pt": "Cinccino ex",
+   "en": "Cinccino ex"
+  },
+  {
+   "n": "074",
+   "pt": "Apólice de Adversidade",
+   "en": "Adversity Policy"
+  },
+  {
+   "n": "075",
+   "pt": "Floette Ange",
+   "en": "Ange Floette"
+  },
+  {
+   "n": "076",
+   "pt": "Tranquilidade do AZ",
+   "en": "AZ's Tranquility"
+  },
+  {
+   "n": "077",
+   "pt": "Emma",
+   "en": "Emma"
+  },
+  {
+   "n": "078",
+   "pt": "Rede Grande de Arrasto",
+   "en": "Great Haul Net"
+  },
+  {
+   "n": "079",
+   "pt": "Philippe",
+   "en": "Philippe"
+  },
+  {
+   "n": "080",
+   "pt": "Torre Prisma",
+   "en": "Prism Tower"
+  },
+  {
+   "n": "081",
+   "pt": "Show da Roxie",
+   "en": "Roxie's Performance"
+  },
+  {
+   "n": "082",
+   "pt": "Cartão Vermelho Especial",
+   "en": "Special Red Card"
+  },
+  {
+   "n": "083",
+   "pt": "Tomo da Transformação",
+   "en": "Transformation Tome"
+  },
+  {
+   "n": "084",
+   "pt": "Energia Water Borbulhante",
+   "en": "Bubbly Water Energy"
+  },
+  {
+   "n": "085",
+   "pt": "Energia Metal Magnética",
+   "en": "Magnetic Metal Energy"
+  },
+  {
+   "n": "086",
+   "pt": "Energia Fire Nitro",
+   "en": "Nitro Fire Energy"
+  },
+  {
+   "n": "087",
+   "pt": "Chespin",
+   "en": "Chespin"
+  },
+  {
+   "n": "088",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "089",
+   "pt": "Frogadier",
+   "en": "Frogadier"
+  },
+  {
+   "n": "090",
+   "pt": "Ampharos",
+   "en": "Ampharos"
+  },
+  {
+   "n": "091",
+   "pt": "Xerneas",
+   "en": "Xerneas"
+  },
+  {
+   "n": "092",
+   "pt": "Claydol",
+   "en": "Claydol"
+  },
+  {
+   "n": "093",
+   "pt": "Crobat",
+   "en": "Crobat"
+  },
+  {
+   "n": "094",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "095",
+   "pt": "Sliggoo",
+   "en": "Sliggoo"
+  },
+  {
+   "n": "096",
+   "pt": "Tauros",
+   "en": "Tauros"
+  },
+  {
+   "n": "097",
+   "pt": "Watchog",
+   "en": "Watchog"
+  },
+  {
+   "n": "098",
+   "pt": "Beedrill ex",
+   "en": "Beedrill ex"
+  },
+  {
+   "n": "099",
+   "pt": "Mega Pyroar ex",
+   "en": "Mega Pyroar ex"
+  },
+  {
+   "n": "100",
+   "pt": "Mega Greninja ex",
+   "en": "Mega Greninja ex"
+  },
+  {
+   "n": "101",
+   "pt": "Mega Floette ex",
+   "en": "Mega Floette ex"
+  },
+  {
+   "n": "102",
+   "pt": "Gourgeist ex",
+   "en": "Gourgeist ex"
+  },
+  {
+   "n": "103",
+   "pt": "Cobalion ex",
+   "en": "Cobalion ex"
+  },
+  {
+   "n": "104",
+   "pt": "Mega Dragalge ex",
+   "en": "Mega Dragalge ex"
+  },
+  {
+   "n": "105",
+   "pt": "Cinccino ex",
+   "en": "Cinccino ex"
+  },
+  {
+   "n": "106",
+   "pt": "Tranquilidade do AZ",
+   "en": "AZ's Tranquility"
+  },
+  {
+   "n": "107",
+   "pt": "Emma",
+   "en": "Emma"
+  },
+  {
+   "n": "108",
+   "pt": "Recuperação de Energia",
+   "en": "Energy Retrieval"
+  },
+  {
+   "n": "109",
+   "pt": "Sorvetão Jumbo",
+   "en": "Jumbo Ice Cream"
+  },
+  {
+   "n": "110",
+   "pt": "Philippe",
+   "en": "Philippe"
+  },
+  {
+   "n": "111",
+   "pt": "Torre Prisma",
+   "en": "Prism Tower"
+  },
+  {
+   "n": "112",
+   "pt": "Show da Roxie",
+   "en": "Roxie's Performance"
+  },
+  {
+   "n": "113",
+   "pt": "Cartão Vermelho Especial",
+   "en": "Special Red Card"
+  },
+  {
+   "n": "114",
+   "pt": "Praia de Surfista",
+   "en": "Surfing Beach"
+  },
+  {
+   "n": "115",
+   "pt": "Sucateador de Ferramentas",
+   "en": "Tool Scrapper"
+  },
+  {
+   "n": "116",
+   "pt": "Mega Greninja ex",
+   "en": "Mega Greninja ex"
+  },
+  {
+   "n": "117",
+   "pt": "Mega Floette ex",
+   "en": "Mega Floette ex"
+  },
+  {
+   "n": "118",
+   "pt": "Mega Dragalge ex",
+   "en": "Mega Dragalge ex"
+  },
+  {
+   "n": "119",
+   "pt": "Cinccino ex",
+   "en": "Cinccino ex"
+  },
+  {
+   "n": "120",
+   "pt": "Tranquilidade do AZ",
+   "en": "AZ's Tranquility"
+  },
+  {
+   "n": "121",
+   "pt": "Show da Roxie",
+   "en": "Roxie's Performance"
+  },
+  {
+   "n": "122",
+   "pt": "Mega Greninja ex",
+   "en": "Mega Greninja ex"
+  }
+ ]
+}

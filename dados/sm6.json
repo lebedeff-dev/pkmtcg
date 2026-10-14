@@ -1,0 +1,738 @@
+{
+ "set": "sm6",
+ "nome_pt": "Luz Proibida",
+ "nome_en": "Forbidden Light",
+ "total": 146,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "2",
+   "pt": "Exeggutor de Alola",
+   "en": "Alolan Exeggutor"
+  },
+  {
+   "n": "3",
+   "pt": "Snover",
+   "en": "Snover"
+  },
+  {
+   "n": "4",
+   "pt": "Abomasnow",
+   "en": "Abomasnow"
+  },
+  {
+   "n": "5",
+   "pt": "Scatterbug",
+   "en": "Scatterbug"
+  },
+  {
+   "n": "6",
+   "pt": "Scatterbug",
+   "en": "Scatterbug"
+  },
+  {
+   "n": "7",
+   "pt": "Spewpa",
+   "en": "Spewpa"
+  },
+  {
+   "n": "8",
+   "pt": "Vivillon",
+   "en": "Vivillon"
+  },
+  {
+   "n": "9",
+   "pt": "Skiddo",
+   "en": "Skiddo"
+  },
+  {
+   "n": "10",
+   "pt": "Gogoat",
+   "en": "Gogoat"
+  },
+  {
+   "n": "11",
+   "pt": "Pheromosa",
+   "en": "Pheromosa"
+  },
+  {
+   "n": "12",
+   "pt": "Marowak de Alola",
+   "en": "Alolan Marowak"
+  },
+  {
+   "n": "13",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "14",
+   "pt": "Fennekin",
+   "en": "Fennekin"
+  },
+  {
+   "n": "15",
+   "pt": "Fennekin",
+   "en": "Fennekin"
+  },
+  {
+   "n": "16",
+   "pt": "Braixen",
+   "en": "Braixen"
+  },
+  {
+   "n": "17",
+   "pt": "Delphox",
+   "en": "Delphox"
+  },
+  {
+   "n": "18",
+   "pt": "Litleo",
+   "en": "Litleo"
+  },
+  {
+   "n": "19",
+   "pt": "Pyroar",
+   "en": "Pyroar"
+  },
+  {
+   "n": "20",
+   "pt": "Palkia GX",
+   "en": "Palkia GX"
+  },
+  {
+   "n": "21",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "22",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "23",
+   "pt": "Frogadier",
+   "en": "Frogadier"
+  },
+  {
+   "n": "24",
+   "pt": "Greninja GX",
+   "en": "Greninja GX"
+  },
+  {
+   "n": "25",
+   "pt": "Clauncher",
+   "en": "Clauncher"
+  },
+  {
+   "n": "26",
+   "pt": "Clawitzer",
+   "en": "Clawitzer"
+  },
+  {
+   "n": "27",
+   "pt": "Amaura",
+   "en": "Amaura"
+  },
+  {
+   "n": "28",
+   "pt": "Aurorus",
+   "en": "Aurorus"
+  },
+  {
+   "n": "29",
+   "pt": "Bergmite",
+   "en": "Bergmite"
+  },
+  {
+   "n": "30",
+   "pt": "Avalugg",
+   "en": "Avalugg"
+  },
+  {
+   "n": "31",
+   "pt": "Volcanion ◇",
+   "en": "Volcanion ◇"
+  },
+  {
+   "n": "32",
+   "pt": "Dewpider",
+   "en": "Dewpider"
+  },
+  {
+   "n": "33",
+   "pt": "Araquanid",
+   "en": "Araquanid"
+  },
+  {
+   "n": "34",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "35",
+   "pt": "Magneton",
+   "en": "Magneton"
+  },
+  {
+   "n": "36",
+   "pt": "Magnezone",
+   "en": "Magnezone"
+  },
+  {
+   "n": "37",
+   "pt": "Helioptile",
+   "en": "Helioptile"
+  },
+  {
+   "n": "38",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "39",
+   "pt": "Xurkitree",
+   "en": "Xurkitree"
+  },
+  {
+   "n": "40",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "41",
+   "pt": "Uxie",
+   "en": "Uxie"
+  },
+  {
+   "n": "42",
+   "pt": "Mesprit",
+   "en": "Mesprit"
+  },
+  {
+   "n": "43",
+   "pt": "Azelf",
+   "en": "Azelf"
+  },
+  {
+   "n": "44",
+   "pt": "Espurr",
+   "en": "Espurr"
+  },
+  {
+   "n": "45",
+   "pt": "Meowstic",
+   "en": "Meowstic"
+  },
+  {
+   "n": "46",
+   "pt": "Honedge",
+   "en": "Honedge"
+  },
+  {
+   "n": "47",
+   "pt": "Honedge",
+   "en": "Honedge"
+  },
+  {
+   "n": "48",
+   "pt": "Doublade",
+   "en": "Doublade"
+  },
+  {
+   "n": "49",
+   "pt": "Aegislash",
+   "en": "Aegislash"
+  },
+  {
+   "n": "50",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "51",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "52",
+   "pt": "Skrelp",
+   "en": "Skrelp"
+  },
+  {
+   "n": "53",
+   "pt": "Dragalge",
+   "en": "Dragalge"
+  },
+  {
+   "n": "54",
+   "pt": "Hoopa",
+   "en": "Hoopa"
+  },
+  {
+   "n": "55",
+   "pt": "Poipole",
+   "en": "Poipole"
+  },
+  {
+   "n": "56",
+   "pt": "Naganadel GX",
+   "en": "Naganadel GX"
+  },
+  {
+   "n": "57",
+   "pt": "Cubone",
+   "en": "Cubone"
+  },
+  {
+   "n": "58",
+   "pt": "Torterra",
+   "en": "Torterra"
+  },
+  {
+   "n": "59",
+   "pt": "Infernape",
+   "en": "Infernape"
+  },
+  {
+   "n": "60",
+   "pt": "Gible",
+   "en": "Gible"
+  },
+  {
+   "n": "61",
+   "pt": "Gabite",
+   "en": "Gabite"
+  },
+  {
+   "n": "62",
+   "pt": "Garchomp",
+   "en": "Garchomp"
+  },
+  {
+   "n": "63",
+   "pt": "Croagunk",
+   "en": "Croagunk"
+  },
+  {
+   "n": "64",
+   "pt": "Toxicroak",
+   "en": "Toxicroak"
+  },
+  {
+   "n": "65",
+   "pt": "Pancham",
+   "en": "Pancham"
+  },
+  {
+   "n": "66",
+   "pt": "Binacle",
+   "en": "Binacle"
+  },
+  {
+   "n": "67",
+   "pt": "Barbaracle",
+   "en": "Barbaracle"
+  },
+  {
+   "n": "68",
+   "pt": "Tyrunt",
+   "en": "Tyrunt"
+  },
+  {
+   "n": "69",
+   "pt": "Tyrantrum",
+   "en": "Tyrantrum"
+  },
+  {
+   "n": "70",
+   "pt": "Hawlucha",
+   "en": "Hawlucha"
+  },
+  {
+   "n": "71",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "72",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "73",
+   "pt": "Zygarde GX",
+   "en": "Zygarde GX"
+  },
+  {
+   "n": "74",
+   "pt": "Diancie ◇",
+   "en": "Diancie ◇"
+  },
+  {
+   "n": "75",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "76",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "77",
+   "pt": "Buzzwole",
+   "en": "Buzzwole"
+  },
+  {
+   "n": "78",
+   "pt": "Pangoro",
+   "en": "Pangoro"
+  },
+  {
+   "n": "79",
+   "pt": "Yveltal GX",
+   "en": "Yveltal GX"
+  },
+  {
+   "n": "80",
+   "pt": "Guzzlord",
+   "en": "Guzzlord"
+  },
+  {
+   "n": "81",
+   "pt": "Empoleon",
+   "en": "Empoleon"
+  },
+  {
+   "n": "82",
+   "pt": "Dialga GX",
+   "en": "Dialga GX"
+  },
+  {
+   "n": "83",
+   "pt": "Flabébé",
+   "en": "Flabébé"
+  },
+  {
+   "n": "84",
+   "pt": "Flabébé",
+   "en": "Flabébé"
+  },
+  {
+   "n": "85",
+   "pt": "Floette",
+   "en": "Floette"
+  },
+  {
+   "n": "86",
+   "pt": "Florges",
+   "en": "Florges"
+  },
+  {
+   "n": "87",
+   "pt": "Sylveon",
+   "en": "Sylveon"
+  },
+  {
+   "n": "88",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "89",
+   "pt": "Klefki",
+   "en": "Klefki"
+  },
+  {
+   "n": "90",
+   "pt": "Xerneas GX",
+   "en": "Xerneas GX"
+  },
+  {
+   "n": "91",
+   "pt": "Goomy",
+   "en": "Goomy"
+  },
+  {
+   "n": "92",
+   "pt": "Goomy",
+   "en": "Goomy"
+  },
+  {
+   "n": "93",
+   "pt": "Sliggoo",
+   "en": "Sliggoo"
+  },
+  {
+   "n": "94",
+   "pt": "Goodra",
+   "en": "Goodra"
+  },
+  {
+   "n": "95",
+   "pt": "Ultra Necrozma GX",
+   "en": "Ultra Necrozma GX"
+  },
+  {
+   "n": "96",
+   "pt": "Arceus ◇",
+   "en": "Arceus ◇"
+  },
+  {
+   "n": "97",
+   "pt": "Bunnelby",
+   "en": "Bunnelby"
+  },
+  {
+   "n": "98",
+   "pt": "Diggersby",
+   "en": "Diggersby"
+  },
+  {
+   "n": "99",
+   "pt": "Furfrou",
+   "en": "Furfrou"
+  },
+  {
+   "n": "100",
+   "pt": "Noibat",
+   "en": "Noibat"
+  },
+  {
+   "n": "101",
+   "pt": "Noivern",
+   "en": "Noivern"
+  },
+  {
+   "n": "102",
+   "pt": "Portal de Criatura",
+   "en": "Beast Ring"
+  },
+  {
+   "n": "103",
+   "pt": "Bonnie",
+   "en": "Bonnie"
+  },
+  {
+   "n": "104",
+   "pt": "Demolidor Wake",
+   "en": "Crasher Wake"
+  },
+  {
+   "n": "105",
+   "pt": "Diantha",
+   "en": "Diantha"
+  },
+  {
+   "n": "106",
+   "pt": "Eneportal",
+   "en": "Eneporter"
+  },
+  {
+   "n": "107",
+   "pt": "Mapa de Escavar Fósseis",
+   "en": "Fossil Excavation Map"
+  },
+  {
+   "n": "108",
+   "pt": "Juiz",
+   "en": "Judge"
+  },
+  {
+   "n": "109",
+   "pt": "Dama",
+   "en": "Lady"
+  },
+  {
+   "n": "110",
+   "pt": "Lysandre ◇",
+   "en": "Lysandre ◇"
+  },
+  {
+   "n": "111",
+   "pt": "Laboratórios Lysandre",
+   "en": "Lysandre Labs"
+  },
+  {
+   "n": "112",
+   "pt": "Frigideira de Metal",
+   "en": "Metal Frying Pan"
+  },
+  {
+   "n": "113",
+   "pt": "Tesouro Misterioso",
+   "en": "Mysterious Treasure"
+  },
+  {
+   "n": "114",
+   "pt": "Ultraesquadrão de Reconhecimento",
+   "en": "Ultra Recon Squad"
+  },
+  {
+   "n": "115",
+   "pt": "Ultraespaço",
+   "en": "Ultra Space"
+  },
+  {
+   "n": "116",
+   "pt": "Fóssil Não Identificado",
+   "en": "Unidentified Fossil"
+  },
+  {
+   "n": "117",
+   "pt": "Energia para Criaturas ◇",
+   "en": "Beast Energy ◇"
+  },
+  {
+   "n": "118",
+   "pt": "Energia Unitária FightingDarknessFairy",
+   "en": "Unit Energy FightingDarknessFairy"
+  },
+  {
+   "n": "119",
+   "pt": "Palkia GX",
+   "en": "Palkia GX"
+  },
+  {
+   "n": "120",
+   "pt": "Greninja GX",
+   "en": "Greninja GX"
+  },
+  {
+   "n": "121",
+   "pt": "Naganadel GX",
+   "en": "Naganadel GX"
+  },
+  {
+   "n": "122",
+   "pt": "Lucario GX",
+   "en": "Lucario GX"
+  },
+  {
+   "n": "123",
+   "pt": "Zygarde GX",
+   "en": "Zygarde GX"
+  },
+  {
+   "n": "124",
+   "pt": "Yveltal GX",
+   "en": "Yveltal GX"
+  },
+  {
+   "n": "125",
+   "pt": "Dialga GX",
+   "en": "Dialga GX"
+  },
+  {
+   "n": "126",
+   "pt": "Xerneas GX",
+   "en": "Xerneas GX"
+  },
+  {
+   "n": "127",
+   "pt": "Ultra Necrozma GX",
+   "en": "Ultra Necrozma GX"
+  },
+  {
+   "n": "128",
+   "pt": "Bonnie",
+   "en": "Bonnie"
+  },
+  {
+   "n": "129",
+   "pt": "Demolidor Wake",
+   "en": "Crasher Wake"
+  },
+  {
+   "n": "130",
+   "pt": "Diantha",
+   "en": "Diantha"
+  },
+  {
+   "n": "131",
+   "pt": "Ultraesquadrão de Reconhecimento",
+   "en": "Ultra Recon Squad"
+  },
+  {
+   "n": "132",
+   "pt": "Palkia GX",
+   "en": "Palkia GX"
+  },
+  {
+   "n": "133",
+   "pt": "Greninja GX",
+   "en": "Greninja GX"
+  },
+  {
+   "n": "134",
+   "pt": "Naganadel GX",
+   "en": "Naganadel GX"
+  },
+  {
+   "n": "135",
+   "pt": "Lucario GX",
+   "en": "Lucario GX"
+  },
+  {
+   "n": "136",
+   "pt": "Zygarde GX",
+   "en": "Zygarde GX"
+  },
+  {
+   "n": "137",
+   "pt": "Yveltal GX",
+   "en": "Yveltal GX"
+  },
+  {
+   "n": "138",
+   "pt": "Dialga GX",
+   "en": "Dialga GX"
+  },
+  {
+   "n": "139",
+   "pt": "Xerneas GX",
+   "en": "Xerneas GX"
+  },
+  {
+   "n": "140",
+   "pt": "Ultra Necrozma GX",
+   "en": "Ultra Necrozma GX"
+  },
+  {
+   "n": "141",
+   "pt": "Portal de Criatura",
+   "en": "Beast Ring"
+  },
+  {
+   "n": "142",
+   "pt": "Eneportal",
+   "en": "Eneporter"
+  },
+  {
+   "n": "143",
+   "pt": "Reciclador de Energia",
+   "en": "Energy Recycler"
+  },
+  {
+   "n": "144",
+   "pt": "Frigideira de Metal",
+   "en": "Metal Frying Pan"
+  },
+  {
+   "n": "145",
+   "pt": "Tesouro Misterioso",
+   "en": "Mysterious Treasure"
+  },
+  {
+   "n": "146",
+   "pt": "Energia Unitária FightingDarknessFairy",
+   "en": "Unit Energy FightingDarknessFairy"
+  }
+ ]
+}

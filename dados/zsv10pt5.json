@@ -1,0 +1,868 @@
+{
+ "set": "zsv10pt5",
+ "nome_pt": "Raio Preto",
+ "nome_en": "Black Bolt",
+ "total": 172,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Snivy",
+   "en": "Snivy"
+  },
+  {
+   "n": "002",
+   "pt": "Servine",
+   "en": "Servine"
+  },
+  {
+   "n": "003",
+   "pt": "Serperior ex",
+   "en": "Serperior ex"
+  },
+  {
+   "n": "004",
+   "pt": "Pansage",
+   "en": "Pansage"
+  },
+  {
+   "n": "005",
+   "pt": "Simisage",
+   "en": "Simisage"
+  },
+  {
+   "n": "006",
+   "pt": "Petilil",
+   "en": "Petilil"
+  },
+  {
+   "n": "007",
+   "pt": "Lilligant",
+   "en": "Lilligant"
+  },
+  {
+   "n": "008",
+   "pt": "Maractus",
+   "en": "Maractus"
+  },
+  {
+   "n": "009",
+   "pt": "Karrablast",
+   "en": "Karrablast"
+  },
+  {
+   "n": "010",
+   "pt": "Foongus",
+   "en": "Foongus"
+  },
+  {
+   "n": "011",
+   "pt": "Amoonguss",
+   "en": "Amoonguss"
+  },
+  {
+   "n": "012",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "013",
+   "pt": "Darumaka",
+   "en": "Darumaka"
+  },
+  {
+   "n": "014",
+   "pt": "Darmanitan",
+   "en": "Darmanitan"
+  },
+  {
+   "n": "015",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "016",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "017",
+   "pt": "Panpour",
+   "en": "Panpour"
+  },
+  {
+   "n": "018",
+   "pt": "Simipour",
+   "en": "Simipour"
+  },
+  {
+   "n": "019",
+   "pt": "Tympole",
+   "en": "Tympole"
+  },
+  {
+   "n": "020",
+   "pt": "Palpitoad",
+   "en": "Palpitoad"
+  },
+  {
+   "n": "021",
+   "pt": "Seismitoad",
+   "en": "Seismitoad"
+  },
+  {
+   "n": "022",
+   "pt": "Tirtouga",
+   "en": "Tirtouga"
+  },
+  {
+   "n": "023",
+   "pt": "Carracosta",
+   "en": "Carracosta"
+  },
+  {
+   "n": "024",
+   "pt": "Alomomola",
+   "en": "Alomomola"
+  },
+  {
+   "n": "025",
+   "pt": "Cubchoo",
+   "en": "Cubchoo"
+  },
+  {
+   "n": "026",
+   "pt": "Beartic",
+   "en": "Beartic"
+  },
+  {
+   "n": "027",
+   "pt": "Cryogonal",
+   "en": "Cryogonal"
+  },
+  {
+   "n": "028",
+   "pt": "Kyurem ex",
+   "en": "Kyurem ex"
+  },
+  {
+   "n": "029",
+   "pt": "Emolga",
+   "en": "Emolga"
+  },
+  {
+   "n": "030",
+   "pt": "Tynamo",
+   "en": "Tynamo"
+  },
+  {
+   "n": "031",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "032",
+   "pt": "Eelektross",
+   "en": "Eelektross"
+  },
+  {
+   "n": "033",
+   "pt": "Thundurus",
+   "en": "Thundurus"
+  },
+  {
+   "n": "034",
+   "pt": "Zekrom ex",
+   "en": "Zekrom ex"
+  },
+  {
+   "n": "035",
+   "pt": "Munna",
+   "en": "Munna"
+  },
+  {
+   "n": "036",
+   "pt": "Musharna",
+   "en": "Musharna"
+  },
+  {
+   "n": "037",
+   "pt": "Solosis",
+   "en": "Solosis"
+  },
+  {
+   "n": "038",
+   "pt": "Duosion",
+   "en": "Duosion"
+  },
+  {
+   "n": "039",
+   "pt": "Reuniclus",
+   "en": "Reuniclus"
+  },
+  {
+   "n": "040",
+   "pt": "Elgyem",
+   "en": "Elgyem"
+  },
+  {
+   "n": "041",
+   "pt": "Beheeyem",
+   "en": "Beheeyem"
+  },
+  {
+   "n": "042",
+   "pt": "Golett",
+   "en": "Golett"
+  },
+  {
+   "n": "043",
+   "pt": "Golurk",
+   "en": "Golurk"
+  },
+  {
+   "n": "044",
+   "pt": "Meloetta ex",
+   "en": "Meloetta ex"
+  },
+  {
+   "n": "045",
+   "pt": "Drilbur",
+   "en": "Drilbur"
+  },
+  {
+   "n": "046",
+   "pt": "Excadrill ex",
+   "en": "Excadrill ex"
+  },
+  {
+   "n": "047",
+   "pt": "Timburr",
+   "en": "Timburr"
+  },
+  {
+   "n": "048",
+   "pt": "Gurdurr",
+   "en": "Gurdurr"
+  },
+  {
+   "n": "049",
+   "pt": "Conkeldurr",
+   "en": "Conkeldurr"
+  },
+  {
+   "n": "050",
+   "pt": "Throh",
+   "en": "Throh"
+  },
+  {
+   "n": "051",
+   "pt": "Dwebble",
+   "en": "Dwebble"
+  },
+  {
+   "n": "052",
+   "pt": "Crustle",
+   "en": "Crustle"
+  },
+  {
+   "n": "053",
+   "pt": "Landorus",
+   "en": "Landorus"
+  },
+  {
+   "n": "054",
+   "pt": "Venipede",
+   "en": "Venipede"
+  },
+  {
+   "n": "055",
+   "pt": "Whirlipede",
+   "en": "Whirlipede"
+  },
+  {
+   "n": "056",
+   "pt": "Scolipede",
+   "en": "Scolipede"
+  },
+  {
+   "n": "057",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "058",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "059",
+   "pt": "Krookodile",
+   "en": "Krookodile"
+  },
+  {
+   "n": "060",
+   "pt": "Escavalier",
+   "en": "Escavalier"
+  },
+  {
+   "n": "061",
+   "pt": "Klink",
+   "en": "Klink"
+  },
+  {
+   "n": "062",
+   "pt": "Klang",
+   "en": "Klang"
+  },
+  {
+   "n": "063",
+   "pt": "Klinklang",
+   "en": "Klinklang"
+  },
+  {
+   "n": "064",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "065",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "066",
+   "pt": "Cobalion",
+   "en": "Cobalion"
+  },
+  {
+   "n": "067",
+   "pt": "Genesect ex",
+   "en": "Genesect ex"
+  },
+  {
+   "n": "068",
+   "pt": "Axew",
+   "en": "Axew"
+  },
+  {
+   "n": "069",
+   "pt": "Fraxure",
+   "en": "Fraxure"
+  },
+  {
+   "n": "070",
+   "pt": "Haxorus",
+   "en": "Haxorus"
+  },
+  {
+   "n": "071",
+   "pt": "Pidove",
+   "en": "Pidove"
+  },
+  {
+   "n": "072",
+   "pt": "Tranquill",
+   "en": "Tranquill"
+  },
+  {
+   "n": "073",
+   "pt": "Unfezant",
+   "en": "Unfezant"
+  },
+  {
+   "n": "074",
+   "pt": "Audino",
+   "en": "Audino"
+  },
+  {
+   "n": "075",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "076",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "077",
+   "pt": "Rufflet",
+   "en": "Rufflet"
+  },
+  {
+   "n": "078",
+   "pt": "Braviary",
+   "en": "Braviary"
+  },
+  {
+   "n": "079",
+   "pt": "Balão de Ar",
+   "en": "Air Balloon"
+  },
+  {
+   "n": "080",
+   "pt": "Fóssil Casca Arcaico",
+   "en": "Antique Cover Fossil"
+  },
+  {
+   "n": "081",
+   "pt": "Moeda Energética",
+   "en": "Energy Coin"
+  },
+  {
+   "n": "082",
+   "pt": "Fennel",
+   "en": "Fennel"
+  },
+  {
+   "n": "083",
+   "pt": "Plano do N",
+   "en": "N's Plan"
+  },
+  {
+   "n": "084",
+   "pt": "Pokégear 3.0",
+   "en": "Pokégear 3.0"
+  },
+  {
+   "n": "085",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "086",
+   "pt": "Energia de Prisma",
+   "en": "Prism Energy"
+  },
+  {
+   "n": "087",
+   "pt": "Snivy",
+   "en": "Snivy"
+  },
+  {
+   "n": "088",
+   "pt": "Servine",
+   "en": "Servine"
+  },
+  {
+   "n": "089",
+   "pt": "Pansage",
+   "en": "Pansage"
+  },
+  {
+   "n": "090",
+   "pt": "Simisage",
+   "en": "Simisage"
+  },
+  {
+   "n": "091",
+   "pt": "Petilil",
+   "en": "Petilil"
+  },
+  {
+   "n": "092",
+   "pt": "Lilligant",
+   "en": "Lilligant"
+  },
+  {
+   "n": "093",
+   "pt": "Maractus",
+   "en": "Maractus"
+  },
+  {
+   "n": "094",
+   "pt": "Karrablast",
+   "en": "Karrablast"
+  },
+  {
+   "n": "095",
+   "pt": "Foongus",
+   "en": "Foongus"
+  },
+  {
+   "n": "096",
+   "pt": "Amoonguss",
+   "en": "Amoonguss"
+  },
+  {
+   "n": "097",
+   "pt": "Darumaka",
+   "en": "Darumaka"
+  },
+  {
+   "n": "098",
+   "pt": "Darmanitan",
+   "en": "Darmanitan"
+  },
+  {
+   "n": "099",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "100",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "101",
+   "pt": "Panpour",
+   "en": "Panpour"
+  },
+  {
+   "n": "102",
+   "pt": "Simipour",
+   "en": "Simipour"
+  },
+  {
+   "n": "103",
+   "pt": "Tympole",
+   "en": "Tympole"
+  },
+  {
+   "n": "104",
+   "pt": "Palpitoad",
+   "en": "Palpitoad"
+  },
+  {
+   "n": "105",
+   "pt": "Seismitoad",
+   "en": "Seismitoad"
+  },
+  {
+   "n": "106",
+   "pt": "Tirtouga",
+   "en": "Tirtouga"
+  },
+  {
+   "n": "107",
+   "pt": "Carracosta",
+   "en": "Carracosta"
+  },
+  {
+   "n": "108",
+   "pt": "Alomomola",
+   "en": "Alomomola"
+  },
+  {
+   "n": "109",
+   "pt": "Cubchoo",
+   "en": "Cubchoo"
+  },
+  {
+   "n": "110",
+   "pt": "Beartic",
+   "en": "Beartic"
+  },
+  {
+   "n": "111",
+   "pt": "Cryogonal",
+   "en": "Cryogonal"
+  },
+  {
+   "n": "112",
+   "pt": "Emolga",
+   "en": "Emolga"
+  },
+  {
+   "n": "113",
+   "pt": "Tynamo",
+   "en": "Tynamo"
+  },
+  {
+   "n": "114",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "115",
+   "pt": "Eelektross",
+   "en": "Eelektross"
+  },
+  {
+   "n": "116",
+   "pt": "Munna",
+   "en": "Munna"
+  },
+  {
+   "n": "117",
+   "pt": "Musharna",
+   "en": "Musharna"
+  },
+  {
+   "n": "118",
+   "pt": "Solosis",
+   "en": "Solosis"
+  },
+  {
+   "n": "119",
+   "pt": "Duosion",
+   "en": "Duosion"
+  },
+  {
+   "n": "120",
+   "pt": "Elgyem",
+   "en": "Elgyem"
+  },
+  {
+   "n": "121",
+   "pt": "Beheeyem",
+   "en": "Beheeyem"
+  },
+  {
+   "n": "122",
+   "pt": "Golett",
+   "en": "Golett"
+  },
+  {
+   "n": "123",
+   "pt": "Golurk",
+   "en": "Golurk"
+  },
+  {
+   "n": "124",
+   "pt": "Drilbur",
+   "en": "Drilbur"
+  },
+  {
+   "n": "125",
+   "pt": "Timburr",
+   "en": "Timburr"
+  },
+  {
+   "n": "126",
+   "pt": "Gurdurr",
+   "en": "Gurdurr"
+  },
+  {
+   "n": "127",
+   "pt": "Conkeldurr",
+   "en": "Conkeldurr"
+  },
+  {
+   "n": "128",
+   "pt": "Throh",
+   "en": "Throh"
+  },
+  {
+   "n": "129",
+   "pt": "Dwebble",
+   "en": "Dwebble"
+  },
+  {
+   "n": "130",
+   "pt": "Crustle",
+   "en": "Crustle"
+  },
+  {
+   "n": "131",
+   "pt": "Landorus",
+   "en": "Landorus"
+  },
+  {
+   "n": "132",
+   "pt": "Venipede",
+   "en": "Venipede"
+  },
+  {
+   "n": "133",
+   "pt": "Whirlipede",
+   "en": "Whirlipede"
+  },
+  {
+   "n": "134",
+   "pt": "Scolipede",
+   "en": "Scolipede"
+  },
+  {
+   "n": "135",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "136",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "137",
+   "pt": "Krookodile",
+   "en": "Krookodile"
+  },
+  {
+   "n": "138",
+   "pt": "Escavalier",
+   "en": "Escavalier"
+  },
+  {
+   "n": "139",
+   "pt": "Klink",
+   "en": "Klink"
+  },
+  {
+   "n": "140",
+   "pt": "Klang",
+   "en": "Klang"
+  },
+  {
+   "n": "141",
+   "pt": "Klinklang",
+   "en": "Klinklang"
+  },
+  {
+   "n": "142",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "143",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "144",
+   "pt": "Cobalion",
+   "en": "Cobalion"
+  },
+  {
+   "n": "145",
+   "pt": "Axew",
+   "en": "Axew"
+  },
+  {
+   "n": "146",
+   "pt": "Fraxure",
+   "en": "Fraxure"
+  },
+  {
+   "n": "147",
+   "pt": "Haxorus",
+   "en": "Haxorus"
+  },
+  {
+   "n": "148",
+   "pt": "Pidove",
+   "en": "Pidove"
+  },
+  {
+   "n": "149",
+   "pt": "Tranquill",
+   "en": "Tranquill"
+  },
+  {
+   "n": "150",
+   "pt": "Unfezant",
+   "en": "Unfezant"
+  },
+  {
+   "n": "151",
+   "pt": "Audino",
+   "en": "Audino"
+  },
+  {
+   "n": "152",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "153",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "154",
+   "pt": "Rufflet",
+   "en": "Rufflet"
+  },
+  {
+   "n": "155",
+   "pt": "Braviary",
+   "en": "Braviary"
+  },
+  {
+   "n": "156",
+   "pt": "Serperior ex",
+   "en": "Serperior ex"
+  },
+  {
+   "n": "157",
+   "pt": "Kyurem ex",
+   "en": "Kyurem ex"
+  },
+  {
+   "n": "158",
+   "pt": "Zekrom ex",
+   "en": "Zekrom ex"
+  },
+  {
+   "n": "159",
+   "pt": "Meloetta ex",
+   "en": "Meloetta ex"
+  },
+  {
+   "n": "160",
+   "pt": "Excadrill ex",
+   "en": "Excadrill ex"
+  },
+  {
+   "n": "161",
+   "pt": "Genesect ex",
+   "en": "Genesect ex"
+  },
+  {
+   "n": "162",
+   "pt": "Fennel",
+   "en": "Fennel"
+  },
+  {
+   "n": "163",
+   "pt": "Plano do N",
+   "en": "N's Plan"
+  },
+  {
+   "n": "164",
+   "pt": "Serperior ex",
+   "en": "Serperior ex"
+  },
+  {
+   "n": "165",
+   "pt": "Kyurem ex",
+   "en": "Kyurem ex"
+  },
+  {
+   "n": "166",
+   "pt": "Zekrom ex",
+   "en": "Zekrom ex"
+  },
+  {
+   "n": "167",
+   "pt": "Meloetta ex",
+   "en": "Meloetta ex"
+  },
+  {
+   "n": "168",
+   "pt": "Excadrill ex",
+   "en": "Excadrill ex"
+  },
+  {
+   "n": "169",
+   "pt": "Genesect ex",
+   "en": "Genesect ex"
+  },
+  {
+   "n": "170",
+   "pt": "Plano do N",
+   "en": "N's Plan"
+  },
+  {
+   "n": "171",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "172",
+   "pt": "Zekrom ex",
+   "en": "Zekrom ex"
+  }
+ ]
+}

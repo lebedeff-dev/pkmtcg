@@ -1,0 +1,1173 @@
+{
+ "set": "swsh6",
+ "nome_pt": "Reinado Arrepiante",
+ "nome_en": "Chilling Reign",
+ "total": 233,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Weedle",
+   "en": "Weedle"
+  },
+  {
+   "n": "2",
+   "pt": "Kakuna",
+   "en": "Kakuna"
+  },
+  {
+   "n": "3",
+   "pt": "Beedrill",
+   "en": "Beedrill"
+  },
+  {
+   "n": "4",
+   "pt": "Ledyba",
+   "en": "Ledyba"
+  },
+  {
+   "n": "5",
+   "pt": "Ledian",
+   "en": "Ledian"
+  },
+  {
+   "n": "6",
+   "pt": "Heracross",
+   "en": "Heracross"
+  },
+  {
+   "n": "7",
+   "pt": "Celebi V",
+   "en": "Celebi V"
+  },
+  {
+   "n": "8",
+   "pt": "Celebi VMAX",
+   "en": "Celebi VMAX"
+  },
+  {
+   "n": "9",
+   "pt": "Snover",
+   "en": "Snover"
+  },
+  {
+   "n": "10",
+   "pt": "Abomasnow",
+   "en": "Abomasnow"
+  },
+  {
+   "n": "11",
+   "pt": "Deerling",
+   "en": "Deerling"
+  },
+  {
+   "n": "12",
+   "pt": "Sawsbuck",
+   "en": "Sawsbuck"
+  },
+  {
+   "n": "13",
+   "pt": "Bounsweet",
+   "en": "Bounsweet"
+  },
+  {
+   "n": "14",
+   "pt": "Steenee",
+   "en": "Steenee"
+  },
+  {
+   "n": "15",
+   "pt": "Tsareena",
+   "en": "Tsareena"
+  },
+  {
+   "n": "16",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "17",
+   "pt": "Thwackey",
+   "en": "Thwackey"
+  },
+  {
+   "n": "18",
+   "pt": "Rillaboom",
+   "en": "Rillaboom"
+  },
+  {
+   "n": "19",
+   "pt": "Zarude",
+   "en": "Zarude"
+  },
+  {
+   "n": "20",
+   "pt": "Blaziken V",
+   "en": "Blaziken V"
+  },
+  {
+   "n": "21",
+   "pt": "Blaziken VMAX",
+   "en": "Blaziken VMAX"
+  },
+  {
+   "n": "22",
+   "pt": "Castform Forma Ensolarada",
+   "en": "Castform Sunny Form"
+  },
+  {
+   "n": "23",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "24",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "25",
+   "pt": "Volcanion V",
+   "en": "Volcanion V"
+  },
+  {
+   "n": "26",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "27",
+   "pt": "Raboot",
+   "en": "Raboot"
+  },
+  {
+   "n": "28",
+   "pt": "Cinderace",
+   "en": "Cinderace"
+  },
+  {
+   "n": "29",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "30",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "31",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "32",
+   "pt": "Delibird",
+   "en": "Delibird"
+  },
+  {
+   "n": "33",
+   "pt": "Castform Forma Chuvosa",
+   "en": "Castform Rainy Form"
+  },
+  {
+   "n": "34",
+   "pt": "Castform Forma Nevada",
+   "en": "Castform Snowy Form"
+  },
+  {
+   "n": "35",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "36",
+   "pt": "Froslass",
+   "en": "Froslass"
+  },
+  {
+   "n": "37",
+   "pt": "Spheal",
+   "en": "Spheal"
+  },
+  {
+   "n": "38",
+   "pt": "Sealeo",
+   "en": "Sealeo"
+  },
+  {
+   "n": "39",
+   "pt": "Walrein",
+   "en": "Walrein"
+  },
+  {
+   "n": "40",
+   "pt": "Tapu Fini",
+   "en": "Tapu Fini"
+  },
+  {
+   "n": "41",
+   "pt": "Sobble",
+   "en": "Sobble"
+  },
+  {
+   "n": "42",
+   "pt": "Drizzile",
+   "en": "Drizzile"
+  },
+  {
+   "n": "43",
+   "pt": "Inteleon",
+   "en": "Inteleon"
+  },
+  {
+   "n": "44",
+   "pt": "Urshifu Golpe Fluido",
+   "en": "Rapid Strike Urshifu"
+  },
+  {
+   "n": "45",
+   "pt": "Calyrex Cavaleiro Glacial V",
+   "en": "Ice Rider Calyrex V"
+  },
+  {
+   "n": "46",
+   "pt": "Calyrex Cavaleiro Glacial VMAX",
+   "en": "Ice Rider Calyrex VMAX"
+  },
+  {
+   "n": "47",
+   "pt": "Mareep",
+   "en": "Mareep"
+  },
+  {
+   "n": "48",
+   "pt": "Flaaffy",
+   "en": "Flaaffy"
+  },
+  {
+   "n": "49",
+   "pt": "Ampharos",
+   "en": "Ampharos"
+  },
+  {
+   "n": "50",
+   "pt": "Blitzle",
+   "en": "Blitzle"
+  },
+  {
+   "n": "51",
+   "pt": "Zebstrika",
+   "en": "Zebstrika"
+  },
+  {
+   "n": "52",
+   "pt": "Thundurus",
+   "en": "Thundurus"
+  },
+  {
+   "n": "53",
+   "pt": "Zeraora V",
+   "en": "Zeraora V"
+  },
+  {
+   "n": "54",
+   "pt": "Slowpoke de Galar",
+   "en": "Galarian Slowpoke"
+  },
+  {
+   "n": "55",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "56",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "57",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "58",
+   "pt": "Articuno de Galar V",
+   "en": "Galarian Articuno V"
+  },
+  {
+   "n": "59",
+   "pt": "Ralts",
+   "en": "Ralts"
+  },
+  {
+   "n": "60",
+   "pt": "Kirlia",
+   "en": "Kirlia"
+  },
+  {
+   "n": "61",
+   "pt": "Gardevoir",
+   "en": "Gardevoir"
+  },
+  {
+   "n": "62",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "63",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "64",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "65",
+   "pt": "Golett",
+   "en": "Golett"
+  },
+  {
+   "n": "66",
+   "pt": "Golurk",
+   "en": "Golurk"
+  },
+  {
+   "n": "67",
+   "pt": "Swirlix",
+   "en": "Swirlix"
+  },
+  {
+   "n": "68",
+   "pt": "Slurpuff",
+   "en": "Slurpuff"
+  },
+  {
+   "n": "69",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "70",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "71",
+   "pt": "Hatenna",
+   "en": "Hatenna"
+  },
+  {
+   "n": "72",
+   "pt": "Hattrem",
+   "en": "Hattrem"
+  },
+  {
+   "n": "73",
+   "pt": "Hatterene",
+   "en": "Hatterene"
+  },
+  {
+   "n": "74",
+   "pt": "Calyrex Cavaleiro Espectral V",
+   "en": "Shadow Rider Calyrex V"
+  },
+  {
+   "n": "75",
+   "pt": "Calyrex Cavaleiro Espectral VMAX",
+   "en": "Shadow Rider Calyrex VMAX"
+  },
+  {
+   "n": "76",
+   "pt": "Diglett",
+   "en": "Diglett"
+  },
+  {
+   "n": "77",
+   "pt": "Dugtrio",
+   "en": "Dugtrio"
+  },
+  {
+   "n": "78",
+   "pt": "Farfetch'd de Galar",
+   "en": "Galarian Farfetch'd"
+  },
+  {
+   "n": "79",
+   "pt": "Sirfetch'd de Galar",
+   "en": "Galarian Sirfetch'd"
+  },
+  {
+   "n": "80",
+   "pt": "Zapdos de Galar V",
+   "en": "Galarian Zapdos V"
+  },
+  {
+   "n": "81",
+   "pt": "Gallade",
+   "en": "Gallade"
+  },
+  {
+   "n": "82",
+   "pt": "Yamask de Galar",
+   "en": "Galarian Yamask"
+  },
+  {
+   "n": "83",
+   "pt": "Runerigus de Galar",
+   "en": "Galarian Runerigus"
+  },
+  {
+   "n": "84",
+   "pt": "Crabrawler",
+   "en": "Crabrawler"
+  },
+  {
+   "n": "85",
+   "pt": "Crabominable",
+   "en": "Crabominable"
+  },
+  {
+   "n": "86",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "87",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "88",
+   "pt": "Passimian",
+   "en": "Passimian"
+  },
+  {
+   "n": "89",
+   "pt": "Sandaconda V",
+   "en": "Sandaconda V"
+  },
+  {
+   "n": "90",
+   "pt": "Sandaconda VMAX",
+   "en": "Sandaconda VMAX"
+  },
+  {
+   "n": "91",
+   "pt": "Clobbopus",
+   "en": "Clobbopus"
+  },
+  {
+   "n": "92",
+   "pt": "Grapploct",
+   "en": "Grapploct"
+  },
+  {
+   "n": "93",
+   "pt": "Kubfu",
+   "en": "Kubfu"
+  },
+  {
+   "n": "94",
+   "pt": "Koffing",
+   "en": "Koffing"
+  },
+  {
+   "n": "95",
+   "pt": "Weezing",
+   "en": "Weezing"
+  },
+  {
+   "n": "96",
+   "pt": "Weezing de Galar",
+   "en": "Galarian Weezing"
+  },
+  {
+   "n": "97",
+   "pt": "Moltres de Galar V",
+   "en": "Galarian Moltres V"
+  },
+  {
+   "n": "98",
+   "pt": "Slowking de Galar",
+   "en": "Galarian Slowking"
+  },
+  {
+   "n": "99",
+   "pt": "Slowking de Galar V",
+   "en": "Galarian Slowking V"
+  },
+  {
+   "n": "100",
+   "pt": "Slowking de Galar VMAX",
+   "en": "Galarian Slowking VMAX"
+  },
+  {
+   "n": "101",
+   "pt": "Qwilfish",
+   "en": "Qwilfish"
+  },
+  {
+   "n": "102",
+   "pt": "Seviper",
+   "en": "Seviper"
+  },
+  {
+   "n": "103",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "104",
+   "pt": "Liepard V",
+   "en": "Liepard V"
+  },
+  {
+   "n": "105",
+   "pt": "Venipede",
+   "en": "Venipede"
+  },
+  {
+   "n": "106",
+   "pt": "Whirlipede",
+   "en": "Whirlipede"
+  },
+  {
+   "n": "107",
+   "pt": "Scolipede",
+   "en": "Scolipede"
+  },
+  {
+   "n": "108",
+   "pt": "Urshifu Golpe Decisivo",
+   "en": "Single Strike Urshifu"
+  },
+  {
+   "n": "109",
+   "pt": "Aron",
+   "en": "Aron"
+  },
+  {
+   "n": "110",
+   "pt": "Lairon",
+   "en": "Lairon"
+  },
+  {
+   "n": "111",
+   "pt": "Aggron",
+   "en": "Aggron"
+  },
+  {
+   "n": "112",
+   "pt": "Metagross V",
+   "en": "Metagross V"
+  },
+  {
+   "n": "113",
+   "pt": "Metagross VMAX",
+   "en": "Metagross VMAX"
+  },
+  {
+   "n": "114",
+   "pt": "Cobalion",
+   "en": "Cobalion"
+  },
+  {
+   "n": "115",
+   "pt": "Tauros",
+   "en": "Tauros"
+  },
+  {
+   "n": "116",
+   "pt": "Porygon",
+   "en": "Porygon"
+  },
+  {
+   "n": "117",
+   "pt": "Porygon2",
+   "en": "Porygon2"
+  },
+  {
+   "n": "118",
+   "pt": "Porygon-Z",
+   "en": "Porygon-Z"
+  },
+  {
+   "n": "119",
+   "pt": "Blissey V",
+   "en": "Blissey V"
+  },
+  {
+   "n": "120",
+   "pt": "Zangoose",
+   "en": "Zangoose"
+  },
+  {
+   "n": "121",
+   "pt": "Castform",
+   "en": "Castform"
+  },
+  {
+   "n": "122",
+   "pt": "Kecleon",
+   "en": "Kecleon"
+  },
+  {
+   "n": "123",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "124",
+   "pt": "Tornadus V",
+   "en": "Tornadus V"
+  },
+  {
+   "n": "125",
+   "pt": "Tornadus VMAX",
+   "en": "Tornadus VMAX"
+  },
+  {
+   "n": "126",
+   "pt": "Furfrou",
+   "en": "Furfrou"
+  },
+  {
+   "n": "127",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "128",
+   "pt": "Greedent",
+   "en": "Greedent"
+  },
+  {
+   "n": "129",
+   "pt": "Agatha",
+   "en": "Agatha"
+  },
+  {
+   "n": "130",
+   "pt": "Saturnino",
+   "en": "Avery"
+  },
+  {
+   "n": "131",
+   "pt": "Brawly",
+   "en": "Brawly"
+  },
+  {
+   "n": "132",
+   "pt": "Caitlin",
+   "en": "Caitlin"
+  },
+  {
+   "n": "133",
+   "pt": "Luvas Esmagadoras",
+   "en": "Crushing Gloves"
+  },
+  {
+   "n": "134",
+   "pt": "Médica",
+   "en": "Doctor"
+  },
+  {
+   "n": "135",
+   "pt": "Colina Dinárvore",
+   "en": "Dyna Tree Hill"
+  },
+  {
+   "n": "136",
+   "pt": "Berrante Retumbante",
+   "en": "Echoing Horn"
+  },
+  {
+   "n": "137",
+   "pt": "Uniforme de Expedição",
+   "en": "Expedition Uniform"
+  },
+  {
+   "n": "138",
+   "pt": "Luvas à Prova de Fogo",
+   "en": "Fire-Resistant Gloves"
+  },
+  {
+   "n": "139",
+   "pt": "Flannery",
+   "en": "Flannery"
+  },
+  {
+   "n": "140",
+   "pt": "Cristal Nevoado",
+   "en": "Fog Crystal"
+  },
+  {
+   "n": "141",
+   "pt": "Peitoral de Galar",
+   "en": "Galarian Chestplate"
+  },
+  {
+   "n": "142",
+   "pt": "Mel",
+   "en": "Honey"
+  },
+  {
+   "n": "143",
+   "pt": "Luvas da Justiça",
+   "en": "Justified Gloves"
+  },
+  {
+   "n": "144",
+   "pt": "Convicção da Karen",
+   "en": "Karen's Conviction"
+  },
+  {
+   "n": "145",
+   "pt": "Klara",
+   "en": "Klara"
+  },
+  {
+   "n": "146",
+   "pt": "Melony",
+   "en": "Melony"
+  },
+  {
+   "n": "147",
+   "pt": "Cemitério Antigo",
+   "en": "Old Cemetery"
+  },
+  {
+   "n": "148",
+   "pt": "Trilha para o Cume",
+   "en": "Path to the Peak"
+  },
+  {
+   "n": "149",
+   "pt": "Peônia",
+   "en": "Peonia"
+  },
+  {
+   "n": "150",
+   "pt": "Peônio",
+   "en": "Peony"
+  },
+  {
+   "n": "151",
+   "pt": "Pergaminho dos Céus Golpe Fluido",
+   "en": "Rapid Strike Scroll of the Skies"
+  },
+  {
+   "n": "152",
+   "pt": "Elmo Robusto",
+   "en": "Rugged Helmet"
+  },
+  {
+   "n": "153",
+   "pt": "Siebold",
+   "en": "Siebold"
+  },
+  {
+   "n": "154",
+   "pt": "Pergaminho Perfurante Golpe Decisivo",
+   "en": "Single Strike Scroll of Piercing"
+  },
+  {
+   "n": "155",
+   "pt": "Luvas de Jardinagem",
+   "en": "Weeding Gloves"
+  },
+  {
+   "n": "156",
+   "pt": "Lanterna Acolhedora",
+   "en": "Welcoming Lantern"
+  },
+  {
+   "n": "157",
+   "pt": "Energia de Impacto",
+   "en": "Impact Energy"
+  },
+  {
+   "n": "158",
+   "pt": "Energia de Sorte",
+   "en": "Lucky Energy"
+  },
+  {
+   "n": "159",
+   "pt": "Energia de Espiral",
+   "en": "Spiral Energy"
+  },
+  {
+   "n": "160",
+   "pt": "Celebi V",
+   "en": "Celebi V"
+  },
+  {
+   "n": "161",
+   "pt": "Blaziken V",
+   "en": "Blaziken V"
+  },
+  {
+   "n": "162",
+   "pt": "Volcanion V",
+   "en": "Volcanion V"
+  },
+  {
+   "n": "163",
+   "pt": "Calyrex Cavaleiro Glacial V",
+   "en": "Ice Rider Calyrex V"
+  },
+  {
+   "n": "164",
+   "pt": "Calyrex Cavaleiro Glacial V",
+   "en": "Ice Rider Calyrex V"
+  },
+  {
+   "n": "165",
+   "pt": "Zeraora V",
+   "en": "Zeraora V"
+  },
+  {
+   "n": "166",
+   "pt": "Zeraora V",
+   "en": "Zeraora V"
+  },
+  {
+   "n": "167",
+   "pt": "Rapidash de Galar V",
+   "en": "Galarian Rapidash V"
+  },
+  {
+   "n": "168",
+   "pt": "Rapidash de Galar V",
+   "en": "Galarian Rapidash V"
+  },
+  {
+   "n": "169",
+   "pt": "Articuno de Galar V",
+   "en": "Galarian Articuno V"
+  },
+  {
+   "n": "170",
+   "pt": "Articuno de Galar V",
+   "en": "Galarian Articuno V"
+  },
+  {
+   "n": "171",
+   "pt": "Calyrex Cavaleiro Espectral V",
+   "en": "Shadow Rider Calyrex V"
+  },
+  {
+   "n": "172",
+   "pt": "Calyrex Cavaleiro Espectral V",
+   "en": "Shadow Rider Calyrex V"
+  },
+  {
+   "n": "173",
+   "pt": "Zapdos de Galar V",
+   "en": "Galarian Zapdos V"
+  },
+  {
+   "n": "174",
+   "pt": "Zapdos de Galar V",
+   "en": "Galarian Zapdos V"
+  },
+  {
+   "n": "175",
+   "pt": "Sandaconda V",
+   "en": "Sandaconda V"
+  },
+  {
+   "n": "176",
+   "pt": "Moltres de Galar V",
+   "en": "Galarian Moltres V"
+  },
+  {
+   "n": "177",
+   "pt": "Moltres de Galar V",
+   "en": "Galarian Moltres V"
+  },
+  {
+   "n": "178",
+   "pt": "Slowking de Galar V",
+   "en": "Galarian Slowking V"
+  },
+  {
+   "n": "179",
+   "pt": "Slowking de Galar V",
+   "en": "Galarian Slowking V"
+  },
+  {
+   "n": "180",
+   "pt": "Liepard V",
+   "en": "Liepard V"
+  },
+  {
+   "n": "181",
+   "pt": "Metagross V",
+   "en": "Metagross V"
+  },
+  {
+   "n": "182",
+   "pt": "Blissey V",
+   "en": "Blissey V"
+  },
+  {
+   "n": "183",
+   "pt": "Blissey V",
+   "en": "Blissey V"
+  },
+  {
+   "n": "184",
+   "pt": "Tornadus V",
+   "en": "Tornadus V"
+  },
+  {
+   "n": "185",
+   "pt": "Tornadus V",
+   "en": "Tornadus V"
+  },
+  {
+   "n": "186",
+   "pt": "Agatha",
+   "en": "Agatha"
+  },
+  {
+   "n": "187",
+   "pt": "Saturnino",
+   "en": "Avery"
+  },
+  {
+   "n": "188",
+   "pt": "Brawly",
+   "en": "Brawly"
+  },
+  {
+   "n": "189",
+   "pt": "Caitlin",
+   "en": "Caitlin"
+  },
+  {
+   "n": "190",
+   "pt": "Médica",
+   "en": "Doctor"
+  },
+  {
+   "n": "191",
+   "pt": "Flannery",
+   "en": "Flannery"
+  },
+  {
+   "n": "192",
+   "pt": "Mel",
+   "en": "Honey"
+  },
+  {
+   "n": "193",
+   "pt": "Convicção da Karen",
+   "en": "Karen's Conviction"
+  },
+  {
+   "n": "194",
+   "pt": "Klara",
+   "en": "Klara"
+  },
+  {
+   "n": "195",
+   "pt": "Melony",
+   "en": "Melony"
+  },
+  {
+   "n": "196",
+   "pt": "Peônia",
+   "en": "Peonia"
+  },
+  {
+   "n": "197",
+   "pt": "Peônio",
+   "en": "Peony"
+  },
+  {
+   "n": "198",
+   "pt": "Siebold",
+   "en": "Siebold"
+  },
+  {
+   "n": "199",
+   "pt": "Celebi VMAX",
+   "en": "Celebi VMAX"
+  },
+  {
+   "n": "200",
+   "pt": "Blaziken VMAX",
+   "en": "Blaziken VMAX"
+  },
+  {
+   "n": "201",
+   "pt": "Blaziken VMAX",
+   "en": "Blaziken VMAX"
+  },
+  {
+   "n": "202",
+   "pt": "Calyrex Cavaleiro Glacial VMAX",
+   "en": "Ice Rider Calyrex VMAX"
+  },
+  {
+   "n": "203",
+   "pt": "Calyrex Cavaleiro Glacial VMAX",
+   "en": "Ice Rider Calyrex VMAX"
+  },
+  {
+   "n": "204",
+   "pt": "Calyrex Cavaleiro Espectral VMAX",
+   "en": "Shadow Rider Calyrex VMAX"
+  },
+  {
+   "n": "205",
+   "pt": "Calyrex Cavaleiro Espectral VMAX",
+   "en": "Shadow Rider Calyrex VMAX"
+  },
+  {
+   "n": "206",
+   "pt": "Sandaconda VMAX",
+   "en": "Sandaconda VMAX"
+  },
+  {
+   "n": "207",
+   "pt": "Slowking de Galar VMAX",
+   "en": "Galarian Slowking VMAX"
+  },
+  {
+   "n": "208",
+   "pt": "Metagross VMAX",
+   "en": "Metagross VMAX"
+  },
+  {
+   "n": "209",
+   "pt": "Tornadus VMAX",
+   "en": "Tornadus VMAX"
+  },
+  {
+   "n": "210",
+   "pt": "Agatha",
+   "en": "Agatha"
+  },
+  {
+   "n": "211",
+   "pt": "Saturnino",
+   "en": "Avery"
+  },
+  {
+   "n": "212",
+   "pt": "Brawly",
+   "en": "Brawly"
+  },
+  {
+   "n": "213",
+   "pt": "Caitlin",
+   "en": "Caitlin"
+  },
+  {
+   "n": "214",
+   "pt": "Médica",
+   "en": "Doctor"
+  },
+  {
+   "n": "215",
+   "pt": "Flannery",
+   "en": "Flannery"
+  },
+  {
+   "n": "216",
+   "pt": "Convicção da Karen",
+   "en": "Karen's Conviction"
+  },
+  {
+   "n": "217",
+   "pt": "Klara",
+   "en": "Klara"
+  },
+  {
+   "n": "218",
+   "pt": "Melony",
+   "en": "Melony"
+  },
+  {
+   "n": "219",
+   "pt": "Peônia",
+   "en": "Peonia"
+  },
+  {
+   "n": "220",
+   "pt": "Peônio",
+   "en": "Peony"
+  },
+  {
+   "n": "221",
+   "pt": "Siebold",
+   "en": "Siebold"
+  },
+  {
+   "n": "222",
+   "pt": "Electrode",
+   "en": "Electrode"
+  },
+  {
+   "n": "223",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "224",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "225",
+   "pt": "Berrante Retumbante",
+   "en": "Echoing Horn"
+  },
+  {
+   "n": "226",
+   "pt": "Leque de Ondas",
+   "en": "Fan of Waves"
+  },
+  {
+   "n": "227",
+   "pt": "Cristal Nevoado",
+   "en": "Fog Crystal"
+  },
+  {
+   "n": "228",
+   "pt": "Elmo Robusto",
+   "en": "Rugged Helmet"
+  },
+  {
+   "n": "229",
+   "pt": "Urna de Vitalidade",
+   "en": "Urn of Vitality"
+  },
+  {
+   "n": "230",
+   "pt": "Lanterna Acolhedora",
+   "en": "Welcoming Lantern"
+  },
+  {
+   "n": "231",
+   "pt": "Energia de Água",
+   "en": "Water Energy"
+  },
+  {
+   "n": "232",
+   "pt": "Energia Psíquica",
+   "en": "Psychic Energy"
+  },
+  {
+   "n": "233",
+   "pt": "Energia de Luta",
+   "en": "Fighting Energy"
+  }
+ ]
+}

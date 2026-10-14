@@ -1,0 +1,408 @@
+{
+ "set": "swsh35",
+ "nome_pt": "Caminho do Campeão",
+ "nome_en": "Champion's Path",
+ "total": 80,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Venusaur V",
+   "en": "Venusaur V"
+  },
+  {
+   "n": "2",
+   "pt": "Weedle",
+   "en": "Weedle"
+  },
+  {
+   "n": "3",
+   "pt": "Kakuna",
+   "en": "Kakuna"
+  },
+  {
+   "n": "4",
+   "pt": "Beedrill",
+   "en": "Beedrill"
+  },
+  {
+   "n": "5",
+   "pt": "Eldegoss V",
+   "en": "Eldegoss V"
+  },
+  {
+   "n": "6",
+   "pt": "Vulpix",
+   "en": "Vulpix"
+  },
+  {
+   "n": "7",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "8",
+   "pt": "Incineroar V",
+   "en": "Incineroar V"
+  },
+  {
+   "n": "9",
+   "pt": "Sizzlipede",
+   "en": "Sizzlipede"
+  },
+  {
+   "n": "10",
+   "pt": "Centiskorch",
+   "en": "Centiskorch"
+  },
+  {
+   "n": "11",
+   "pt": "Carvanha",
+   "en": "Carvanha"
+  },
+  {
+   "n": "12",
+   "pt": "Sharpedo",
+   "en": "Sharpedo"
+  },
+  {
+   "n": "13",
+   "pt": "Wailord V",
+   "en": "Wailord V"
+  },
+  {
+   "n": "14",
+   "pt": "Drednaw V",
+   "en": "Drednaw V"
+  },
+  {
+   "n": "15",
+   "pt": "Drednaw VMAX",
+   "en": "Drednaw VMAX"
+  },
+  {
+   "n": "16",
+   "pt": "Gardevoir V",
+   "en": "Gardevoir V"
+  },
+  {
+   "n": "17",
+   "pt": "Gardevoir VMAX",
+   "en": "Gardevoir VMAX"
+  },
+  {
+   "n": "18",
+   "pt": "Hatenna",
+   "en": "Hatenna"
+  },
+  {
+   "n": "19",
+   "pt": "Hattrem",
+   "en": "Hattrem"
+  },
+  {
+   "n": "20",
+   "pt": "Hatterene",
+   "en": "Hatterene"
+  },
+  {
+   "n": "21",
+   "pt": "Cursola de Galar V",
+   "en": "Galarian Cursola V"
+  },
+  {
+   "n": "22",
+   "pt": "Alcremie V",
+   "en": "Alcremie V"
+  },
+  {
+   "n": "23",
+   "pt": "Alcremie VMAX",
+   "en": "Alcremie VMAX"
+  },
+  {
+   "n": "24",
+   "pt": "Machop",
+   "en": "Machop"
+  },
+  {
+   "n": "25",
+   "pt": "Machoke",
+   "en": "Machoke"
+  },
+  {
+   "n": "26",
+   "pt": "Machamp",
+   "en": "Machamp"
+  },
+  {
+   "n": "27",
+   "pt": "Lucario V",
+   "en": "Lucario V"
+  },
+  {
+   "n": "28",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "29",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "30",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "31",
+   "pt": "Rolycoly",
+   "en": "Rolycoly"
+  },
+  {
+   "n": "32",
+   "pt": "Grapploct V",
+   "en": "Grapploct V"
+  },
+  {
+   "n": "33",
+   "pt": "Ekans",
+   "en": "Ekans"
+  },
+  {
+   "n": "34",
+   "pt": "Arbok",
+   "en": "Arbok"
+  },
+  {
+   "n": "35",
+   "pt": "Zigzagoon de Galar",
+   "en": "Galarian Zigzagoon"
+  },
+  {
+   "n": "36",
+   "pt": "Linoone de Galar",
+   "en": "Galarian Linoone"
+  },
+  {
+   "n": "37",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "38",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "39",
+   "pt": "Purrloin",
+   "en": "Purrloin"
+  },
+  {
+   "n": "40",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "41",
+   "pt": "Scraggy",
+   "en": "Scraggy"
+  },
+  {
+   "n": "42",
+   "pt": "Scrafty",
+   "en": "Scrafty"
+  },
+  {
+   "n": "43",
+   "pt": "Trubbish",
+   "en": "Trubbish"
+  },
+  {
+   "n": "44",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "45",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "46",
+   "pt": "Nickit",
+   "en": "Nickit"
+  },
+  {
+   "n": "47",
+   "pt": "Duraludon V",
+   "en": "Duraludon V"
+  },
+  {
+   "n": "48",
+   "pt": "Swablu",
+   "en": "Swablu"
+  },
+  {
+   "n": "49",
+   "pt": "Altaria",
+   "en": "Altaria"
+  },
+  {
+   "n": "50",
+   "pt": "Beda",
+   "en": "Bede"
+  },
+  {
+   "n": "51",
+   "pt": "Água Fresca",
+   "en": "Full Heal"
+  },
+  {
+   "n": "52",
+   "pt": "Grande Bola",
+   "en": "Great Ball"
+  },
+  {
+   "n": "53",
+   "pt": "Lupo",
+   "en": "Hop"
+  },
+  {
+   "n": "54",
+   "pt": "Hiperpoção",
+   "en": "Hyper Potion"
+  },
+  {
+   "n": "55",
+   "pt": "Kabu",
+   "en": "Kabu"
+  },
+  {
+   "n": "56",
+   "pt": "Marine",
+   "en": "Marnie"
+  },
+  {
+   "n": "57",
+   "pt": "Milo",
+   "en": "Milo"
+  },
+  {
+   "n": "58",
+   "pt": "Pietro",
+   "en": "Piers"
+  },
+  {
+   "n": "59",
+   "pt": "Poké Bola",
+   "en": "Poké Ball"
+  },
+  {
+   "n": "60",
+   "pt": "Dama do Centro Pokémon",
+   "en": "Pokémon Center Lady"
+  },
+  {
+   "n": "61",
+   "pt": "Poção",
+   "en": "Potion"
+  },
+  {
+   "n": "62",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research (Professor Magnolia)"
+  },
+  {
+   "n": "63",
+   "pt": "Bicicleta Rotom",
+   "en": "Rotom Bike"
+  },
+  {
+   "n": "64",
+   "pt": "Rotom Fone",
+   "en": "Rotom Phone"
+  },
+  {
+   "n": "65",
+   "pt": "Sônia",
+   "en": "Sonia"
+  },
+  {
+   "n": "66",
+   "pt": "Lata de Comida Suspeita",
+   "en": "Suspicious Food Tin"
+  },
+  {
+   "n": "67",
+   "pt": "Recruta da Equipe Yell",
+   "en": "Team Yell Grunt"
+  },
+  {
+   "n": "68",
+   "pt": "Estádio de Turffield",
+   "en": "Turffield Stadium"
+  },
+  {
+   "n": "69",
+   "pt": "Drednaw V",
+   "en": "Drednaw V"
+  },
+  {
+   "n": "70",
+   "pt": "Gardevoir V",
+   "en": "Gardevoir V"
+  },
+  {
+   "n": "71",
+   "pt": "Cursola de Galar V",
+   "en": "Galarian Cursola V"
+  },
+  {
+   "n": "72",
+   "pt": "Grapploct V",
+   "en": "Grapploct V"
+  },
+  {
+   "n": "73",
+   "pt": "Lupo",
+   "en": "Hop"
+  },
+  {
+   "n": "74",
+   "pt": "Charizard VMAX",
+   "en": "Charizard VMAX"
+  },
+  {
+   "n": "75",
+   "pt": "Drednaw VMAX",
+   "en": "Drednaw VMAX"
+  },
+  {
+   "n": "76",
+   "pt": "Gardevoir VMAX",
+   "en": "Gardevoir VMAX"
+  },
+  {
+   "n": "77",
+   "pt": "Kabu",
+   "en": "Kabu"
+  },
+  {
+   "n": "78",
+   "pt": "Pietro",
+   "en": "Piers"
+  },
+  {
+   "n": "79",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "80",
+   "pt": "Lata de Comida Suspeita",
+   "en": "Suspicious Food Tin"
+  }
+ ]
+}

@@ -1,0 +1,1098 @@
+{
+ "set": "sv05",
+ "nome_pt": "Forças Temporais",
+ "nome_en": "Temporal Forces",
+ "total": 218,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "002",
+   "pt": "Pineco",
+   "en": "Pineco"
+  },
+  {
+   "n": "003",
+   "pt": "Seedot",
+   "en": "Seedot"
+  },
+  {
+   "n": "004",
+   "pt": "Nuzleaf",
+   "en": "Nuzleaf"
+  },
+  {
+   "n": "005",
+   "pt": "Shiftry",
+   "en": "Shiftry"
+  },
+  {
+   "n": "006",
+   "pt": "Shroomish",
+   "en": "Shroomish"
+  },
+  {
+   "n": "007",
+   "pt": "Breloom",
+   "en": "Breloom"
+  },
+  {
+   "n": "008",
+   "pt": "Roselia",
+   "en": "Roselia"
+  },
+  {
+   "n": "009",
+   "pt": "Roserade",
+   "en": "Roserade"
+  },
+  {
+   "n": "010",
+   "pt": "Turtwig",
+   "en": "Turtwig"
+  },
+  {
+   "n": "011",
+   "pt": "Grotle",
+   "en": "Grotle"
+  },
+  {
+   "n": "012",
+   "pt": "Torterra ex",
+   "en": "Torterra ex"
+  },
+  {
+   "n": "013",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "014",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "015",
+   "pt": "Whimsicott",
+   "en": "Whimsicott"
+  },
+  {
+   "n": "016",
+   "pt": "Deerling",
+   "en": "Deerling"
+  },
+  {
+   "n": "017",
+   "pt": "Sawsbuck",
+   "en": "Sawsbuck"
+  },
+  {
+   "n": "018",
+   "pt": "Grubbin",
+   "en": "Grubbin"
+  },
+  {
+   "n": "019",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "020",
+   "pt": "Bramblin",
+   "en": "Bramblin"
+  },
+  {
+   "n": "021",
+   "pt": "Brambleghast",
+   "en": "Brambleghast"
+  },
+  {
+   "n": "022",
+   "pt": "Scovillain ex",
+   "en": "Scovillain ex"
+  },
+  {
+   "n": "023",
+   "pt": "Rellor",
+   "en": "Rellor"
+  },
+  {
+   "n": "024",
+   "pt": "Rabsca",
+   "en": "Rabsca"
+  },
+  {
+   "n": "025",
+   "pt": "Folhas Férreas ex",
+   "en": "Iron Leaves ex"
+  },
+  {
+   "n": "026",
+   "pt": "Ponyta",
+   "en": "Ponyta"
+  },
+  {
+   "n": "027",
+   "pt": "Rapidash",
+   "en": "Rapidash"
+  },
+  {
+   "n": "028",
+   "pt": "Slugma",
+   "en": "Slugma"
+  },
+  {
+   "n": "029",
+   "pt": "Magcargo",
+   "en": "Magcargo"
+  },
+  {
+   "n": "030",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "031",
+   "pt": "Heatmor",
+   "en": "Heatmor"
+  },
+  {
+   "n": "032",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "033",
+   "pt": "Torracat",
+   "en": "Torracat"
+  },
+  {
+   "n": "034",
+   "pt": "Incineroar ex",
+   "en": "Incineroar ex"
+  },
+  {
+   "n": "035",
+   "pt": "Turtonator",
+   "en": "Turtonator"
+  },
+  {
+   "n": "036",
+   "pt": "Sizzlipede",
+   "en": "Sizzlipede"
+  },
+  {
+   "n": "037",
+   "pt": "Centiskorch",
+   "en": "Centiskorch"
+  },
+  {
+   "n": "038",
+   "pt": "Fogo Corrosão ex",
+   "en": "Gouging Fire ex"
+  },
+  {
+   "n": "039",
+   "pt": "Totodile",
+   "en": "Totodile"
+  },
+  {
+   "n": "040",
+   "pt": "Croconaw",
+   "en": "Croconaw"
+  },
+  {
+   "n": "041",
+   "pt": "Feraligatr",
+   "en": "Feraligatr"
+  },
+  {
+   "n": "042",
+   "pt": "Carvanha",
+   "en": "Carvanha"
+  },
+  {
+   "n": "043",
+   "pt": "Sharpedo",
+   "en": "Sharpedo"
+  },
+  {
+   "n": "044",
+   "pt": "Keldeo",
+   "en": "Keldeo"
+  },
+  {
+   "n": "045",
+   "pt": "Snom",
+   "en": "Snom"
+  },
+  {
+   "n": "046",
+   "pt": "Frosmoth",
+   "en": "Frosmoth"
+  },
+  {
+   "n": "047",
+   "pt": "Wiglett",
+   "en": "Wiglett"
+  },
+  {
+   "n": "048",
+   "pt": "Finizen",
+   "en": "Finizen"
+  },
+  {
+   "n": "049",
+   "pt": "Palafin",
+   "en": "Palafin"
+  },
+  {
+   "n": "050",
+   "pt": "Onda Ando ex",
+   "en": "Walking Wake ex"
+  },
+  {
+   "n": "051",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "052",
+   "pt": "Raichu",
+   "en": "Raichu"
+  },
+  {
+   "n": "053",
+   "pt": "Electabuzz",
+   "en": "Electabuzz"
+  },
+  {
+   "n": "054",
+   "pt": "Electivire",
+   "en": "Electivire"
+  },
+  {
+   "n": "055",
+   "pt": "Charjabug",
+   "en": "Charjabug"
+  },
+  {
+   "n": "056",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "057",
+   "pt": "Zeraora",
+   "en": "Zeraora"
+  },
+  {
+   "n": "058",
+   "pt": "Yamper",
+   "en": "Yamper"
+  },
+  {
+   "n": "059",
+   "pt": "Boltund",
+   "en": "Boltund"
+  },
+  {
+   "n": "060",
+   "pt": "Wugtrio ex",
+   "en": "Wugtrio ex"
+  },
+  {
+   "n": "061",
+   "pt": "Mãos Férreas",
+   "en": "Iron Hands"
+  },
+  {
+   "n": "062",
+   "pt": "Espinhos Férreos",
+   "en": "Iron Thorns"
+  },
+  {
+   "n": "063",
+   "pt": "Mr. Mime",
+   "en": "Mr. Mime"
+  },
+  {
+   "n": "064",
+   "pt": "Marill",
+   "en": "Marill"
+  },
+  {
+   "n": "065",
+   "pt": "Azumarill",
+   "en": "Azumarill"
+  },
+  {
+   "n": "066",
+   "pt": "Girafarig",
+   "en": "Girafarig"
+  },
+  {
+   "n": "067",
+   "pt": "Latias",
+   "en": "Latias"
+  },
+  {
+   "n": "068",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "069",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "070",
+   "pt": "Solosis",
+   "en": "Solosis"
+  },
+  {
+   "n": "071",
+   "pt": "Duosion",
+   "en": "Duosion"
+  },
+  {
+   "n": "072",
+   "pt": "Reuniclus",
+   "en": "Reuniclus"
+  },
+  {
+   "n": "073",
+   "pt": "Elgyem",
+   "en": "Elgyem"
+  },
+  {
+   "n": "074",
+   "pt": "Beheeyem",
+   "en": "Beheeyem"
+  },
+  {
+   "n": "075",
+   "pt": "Cutiefly",
+   "en": "Cutiefly"
+  },
+  {
+   "n": "076",
+   "pt": "Ribombee",
+   "en": "Ribombee"
+  },
+  {
+   "n": "077",
+   "pt": "Cauda Brado",
+   "en": "Scream Tail"
+  },
+  {
+   "n": "078",
+   "pt": "Juba Sopro",
+   "en": "Flutter Mane"
+  },
+  {
+   "n": "079",
+   "pt": "Valentia Férrea",
+   "en": "Iron Valiant"
+  },
+  {
+   "n": "080",
+   "pt": "Valentia Férrea",
+   "en": "Iron Valiant"
+  },
+  {
+   "n": "081",
+   "pt": "Chifres Férreos ex",
+   "en": "Iron Crown ex"
+  },
+  {
+   "n": "082",
+   "pt": "Meditite",
+   "en": "Meditite"
+  },
+  {
+   "n": "083",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "084",
+   "pt": "Relicanth",
+   "en": "Relicanth"
+  },
+  {
+   "n": "085",
+   "pt": "Drilbur",
+   "en": "Drilbur"
+  },
+  {
+   "n": "086",
+   "pt": "Excadrill",
+   "en": "Excadrill"
+  },
+  {
+   "n": "087",
+   "pt": "Golett",
+   "en": "Golett"
+  },
+  {
+   "n": "088",
+   "pt": "Golurk",
+   "en": "Golurk"
+  },
+  {
+   "n": "089",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "090",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "091",
+   "pt": "Mudbray",
+   "en": "Mudbray"
+  },
+  {
+   "n": "092",
+   "pt": "Mudsdale",
+   "en": "Mudsdale"
+  },
+  {
+   "n": "093",
+   "pt": "Rolycoly",
+   "en": "Rolycoly"
+  },
+  {
+   "n": "094",
+   "pt": "Carkol",
+   "en": "Carkol"
+  },
+  {
+   "n": "095",
+   "pt": "Coalossal",
+   "en": "Coalossal"
+  },
+  {
+   "n": "096",
+   "pt": "Presa Grande",
+   "en": "Great Tusk"
+  },
+  {
+   "n": "097",
+   "pt": "Presa Grande",
+   "en": "Great Tusk"
+  },
+  {
+   "n": "098",
+   "pt": "Choque Areia",
+   "en": "Sandy Shocks"
+  },
+  {
+   "n": "099",
+   "pt": "Rocha Férrea ex",
+   "en": "Iron Boulder ex"
+  },
+  {
+   "n": "100",
+   "pt": "Ekans",
+   "en": "Ekans"
+  },
+  {
+   "n": "101",
+   "pt": "Arbok",
+   "en": "Arbok"
+  },
+  {
+   "n": "102",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "103",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "104",
+   "pt": "Gengar ex",
+   "en": "Gengar ex"
+  },
+  {
+   "n": "105",
+   "pt": "Poochyena",
+   "en": "Poochyena"
+  },
+  {
+   "n": "106",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "107",
+   "pt": "Sableye",
+   "en": "Sableye"
+  },
+  {
+   "n": "108",
+   "pt": "Farigiraf ex",
+   "en": "Farigiraf ex"
+  },
+  {
+   "n": "109",
+   "pt": "Lua Estrondo",
+   "en": "Roaring Moon"
+  },
+  {
+   "n": "110",
+   "pt": "Forretress",
+   "en": "Forretress"
+  },
+  {
+   "n": "111",
+   "pt": "Scizor ex",
+   "en": "Scizor ex"
+  },
+  {
+   "n": "112",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "113",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "114",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "115",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "116",
+   "pt": "Meltan",
+   "en": "Meltan"
+  },
+  {
+   "n": "117",
+   "pt": "Melmetal",
+   "en": "Melmetal"
+  },
+  {
+   "n": "118",
+   "pt": "Trilho Férreo",
+   "en": "Iron Treads"
+  },
+  {
+   "n": "119",
+   "pt": "Koraidon",
+   "en": "Koraidon"
+  },
+  {
+   "n": "120",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "121",
+   "pt": "Miraidon",
+   "en": "Miraidon"
+  },
+  {
+   "n": "122",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "123",
+   "pt": "Raio Fúria ex",
+   "en": "Raging Bolt ex"
+  },
+  {
+   "n": "124",
+   "pt": "Lickitung",
+   "en": "Lickitung"
+  },
+  {
+   "n": "125",
+   "pt": "Lickilicky",
+   "en": "Lickilicky"
+  },
+  {
+   "n": "126",
+   "pt": "Hoothoot",
+   "en": "Hoothoot"
+  },
+  {
+   "n": "127",
+   "pt": "Noctowl",
+   "en": "Noctowl"
+  },
+  {
+   "n": "128",
+   "pt": "Dunsparce",
+   "en": "Dunsparce"
+  },
+  {
+   "n": "129",
+   "pt": "Dudunsparce",
+   "en": "Dudunsparce"
+  },
+  {
+   "n": "130",
+   "pt": "Skitty",
+   "en": "Skitty"
+  },
+  {
+   "n": "131",
+   "pt": "Delcatty",
+   "en": "Delcatty"
+  },
+  {
+   "n": "132",
+   "pt": "Chatot",
+   "en": "Chatot"
+  },
+  {
+   "n": "133",
+   "pt": "Pidove",
+   "en": "Pidove"
+  },
+  {
+   "n": "134",
+   "pt": "Tranquill",
+   "en": "Tranquill"
+  },
+  {
+   "n": "135",
+   "pt": "Unfezant",
+   "en": "Unfezant"
+  },
+  {
+   "n": "136",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "137",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "138",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "139",
+   "pt": "Jugulares Férreas",
+   "en": "Iron Jugulis"
+  },
+  {
+   "n": "140",
+   "pt": "Cápsula Energética de Melhoria Ancestral",
+   "en": "Ancient Booster Energy Capsule"
+  },
+  {
+   "n": "141",
+   "pt": "Tambor do Despertar",
+   "en": "Awakening Drum"
+  },
+  {
+   "n": "142",
+   "pt": "Dedicação da Bianca",
+   "en": "Bianca's Devotion"
+  },
+  {
+   "n": "143",
+   "pt": "Pedido Encaixotado",
+   "en": "Boxed Order"
+  },
+  {
+   "n": "144",
+   "pt": "Poffin de Colega",
+   "en": "Buddy-Buddy Poffin"
+  },
+  {
+   "n": "145",
+   "pt": "Decodificação da Criptomaníaca",
+   "en": "Ciphermaniac's Codebreaking"
+  },
+  {
+   "n": "146",
+   "pt": "Êri",
+   "en": "Eri"
+  },
+  {
+   "n": "147",
+   "pt": "Liderança do Explorador",
+   "en": "Explorer's Guidance"
+  },
+  {
+   "n": "148",
+   "pt": "Laboratório Metálico",
+   "en": "Full Metal Lab"
+  },
+  {
+   "n": "149",
+   "pt": "Cápsula Energética de Melhoria Futurista",
+   "en": "Future Booster Energy Capsule"
+  },
+  {
+   "n": "150",
+   "pt": "Aparador de Mão",
+   "en": "Hand Trimmer"
+  },
+  {
+   "n": "151",
+   "pt": "Bastão Pesado",
+   "en": "Heavy Baton"
+  },
+  {
+   "n": "152",
+   "pt": "Capa de Herói",
+   "en": "Hero's Cape"
+  },
+  {
+   "n": "153",
+   "pt": "Bola Mestra",
+   "en": "Master Ball"
+  },
+  {
+   "n": "154",
+   "pt": "Cinturão Máximo",
+   "en": "Maximum Belt"
+  },
+  {
+   "n": "155",
+   "pt": "Convicção do Morty",
+   "en": "Morty's Conviction"
+  },
+  {
+   "n": "156",
+   "pt": "Selva Perigosa",
+   "en": "Perilous Jungle"
+  },
+  {
+   "n": "157",
+   "pt": "Pegador Superior",
+   "en": "Prime Catcher"
+  },
+  {
+   "n": "158",
+   "pt": "Cápsula do Reinício",
+   "en": "Reboot Pod"
+  },
+  {
+   "n": "159",
+   "pt": "Skate de Resgate",
+   "en": "Rescue Board"
+  },
+  {
+   "n": "160",
+   "pt": "Salvatore",
+   "en": "Salvatore"
+  },
+  {
+   "n": "161",
+   "pt": "Energia Nebulosa",
+   "en": "Mist Energy"
+  },
+  {
+   "n": "162",
+   "pt": "Energia Neossuperior",
+   "en": "Neo Upper Energy"
+  },
+  {
+   "n": "163",
+   "pt": "Shiftry",
+   "en": "Shiftry"
+  },
+  {
+   "n": "164",
+   "pt": "Grotle",
+   "en": "Grotle"
+  },
+  {
+   "n": "165",
+   "pt": "Deerling",
+   "en": "Deerling"
+  },
+  {
+   "n": "166",
+   "pt": "Sawsbuck",
+   "en": "Sawsbuck"
+  },
+  {
+   "n": "167",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "168",
+   "pt": "Snom",
+   "en": "Snom"
+  },
+  {
+   "n": "169",
+   "pt": "Charjabug",
+   "en": "Charjabug"
+  },
+  {
+   "n": "170",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "171",
+   "pt": "Reuniclus",
+   "en": "Reuniclus"
+  },
+  {
+   "n": "172",
+   "pt": "Cutiefly",
+   "en": "Cutiefly"
+  },
+  {
+   "n": "173",
+   "pt": "Relicanth",
+   "en": "Relicanth"
+  },
+  {
+   "n": "174",
+   "pt": "Excadrill",
+   "en": "Excadrill"
+  },
+  {
+   "n": "175",
+   "pt": "Mudsdale",
+   "en": "Mudsdale"
+  },
+  {
+   "n": "176",
+   "pt": "Arbok",
+   "en": "Arbok"
+  },
+  {
+   "n": "177",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "178",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "179",
+   "pt": "Meltan",
+   "en": "Meltan"
+  },
+  {
+   "n": "180",
+   "pt": "Lickitung",
+   "en": "Lickitung"
+  },
+  {
+   "n": "181",
+   "pt": "Chatot",
+   "en": "Chatot"
+  },
+  {
+   "n": "182",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "183",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "184",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "185",
+   "pt": "Torterra ex",
+   "en": "Torterra ex"
+  },
+  {
+   "n": "186",
+   "pt": "Folhas Férreas ex",
+   "en": "Iron Leaves ex"
+  },
+  {
+   "n": "187",
+   "pt": "Incineroar ex",
+   "en": "Incineroar ex"
+  },
+  {
+   "n": "188",
+   "pt": "Fogo Corrosão ex",
+   "en": "Gouging Fire ex"
+  },
+  {
+   "n": "189",
+   "pt": "Onda Ando ex",
+   "en": "Walking Wake ex"
+  },
+  {
+   "n": "190",
+   "pt": "Wugtrio ex",
+   "en": "Wugtrio ex"
+  },
+  {
+   "n": "191",
+   "pt": "Chifres Férreos ex",
+   "en": "Iron Crown ex"
+  },
+  {
+   "n": "192",
+   "pt": "Rocha Férrea ex",
+   "en": "Iron Boulder ex"
+  },
+  {
+   "n": "193",
+   "pt": "Gengar ex",
+   "en": "Gengar ex"
+  },
+  {
+   "n": "194",
+   "pt": "Farigiraf ex",
+   "en": "Farigiraf ex"
+  },
+  {
+   "n": "195",
+   "pt": "Scizor ex",
+   "en": "Scizor ex"
+  },
+  {
+   "n": "196",
+   "pt": "Raio Fúria ex",
+   "en": "Raging Bolt ex"
+  },
+  {
+   "n": "197",
+   "pt": "Dedicação da Bianca",
+   "en": "Bianca's Devotion"
+  },
+  {
+   "n": "198",
+   "pt": "Decodificação da Criptomaníaca",
+   "en": "Ciphermaniac's Codebreaking"
+  },
+  {
+   "n": "199",
+   "pt": "Êri",
+   "en": "Eri"
+  },
+  {
+   "n": "200",
+   "pt": "Liderança do Explorador",
+   "en": "Explorer's Guidance"
+  },
+  {
+   "n": "201",
+   "pt": "Convicção do Morty",
+   "en": "Morty's Conviction"
+  },
+  {
+   "n": "202",
+   "pt": "Salvatore",
+   "en": "Salvatore"
+  },
+  {
+   "n": "203",
+   "pt": "Folhas Férreas ex",
+   "en": "Iron Leaves ex"
+  },
+  {
+   "n": "204",
+   "pt": "Fogo Corrosão ex",
+   "en": "Gouging Fire ex"
+  },
+  {
+   "n": "205",
+   "pt": "Onda Ando ex",
+   "en": "Walking Wake ex"
+  },
+  {
+   "n": "206",
+   "pt": "Chifres Férreos ex",
+   "en": "Iron Crown ex"
+  },
+  {
+   "n": "207",
+   "pt": "Rocha Férrea ex",
+   "en": "Iron Boulder ex"
+  },
+  {
+   "n": "208",
+   "pt": "Raio Fúria ex",
+   "en": "Raging Bolt ex"
+  },
+  {
+   "n": "209",
+   "pt": "Dedicação da Bianca",
+   "en": "Bianca's Devotion"
+  },
+  {
+   "n": "210",
+   "pt": "Êri",
+   "en": "Eri"
+  },
+  {
+   "n": "211",
+   "pt": "Convicção do Morty",
+   "en": "Morty's Conviction"
+  },
+  {
+   "n": "212",
+   "pt": "Salvatore",
+   "en": "Salvatore"
+  },
+  {
+   "n": "213",
+   "pt": "Folhas Férreas ex",
+   "en": "Iron Leaves ex"
+  },
+  {
+   "n": "214",
+   "pt": "Fogo Corrosão ex",
+   "en": "Gouging Fire ex"
+  },
+  {
+   "n": "215",
+   "pt": "Onda Ando ex",
+   "en": "Walking Wake ex"
+  },
+  {
+   "n": "216",
+   "pt": "Chifres Férreos ex",
+   "en": "Iron Crown ex"
+  },
+  {
+   "n": "217",
+   "pt": "Rocha Férrea ex",
+   "en": "Iron Boulder ex"
+  },
+  {
+   "n": "218",
+   "pt": "Raio Fúria ex",
+   "en": "Raging Bolt ex"
+  }
+ ]
+}

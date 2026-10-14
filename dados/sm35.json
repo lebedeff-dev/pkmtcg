@@ -1,0 +1,398 @@
+{
+ "set": "sm35",
+ "nome_pt": "Lendas Luminescentes",
+ "nome_en": "Shining Legends",
+ "total": 78,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "2",
+   "pt": "Ivysaur",
+   "en": "Ivysaur"
+  },
+  {
+   "n": "3",
+   "pt": "Venusaur",
+   "en": "Venusaur"
+  },
+  {
+   "n": "4",
+   "pt": "Shroomish",
+   "en": "Shroomish"
+  },
+  {
+   "n": "5",
+   "pt": "Breloom",
+   "en": "Breloom"
+  },
+  {
+   "n": "6",
+   "pt": "Carnivine",
+   "en": "Carnivine"
+  },
+  {
+   "n": "7",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "8",
+   "pt": "Virizion",
+   "en": "Virizion"
+  },
+  {
+   "n": "9",
+   "pt": "Genesect Luminescente",
+   "en": "Shining Genesect"
+  },
+  {
+   "n": "10",
+   "pt": "Entei GX",
+   "en": "Entei GX"
+  },
+  {
+   "n": "11",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "12",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "13",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "14",
+   "pt": "Reshiram",
+   "en": "Reshiram"
+  },
+  {
+   "n": "15",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "16",
+   "pt": "Torracat",
+   "en": "Torracat"
+  },
+  {
+   "n": "17",
+   "pt": "Incineroar",
+   "en": "Incineroar"
+  },
+  {
+   "n": "18",
+   "pt": "Totodile",
+   "en": "Totodile"
+  },
+  {
+   "n": "19",
+   "pt": "Croconaw",
+   "en": "Croconaw"
+  },
+  {
+   "n": "20",
+   "pt": "Feraligatr",
+   "en": "Feraligatr"
+  },
+  {
+   "n": "21",
+   "pt": "Qwilfish",
+   "en": "Qwilfish"
+  },
+  {
+   "n": "22",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "23",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "24",
+   "pt": "Palkia",
+   "en": "Palkia"
+  },
+  {
+   "n": "25",
+   "pt": "Manaphy",
+   "en": "Manaphy"
+  },
+  {
+   "n": "26",
+   "pt": "Keldeo",
+   "en": "Keldeo"
+  },
+  {
+   "n": "27",
+   "pt": "Volcanion Luminescente",
+   "en": "Shining Volcanion"
+  },
+  {
+   "n": "28",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "29",
+   "pt": "Raichu GX",
+   "en": "Raichu GX"
+  },
+  {
+   "n": "30",
+   "pt": "Voltorb",
+   "en": "Voltorb"
+  },
+  {
+   "n": "31",
+   "pt": "Electrode",
+   "en": "Electrode"
+  },
+  {
+   "n": "32",
+   "pt": "Raikou",
+   "en": "Raikou"
+  },
+  {
+   "n": "33",
+   "pt": "Plusle",
+   "en": "Plusle"
+  },
+  {
+   "n": "34",
+   "pt": "Minun",
+   "en": "Minun"
+  },
+  {
+   "n": "35",
+   "pt": "Zekrom",
+   "en": "Zekrom"
+  },
+  {
+   "n": "36",
+   "pt": "Ekans",
+   "en": "Ekans"
+  },
+  {
+   "n": "37",
+   "pt": "Arbok",
+   "en": "Arbok"
+  },
+  {
+   "n": "38",
+   "pt": "Jynx",
+   "en": "Jynx"
+  },
+  {
+   "n": "39",
+   "pt": "Mewtwo GX",
+   "en": "Mewtwo GX"
+  },
+  {
+   "n": "40",
+   "pt": "Mew Luminescente",
+   "en": "Shining Mew"
+  },
+  {
+   "n": "41",
+   "pt": "Latios",
+   "en": "Latios"
+  },
+  {
+   "n": "42",
+   "pt": "Jirachi Luminescente",
+   "en": "Shining Jirachi"
+  },
+  {
+   "n": "43",
+   "pt": "Golett",
+   "en": "Golett"
+  },
+  {
+   "n": "44",
+   "pt": "Golurk",
+   "en": "Golurk"
+  },
+  {
+   "n": "45",
+   "pt": "Marshadow",
+   "en": "Marshadow"
+  },
+  {
+   "n": "46",
+   "pt": "Stunfisk",
+   "en": "Stunfisk"
+  },
+  {
+   "n": "47",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "48",
+   "pt": "Purrloin",
+   "en": "Purrloin"
+  },
+  {
+   "n": "49",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "50",
+   "pt": "Scraggy",
+   "en": "Scraggy"
+  },
+  {
+   "n": "51",
+   "pt": "Scrafty",
+   "en": "Scrafty"
+  },
+  {
+   "n": "52",
+   "pt": "Zorua",
+   "en": "Zorua"
+  },
+  {
+   "n": "53",
+   "pt": "Zoroark GX",
+   "en": "Zoroark GX"
+  },
+  {
+   "n": "54",
+   "pt": "Yveltal",
+   "en": "Yveltal"
+  },
+  {
+   "n": "55",
+   "pt": "Hoopa",
+   "en": "Hoopa"
+  },
+  {
+   "n": "56",
+   "pt": "Rayquaza Luminescente",
+   "en": "Shining Rayquaza"
+  },
+  {
+   "n": "57",
+   "pt": "Arceus Luminescente",
+   "en": "Shining Arceus"
+  },
+  {
+   "n": "58",
+   "pt": "Movedor de Dano",
+   "en": "Damage Mover"
+  },
+  {
+   "n": "59",
+   "pt": "Recuperação de Energia",
+   "en": "Energy Retrieval"
+  },
+  {
+   "n": "60",
+   "pt": "Grande Bola",
+   "en": "Great Ball"
+  },
+  {
+   "n": "61",
+   "pt": "Hibi",
+   "en": "Hau"
+  },
+  {
+   "n": "62",
+   "pt": "Lílian",
+   "en": "Lillie"
+  },
+  {
+   "n": "63",
+   "pt": "Criadora de Pokémon",
+   "en": "Pokémon Breeder"
+  },
+  {
+   "n": "64",
+   "pt": "Pegador de Pokémon",
+   "en": "Pokémon Catcher"
+  },
+  {
+   "n": "65",
+   "pt": "Chris",
+   "en": "Sophocles"
+  },
+  {
+   "n": "66",
+   "pt": "Super-recolhida",
+   "en": "Super Scoop Up"
+  },
+  {
+   "n": "67",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "68",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "69",
+   "pt": "Energia Incolor Dupla",
+   "en": "Double Colorless Energy"
+  },
+  {
+   "n": "70",
+   "pt": "Energia de Dobra",
+   "en": "Warp Energy"
+  },
+  {
+   "n": "71",
+   "pt": "Entei GX",
+   "en": "Entei GX"
+  },
+  {
+   "n": "72",
+   "pt": "Mewtwo GX",
+   "en": "Mewtwo GX"
+  },
+  {
+   "n": "73",
+   "pt": "Criadora de Pokémon",
+   "en": "Pokémon Breeder"
+  },
+  {
+   "n": "74",
+   "pt": "Entei GX",
+   "en": "Entei GX"
+  },
+  {
+   "n": "75",
+   "pt": "Raichu GX",
+   "en": "Raichu GX"
+  },
+  {
+   "n": "76",
+   "pt": "Mewtwo GX",
+   "en": "Mewtwo GX"
+  },
+  {
+   "n": "77",
+   "pt": "Zoroark GX",
+   "en": "Zoroark GX"
+  },
+  {
+   "n": "78",
+   "pt": "Mewtwo GX",
+   "en": "Mewtwo GX"
+  }
+ ]
+}

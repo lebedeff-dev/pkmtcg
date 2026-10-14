@@ -1,0 +1,478 @@
+{
+ "set": "sma",
+ "nome_pt": "Destinos Ocultos Cofre Brilhante",
+ "nome_en": "Hidden Fates Shiny Vault",
+ "total": 94,
+ "cartas": [
+  {
+   "n": "SV1",
+   "pt": null,
+   "en": "Scyther"
+  },
+  {
+   "n": "SV2",
+   "pt": null,
+   "en": "Rowlet"
+  },
+  {
+   "n": "SV3",
+   "pt": null,
+   "en": "Dartrix"
+  },
+  {
+   "n": "SV4",
+   "pt": null,
+   "en": "Wimpod"
+  },
+  {
+   "n": "SV5",
+   "pt": null,
+   "en": "Pheromosa"
+  },
+  {
+   "n": "SV6",
+   "pt": null,
+   "en": "Charmander"
+  },
+  {
+   "n": "SV7",
+   "pt": null,
+   "en": "Charmeleon"
+  },
+  {
+   "n": "SV8",
+   "pt": null,
+   "en": "Alolan Vulpix"
+  },
+  {
+   "n": "SV9",
+   "pt": null,
+   "en": "Wooper"
+  },
+  {
+   "n": "SV10",
+   "pt": null,
+   "en": "Quagsire"
+  },
+  {
+   "n": "SV11",
+   "pt": null,
+   "en": "Froakie"
+  },
+  {
+   "n": "SV12",
+   "pt": null,
+   "en": "Frogadier"
+  },
+  {
+   "n": "SV13",
+   "pt": null,
+   "en": "Voltorb"
+  },
+  {
+   "n": "SV14",
+   "pt": null,
+   "en": "Xurkitree"
+  },
+  {
+   "n": "SV15",
+   "pt": null,
+   "en": "Seviper"
+  },
+  {
+   "n": "SV16",
+   "pt": null,
+   "en": "Shuppet"
+  },
+  {
+   "n": "SV17",
+   "pt": null,
+   "en": "Inkay"
+  },
+  {
+   "n": "SV18",
+   "pt": null,
+   "en": "Malamar"
+  },
+  {
+   "n": "SV19",
+   "pt": null,
+   "en": "Poipole"
+  },
+  {
+   "n": "SV20",
+   "pt": null,
+   "en": "Sudowoodo"
+  },
+  {
+   "n": "SV21",
+   "pt": null,
+   "en": "Riolu"
+  },
+  {
+   "n": "SV22",
+   "pt": null,
+   "en": "Lucario"
+  },
+  {
+   "n": "SV23",
+   "pt": null,
+   "en": "Rockruff"
+  },
+  {
+   "n": "SV24",
+   "pt": null,
+   "en": "Buzzwole"
+  },
+  {
+   "n": "SV25",
+   "pt": null,
+   "en": "Zorua"
+  },
+  {
+   "n": "SV26",
+   "pt": null,
+   "en": "Guzzlord"
+  },
+  {
+   "n": "SV27",
+   "pt": null,
+   "en": "Magnemite"
+  },
+  {
+   "n": "SV28",
+   "pt": null,
+   "en": "Magneton"
+  },
+  {
+   "n": "SV29",
+   "pt": null,
+   "en": "Magnezone"
+  },
+  {
+   "n": "SV30",
+   "pt": null,
+   "en": "Beldum"
+  },
+  {
+   "n": "SV31",
+   "pt": null,
+   "en": "Metang"
+  },
+  {
+   "n": "SV32",
+   "pt": null,
+   "en": "Celesteela"
+  },
+  {
+   "n": "SV33",
+   "pt": null,
+   "en": "Kartana"
+  },
+  {
+   "n": "SV34",
+   "pt": null,
+   "en": "Ralts"
+  },
+  {
+   "n": "SV35",
+   "pt": null,
+   "en": "Kirlia"
+  },
+  {
+   "n": "SV36",
+   "pt": null,
+   "en": "Diancie"
+  },
+  {
+   "n": "SV37",
+   "pt": null,
+   "en": "Altaria"
+  },
+  {
+   "n": "SV38",
+   "pt": null,
+   "en": "Gible"
+  },
+  {
+   "n": "SV39",
+   "pt": null,
+   "en": "Gabite"
+  },
+  {
+   "n": "SV40",
+   "pt": null,
+   "en": "Garchomp"
+  },
+  {
+   "n": "SV41",
+   "pt": null,
+   "en": "Eevee"
+  },
+  {
+   "n": "SV42",
+   "pt": null,
+   "en": "Swablu"
+  },
+  {
+   "n": "SV43",
+   "pt": null,
+   "en": "Noibat"
+  },
+  {
+   "n": "SV44",
+   "pt": null,
+   "en": "Oranguru"
+  },
+  {
+   "n": "SV45",
+   "pt": null,
+   "en": "Type: Null"
+  },
+  {
+   "n": "SV46",
+   "pt": null,
+   "en": "Leafeon-GX"
+  },
+  {
+   "n": "SV47",
+   "pt": null,
+   "en": "Decidueye-GX"
+  },
+  {
+   "n": "SV48",
+   "pt": null,
+   "en": "Golisopod-GX"
+  },
+  {
+   "n": "SV49",
+   "pt": null,
+   "en": "Charizard-GX"
+  },
+  {
+   "n": "SV50",
+   "pt": null,
+   "en": "Ho-Oh-GX"
+  },
+  {
+   "n": "SV51",
+   "pt": null,
+   "en": "Reshiram-GX"
+  },
+  {
+   "n": "SV52",
+   "pt": null,
+   "en": "Turtonator-GX"
+  },
+  {
+   "n": "SV53",
+   "pt": null,
+   "en": "Alolan Ninetales-GX"
+  },
+  {
+   "n": "SV54",
+   "pt": null,
+   "en": "Articuno-GX"
+  },
+  {
+   "n": "SV55",
+   "pt": null,
+   "en": "Glaceon-GX"
+  },
+  {
+   "n": "SV56",
+   "pt": null,
+   "en": "Greninja-GX"
+  },
+  {
+   "n": "SV57",
+   "pt": null,
+   "en": "Electrode-GX"
+  },
+  {
+   "n": "SV58",
+   "pt": null,
+   "en": "Xurkitree-GX"
+  },
+  {
+   "n": "SV59",
+   "pt": null,
+   "en": "Mewtwo-GX"
+  },
+  {
+   "n": "SV60",
+   "pt": null,
+   "en": "Espeon-GX"
+  },
+  {
+   "n": "SV61",
+   "pt": null,
+   "en": "Banette-GX"
+  },
+  {
+   "n": "SV62",
+   "pt": null,
+   "en": "Nihilego-GX"
+  },
+  {
+   "n": "SV63",
+   "pt": null,
+   "en": "Naganadel-GX"
+  },
+  {
+   "n": "SV64",
+   "pt": null,
+   "en": "Lucario-GX"
+  },
+  {
+   "n": "SV65",
+   "pt": null,
+   "en": "Zygarde-GX"
+  },
+  {
+   "n": "SV66",
+   "pt": null,
+   "en": "Lycanroc-GX"
+  },
+  {
+   "n": "SV67",
+   "pt": null,
+   "en": "Lycanroc-GX"
+  },
+  {
+   "n": "SV68",
+   "pt": null,
+   "en": "Buzzwole-GX"
+  },
+  {
+   "n": "SV69",
+   "pt": null,
+   "en": "Umbreon-GX"
+  },
+  {
+   "n": "SV70",
+   "pt": null,
+   "en": "Darkrai-GX"
+  },
+  {
+   "n": "SV71",
+   "pt": null,
+   "en": "Guzzlord-GX"
+  },
+  {
+   "n": "SV72",
+   "pt": null,
+   "en": "Scizor-GX"
+  },
+  {
+   "n": "SV73",
+   "pt": null,
+   "en": "Kartana-GX"
+  },
+  {
+   "n": "SV74",
+   "pt": null,
+   "en": "Stakataka-GX"
+  },
+  {
+   "n": "SV75",
+   "pt": null,
+   "en": "Gardevoir-GX"
+  },
+  {
+   "n": "SV76",
+   "pt": null,
+   "en": "Sylveon-GX"
+  },
+  {
+   "n": "SV77",
+   "pt": null,
+   "en": "Altaria-GX"
+  },
+  {
+   "n": "SV78",
+   "pt": null,
+   "en": "Noivern-GX"
+  },
+  {
+   "n": "SV79",
+   "pt": null,
+   "en": "Silvally-GX"
+  },
+  {
+   "n": "SV80",
+   "pt": null,
+   "en": "Drampa-GX"
+  },
+  {
+   "n": "SV81",
+   "pt": null,
+   "en": "Aether Foundation Employee"
+  },
+  {
+   "n": "SV82",
+   "pt": null,
+   "en": "Cynthia"
+  },
+  {
+   "n": "SV83",
+   "pt": null,
+   "en": "Fisherman"
+  },
+  {
+   "n": "SV84",
+   "pt": null,
+   "en": "Guzma"
+  },
+  {
+   "n": "SV85",
+   "pt": null,
+   "en": "Hiker"
+  },
+  {
+   "n": "SV86",
+   "pt": null,
+   "en": "Lady"
+  },
+  {
+   "n": "SV87",
+   "pt": null,
+   "en": "Aether Paradise Conservation Area"
+  },
+  {
+   "n": "SV88",
+   "pt": null,
+   "en": "Brooklet Hill"
+  },
+  {
+   "n": "SV89",
+   "pt": null,
+   "en": "Mt. Coronet"
+  },
+  {
+   "n": "SV90",
+   "pt": null,
+   "en": "Shrine of Punishment"
+  },
+  {
+   "n": "SV91",
+   "pt": null,
+   "en": "Tapu Bulu-GX"
+  },
+  {
+   "n": "SV92",
+   "pt": null,
+   "en": "Tapu Fini-GX"
+  },
+  {
+   "n": "SV93",
+   "pt": null,
+   "en": "Tapu Koko-GX"
+  },
+  {
+   "n": "SV94",
+   "pt": null,
+   "en": "Tapu Lele-GX"
+  }
+ ]
+}

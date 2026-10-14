@@ -1,0 +1,808 @@
+{
+ "set": "swsh12pt5",
+ "nome_pt": "Realeza Absoluta",
+ "nome_en": "Crown Zenith",
+ "total": 160,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Oddish",
+   "en": "Oddish"
+  },
+  {
+   "n": "002",
+   "pt": "Gloom",
+   "en": "Gloom"
+  },
+  {
+   "n": "003",
+   "pt": "Bellossom",
+   "en": "Bellossom"
+  },
+  {
+   "n": "004",
+   "pt": "Tangela",
+   "en": "Tangela"
+  },
+  {
+   "n": "005",
+   "pt": "Tangrowth",
+   "en": "Tangrowth"
+  },
+  {
+   "n": "006",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "007",
+   "pt": "Sunkern",
+   "en": "Sunkern"
+  },
+  {
+   "n": "008",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "009",
+   "pt": "Yanmega",
+   "en": "Yanmega"
+  },
+  {
+   "n": "010",
+   "pt": "Kricketot",
+   "en": "Kricketot"
+  },
+  {
+   "n": "011",
+   "pt": "Cherubi",
+   "en": "Cherubi"
+  },
+  {
+   "n": "012",
+   "pt": "Carnivine",
+   "en": "Carnivine"
+  },
+  {
+   "n": "013",
+   "pt": "Leafeon V",
+   "en": "Leafeon V"
+  },
+  {
+   "n": "014",
+   "pt": "Leafeon V-ASTRO",
+   "en": "Leafeon VSTAR"
+  },
+  {
+   "n": "015",
+   "pt": "Grubbin",
+   "en": "Grubbin"
+  },
+  {
+   "n": "016",
+   "pt": "Zarude",
+   "en": "Zarude"
+  },
+  {
+   "n": "017",
+   "pt": "Calyrex",
+   "en": "Calyrex"
+  },
+  {
+   "n": "018",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "019",
+   "pt": "Charizard V-ASTRO",
+   "en": "Charizard VSTAR"
+  },
+  {
+   "n": "020",
+   "pt": "Charizard Radiante",
+   "en": "Radiant Charizard"
+  },
+  {
+   "n": "021",
+   "pt": "Entei",
+   "en": "Entei"
+  },
+  {
+   "n": "022",
+   "pt": "Simisear V",
+   "en": "Simisear V"
+  },
+  {
+   "n": "023",
+   "pt": "Simisear V-ASTRO",
+   "en": "Simisear VSTAR"
+  },
+  {
+   "n": "024",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "025",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "026",
+   "pt": "Volcanion",
+   "en": "Volcanion"
+  },
+  {
+   "n": "027",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "028",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "029",
+   "pt": "Seel",
+   "en": "Seel"
+  },
+  {
+   "n": "030",
+   "pt": "Mr. Mime de Galar",
+   "en": "Galarian Mr. Mime"
+  },
+  {
+   "n": "031",
+   "pt": "Wailmer",
+   "en": "Wailmer"
+  },
+  {
+   "n": "032",
+   "pt": "Wailord",
+   "en": "Wailord"
+  },
+  {
+   "n": "033",
+   "pt": "Corphish",
+   "en": "Corphish"
+  },
+  {
+   "n": "034",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "035",
+   "pt": "Luvdisc",
+   "en": "Luvdisc"
+  },
+  {
+   "n": "036",
+   "pt": "Kyogre",
+   "en": "Kyogre"
+  },
+  {
+   "n": "037",
+   "pt": "Kyogre V",
+   "en": "Kyogre V"
+  },
+  {
+   "n": "038",
+   "pt": "Glaceon V",
+   "en": "Glaceon V"
+  },
+  {
+   "n": "039",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "040",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "041",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "042",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "043",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "044",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "045",
+   "pt": "Rotom V",
+   "en": "Rotom V"
+  },
+  {
+   "n": "046",
+   "pt": "Rotom V-ASTRO",
+   "en": "Rotom VSTAR"
+  },
+  {
+   "n": "047",
+   "pt": "Emolga",
+   "en": "Emolga"
+  },
+  {
+   "n": "048",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "049",
+   "pt": "Helioptile",
+   "en": "Helioptile"
+  },
+  {
+   "n": "050",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "051",
+   "pt": "Charjabug Radiante",
+   "en": "Radiant Charjabug"
+  },
+  {
+   "n": "052",
+   "pt": "Zeraora",
+   "en": "Zeraora"
+  },
+  {
+   "n": "053",
+   "pt": "Zeraora V",
+   "en": "Zeraora V"
+  },
+  {
+   "n": "054",
+   "pt": "Zeraora VMAX",
+   "en": "Zeraora VMAX"
+  },
+  {
+   "n": "055",
+   "pt": "Zeraora V-ASTRO",
+   "en": "Zeraora VSTAR"
+  },
+  {
+   "n": "056",
+   "pt": "Pincurchin",
+   "en": "Pincurchin"
+  },
+  {
+   "n": "057",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "058",
+   "pt": "Exeggutor",
+   "en": "Exeggutor"
+  },
+  {
+   "n": "059",
+   "pt": "Mewtwo",
+   "en": "Mewtwo"
+  },
+  {
+   "n": "060",
+   "pt": "Mew V",
+   "en": "Mew V"
+  },
+  {
+   "n": "061",
+   "pt": "Girafarig",
+   "en": "Girafarig"
+  },
+  {
+   "n": "062",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "063",
+   "pt": "Dusclops",
+   "en": "Dusclops"
+  },
+  {
+   "n": "064",
+   "pt": "Tapu Lele",
+   "en": "Tapu Lele"
+  },
+  {
+   "n": "065",
+   "pt": "Hatterene V",
+   "en": "Hatterene V"
+  },
+  {
+   "n": "066",
+   "pt": "Hatterene VMAX",
+   "en": "Hatterene VMAX"
+  },
+  {
+   "n": "067",
+   "pt": "Enamorus",
+   "en": "Enamorus"
+  },
+  {
+   "n": "068",
+   "pt": "Graveler",
+   "en": "Graveler"
+  },
+  {
+   "n": "069",
+   "pt": "Solrock",
+   "en": "Solrock"
+  },
+  {
+   "n": "070",
+   "pt": "Baltoy",
+   "en": "Baltoy"
+  },
+  {
+   "n": "071",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "072",
+   "pt": "Pancham",
+   "en": "Pancham"
+  },
+  {
+   "n": "073",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "074",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "075",
+   "pt": "Koffing",
+   "en": "Koffing"
+  },
+  {
+   "n": "076",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "077",
+   "pt": "Purrloin",
+   "en": "Purrloin"
+  },
+  {
+   "n": "078",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "079",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "080",
+   "pt": "Pangoro",
+   "en": "Pangoro"
+  },
+  {
+   "n": "081",
+   "pt": "Skrelp",
+   "en": "Skrelp"
+  },
+  {
+   "n": "082",
+   "pt": "Dragalge",
+   "en": "Dragalge"
+  },
+  {
+   "n": "083",
+   "pt": "Hoopa",
+   "en": "Hoopa"
+  },
+  {
+   "n": "084",
+   "pt": "Meowth de Galar",
+   "en": "Galarian Meowth"
+  },
+  {
+   "n": "085",
+   "pt": "Perrserker de Galar",
+   "en": "Galarian Perrserker"
+  },
+  {
+   "n": "086",
+   "pt": "Scizor",
+   "en": "Scizor"
+  },
+  {
+   "n": "087",
+   "pt": "Aron",
+   "en": "Aron"
+  },
+  {
+   "n": "088",
+   "pt": "Lairon",
+   "en": "Lairon"
+  },
+  {
+   "n": "089",
+   "pt": "Aggron",
+   "en": "Aggron"
+  },
+  {
+   "n": "090",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "091",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "092",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "093",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "094",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "095",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "096",
+   "pt": "Zacian V-ASTRO",
+   "en": "Zacian VSTAR"
+  },
+  {
+   "n": "097",
+   "pt": "Zamazenta",
+   "en": "Zamazenta"
+  },
+  {
+   "n": "098",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "099",
+   "pt": "Zamazenta V-ASTRO",
+   "en": "Zamazenta VSTAR"
+  },
+  {
+   "n": "100",
+   "pt": "Rayquaza V",
+   "en": "Rayquaza V"
+  },
+  {
+   "n": "101",
+   "pt": "Rayquaza VMAX",
+   "en": "Rayquaza VMAX"
+  },
+  {
+   "n": "102",
+   "pt": "Rayquaza VMAX",
+   "en": "Rayquaza VMAX"
+  },
+  {
+   "n": "103",
+   "pt": "Duraludon V",
+   "en": "Duraludon V"
+  },
+  {
+   "n": "104",
+   "pt": "Duraludon VMAX",
+   "en": "Duraludon VMAX"
+  },
+  {
+   "n": "105",
+   "pt": "Eternatus Radiante",
+   "en": "Radiant Eternatus"
+  },
+  {
+   "n": "106",
+   "pt": "Tauros",
+   "en": "Tauros"
+  },
+  {
+   "n": "107",
+   "pt": "Ditto",
+   "en": "Ditto"
+  },
+  {
+   "n": "108",
+   "pt": "Eevee V",
+   "en": "Eevee V"
+  },
+  {
+   "n": "109",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "110",
+   "pt": "Starly",
+   "en": "Starly"
+  },
+  {
+   "n": "111",
+   "pt": "Bidoof",
+   "en": "Bidoof"
+  },
+  {
+   "n": "112",
+   "pt": "Chatot",
+   "en": "Chatot"
+  },
+  {
+   "n": "113",
+   "pt": "Regigigas V",
+   "en": "Regigigas V"
+  },
+  {
+   "n": "114",
+   "pt": "Regigigas V-ASTRO",
+   "en": "Regigigas VSTAR"
+  },
+  {
+   "n": "115",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "116",
+   "pt": "Stoutland V",
+   "en": "Stoutland V"
+  },
+  {
+   "n": "117",
+   "pt": "Yungoos",
+   "en": "Yungoos"
+  },
+  {
+   "n": "118",
+   "pt": "Gumshoos",
+   "en": "Gumshoos"
+  },
+  {
+   "n": "119",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "120",
+   "pt": "Greedent V",
+   "en": "Greedent V"
+  },
+  {
+   "n": "121",
+   "pt": "Wooloo",
+   "en": "Wooloo"
+  },
+  {
+   "n": "122",
+   "pt": "Dubwool",
+   "en": "Dubwool"
+  },
+  {
+   "n": "123",
+   "pt": "Bia",
+   "en": "Bea"
+  },
+  {
+   "n": "124",
+   "pt": "Beda",
+   "en": "Bede"
+  },
+  {
+   "n": "125",
+   "pt": "Martelo Esmagador",
+   "en": "Crushing Hammer"
+  },
+  {
+   "n": "126",
+   "pt": "Dupla de Escavação",
+   "en": "Digging Duo"
+  },
+  {
+   "n": "127",
+   "pt": "Recuperação de Energia",
+   "en": "Energy Retrieval"
+  },
+  {
+   "n": "128",
+   "pt": "Busca de Energia",
+   "en": "Energy Search"
+  },
+  {
+   "n": "129",
+   "pt": "Substituição de Energia",
+   "en": "Energy Switch"
+  },
+  {
+   "n": "130",
+   "pt": "Amigos em Hisui",
+   "en": "Friends in Hisui"
+  },
+  {
+   "n": "131",
+   "pt": "Amigos em Sinnoh",
+   "en": "Friends in Sinnoh"
+  },
+  {
+   "n": "132",
+   "pt": "Grande Bola",
+   "en": "Great Ball"
+  },
+  {
+   "n": "133",
+   "pt": "Lupo",
+   "en": "Hop"
+  },
+  {
+   "n": "134",
+   "pt": "Leon",
+   "en": "Leon"
+  },
+  {
+   "n": "135",
+   "pt": "Aspirador Perdido",
+   "en": "Lost Vacuum"
+  },
+  {
+   "n": "136",
+   "pt": "Vanessa",
+   "en": "Nessa"
+  },
+  {
+   "n": "137",
+   "pt": "Poké Bola",
+   "en": "Poké Ball"
+  },
+  {
+   "n": "138",
+   "pt": "Pegador de Pokémon",
+   "en": "Pokémon Catcher"
+  },
+  {
+   "n": "139",
+   "pt": "Poção",
+   "en": "Potion"
+  },
+  {
+   "n": "140",
+   "pt": "Roy",
+   "en": "Raihan"
+  },
+  {
+   "n": "141",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "142",
+   "pt": "Carrinho de Resgate",
+   "en": "Rescue Carrier"
+  },
+  {
+   "n": "143",
+   "pt": "Pedra Selada Celeste",
+   "en": "Sky Seal Stone"
+  },
+  {
+   "n": "144",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "145",
+   "pt": "Tênis de Caminhada",
+   "en": "Trekking Shoes"
+  },
+  {
+   "n": "146",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "147",
+   "pt": "Brilho da Elesa",
+   "en": "Elesa's Sparkle"
+  },
+  {
+   "n": "148",
+   "pt": "Amigos em Hisui",
+   "en": "Friends in Hisui"
+  },
+  {
+   "n": "149",
+   "pt": "Amigos em Sinnoh",
+   "en": "Friends in Sinnoh"
+  },
+  {
+   "n": "150",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "151",
+   "pt": "Volo",
+   "en": "Volo"
+  },
+  {
+   "n": "152",
+   "pt": "Energia de Grama",
+   "en": "Grass Energy"
+  },
+  {
+   "n": "153",
+   "pt": "Energia de Fogo",
+   "en": "Fire Energy"
+  },
+  {
+   "n": "154",
+   "pt": "Energia de Água",
+   "en": "Water Energy"
+  },
+  {
+   "n": "155",
+   "pt": "Energia de Raios",
+   "en": "Lightning Energy"
+  },
+  {
+   "n": "156",
+   "pt": "Energia Psíquica",
+   "en": "Psychic Energy"
+  },
+  {
+   "n": "157",
+   "pt": "Energia de Luta",
+   "en": "Fighting Energy"
+  },
+  {
+   "n": "158",
+   "pt": "Energia Noturna",
+   "en": "Darkness Energy"
+  },
+  {
+   "n": "159",
+   "pt": "Energia de Metal",
+   "en": "Metal Energy"
+  },
+  {
+   "n": "160",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  }
+ ]
+}

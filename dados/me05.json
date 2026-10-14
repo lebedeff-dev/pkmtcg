@@ -1,0 +1,608 @@
+{
+ "set": "me05",
+ "nome_pt": "Escuridão Absoluta",
+ "nome_en": "Pitch Black",
+ "total": 120,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Tropius",
+   "en": "Tropius"
+  },
+  {
+   "n": "002",
+   "pt": "Grubbin",
+   "en": "Grubbin"
+  },
+  {
+   "n": "003",
+   "pt": "Fomantis",
+   "en": "Fomantis"
+  },
+  {
+   "n": "004",
+   "pt": "Lurantis ex",
+   "en": "Lurantis ex"
+  },
+  {
+   "n": "005",
+   "pt": "Poltchageist",
+   "en": "Poltchageist"
+  },
+  {
+   "n": "006",
+   "pt": "Sinistcha",
+   "en": "Sinistcha"
+  },
+  {
+   "n": "007",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "008",
+   "pt": "Mega Delphox ex",
+   "en": "Mega Delphox ex"
+  },
+  {
+   "n": "009",
+   "pt": "Sizzlipede",
+   "en": "Sizzlipede"
+  },
+  {
+   "n": "010",
+   "pt": "Centiskorch",
+   "en": "Centiskorch"
+  },
+  {
+   "n": "011",
+   "pt": "Charcadet",
+   "en": "Charcadet"
+  },
+  {
+   "n": "012",
+   "pt": "Armarouge",
+   "en": "Armarouge"
+  },
+  {
+   "n": "013",
+   "pt": "Goldeen",
+   "en": "Goldeen"
+  },
+  {
+   "n": "014",
+   "pt": "Seaking",
+   "en": "Seaking"
+  },
+  {
+   "n": "015",
+   "pt": "Wailmer",
+   "en": "Wailmer"
+  },
+  {
+   "n": "016",
+   "pt": "Wailord ex",
+   "en": "Wailord ex"
+  },
+  {
+   "n": "017",
+   "pt": "Relicanth",
+   "en": "Relicanth"
+  },
+  {
+   "n": "018",
+   "pt": "Popplio",
+   "en": "Popplio"
+  },
+  {
+   "n": "019",
+   "pt": "Brionne",
+   "en": "Brionne"
+  },
+  {
+   "n": "020",
+   "pt": "Primarina",
+   "en": "Primarina"
+  },
+  {
+   "n": "021",
+   "pt": "Finizen",
+   "en": "Finizen"
+  },
+  {
+   "n": "022",
+   "pt": "Palafin",
+   "en": "Palafin"
+  },
+  {
+   "n": "023",
+   "pt": "Electrike",
+   "en": "Electrike"
+  },
+  {
+   "n": "024",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "025",
+   "pt": "Charjabug",
+   "en": "Charjabug"
+  },
+  {
+   "n": "026",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "027",
+   "pt": "Mega Zeraora ex",
+   "en": "Mega Zeraora ex"
+  },
+  {
+   "n": "028",
+   "pt": "Miraidon",
+   "en": "Miraidon"
+  },
+  {
+   "n": "029",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "030",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "031",
+   "pt": "Mega Slowbro ex",
+   "en": "Mega Slowbro ex"
+  },
+  {
+   "n": "032",
+   "pt": "Jynx",
+   "en": "Jynx"
+  },
+  {
+   "n": "033",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "034",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "035",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "036",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "037",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "038",
+   "pt": "Mega Chandelure ex",
+   "en": "Mega Chandelure ex"
+  },
+  {
+   "n": "039",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "040",
+   "pt": "Marshadow",
+   "en": "Marshadow"
+  },
+  {
+   "n": "041",
+   "pt": "Annihilape",
+   "en": "Annihilape"
+  },
+  {
+   "n": "042",
+   "pt": "Mankey",
+   "en": "Mankey"
+  },
+  {
+   "n": "043",
+   "pt": "Primeape",
+   "en": "Primeape"
+  },
+  {
+   "n": "044",
+   "pt": "Cranidos",
+   "en": "Cranidos"
+  },
+  {
+   "n": "045",
+   "pt": "Rampardos ex",
+   "en": "Rampardos ex"
+  },
+  {
+   "n": "046",
+   "pt": "Drilbur",
+   "en": "Drilbur"
+  },
+  {
+   "n": "047",
+   "pt": "Koraidon",
+   "en": "Koraidon"
+  },
+  {
+   "n": "048",
+   "pt": "Mega Darkrai ex",
+   "en": "Mega Darkrai ex"
+  },
+  {
+   "n": "049",
+   "pt": "Vullaby",
+   "en": "Vullaby"
+  },
+  {
+   "n": "050",
+   "pt": "Mandibuzz",
+   "en": "Mandibuzz"
+  },
+  {
+   "n": "051",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "052",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "053",
+   "pt": "Nickit",
+   "en": "Nickit"
+  },
+  {
+   "n": "054",
+   "pt": "Thievul",
+   "en": "Thievul"
+  },
+  {
+   "n": "055",
+   "pt": "Morpeko ex",
+   "en": "Morpeko ex"
+  },
+  {
+   "n": "056",
+   "pt": "Zarude",
+   "en": "Zarude"
+  },
+  {
+   "n": "057",
+   "pt": "Maschiff",
+   "en": "Maschiff"
+  },
+  {
+   "n": "058",
+   "pt": "Mabosstiff",
+   "en": "Mabosstiff"
+  },
+  {
+   "n": "059",
+   "pt": "Chi-Yu",
+   "en": "Chi-Yu"
+  },
+  {
+   "n": "060",
+   "pt": "Skarmory",
+   "en": "Skarmory"
+  },
+  {
+   "n": "061",
+   "pt": "Shieldon",
+   "en": "Shieldon"
+  },
+  {
+   "n": "062",
+   "pt": "Bastiodon",
+   "en": "Bastiodon"
+  },
+  {
+   "n": "063",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "064",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "065",
+   "pt": "Mega Excadrill ex",
+   "en": "Mega Excadrill ex"
+  },
+  {
+   "n": "066",
+   "pt": "Pikipek",
+   "en": "Pikipek"
+  },
+  {
+   "n": "067",
+   "pt": "Trumbeak",
+   "en": "Trumbeak"
+  },
+  {
+   "n": "068",
+   "pt": "Toucannon",
+   "en": "Toucannon"
+  },
+  {
+   "n": "069",
+   "pt": "Tipo Nulo",
+   "en": "Type: Null"
+  },
+  {
+   "n": "070",
+   "pt": "Silvally",
+   "en": "Silvally"
+  },
+  {
+   "n": "071",
+   "pt": "Bombirdier",
+   "en": "Bombirdier"
+  },
+  {
+   "n": "072",
+   "pt": "Fóssil Armadura Arcaico",
+   "en": "Antique Armor Fossil"
+  },
+  {
+   "n": "073",
+   "pt": "Fóssil Crânio Arcaico",
+   "en": "Antique Skull Fossil"
+  },
+  {
+   "n": "074",
+   "pt": "Distintivo de Recomeço",
+   "en": "Backtrack Badge"
+  },
+  {
+   "n": "075",
+   "pt": "Sino Sombrio",
+   "en": "Dark Bell"
+  },
+  {
+   "n": "076",
+   "pt": "Pedreira de Fóssil",
+   "en": "Fossil Quarry"
+  },
+  {
+   "n": "077",
+   "pt": "Batalha Decisiva do Gladio",
+   "en": "Gladion's Final Battle"
+  },
+  {
+   "n": "078",
+   "pt": "Clarita",
+   "en": "Gwynn"
+  },
+  {
+   "n": "079",
+   "pt": "Jett",
+   "en": "Jett"
+  },
+  {
+   "n": "080",
+   "pt": "Vitalidade da Misty",
+   "en": "Misty's Vitality"
+  },
+  {
+   "n": "081",
+   "pt": "Recruta do Clã Corrosão",
+   "en": "Rust Syndicate Grunt"
+  },
+  {
+   "n": "082",
+   "pt": "Bombona",
+   "en": "Tremendous Bomb"
+  },
+  {
+   "n": "083",
+   "pt": "Energia Darkness Sombria",
+   "en": "Shadowy Darkness Energy"
+  },
+  {
+   "n": "084",
+   "pt": "Energia Lightning Voltaica",
+   "en": "Voltaic Lightning Energy"
+  },
+  {
+   "n": "085",
+   "pt": "Fomantis",
+   "en": "Fomantis"
+  },
+  {
+   "n": "086",
+   "pt": "Armarouge",
+   "en": "Armarouge"
+  },
+  {
+   "n": "087",
+   "pt": "Goldeen",
+   "en": "Goldeen"
+  },
+  {
+   "n": "088",
+   "pt": "Primarina",
+   "en": "Primarina"
+  },
+  {
+   "n": "089",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "090",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "091",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "092",
+   "pt": "Thievul",
+   "en": "Thievul"
+  },
+  {
+   "n": "093",
+   "pt": "Bastiodon",
+   "en": "Bastiodon"
+  },
+  {
+   "n": "094",
+   "pt": "Toucannon",
+   "en": "Toucannon"
+  },
+  {
+   "n": "095",
+   "pt": "Silvally",
+   "en": "Silvally"
+  },
+  {
+   "n": "096",
+   "pt": "Lurantis ex",
+   "en": "Lurantis ex"
+  },
+  {
+   "n": "097",
+   "pt": "Wailord ex",
+   "en": "Wailord ex"
+  },
+  {
+   "n": "098",
+   "pt": "Mega Zeraora ex",
+   "en": "Mega Zeraora ex"
+  },
+  {
+   "n": "099",
+   "pt": "Mega Chandelure ex",
+   "en": "Mega Chandelure ex"
+  },
+  {
+   "n": "100",
+   "pt": "Rampardos ex",
+   "en": "Rampardos ex"
+  },
+  {
+   "n": "101",
+   "pt": "Mega Darkrai ex",
+   "en": "Mega Darkrai ex"
+  },
+  {
+   "n": "102",
+   "pt": "Morpeko ex",
+   "en": "Morpeko ex"
+  },
+  {
+   "n": "103",
+   "pt": "Mega Excadrill ex",
+   "en": "Mega Excadrill ex"
+  },
+  {
+   "n": "104",
+   "pt": "Bracelete Bravio",
+   "en": "Brave Bangle"
+  },
+  {
+   "n": "105",
+   "pt": "Martelo Esmagador",
+   "en": "Crushing Hammer"
+  },
+  {
+   "n": "106",
+   "pt": "Sino Sombrio",
+   "en": "Dark Bell"
+  },
+  {
+   "n": "107",
+   "pt": "Substituição de Energia",
+   "en": "Energy Switch"
+  },
+  {
+   "n": "108",
+   "pt": "Batalha Decisiva do Gladio",
+   "en": "Gladion's Final Battle"
+  },
+  {
+   "n": "109",
+   "pt": "Clarita",
+   "en": "Gwynn"
+  },
+  {
+   "n": "110",
+   "pt": "Defensor Férreo",
+   "en": "Iron Defender"
+  },
+  {
+   "n": "111",
+   "pt": "Vitalidade da Misty",
+   "en": "Misty's Vitality"
+  },
+  {
+   "n": "112",
+   "pt": "Recruta do Clã Corrosão",
+   "en": "Rust Syndicate Grunt"
+  },
+  {
+   "n": "113",
+   "pt": "Bombona",
+   "en": "Tremendous Bomb"
+  },
+  {
+   "n": "114",
+   "pt": "Mega Zeraora ex",
+   "en": "Mega Zeraora ex"
+  },
+  {
+   "n": "115",
+   "pt": "Mega Chandelure ex",
+   "en": "Mega Chandelure ex"
+  },
+  {
+   "n": "116",
+   "pt": "Mega Darkrai ex",
+   "en": "Mega Darkrai ex"
+  },
+  {
+   "n": "117",
+   "pt": "Morpeko ex",
+   "en": "Morpeko ex"
+  },
+  {
+   "n": "118",
+   "pt": "Batalha Decisiva do Gladio",
+   "en": "Gladion's Final Battle"
+  },
+  {
+   "n": "119",
+   "pt": "Clarita",
+   "en": "Gwynn"
+  },
+  {
+   "n": "120",
+   "pt": "Mega Darkrai ex",
+   "en": "Mega Darkrai ex"
+  }
+ ]
+}

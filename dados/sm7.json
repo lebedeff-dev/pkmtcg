@@ -1,0 +1,923 @@
+{
+ "set": "sm7",
+ "nome_pt": "Tempestade Celestial",
+ "nome_en": "Celestial Storm",
+ "total": 183,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Bellsprout",
+   "en": "Bellsprout"
+  },
+  {
+   "n": "2",
+   "pt": "Weepinbell",
+   "en": "Weepinbell"
+  },
+  {
+   "n": "3",
+   "pt": "Victreebel",
+   "en": "Victreebel"
+  },
+  {
+   "n": "4",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "5",
+   "pt": "Spinarak",
+   "en": "Spinarak"
+  },
+  {
+   "n": "6",
+   "pt": "Ariados",
+   "en": "Ariados"
+  },
+  {
+   "n": "7",
+   "pt": "Treecko",
+   "en": "Treecko"
+  },
+  {
+   "n": "8",
+   "pt": "Treecko",
+   "en": "Treecko"
+  },
+  {
+   "n": "9",
+   "pt": "Grovyle",
+   "en": "Grovyle"
+  },
+  {
+   "n": "10",
+   "pt": "Sceptile",
+   "en": "Sceptile"
+  },
+  {
+   "n": "11",
+   "pt": "Seedot",
+   "en": "Seedot"
+  },
+  {
+   "n": "12",
+   "pt": "Seedot",
+   "en": "Seedot"
+  },
+  {
+   "n": "13",
+   "pt": "Nuzleaf",
+   "en": "Nuzleaf"
+  },
+  {
+   "n": "14",
+   "pt": "Shiftry GX",
+   "en": "Shiftry GX"
+  },
+  {
+   "n": "15",
+   "pt": "Surskit",
+   "en": "Surskit"
+  },
+  {
+   "n": "16",
+   "pt": "Masquerain",
+   "en": "Masquerain"
+  },
+  {
+   "n": "17",
+   "pt": "Volbeat",
+   "en": "Volbeat"
+  },
+  {
+   "n": "18",
+   "pt": "Illumise",
+   "en": "Illumise"
+  },
+  {
+   "n": "19",
+   "pt": "Cacnea",
+   "en": "Cacnea"
+  },
+  {
+   "n": "20",
+   "pt": "Cacturne",
+   "en": "Cacturne"
+  },
+  {
+   "n": "21",
+   "pt": "Tropius",
+   "en": "Tropius"
+  },
+  {
+   "n": "22",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "23",
+   "pt": "Slugma",
+   "en": "Slugma"
+  },
+  {
+   "n": "24",
+   "pt": "Magcargo",
+   "en": "Magcargo"
+  },
+  {
+   "n": "25",
+   "pt": "Torchic",
+   "en": "Torchic"
+  },
+  {
+   "n": "26",
+   "pt": "Torchic",
+   "en": "Torchic"
+  },
+  {
+   "n": "27",
+   "pt": "Combusken",
+   "en": "Combusken"
+  },
+  {
+   "n": "28",
+   "pt": "Blaziken GX",
+   "en": "Blaziken GX"
+  },
+  {
+   "n": "29",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "30",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "31",
+   "pt": "Articuno GX",
+   "en": "Articuno GX"
+  },
+  {
+   "n": "32",
+   "pt": "Mudkip",
+   "en": "Mudkip"
+  },
+  {
+   "n": "33",
+   "pt": "Mudkip",
+   "en": "Mudkip"
+  },
+  {
+   "n": "34",
+   "pt": "Marshtomp",
+   "en": "Marshtomp"
+  },
+  {
+   "n": "35",
+   "pt": "Swampert",
+   "en": "Swampert"
+  },
+  {
+   "n": "36",
+   "pt": "Lotad",
+   "en": "Lotad"
+  },
+  {
+   "n": "37",
+   "pt": "Lombre",
+   "en": "Lombre"
+  },
+  {
+   "n": "38",
+   "pt": "Ludicolo",
+   "en": "Ludicolo"
+  },
+  {
+   "n": "39",
+   "pt": "Wailmer",
+   "en": "Wailmer"
+  },
+  {
+   "n": "40",
+   "pt": "Wailord",
+   "en": "Wailord"
+  },
+  {
+   "n": "41",
+   "pt": "Clamperl",
+   "en": "Clamperl"
+  },
+  {
+   "n": "42",
+   "pt": "Huntail",
+   "en": "Huntail"
+  },
+  {
+   "n": "43",
+   "pt": "Gorebyss",
+   "en": "Gorebyss"
+  },
+  {
+   "n": "44",
+   "pt": "Luvdisc",
+   "en": "Luvdisc"
+  },
+  {
+   "n": "45",
+   "pt": "Regice",
+   "en": "Regice"
+  },
+  {
+   "n": "46",
+   "pt": "Kyogre",
+   "en": "Kyogre"
+  },
+  {
+   "n": "47",
+   "pt": "Voltorb",
+   "en": "Voltorb"
+  },
+  {
+   "n": "48",
+   "pt": "Electrode GX",
+   "en": "Electrode GX"
+  },
+  {
+   "n": "49",
+   "pt": "Chinchou",
+   "en": "Chinchou"
+  },
+  {
+   "n": "50",
+   "pt": "Lanturn",
+   "en": "Lanturn"
+  },
+  {
+   "n": "51",
+   "pt": "Electrike",
+   "en": "Electrike"
+  },
+  {
+   "n": "52",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "53",
+   "pt": "Plusle",
+   "en": "Plusle"
+  },
+  {
+   "n": "54",
+   "pt": "Minun",
+   "en": "Minun"
+  },
+  {
+   "n": "55",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "56",
+   "pt": "Mr. Mime GX",
+   "en": "Mr. Mime GX"
+  },
+  {
+   "n": "57",
+   "pt": "Gulpin",
+   "en": "Gulpin"
+  },
+  {
+   "n": "58",
+   "pt": "Swalot",
+   "en": "Swalot"
+  },
+  {
+   "n": "59",
+   "pt": "Spoink",
+   "en": "Spoink"
+  },
+  {
+   "n": "60",
+   "pt": "Grumpig",
+   "en": "Grumpig"
+  },
+  {
+   "n": "61",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "62",
+   "pt": "Solrock",
+   "en": "Solrock"
+  },
+  {
+   "n": "63",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "64",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "65",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "66",
+   "pt": "Banette GX",
+   "en": "Banette GX"
+  },
+  {
+   "n": "67",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "68",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "69",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "70",
+   "pt": "Lunala",
+   "en": "Lunala"
+  },
+  {
+   "n": "71",
+   "pt": "Onix",
+   "en": "Onix"
+  },
+  {
+   "n": "72",
+   "pt": "Phanpy",
+   "en": "Phanpy"
+  },
+  {
+   "n": "73",
+   "pt": "Donphan",
+   "en": "Donphan"
+  },
+  {
+   "n": "74",
+   "pt": "Larvitar",
+   "en": "Larvitar"
+  },
+  {
+   "n": "75",
+   "pt": "Pupitar",
+   "en": "Pupitar"
+  },
+  {
+   "n": "76",
+   "pt": "Meditite",
+   "en": "Meditite"
+  },
+  {
+   "n": "77",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "78",
+   "pt": "Baltoy",
+   "en": "Baltoy"
+  },
+  {
+   "n": "79",
+   "pt": "Claydol",
+   "en": "Claydol"
+  },
+  {
+   "n": "80",
+   "pt": "Regirock",
+   "en": "Regirock"
+  },
+  {
+   "n": "81",
+   "pt": "Groudon",
+   "en": "Groudon"
+  },
+  {
+   "n": "82",
+   "pt": "Palossand GX",
+   "en": "Palossand GX"
+  },
+  {
+   "n": "83",
+   "pt": "Minior",
+   "en": "Minior"
+  },
+  {
+   "n": "84",
+   "pt": "Rattata de Alola",
+   "en": "Alolan Rattata"
+  },
+  {
+   "n": "85",
+   "pt": "Raticate de Alola GX",
+   "en": "Alolan Raticate GX"
+  },
+  {
+   "n": "86",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "87",
+   "pt": "Tyranitar",
+   "en": "Tyranitar"
+  },
+  {
+   "n": "88",
+   "pt": "Sableye",
+   "en": "Sableye"
+  },
+  {
+   "n": "89",
+   "pt": "Steelix",
+   "en": "Steelix"
+  },
+  {
+   "n": "90",
+   "pt": "Scizor GX",
+   "en": "Scizor GX"
+  },
+  {
+   "n": "91",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "92",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "93",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "94",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "95",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "96",
+   "pt": "Registeel",
+   "en": "Registeel"
+  },
+  {
+   "n": "97",
+   "pt": "Jirachi ◇",
+   "en": "Jirachi ◇"
+  },
+  {
+   "n": "98",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "99",
+   "pt": "Solgaleo",
+   "en": "Solgaleo"
+  },
+  {
+   "n": "100",
+   "pt": "Celesteela",
+   "en": "Celesteela"
+  },
+  {
+   "n": "101",
+   "pt": "Kartana",
+   "en": "Kartana"
+  },
+  {
+   "n": "102",
+   "pt": "Stakataka GX",
+   "en": "Stakataka GX"
+  },
+  {
+   "n": "103",
+   "pt": "Bagon",
+   "en": "Bagon"
+  },
+  {
+   "n": "104",
+   "pt": "Bagon",
+   "en": "Bagon"
+  },
+  {
+   "n": "105",
+   "pt": "Shelgon",
+   "en": "Shelgon"
+  },
+  {
+   "n": "106",
+   "pt": "Salamence",
+   "en": "Salamence"
+  },
+  {
+   "n": "107",
+   "pt": "Latias ◇",
+   "en": "Latias ◇"
+  },
+  {
+   "n": "108",
+   "pt": "Latios ◇",
+   "en": "Latios ◇"
+  },
+  {
+   "n": "109",
+   "pt": "Rayquaza GX",
+   "en": "Rayquaza GX"
+  },
+  {
+   "n": "110",
+   "pt": "Dunsparce",
+   "en": "Dunsparce"
+  },
+  {
+   "n": "111",
+   "pt": "Wingull",
+   "en": "Wingull"
+  },
+  {
+   "n": "112",
+   "pt": "Pelipper",
+   "en": "Pelipper"
+  },
+  {
+   "n": "113",
+   "pt": "Slakoth",
+   "en": "Slakoth"
+  },
+  {
+   "n": "114",
+   "pt": "Vigoroth",
+   "en": "Vigoroth"
+  },
+  {
+   "n": "115",
+   "pt": "Slaking",
+   "en": "Slaking"
+  },
+  {
+   "n": "116",
+   "pt": "Whismur",
+   "en": "Whismur"
+  },
+  {
+   "n": "117",
+   "pt": "Whismur",
+   "en": "Whismur"
+  },
+  {
+   "n": "118",
+   "pt": "Loudred",
+   "en": "Loudred"
+  },
+  {
+   "n": "119",
+   "pt": "Exploud",
+   "en": "Exploud"
+  },
+  {
+   "n": "120",
+   "pt": "Skitty",
+   "en": "Skitty"
+  },
+  {
+   "n": "121",
+   "pt": "Delcatty",
+   "en": "Delcatty"
+  },
+  {
+   "n": "122",
+   "pt": "Kecleon",
+   "en": "Kecleon"
+  },
+  {
+   "n": "123",
+   "pt": "Bicicleta Acro",
+   "en": "Acro Bike"
+  },
+  {
+   "n": "124",
+   "pt": "Fabricador de Bolota",
+   "en": "Apricorn Maker"
+  },
+  {
+   "n": "125",
+   "pt": "Bola Criatura",
+   "en": "Beast Ball"
+  },
+  {
+   "n": "126",
+   "pt": "Manutenção do Bill",
+   "en": "Bill’s Maintenance"
+  },
+  {
+   "n": "127",
+   "pt": "Imitadora",
+   "en": "Copycat"
+  },
+  {
+   "n": "128",
+   "pt": "Sistema de Reciclagem de Energias",
+   "en": "Energy Recycle System"
+  },
+  {
+   "n": "129",
+   "pt": "Substituição de Energia",
+   "en": "Energy Switch"
+  },
+  {
+   "n": "130",
+   "pt": "Pescador",
+   "en": "Fisherman"
+  },
+  {
+   "n": "131",
+   "pt": "Bola Amizade",
+   "en": "Friend Ball"
+  },
+  {
+   "n": "132",
+   "pt": "Hibi",
+   "en": "Hau"
+  },
+  {
+   "n": "133",
+   "pt": "Montanhista",
+   "en": "Hiker"
+  },
+  {
+   "n": "134",
+   "pt": "Cinto do Alvoroço",
+   "en": "Hustle Belt"
+  },
+  {
+   "n": "135",
+   "pt": "Poção de Última Hora",
+   "en": "Last Chance Potion"
+  },
+  {
+   "n": "136",
+   "pt": "Erva da Vida",
+   "en": "Life Herb"
+  },
+  {
+   "n": "137",
+   "pt": "Elisia",
+   "en": "Lisia"
+  },
+  {
+   "n": "138",
+   "pt": "Bola Isca",
+   "en": "Lure Ball"
+  },
+  {
+   "n": "139",
+   "pt": "Real Mascarado",
+   "en": "The Masked Royal"
+  },
+  {
+   "n": "140",
+   "pt": "PokéNav",
+   "en": "PokéNav"
+  },
+  {
+   "n": "141",
+   "pt": "Pincel Arco-íris",
+   "en": "Rainbow Brush"
+  },
+  {
+   "n": "142",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "143",
+   "pt": "Santuário da Punição",
+   "en": "Shrine of Punishment"
+  },
+  {
+   "n": "144",
+   "pt": "Pilar Celeste",
+   "en": "Sky Pillar"
+  },
+  {
+   "n": "145",
+   "pt": "Resolução do Steven",
+   "en": "Steven’s Resolve"
+  },
+  {
+   "n": "146",
+   "pt": "Super-recolhida",
+   "en": "Super Scoop Up"
+  },
+  {
+   "n": "147",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "148",
+   "pt": "Tate e Liza",
+   "en": "Tate & Liza"
+  },
+  {
+   "n": "149",
+   "pt": "Repórter Televisivo",
+   "en": "TV Reporter"
+  },
+  {
+   "n": "150",
+   "pt": "Expedição Subterrânea",
+   "en": "Underground Expedition"
+  },
+  {
+   "n": "151",
+   "pt": "Energia Arco-Íris",
+   "en": "Rainbow Energy"
+  },
+  {
+   "n": "152",
+   "pt": "Shiftry GX",
+   "en": "Shiftry GX"
+  },
+  {
+   "n": "153",
+   "pt": "Blaziken GX",
+   "en": "Blaziken GX"
+  },
+  {
+   "n": "154",
+   "pt": "Articuno GX",
+   "en": "Articuno GX"
+  },
+  {
+   "n": "155",
+   "pt": "Electrode GX",
+   "en": "Electrode GX"
+  },
+  {
+   "n": "156",
+   "pt": "Mr. Mime GX",
+   "en": "Mr. Mime GX"
+  },
+  {
+   "n": "157",
+   "pt": "Banette GX",
+   "en": "Banette GX"
+  },
+  {
+   "n": "158",
+   "pt": "Scizor GX",
+   "en": "Scizor GX"
+  },
+  {
+   "n": "159",
+   "pt": "Stakataka GX",
+   "en": "Stakataka GX"
+  },
+  {
+   "n": "160",
+   "pt": "Rayquaza GX",
+   "en": "Rayquaza GX"
+  },
+  {
+   "n": "161",
+   "pt": "Fabricador de Bolota",
+   "en": "Apricorn Maker"
+  },
+  {
+   "n": "162",
+   "pt": "Manutenção do Bill",
+   "en": "Bill’s Maintenance"
+  },
+  {
+   "n": "163",
+   "pt": "Imitadora",
+   "en": "Copycat"
+  },
+  {
+   "n": "164",
+   "pt": "Elisia",
+   "en": "Lisia"
+  },
+  {
+   "n": "165",
+   "pt": "Resolução do Steven",
+   "en": "Steven’s Resolve"
+  },
+  {
+   "n": "166",
+   "pt": "Tate e Liza",
+   "en": "Tate & Liza"
+  },
+  {
+   "n": "167",
+   "pt": "Repórter Televisivo",
+   "en": "TV Reporter"
+  },
+  {
+   "n": "168",
+   "pt": "Expedição Subterrânea",
+   "en": "Underground Expedition"
+  },
+  {
+   "n": "169",
+   "pt": "Shiftry GX",
+   "en": "Shiftry GX"
+  },
+  {
+   "n": "170",
+   "pt": "Blaziken GX",
+   "en": "Blaziken GX"
+  },
+  {
+   "n": "171",
+   "pt": "Articuno GX",
+   "en": "Articuno GX"
+  },
+  {
+   "n": "172",
+   "pt": "Electrode GX",
+   "en": "Electrode GX"
+  },
+  {
+   "n": "173",
+   "pt": "Mr. Mime GX",
+   "en": "Mr. Mime GX"
+  },
+  {
+   "n": "174",
+   "pt": "Banette GX",
+   "en": "Banette GX"
+  },
+  {
+   "n": "175",
+   "pt": "Scizor GX",
+   "en": "Scizor GX"
+  },
+  {
+   "n": "176",
+   "pt": "Stakataka GX",
+   "en": "Stakataka GX"
+  },
+  {
+   "n": "177",
+   "pt": "Rayquaza GX",
+   "en": "Rayquaza GX"
+  },
+  {
+   "n": "178",
+   "pt": "Bicicleta Acro",
+   "en": "Acro Bike"
+  },
+  {
+   "n": "179",
+   "pt": "Cinto do Alvoroço",
+   "en": "Hustle Belt"
+  },
+  {
+   "n": "180",
+   "pt": "Erva da Vida",
+   "en": "Life Herb"
+  },
+  {
+   "n": "181",
+   "pt": "PokéNav",
+   "en": "PokéNav"
+  },
+  {
+   "n": "182",
+   "pt": "Pincel Arco-íris",
+   "en": "Rainbow Brush"
+  },
+  {
+   "n": "183",
+   "pt": "Energia Arco-Íris",
+   "en": "Rainbow Energy"
+  }
+ ]
+}

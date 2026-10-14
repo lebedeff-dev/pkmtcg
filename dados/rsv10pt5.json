@@ -1,0 +1,873 @@
+{
+ "set": "rsv10pt5",
+ "nome_pt": "Fogo Branco",
+ "nome_en": "White Flare",
+ "total": 173,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Sewaddle",
+   "en": "Sewaddle"
+  },
+  {
+   "n": "002",
+   "pt": "Swadloon",
+   "en": "Swadloon"
+  },
+  {
+   "n": "003",
+   "pt": "Leavanny",
+   "en": "Leavanny"
+  },
+  {
+   "n": "004",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "005",
+   "pt": "Whimsicott ex",
+   "en": "Whimsicott ex"
+  },
+  {
+   "n": "006",
+   "pt": "Deerling",
+   "en": "Deerling"
+  },
+  {
+   "n": "007",
+   "pt": "Sawsbuck",
+   "en": "Sawsbuck"
+  },
+  {
+   "n": "008",
+   "pt": "Shelmet",
+   "en": "Shelmet"
+  },
+  {
+   "n": "009",
+   "pt": "Accelgor",
+   "en": "Accelgor"
+  },
+  {
+   "n": "010",
+   "pt": "Virizion",
+   "en": "Virizion"
+  },
+  {
+   "n": "011",
+   "pt": "Tepig",
+   "en": "Tepig"
+  },
+  {
+   "n": "012",
+   "pt": "Pignite",
+   "en": "Pignite"
+  },
+  {
+   "n": "013",
+   "pt": "Emboar",
+   "en": "Emboar"
+  },
+  {
+   "n": "014",
+   "pt": "Pansear",
+   "en": "Pansear"
+  },
+  {
+   "n": "015",
+   "pt": "Simisear",
+   "en": "Simisear"
+  },
+  {
+   "n": "016",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "017",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "018",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "019",
+   "pt": "Heatmor",
+   "en": "Heatmor"
+  },
+  {
+   "n": "020",
+   "pt": "Reshiram ex",
+   "en": "Reshiram ex"
+  },
+  {
+   "n": "021",
+   "pt": "Oshawott",
+   "en": "Oshawott"
+  },
+  {
+   "n": "022",
+   "pt": "Dewott",
+   "en": "Dewott"
+  },
+  {
+   "n": "023",
+   "pt": "Samurott",
+   "en": "Samurott"
+  },
+  {
+   "n": "024",
+   "pt": "Basculin",
+   "en": "Basculin"
+  },
+  {
+   "n": "025",
+   "pt": "Ducklett",
+   "en": "Ducklett"
+  },
+  {
+   "n": "026",
+   "pt": "Swanna",
+   "en": "Swanna"
+  },
+  {
+   "n": "027",
+   "pt": "Vanillite",
+   "en": "Vanillite"
+  },
+  {
+   "n": "028",
+   "pt": "Vanillish",
+   "en": "Vanillish"
+  },
+  {
+   "n": "029",
+   "pt": "Vanilluxe",
+   "en": "Vanilluxe"
+  },
+  {
+   "n": "030",
+   "pt": "Keldeo ex",
+   "en": "Keldeo ex"
+  },
+  {
+   "n": "031",
+   "pt": "Blitzle",
+   "en": "Blitzle"
+  },
+  {
+   "n": "032",
+   "pt": "Zebstrika",
+   "en": "Zebstrika"
+  },
+  {
+   "n": "033",
+   "pt": "Joltik",
+   "en": "Joltik"
+  },
+  {
+   "n": "034",
+   "pt": "Galvantula",
+   "en": "Galvantula"
+  },
+  {
+   "n": "035",
+   "pt": "Stunfisk",
+   "en": "Stunfisk"
+  },
+  {
+   "n": "036",
+   "pt": "Woobat",
+   "en": "Woobat"
+  },
+  {
+   "n": "037",
+   "pt": "Swoobat",
+   "en": "Swoobat"
+  },
+  {
+   "n": "038",
+   "pt": "Sigilyph",
+   "en": "Sigilyph"
+  },
+  {
+   "n": "039",
+   "pt": "Yamask",
+   "en": "Yamask"
+  },
+  {
+   "n": "040",
+   "pt": "Cofagrigus",
+   "en": "Cofagrigus"
+  },
+  {
+   "n": "041",
+   "pt": "Gothita",
+   "en": "Gothita"
+  },
+  {
+   "n": "042",
+   "pt": "Gothorita",
+   "en": "Gothorita"
+  },
+  {
+   "n": "043",
+   "pt": "Gothitelle",
+   "en": "Gothitelle"
+  },
+  {
+   "n": "044",
+   "pt": "Frillish",
+   "en": "Frillish"
+  },
+  {
+   "n": "045",
+   "pt": "Jellicent ex",
+   "en": "Jellicent ex"
+  },
+  {
+   "n": "046",
+   "pt": "Roggenrola",
+   "en": "Roggenrola"
+  },
+  {
+   "n": "047",
+   "pt": "Boldore",
+   "en": "Boldore"
+  },
+  {
+   "n": "048",
+   "pt": "Gigalith",
+   "en": "Gigalith"
+  },
+  {
+   "n": "049",
+   "pt": "Sawk",
+   "en": "Sawk"
+  },
+  {
+   "n": "050",
+   "pt": "Archen",
+   "en": "Archen"
+  },
+  {
+   "n": "051",
+   "pt": "Archeops",
+   "en": "Archeops"
+  },
+  {
+   "n": "052",
+   "pt": "Mienfoo",
+   "en": "Mienfoo"
+  },
+  {
+   "n": "053",
+   "pt": "Mienshao",
+   "en": "Mienshao"
+  },
+  {
+   "n": "054",
+   "pt": "Terrakion",
+   "en": "Terrakion"
+  },
+  {
+   "n": "055",
+   "pt": "Purrloin",
+   "en": "Purrloin"
+  },
+  {
+   "n": "056",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "057",
+   "pt": "Scraggy",
+   "en": "Scraggy"
+  },
+  {
+   "n": "058",
+   "pt": "Scrafty",
+   "en": "Scrafty"
+  },
+  {
+   "n": "059",
+   "pt": "Trubbish",
+   "en": "Trubbish"
+  },
+  {
+   "n": "060",
+   "pt": "Garbodor",
+   "en": "Garbodor"
+  },
+  {
+   "n": "061",
+   "pt": "Zorua",
+   "en": "Zorua"
+  },
+  {
+   "n": "062",
+   "pt": "Zoroark",
+   "en": "Zoroark"
+  },
+  {
+   "n": "063",
+   "pt": "Vullaby",
+   "en": "Vullaby"
+  },
+  {
+   "n": "064",
+   "pt": "Mandibuzz",
+   "en": "Mandibuzz"
+  },
+  {
+   "n": "065",
+   "pt": "Deino",
+   "en": "Deino"
+  },
+  {
+   "n": "066",
+   "pt": "Zweilous",
+   "en": "Zweilous"
+  },
+  {
+   "n": "067",
+   "pt": "Hydreigon ex",
+   "en": "Hydreigon ex"
+  },
+  {
+   "n": "068",
+   "pt": "Ferroseed",
+   "en": "Ferroseed"
+  },
+  {
+   "n": "069",
+   "pt": "Ferrothorn",
+   "en": "Ferrothorn"
+  },
+  {
+   "n": "070",
+   "pt": "Durant",
+   "en": "Durant"
+  },
+  {
+   "n": "071",
+   "pt": "Druddigon",
+   "en": "Druddigon"
+  },
+  {
+   "n": "072",
+   "pt": "Patrat",
+   "en": "Patrat"
+  },
+  {
+   "n": "073",
+   "pt": "Watchog",
+   "en": "Watchog"
+  },
+  {
+   "n": "074",
+   "pt": "Lillipup",
+   "en": "Lillipup"
+  },
+  {
+   "n": "075",
+   "pt": "Herdier",
+   "en": "Herdier"
+  },
+  {
+   "n": "076",
+   "pt": "Stoutland",
+   "en": "Stoutland"
+  },
+  {
+   "n": "077",
+   "pt": "Bouffalant ex",
+   "en": "Bouffalant ex"
+  },
+  {
+   "n": "078",
+   "pt": "Tornadus",
+   "en": "Tornadus"
+  },
+  {
+   "n": "079",
+   "pt": "Fóssil Pluma Arcaico",
+   "en": "Antique Plume Fossil"
+  },
+  {
+   "n": "080",
+   "pt": "Bracelete Bravio",
+   "en": "Brave Bangle"
+  },
+  {
+   "n": "081",
+   "pt": "Cheren",
+   "en": "Cheren"
+  },
+  {
+   "n": "082",
+   "pt": "Recuperação de Energia",
+   "en": "Energy Retrieval"
+  },
+  {
+   "n": "083",
+   "pt": "Arlequim",
+   "en": "Harlequin"
+  },
+  {
+   "n": "084",
+   "pt": "Hilda",
+   "en": "Hilda"
+  },
+  {
+   "n": "085",
+   "pt": "Sucateador de Ferramentas",
+   "en": "Tool Scrapper"
+  },
+  {
+   "n": "086",
+   "pt": "Energia de Ignição",
+   "en": "Ignition Energy"
+  },
+  {
+   "n": "087",
+   "pt": "Sewaddle",
+   "en": "Sewaddle"
+  },
+  {
+   "n": "088",
+   "pt": "Swadloon",
+   "en": "Swadloon"
+  },
+  {
+   "n": "089",
+   "pt": "Leavanny",
+   "en": "Leavanny"
+  },
+  {
+   "n": "090",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "091",
+   "pt": "Deerling",
+   "en": "Deerling"
+  },
+  {
+   "n": "092",
+   "pt": "Sawsbuck",
+   "en": "Sawsbuck"
+  },
+  {
+   "n": "093",
+   "pt": "Shelmet",
+   "en": "Shelmet"
+  },
+  {
+   "n": "094",
+   "pt": "Accelgor",
+   "en": "Accelgor"
+  },
+  {
+   "n": "095",
+   "pt": "Virizion",
+   "en": "Virizion"
+  },
+  {
+   "n": "096",
+   "pt": "Tepig",
+   "en": "Tepig"
+  },
+  {
+   "n": "097",
+   "pt": "Pignite",
+   "en": "Pignite"
+  },
+  {
+   "n": "098",
+   "pt": "Emboar",
+   "en": "Emboar"
+  },
+  {
+   "n": "099",
+   "pt": "Pansear",
+   "en": "Pansear"
+  },
+  {
+   "n": "100",
+   "pt": "Simisear",
+   "en": "Simisear"
+  },
+  {
+   "n": "101",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "102",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "103",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "104",
+   "pt": "Heatmor",
+   "en": "Heatmor"
+  },
+  {
+   "n": "105",
+   "pt": "Oshawott",
+   "en": "Oshawott"
+  },
+  {
+   "n": "106",
+   "pt": "Dewott",
+   "en": "Dewott"
+  },
+  {
+   "n": "107",
+   "pt": "Samurott",
+   "en": "Samurott"
+  },
+  {
+   "n": "108",
+   "pt": "Basculin",
+   "en": "Basculin"
+  },
+  {
+   "n": "109",
+   "pt": "Ducklett",
+   "en": "Ducklett"
+  },
+  {
+   "n": "110",
+   "pt": "Swanna",
+   "en": "Swanna"
+  },
+  {
+   "n": "111",
+   "pt": "Vanillite",
+   "en": "Vanillite"
+  },
+  {
+   "n": "112",
+   "pt": "Vanillish",
+   "en": "Vanillish"
+  },
+  {
+   "n": "113",
+   "pt": "Vanilluxe",
+   "en": "Vanilluxe"
+  },
+  {
+   "n": "114",
+   "pt": "Blitzle",
+   "en": "Blitzle"
+  },
+  {
+   "n": "115",
+   "pt": "Zebstrika",
+   "en": "Zebstrika"
+  },
+  {
+   "n": "116",
+   "pt": "Joltik",
+   "en": "Joltik"
+  },
+  {
+   "n": "117",
+   "pt": "Galvantula",
+   "en": "Galvantula"
+  },
+  {
+   "n": "118",
+   "pt": "Stunfisk",
+   "en": "Stunfisk"
+  },
+  {
+   "n": "119",
+   "pt": "Woobat",
+   "en": "Woobat"
+  },
+  {
+   "n": "120",
+   "pt": "Swoobat",
+   "en": "Swoobat"
+  },
+  {
+   "n": "121",
+   "pt": "Sigilyph",
+   "en": "Sigilyph"
+  },
+  {
+   "n": "122",
+   "pt": "Yamask",
+   "en": "Yamask"
+  },
+  {
+   "n": "123",
+   "pt": "Cofagrigus",
+   "en": "Cofagrigus"
+  },
+  {
+   "n": "124",
+   "pt": "Gothita",
+   "en": "Gothita"
+  },
+  {
+   "n": "125",
+   "pt": "Gothorita",
+   "en": "Gothorita"
+  },
+  {
+   "n": "126",
+   "pt": "Frillish",
+   "en": "Frillish"
+  },
+  {
+   "n": "127",
+   "pt": "Roggenrola",
+   "en": "Roggenrola"
+  },
+  {
+   "n": "128",
+   "pt": "Boldore",
+   "en": "Boldore"
+  },
+  {
+   "n": "129",
+   "pt": "Gigalith",
+   "en": "Gigalith"
+  },
+  {
+   "n": "130",
+   "pt": "Sawk",
+   "en": "Sawk"
+  },
+  {
+   "n": "131",
+   "pt": "Archen",
+   "en": "Archen"
+  },
+  {
+   "n": "132",
+   "pt": "Archeops",
+   "en": "Archeops"
+  },
+  {
+   "n": "133",
+   "pt": "Mienfoo",
+   "en": "Mienfoo"
+  },
+  {
+   "n": "134",
+   "pt": "Mienshao",
+   "en": "Mienshao"
+  },
+  {
+   "n": "135",
+   "pt": "Terrakion",
+   "en": "Terrakion"
+  },
+  {
+   "n": "136",
+   "pt": "Purrloin",
+   "en": "Purrloin"
+  },
+  {
+   "n": "137",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "138",
+   "pt": "Scraggy",
+   "en": "Scraggy"
+  },
+  {
+   "n": "139",
+   "pt": "Scrafty",
+   "en": "Scrafty"
+  },
+  {
+   "n": "140",
+   "pt": "Trubbish",
+   "en": "Trubbish"
+  },
+  {
+   "n": "141",
+   "pt": "Garbodor",
+   "en": "Garbodor"
+  },
+  {
+   "n": "142",
+   "pt": "Zorua",
+   "en": "Zorua"
+  },
+  {
+   "n": "143",
+   "pt": "Zoroark",
+   "en": "Zoroark"
+  },
+  {
+   "n": "144",
+   "pt": "Vullaby",
+   "en": "Vullaby"
+  },
+  {
+   "n": "145",
+   "pt": "Mandibuzz",
+   "en": "Mandibuzz"
+  },
+  {
+   "n": "146",
+   "pt": "Deino",
+   "en": "Deino"
+  },
+  {
+   "n": "147",
+   "pt": "Zweilous",
+   "en": "Zweilous"
+  },
+  {
+   "n": "148",
+   "pt": "Ferroseed",
+   "en": "Ferroseed"
+  },
+  {
+   "n": "149",
+   "pt": "Ferrothorn",
+   "en": "Ferrothorn"
+  },
+  {
+   "n": "150",
+   "pt": "Durant",
+   "en": "Durant"
+  },
+  {
+   "n": "151",
+   "pt": "Druddigon",
+   "en": "Druddigon"
+  },
+  {
+   "n": "152",
+   "pt": "Patrat",
+   "en": "Patrat"
+  },
+  {
+   "n": "153",
+   "pt": "Watchog",
+   "en": "Watchog"
+  },
+  {
+   "n": "154",
+   "pt": "Lillipup",
+   "en": "Lillipup"
+  },
+  {
+   "n": "155",
+   "pt": "Herdier",
+   "en": "Herdier"
+  },
+  {
+   "n": "156",
+   "pt": "Stoutland",
+   "en": "Stoutland"
+  },
+  {
+   "n": "157",
+   "pt": "Whimsicott ex",
+   "en": "Whimsicott ex"
+  },
+  {
+   "n": "158",
+   "pt": "Reshiram ex",
+   "en": "Reshiram ex"
+  },
+  {
+   "n": "159",
+   "pt": "Keldeo ex",
+   "en": "Keldeo ex"
+  },
+  {
+   "n": "160",
+   "pt": "Jellicent ex",
+   "en": "Jellicent ex"
+  },
+  {
+   "n": "161",
+   "pt": "Hydreigon ex",
+   "en": "Hydreigon ex"
+  },
+  {
+   "n": "162",
+   "pt": "Bouffalant ex",
+   "en": "Bouffalant ex"
+  },
+  {
+   "n": "163",
+   "pt": "Arlequim",
+   "en": "Harlequin"
+  },
+  {
+   "n": "164",
+   "pt": "Hilda",
+   "en": "Hilda"
+  },
+  {
+   "n": "165",
+   "pt": "Whimsicott ex",
+   "en": "Whimsicott ex"
+  },
+  {
+   "n": "166",
+   "pt": "Reshiram ex",
+   "en": "Reshiram ex"
+  },
+  {
+   "n": "167",
+   "pt": "Keldeo ex",
+   "en": "Keldeo ex"
+  },
+  {
+   "n": "168",
+   "pt": "Jellicent ex",
+   "en": "Jellicent ex"
+  },
+  {
+   "n": "169",
+   "pt": "Hydreigon ex",
+   "en": "Hydreigon ex"
+  },
+  {
+   "n": "170",
+   "pt": "Bouffalant ex",
+   "en": "Bouffalant ex"
+  },
+  {
+   "n": "171",
+   "pt": "Hilda",
+   "en": "Hilda"
+  },
+  {
+   "n": "172",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "173",
+   "pt": "Reshiram ex",
+   "en": "Reshiram ex"
+  }
+ ]
+}

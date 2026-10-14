@@ -1,0 +1,1248 @@
+{
+ "set": "smp",
+ "nome_pt": "Sol e Lua Promos",
+ "nome_en": "SM Black Star Promos",
+ "total": 248,
+ "cartas": [
+  {
+   "n": "SM01",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "SM02",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "SM03",
+   "pt": "Popplio",
+   "en": "Popplio"
+  },
+  {
+   "n": "SM04",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM05",
+   "pt": "Snorlax GX",
+   "en": "Snorlax GX"
+  },
+  {
+   "n": "SM06",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "SM07",
+   "pt": "Pikipek",
+   "en": "Pikipek"
+  },
+  {
+   "n": "SM08",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "SM09",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "SM10",
+   "pt": "Shiinotic",
+   "en": "Shiinotic"
+  },
+  {
+   "n": "SM11",
+   "pt": "Bruxish",
+   "en": "Bruxish"
+  },
+  {
+   "n": "SM12",
+   "pt": "Passimian",
+   "en": "Passimian"
+  },
+  {
+   "n": "SM13",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "SM14",
+   "pt": "Lycanroc GX",
+   "en": "Lycanroc GX"
+  },
+  {
+   "n": "SM15",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "SM16",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  },
+  {
+   "n": "SM17",
+   "pt": "Lunala GX",
+   "en": "Lunala GX"
+  },
+  {
+   "n": "SM18",
+   "pt": "Sandslash de Alola",
+   "en": "Alolan Sandslash"
+  },
+  {
+   "n": "SM19",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "SM20",
+   "pt": "Mudsdale",
+   "en": "Mudsdale"
+  },
+  {
+   "n": "SM21",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "SM22",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "SM23",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "SM24",
+   "pt": "Popplio",
+   "en": "Popplio"
+  },
+  {
+   "n": "SM25",
+   "pt": "Lurantis",
+   "en": "Lurantis"
+  },
+  {
+   "n": "SM26",
+   "pt": "Tsareena",
+   "en": "Tsareena"
+  },
+  {
+   "n": "SM27",
+   "pt": "Turtonator",
+   "en": "Turtonator"
+  },
+  {
+   "n": "SM28",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "SM29",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "SM30",
+   "pt": "Tapu Koko",
+   "en": "Tapu Koko"
+  },
+  {
+   "n": "SM31",
+   "pt": "Tapu Koko",
+   "en": "Tapu Koko"
+  },
+  {
+   "n": "SM32",
+   "pt": "Tapu Bulu GX",
+   "en": "Tapu Bulu GX"
+  },
+  {
+   "n": "SM33",
+   "pt": "Tapu Koko GX",
+   "en": "Tapu Koko GX"
+  },
+  {
+   "n": "SM34",
+   "pt": "Bewear GX",
+   "en": "Bewear GX"
+  },
+  {
+   "n": "SM35",
+   "pt": "Espeon GX",
+   "en": "Espeon GX"
+  },
+  {
+   "n": "SM36",
+   "pt": "Umbreon GX",
+   "en": "Umbreon GX"
+  },
+  {
+   "n": "SM37",
+   "pt": "Decidueye GX",
+   "en": "Decidueye GX"
+  },
+  {
+   "n": "SM38",
+   "pt": "Incineroar GX",
+   "en": "Incineroar GX"
+  },
+  {
+   "n": "SM39",
+   "pt": "Primarina GX",
+   "en": "Primarina GX"
+  },
+  {
+   "n": "SM40",
+   "pt": "Jangmo-o",
+   "en": "Jangmo-o"
+  },
+  {
+   "n": "SM41",
+   "pt": "Komala",
+   "en": "Komala"
+  },
+  {
+   "n": "SM42",
+   "pt": "Cosmog",
+   "en": "Cosmog"
+  },
+  {
+   "n": "SM43",
+   "pt": "Meowth de Alola",
+   "en": "Alolan Meowth"
+  },
+  {
+   "n": "SM44",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "SM45",
+   "pt": "Tapu Lele",
+   "en": "Tapu Lele"
+  },
+  {
+   "n": "SM46",
+   "pt": "Seviper",
+   "en": "Seviper"
+  },
+  {
+   "n": "SM47",
+   "pt": "Crabominable",
+   "en": "Crabominable"
+  },
+  {
+   "n": "SM48",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "SM49",
+   "pt": "Bewear",
+   "en": "Bewear"
+  },
+  {
+   "n": "SM50",
+   "pt": "Tapu Koko GX",
+   "en": "Tapu Koko GX"
+  },
+  {
+   "n": "SM51",
+   "pt": "Meowth de Alola",
+   "en": "Alolan Meowth"
+  },
+  {
+   "n": "SM52",
+   "pt": "Golisopod",
+   "en": "Golisopod"
+  },
+  {
+   "n": "SM53",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "SM54",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "SM55",
+   "pt": "Decidueye",
+   "en": "Decidueye"
+  },
+  {
+   "n": "SM56",
+   "pt": "Tsareena GX",
+   "en": "Tsareena GX"
+  },
+  {
+   "n": "SM57",
+   "pt": "Ho-Oh GX",
+   "en": "Ho-Oh GX"
+  },
+  {
+   "n": "SM58",
+   "pt": "Necrozma GX",
+   "en": "Necrozma GX"
+  },
+  {
+   "n": "SM59",
+   "pt": "Marshadow GX",
+   "en": "Marshadow GX"
+  },
+  {
+   "n": "SM60",
+   "pt": "Charizard GX",
+   "en": "Charizard GX"
+  },
+  {
+   "n": "SM61",
+   "pt": "Tapu Bulu",
+   "en": "Tapu Bulu"
+  },
+  {
+   "n": "SM62",
+   "pt": "Golisopod GX",
+   "en": "Golisopod GX"
+  },
+  {
+   "n": "SM63",
+   "pt": "Salazzle GX",
+   "en": "Salazzle GX"
+  },
+  {
+   "n": "SM64",
+   "pt": "Silvally",
+   "en": "Silvally"
+  },
+  {
+   "n": "SM65",
+   "pt": "Raichu de Alola",
+   "en": "Alolan Raichu"
+  },
+  {
+   "n": "SM66",
+   "pt": "Pheromosa GX",
+   "en": "Pheromosa GX"
+  },
+  {
+   "n": "SM67",
+   "pt": "Celesteela GX",
+   "en": "Celesteela GX"
+  },
+  {
+   "n": "SM68",
+   "pt": "Xurkitree GX",
+   "en": "Xurkitree GX"
+  },
+  {
+   "n": "SM69",
+   "pt": "Buzzwole GX",
+   "en": "Buzzwole GX"
+  },
+  {
+   "n": "SM70",
+   "pt": "Ho-Oh Luminescente",
+   "en": "Shining Ho-Oh"
+  },
+  {
+   "n": "SM71",
+   "pt": "Kommo-o GX",
+   "en": "Kommo-o GX"
+  },
+  {
+   "n": "SM72",
+   "pt": "Raichu de Alola",
+   "en": "Alolan Raichu"
+  },
+  {
+   "n": "SM73",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "SM74",
+   "pt": "Regirock",
+   "en": "Regirock"
+  },
+  {
+   "n": "SM75",
+   "pt": "Registeel",
+   "en": "Registeel"
+  },
+  {
+   "n": "SM76",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM77",
+   "pt": "Mewtwo",
+   "en": "Mewtwo"
+  },
+  {
+   "n": "SM78",
+   "pt": "Festival dos Campeões",
+   "en": "Champions Festival"
+  },
+  {
+   "n": "SM79",
+   "pt": "Celebi Luminescente",
+   "en": "Shining Celebi"
+  },
+  {
+   "n": "SM80",
+   "pt": "Ho-Oh GX",
+   "en": "Ho-Oh GX"
+  },
+  {
+   "n": "SM81",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM82",
+   "pt": "Lugia Luminescente",
+   "en": "Shining Lugia"
+  },
+  {
+   "n": "SM83",
+   "pt": "Zorua",
+   "en": "Zorua"
+  },
+  {
+   "n": "SM84",
+   "pt": "Zoroark GX",
+   "en": "Zoroark GX"
+  },
+  {
+   "n": "SM85",
+   "pt": "Marshadow",
+   "en": "Marshadow"
+  },
+  {
+   "n": "SM86",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM87",
+   "pt": "Latias",
+   "en": "Latias"
+  },
+  {
+   "n": "SM88",
+   "pt": "Latios",
+   "en": "Latios"
+  },
+  {
+   "n": "SM89",
+   "pt": "Zoroark",
+   "en": "Zoroark"
+  },
+  {
+   "n": "SM90",
+   "pt": "Raichu GX",
+   "en": "Raichu GX"
+  },
+  {
+   "n": "SM91",
+   "pt": "Silvally GX",
+   "en": "Silvally GX"
+  },
+  {
+   "n": "SM92",
+   "pt": "Tapu Fini",
+   "en": "Tapu Fini"
+  },
+  {
+   "n": "SM93",
+   "pt": "Marshadow",
+   "en": "Marshadow"
+  },
+  {
+   "n": "SM94",
+   "pt": "Rotom Lavagem",
+   "en": "Wash Rotom"
+  },
+  {
+   "n": "SM95",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "SM96",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "SM97",
+   "pt": "Gumshoos",
+   "en": "Gumshoos"
+  },
+  {
+   "n": "SM98",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM99",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "SM100",
+   "pt": "Lucario GX",
+   "en": "Lucario GX"
+  },
+  {
+   "n": "SM101",
+   "pt": "Necrozma Asas Alvorada GX",
+   "en": "Dawn Wings Necrozma GX"
+  },
+  {
+   "n": "SM102",
+   "pt": "Necrozma Juba Crepúsculo GX",
+   "en": "Dusk Mane Necrozma GX"
+  },
+  {
+   "n": "SM103",
+   "pt": "Lunala GX",
+   "en": "Lunala GX"
+  },
+  {
+   "n": "SM104",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  },
+  {
+   "n": "SM105",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "SM106",
+   "pt": "Necrozma Asas Alvorada",
+   "en": "Dawn Wings Necrozma"
+  },
+  {
+   "n": "SM107",
+   "pt": "Necrozma Juba Crepúsculo",
+   "en": "Dusk Mane Necrozma"
+  },
+  {
+   "n": "SM108",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM109",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM110",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM111",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM112",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM113",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM114",
+   "pt": null,
+   "en": "Ash's Pikachu"
+  },
+  {
+   "n": "SM115",
+   "pt": "Pheromosa",
+   "en": "Pheromosa"
+  },
+  {
+   "n": "SM116",
+   "pt": "Xurkitree",
+   "en": "Xurkitree"
+  },
+  {
+   "n": "SM117",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "SM118",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "SM119",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "SM120",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "SM121",
+   "pt": "Raikou GX",
+   "en": "Raikou GX"
+  },
+  {
+   "n": "SM122",
+   "pt": "Zygarde GX",
+   "en": "Zygarde GX"
+  },
+  {
+   "n": "SM123",
+   "pt": "Necrozma Asas Alvorada",
+   "en": "Dawn Wings Necrozma"
+  },
+  {
+   "n": "SM124",
+   "pt": "Necrozma Juba Crepúsculo",
+   "en": "Dusk Mane Necrozma"
+  },
+  {
+   "n": "SM125",
+   "pt": "Naganadel GX",
+   "en": "Naganadel GX"
+  },
+  {
+   "n": "SM126",
+   "pt": "Ultra Necrozma GX",
+   "en": "Ultra Necrozma GX"
+  },
+  {
+   "n": "SM127",
+   "pt": "Sandslash de Alola",
+   "en": "Alolan Sandslash"
+  },
+  {
+   "n": "SM128",
+   "pt": "Ninetales de Alola",
+   "en": "Alolan Ninetales"
+  },
+  {
+   "n": "SM129",
+   "pt": "Kyogre",
+   "en": "Kyogre"
+  },
+  {
+   "n": "SM130",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "SM131",
+   "pt": "Celesteela",
+   "en": "Celesteela"
+  },
+  {
+   "n": "SM132",
+   "pt": "Delcatty",
+   "en": "Delcatty"
+  },
+  {
+   "n": "SM133",
+   "pt": "Thundurus GX",
+   "en": "Thundurus GX"
+  },
+  {
+   "n": "SM134",
+   "pt": "Tornadus GX",
+   "en": "Tornadus GX"
+  },
+  {
+   "n": "SM135",
+   "pt": "Latias",
+   "en": "Latias"
+  },
+  {
+   "n": "SM136",
+   "pt": "Latios",
+   "en": "Latios"
+  },
+  {
+   "n": "SM137",
+   "pt": "Reshiram GX",
+   "en": "Reshiram GX"
+  },
+  {
+   "n": "SM138",
+   "pt": "Zekrom GX",
+   "en": "Zekrom GX"
+  },
+  {
+   "n": "SM139",
+   "pt": "Salamence GX",
+   "en": "Salamence GX"
+  },
+  {
+   "n": "SM140",
+   "pt": "Salamence",
+   "en": "Salamence"
+  },
+  {
+   "n": "SM141",
+   "pt": "Kyurem Branco GX",
+   "en": "White Kyurem GX"
+  },
+  {
+   "n": "SM142",
+   "pt": "Kyurem",
+   "en": "Kyurem"
+  },
+  {
+   "n": "SM143",
+   "pt": "Moltres",
+   "en": "Moltres"
+  },
+  {
+   "n": "SM144",
+   "pt": "Articuno",
+   "en": "Articuno"
+  },
+  {
+   "n": "SM145",
+   "pt": "Zapdos",
+   "en": "Zapdos"
+  },
+  {
+   "n": "SM146",
+   "pt": "Leafeon GX",
+   "en": "Leafeon GX"
+  },
+  {
+   "n": "SM147",
+   "pt": "Glaceon GX",
+   "en": "Glaceon GX"
+  },
+  {
+   "n": "SM148",
+   "pt": "Festival dos Campeões",
+   "en": "Champions Festival"
+  },
+  {
+   "n": "SM149",
+   "pt": "Suicune",
+   "en": "Suicune"
+  },
+  {
+   "n": "SM150",
+   "pt": "Raikou",
+   "en": "Raikou"
+  },
+  {
+   "n": "SM151",
+   "pt": "Giratina",
+   "en": "Giratina"
+  },
+  {
+   "n": "SM152",
+   "pt": "Tapu Lele",
+   "en": "Tapu Lele"
+  },
+  {
+   "n": "SM153",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "SM154",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "SM155",
+   "pt": "Kingdra GX",
+   "en": "Kingdra GX"
+  },
+  {
+   "n": "SM156",
+   "pt": "Dragonite GX",
+   "en": "Dragonite GX"
+  },
+  {
+   "n": "SM157",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM158",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "SM159",
+   "pt": "Zapdos",
+   "en": "Zapdos"
+  },
+  {
+   "n": "SM160",
+   "pt": "Nidoqueen",
+   "en": "Nidoqueen"
+  },
+  {
+   "n": "SM161",
+   "pt": "Jirachi",
+   "en": "Jirachi"
+  },
+  {
+   "n": "SM162",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM163",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "SM164",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "SM165",
+   "pt": "Ultra Necrozma",
+   "en": "Ultra Necrozma"
+  },
+  {
+   "n": "SM166",
+   "pt": "Magikarp e Wailord GX",
+   "en": "Magikarp & Wailord GX"
+  },
+  {
+   "n": "SM167",
+   "pt": "Celebi e Venusaur GX",
+   "en": "Celebi & Venusaur GX"
+  },
+  {
+   "n": "SM168",
+   "pt": "Pikachu e Zekrom GX",
+   "en": "Pikachu & Zekrom GX"
+  },
+  {
+   "n": "SM169",
+   "pt": "Eevee e Snorlax GX",
+   "en": "Eevee & Snorlax GX"
+  },
+  {
+   "n": "SM170",
+   "pt": "Detective Pikachu",
+   "en": "Detective Pikachu"
+  },
+  {
+   "n": "SM171",
+   "pt": "Flareon GX",
+   "en": "Flareon GX"
+  },
+  {
+   "n": "SM172",
+   "pt": "Vaporeon GX",
+   "en": "Vaporeon GX"
+  },
+  {
+   "n": "SM173",
+   "pt": "Jolteon GX",
+   "en": "Jolteon GX"
+  },
+  {
+   "n": "SM174",
+   "pt": "Eevee GX",
+   "en": "Eevee GX"
+  },
+  {
+   "n": "SM175",
+   "pt": "Eevee GX",
+   "en": "Eevee GX"
+  },
+  {
+   "n": "SM176",
+   "pt": "Eevee GX",
+   "en": "Eevee GX"
+  },
+  {
+   "n": "SM177",
+   "pt": "Meltan",
+   "en": "Meltan"
+  },
+  {
+   "n": "SM178",
+   "pt": "Melmetal GX",
+   "en": "Melmetal GX"
+  },
+  {
+   "n": "SM179",
+   "pt": "Volcanion",
+   "en": "Volcanion"
+  },
+  {
+   "n": "SM180",
+   "pt": "Stakataka",
+   "en": "Stakataka"
+  },
+  {
+   "n": "SM181",
+   "pt": "Melmetal",
+   "en": "Melmetal"
+  },
+  {
+   "n": "SM182",
+   "pt": "Persian",
+   "en": "Persian"
+  },
+  {
+   "n": "SM183",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM184",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SM185",
+   "pt": "Typhlosion",
+   "en": "Typhlosion"
+  },
+  {
+   "n": "SM186",
+   "pt": "Flareon",
+   "en": "Flareon"
+  },
+  {
+   "n": "SM187",
+   "pt": "Marowak de Alola GX",
+   "en": "Alolan Marowak GX"
+  },
+  {
+   "n": "SM188",
+   "pt": "Kangaskhan GX",
+   "en": "Kangaskhan GX"
+  },
+  {
+   "n": "SM189",
+   "pt": "Blastoise GX",
+   "en": "Blastoise GX"
+  },
+  {
+   "n": "SM190",
+   "pt": "Detective Pikachu",
+   "en": "Detective Pikachu"
+  },
+  {
+   "n": "SM191",
+   "pt": "Mewtwo e Mew GX",
+   "en": "Mewtwo & Mew GX"
+  },
+  {
+   "n": "SM192",
+   "pt": "Lucario e Melmetal GX",
+   "en": "Lucario & Melmetal GX"
+  },
+  {
+   "n": "SM193",
+   "pt": "Garchomp e Giratina GX",
+   "en": "Garchomp & Giratina GX"
+  },
+  {
+   "n": "SM194",
+   "pt": "Detective Pikachu",
+   "en": "Detective Pikachu"
+  },
+  {
+   "n": "SM195",
+   "pt": "Charizard GX",
+   "en": "Charizard GX"
+  },
+  {
+   "n": "SM196",
+   "pt": "Mewtwo GX",
+   "en": "Mewtwo GX"
+  },
+  {
+   "n": "SM197",
+   "pt": "Greninja GX",
+   "en": "Greninja GX"
+  },
+  {
+   "n": "SM198",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "SM199",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "SM200",
+   "pt": "Snubbull",
+   "en": "Snubbull"
+  },
+  {
+   "n": "SM201",
+   "pt": "Reshiram e Charizard GX",
+   "en": "Reshiram & Charizard GX"
+  },
+  {
+   "n": "SM202",
+   "pt": "Amoonguss",
+   "en": "Amoonguss"
+  },
+  {
+   "n": "SM203",
+   "pt": "Tapu Fini",
+   "en": "Tapu Fini"
+  },
+  {
+   "n": "SM204",
+   "pt": "Necrozma",
+   "en": "Necrozma"
+  },
+  {
+   "n": "SM205",
+   "pt": "Terrakion",
+   "en": "Terrakion"
+  },
+  {
+   "n": "SM206",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM207",
+   "pt": "Sudowoodo",
+   "en": "Sudowoodo"
+  },
+  {
+   "n": "SM208",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "SM209",
+   "pt": "Stakataka",
+   "en": "Stakataka"
+  },
+  {
+   "n": "SM210",
+   "pt": "Moltres, Zapdos e Articuno GX",
+   "en": "Moltres & Zapdos & Articuno GX"
+  },
+  {
+   "n": "SM211",
+   "pt": "Charizard GX",
+   "en": "Charizard GX"
+  },
+  {
+   "n": "SM212",
+   "pt": "Gyarados GX",
+   "en": "Gyarados GX"
+  },
+  {
+   "n": "SM213",
+   "pt": "Raichu GX",
+   "en": "Raichu GX"
+  },
+  {
+   "n": "SM214",
+   "pt": "Mewtwo",
+   "en": "Mewtwo"
+  },
+  {
+   "n": "SM215",
+   "pt": "Mew",
+   "en": "Mew"
+  },
+  {
+   "n": "SM216",
+   "pt": "Porygon-Z GX",
+   "en": "Porygon-Z GX"
+  },
+  {
+   "n": "SM217",
+   "pt": "Trevenant e Dusknoir GX",
+   "en": "Trevenant & Dusknoir GX"
+  },
+  {
+   "n": "SM218",
+   "pt": "Buzzwole",
+   "en": "Buzzwole"
+  },
+  {
+   "n": "SM219",
+   "pt": "Entei",
+   "en": "Entei"
+  },
+  {
+   "n": "SM220",
+   "pt": "Phione",
+   "en": "Phione"
+  },
+  {
+   "n": "SM221",
+   "pt": "Blacephalon",
+   "en": "Blacephalon"
+  },
+  {
+   "n": "SM222",
+   "pt": "Mismagius",
+   "en": "Mismagius"
+  },
+  {
+   "n": "SM223",
+   "pt": "Terrakion",
+   "en": "Terrakion"
+  },
+  {
+   "n": "SM224",
+   "pt": "Celebi",
+   "en": "Celebi"
+  },
+  {
+   "n": "SM225",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "SM226",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "SM227",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM228",
+   "pt": "Armored Mewtwo",
+   "en": "Armored Mewtwo"
+  },
+  {
+   "n": "SM229",
+   "pt": "Venusaur e Snivy GX",
+   "en": "Venusaur & Snivy GX"
+  },
+  {
+   "n": "SM230",
+   "pt": "Charizard e Braixen GX",
+   "en": "Charizard & Braixen GX"
+  },
+  {
+   "n": "SM231",
+   "pt": "Festival dos Campeões",
+   "en": "Champions Festival"
+  },
+  {
+   "n": "SM232",
+   "pt": "Pikachu GX",
+   "en": "Pikachu GX"
+  },
+  {
+   "n": "SM233",
+   "pt": "Eevee GX",
+   "en": "Eevee GX"
+  },
+  {
+   "n": "SM234",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SM235",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SM236",
+   "pt": "Sandslash de Alola GX",
+   "en": "Alolan Sandslash GX"
+  },
+  {
+   "n": "SM237",
+   "pt": "Leafeon",
+   "en": "Leafeon"
+  },
+  {
+   "n": "SM238",
+   "pt": "Glaceon",
+   "en": "Glaceon"
+  },
+  {
+   "n": "SM239",
+   "pt": "Carracosta GX",
+   "en": "Carracosta GX"
+  },
+  {
+   "n": "SM240",
+   "pt": "Espeon e Deoxys GX",
+   "en": "Espeon & Deoxys GX"
+  },
+  {
+   "n": "SM241",
+   "pt": "Umbreon e Darkrai GX",
+   "en": "Umbreon & Darkrai GX"
+  },
+  {
+   "n": "SM242",
+   "pt": "Eevee GX",
+   "en": "Eevee GX"
+  },
+  {
+   "n": "SM243",
+   "pt": "Regigigas",
+   "en": "Regigigas"
+  },
+  {
+   "n": "SM244",
+   "pt": "Aipom",
+   "en": "Aipom"
+  },
+  {
+   "n": "SM245",
+   "pt": "Mismagius",
+   "en": "Mismagius"
+  },
+  {
+   "n": "SM246",
+   "pt": "Sabrina e Brycen",
+   "en": "Sabrina & Brycen"
+  },
+  {
+   "n": "SM247",
+   "pt": "Reshiram e Charizard GX",
+   "en": "Reshiram & Charizard GX"
+  },
+  {
+   "n": "SM248",
+   "pt": "Pikachu e Zekrom GX",
+   "en": "Pikachu & Zekrom GX"
+  }
+ ]
+}

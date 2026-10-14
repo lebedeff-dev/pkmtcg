@@ -1,0 +1,923 @@
+{
+ "set": "swsh5",
+ "nome_pt": "Estilos de Batalha",
+ "nome_en": "Battle Styles",
+ "total": 183,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Bellsprout",
+   "en": "Bellsprout"
+  },
+  {
+   "n": "2",
+   "pt": "Weepinbell",
+   "en": "Weepinbell"
+  },
+  {
+   "n": "3",
+   "pt": "Victreebel",
+   "en": "Victreebel"
+  },
+  {
+   "n": "4",
+   "pt": "Cacnea",
+   "en": "Cacnea"
+  },
+  {
+   "n": "5",
+   "pt": "Cacturne",
+   "en": "Cacturne"
+  },
+  {
+   "n": "6",
+   "pt": "Kricketune V",
+   "en": "Kricketune V"
+  },
+  {
+   "n": "7",
+   "pt": "Cherubi",
+   "en": "Cherubi"
+  },
+  {
+   "n": "8",
+   "pt": "Cherrim",
+   "en": "Cherrim"
+  },
+  {
+   "n": "9",
+   "pt": "Carnivine",
+   "en": "Carnivine"
+  },
+  {
+   "n": "10",
+   "pt": "Durant",
+   "en": "Durant"
+  },
+  {
+   "n": "11",
+   "pt": "Scatterbug",
+   "en": "Scatterbug"
+  },
+  {
+   "n": "12",
+   "pt": "Spewpa",
+   "en": "Spewpa"
+  },
+  {
+   "n": "13",
+   "pt": "Vivillon",
+   "en": "Vivillon"
+  },
+  {
+   "n": "14",
+   "pt": "Fomantis",
+   "en": "Fomantis"
+  },
+  {
+   "n": "15",
+   "pt": "Lurantis",
+   "en": "Lurantis"
+  },
+  {
+   "n": "16",
+   "pt": "Tapu Bulu",
+   "en": "Tapu Bulu"
+  },
+  {
+   "n": "17",
+   "pt": "Blipbug",
+   "en": "Blipbug"
+  },
+  {
+   "n": "18",
+   "pt": "Flapple V",
+   "en": "Flapple V"
+  },
+  {
+   "n": "19",
+   "pt": "Flapple VMAX",
+   "en": "Flapple VMAX"
+  },
+  {
+   "n": "20",
+   "pt": "Entei",
+   "en": "Entei"
+  },
+  {
+   "n": "21",
+   "pt": "Victini V",
+   "en": "Victini V"
+  },
+  {
+   "n": "22",
+   "pt": "Victini VMAX",
+   "en": "Victini VMAX"
+  },
+  {
+   "n": "23",
+   "pt": "Tepig",
+   "en": "Tepig"
+  },
+  {
+   "n": "24",
+   "pt": "Pignite",
+   "en": "Pignite"
+  },
+  {
+   "n": "25",
+   "pt": "Emboar",
+   "en": "Emboar"
+  },
+  {
+   "n": "26",
+   "pt": "Heatmor",
+   "en": "Heatmor"
+  },
+  {
+   "n": "27",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "28",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "29",
+   "pt": "Sizzlipede",
+   "en": "Sizzlipede"
+  },
+  {
+   "n": "30",
+   "pt": "Centiskorch",
+   "en": "Centiskorch"
+  },
+  {
+   "n": "31",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "32",
+   "pt": "Seadra",
+   "en": "Seadra"
+  },
+  {
+   "n": "33",
+   "pt": "Kingdra",
+   "en": "Kingdra"
+  },
+  {
+   "n": "34",
+   "pt": "Mr. Mime de Galar",
+   "en": "Galarian Mr. Mime"
+  },
+  {
+   "n": "35",
+   "pt": "Mr. Rime de Galar",
+   "en": "Galarian Mr. Rime"
+  },
+  {
+   "n": "36",
+   "pt": "Remoraid",
+   "en": "Remoraid"
+  },
+  {
+   "n": "37",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "38",
+   "pt": "Corphish",
+   "en": "Corphish"
+  },
+  {
+   "n": "39",
+   "pt": "Crawdaunt",
+   "en": "Crawdaunt"
+  },
+  {
+   "n": "40",
+   "pt": "Empoleon V",
+   "en": "Empoleon V"
+  },
+  {
+   "n": "41",
+   "pt": "Frillish",
+   "en": "Frillish"
+  },
+  {
+   "n": "42",
+   "pt": "Jellicent",
+   "en": "Jellicent"
+  },
+  {
+   "n": "43",
+   "pt": "Bruxish",
+   "en": "Bruxish"
+  },
+  {
+   "n": "44",
+   "pt": "Electabuzz",
+   "en": "Electabuzz"
+  },
+  {
+   "n": "45",
+   "pt": "Electivire",
+   "en": "Electivire"
+  },
+  {
+   "n": "46",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "47",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "48",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "49",
+   "pt": "Pachirisu",
+   "en": "Pachirisu"
+  },
+  {
+   "n": "50",
+   "pt": "Tapu Koko V",
+   "en": "Tapu Koko V"
+  },
+  {
+   "n": "51",
+   "pt": "Tapu Koko VMAX",
+   "en": "Tapu Koko VMAX"
+  },
+  {
+   "n": "52",
+   "pt": "Yamper",
+   "en": "Yamper"
+  },
+  {
+   "n": "53",
+   "pt": "Boltund",
+   "en": "Boltund"
+  },
+  {
+   "n": "54",
+   "pt": "Slowpoke de Galar",
+   "en": "Galarian Slowpoke"
+  },
+  {
+   "n": "55",
+   "pt": "Spoink",
+   "en": "Spoink"
+  },
+  {
+   "n": "56",
+   "pt": "Grumpig",
+   "en": "Grumpig"
+  },
+  {
+   "n": "57",
+   "pt": "Baltoy",
+   "en": "Baltoy"
+  },
+  {
+   "n": "58",
+   "pt": "Claydol",
+   "en": "Claydol"
+  },
+  {
+   "n": "59",
+   "pt": "Chimecho",
+   "en": "Chimecho"
+  },
+  {
+   "n": "60",
+   "pt": "Espurr",
+   "en": "Espurr"
+  },
+  {
+   "n": "61",
+   "pt": "Meowstic",
+   "en": "Meowstic"
+  },
+  {
+   "n": "62",
+   "pt": "Mimikyu V",
+   "en": "Mimikyu V"
+  },
+  {
+   "n": "63",
+   "pt": "Necrozma V",
+   "en": "Necrozma V"
+  },
+  {
+   "n": "64",
+   "pt": "Dottler",
+   "en": "Dottler"
+  },
+  {
+   "n": "65",
+   "pt": "Orbeetle",
+   "en": "Orbeetle"
+  },
+  {
+   "n": "66",
+   "pt": "Mankey",
+   "en": "Mankey"
+  },
+  {
+   "n": "67",
+   "pt": "Primeape",
+   "en": "Primeape"
+  },
+  {
+   "n": "68",
+   "pt": "Onix",
+   "en": "Onix"
+  },
+  {
+   "n": "69",
+   "pt": "Cubone",
+   "en": "Cubone"
+  },
+  {
+   "n": "70",
+   "pt": "Marowak",
+   "en": "Marowak"
+  },
+  {
+   "n": "71",
+   "pt": "Gligar",
+   "en": "Gligar"
+  },
+  {
+   "n": "72",
+   "pt": "Gliscor",
+   "en": "Gliscor"
+  },
+  {
+   "n": "73",
+   "pt": "Timburr",
+   "en": "Timburr"
+  },
+  {
+   "n": "74",
+   "pt": "Gurdurr",
+   "en": "Gurdurr"
+  },
+  {
+   "n": "75",
+   "pt": "Conkeldurr",
+   "en": "Conkeldurr"
+  },
+  {
+   "n": "76",
+   "pt": "Mienfoo",
+   "en": "Mienfoo"
+  },
+  {
+   "n": "77",
+   "pt": "Mienshao",
+   "en": "Mienshao"
+  },
+  {
+   "n": "78",
+   "pt": "Rolycoly",
+   "en": "Rolycoly"
+  },
+  {
+   "n": "79",
+   "pt": "Carkol",
+   "en": "Carkol"
+  },
+  {
+   "n": "80",
+   "pt": "Coalossal",
+   "en": "Coalossal"
+  },
+  {
+   "n": "81",
+   "pt": "Silicobra",
+   "en": "Silicobra"
+  },
+  {
+   "n": "82",
+   "pt": "Sandaconda",
+   "en": "Sandaconda"
+  },
+  {
+   "n": "83",
+   "pt": "Falinks",
+   "en": "Falinks"
+  },
+  {
+   "n": "84",
+   "pt": "Stonjourner",
+   "en": "Stonjourner"
+  },
+  {
+   "n": "85",
+   "pt": "Urshifu Golpe Decisivo V",
+   "en": "Single Strike Urshifu V"
+  },
+  {
+   "n": "86",
+   "pt": "Urshifu Golpe Decisivo VMAX",
+   "en": "Single Strike Urshifu VMAX"
+  },
+  {
+   "n": "87",
+   "pt": "Urshifu Golpe Fluido V",
+   "en": "Rapid Strike Urshifu V"
+  },
+  {
+   "n": "88",
+   "pt": "Urshifu Golpe Fluido VMAX",
+   "en": "Rapid Strike Urshifu VMAX"
+  },
+  {
+   "n": "89",
+   "pt": "Zubat",
+   "en": "Zubat"
+  },
+  {
+   "n": "90",
+   "pt": "Golbat",
+   "en": "Golbat"
+  },
+  {
+   "n": "91",
+   "pt": "Crobat",
+   "en": "Crobat"
+  },
+  {
+   "n": "92",
+   "pt": "Slowbro de Galar",
+   "en": "Galarian Slowbro"
+  },
+  {
+   "n": "93",
+   "pt": "Murkrow",
+   "en": "Murkrow"
+  },
+  {
+   "n": "94",
+   "pt": "Honchkrow",
+   "en": "Honchkrow"
+  },
+  {
+   "n": "95",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "96",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "97",
+   "pt": "Tyranitar V",
+   "en": "Tyranitar V"
+  },
+  {
+   "n": "98",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "99",
+   "pt": "Steelix",
+   "en": "Steelix"
+  },
+  {
+   "n": "100",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "101",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "102",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "103",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "104",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "105",
+   "pt": "Honedge",
+   "en": "Honedge"
+  },
+  {
+   "n": "106",
+   "pt": "Doublade",
+   "en": "Doublade"
+  },
+  {
+   "n": "107",
+   "pt": "Aegislash",
+   "en": "Aegislash"
+  },
+  {
+   "n": "108",
+   "pt": "Aegislash",
+   "en": "Aegislash"
+  },
+  {
+   "n": "109",
+   "pt": "Corviknight V",
+   "en": "Corviknight V"
+  },
+  {
+   "n": "110",
+   "pt": "Corviknight VMAX",
+   "en": "Corviknight VMAX"
+  },
+  {
+   "n": "111",
+   "pt": "Spearow",
+   "en": "Spearow"
+  },
+  {
+   "n": "112",
+   "pt": "Fearow",
+   "en": "Fearow"
+  },
+  {
+   "n": "113",
+   "pt": "Lickitung",
+   "en": "Lickitung"
+  },
+  {
+   "n": "114",
+   "pt": "Lickilicky",
+   "en": "Lickilicky"
+  },
+  {
+   "n": "115",
+   "pt": "Glameow",
+   "en": "Glameow"
+  },
+  {
+   "n": "116",
+   "pt": "Purugly",
+   "en": "Purugly"
+  },
+  {
+   "n": "117",
+   "pt": "Stoutland V",
+   "en": "Stoutland V"
+  },
+  {
+   "n": "118",
+   "pt": "Bouffalant",
+   "en": "Bouffalant"
+  },
+  {
+   "n": "119",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "120",
+   "pt": "Indeedee",
+   "en": "Indeedee"
+  },
+  {
+   "n": "121",
+   "pt": "Bruno",
+   "en": "Bruno"
+  },
+  {
+   "n": "122",
+   "pt": "Equipamento de Camping",
+   "en": "Camping Gear"
+  },
+  {
+   "n": "123",
+   "pt": "Cheryl",
+   "en": "Cheryl"
+  },
+  {
+   "n": "124",
+   "pt": "Reciclador de Energia",
+   "en": "Energy Recycler"
+  },
+  {
+   "n": "125",
+   "pt": "Corda de Fuga",
+   "en": "Escape Rope"
+  },
+  {
+   "n": "126",
+   "pt": "Compart. Exp.",
+   "en": "Exp. Share"
+  },
+  {
+   "n": "127",
+   "pt": "Leque de Ondas",
+   "en": "Fan of Waves"
+  },
+  {
+   "n": "128",
+   "pt": "Foco da Korrina",
+   "en": "Korrina's Focus"
+  },
+  {
+   "n": "129",
+   "pt": "Bola de Nível",
+   "en": "Level Ball"
+  },
+  {
+   "n": "130",
+   "pt": "Spectra",
+   "en": "Phoebe"
+  },
+  {
+   "n": "131",
+   "pt": "Pergaminho de Turbilhão Golpe Fluido",
+   "en": "Rapid Strike Scroll of Swirls"
+  },
+  {
+   "n": "132",
+   "pt": "Mostarda Estilo Golpe Fluido",
+   "en": "Rapid Strike Style Mustard"
+  },
+  {
+   "n": "133",
+   "pt": "Pergaminho de Desprezo Golpe Decisivo",
+   "en": "Single Strike Scroll of Scorn"
+  },
+  {
+   "n": "134",
+   "pt": "Mostarda Estilo Golpe Decisivo",
+   "en": "Single Strike Style Mustard"
+  },
+  {
+   "n": "135",
+   "pt": "Espadarnaldo e Escudoberto",
+   "en": "Sordward & Shielbert"
+  },
+  {
+   "n": "136",
+   "pt": "Bloqueador de Ferramentas",
+   "en": "Tool Jammer"
+  },
+  {
+   "n": "137",
+   "pt": "Torre das Sombras",
+   "en": "Tower of Darkness"
+  },
+  {
+   "n": "138",
+   "pt": "Torre das Águas",
+   "en": "Tower of Waters"
+  },
+  {
+   "n": "139",
+   "pt": "Urna de Vitalidade",
+   "en": "Urn of Vitality"
+  },
+  {
+   "n": "140",
+   "pt": "Energia Golpe Fluido",
+   "en": "Rapid Strike Energy"
+  },
+  {
+   "n": "141",
+   "pt": "Energia Golpe Decisivo",
+   "en": "Single Strike Energy"
+  },
+  {
+   "n": "142",
+   "pt": "Kricketune V",
+   "en": "Kricketune V"
+  },
+  {
+   "n": "143",
+   "pt": "Flapple V",
+   "en": "Flapple V"
+  },
+  {
+   "n": "144",
+   "pt": "Victini V",
+   "en": "Victini V"
+  },
+  {
+   "n": "145",
+   "pt": "Empoleon V",
+   "en": "Empoleon V"
+  },
+  {
+   "n": "146",
+   "pt": "Empoleon V",
+   "en": "Empoleon V"
+  },
+  {
+   "n": "147",
+   "pt": "Tapu Koko V",
+   "en": "Tapu Koko V"
+  },
+  {
+   "n": "148",
+   "pt": "Mimikyu V",
+   "en": "Mimikyu V"
+  },
+  {
+   "n": "149",
+   "pt": "Necrozma V",
+   "en": "Necrozma V"
+  },
+  {
+   "n": "150",
+   "pt": "Urshifu Golpe Decisivo V",
+   "en": "Single Strike Urshifu V"
+  },
+  {
+   "n": "151",
+   "pt": "Urshifu Golpe Decisivo V",
+   "en": "Single Strike Urshifu V"
+  },
+  {
+   "n": "152",
+   "pt": "Urshifu Golpe Fluido V",
+   "en": "Rapid Strike Urshifu V"
+  },
+  {
+   "n": "153",
+   "pt": "Urshifu Golpe Fluido V",
+   "en": "Rapid Strike Urshifu V"
+  },
+  {
+   "n": "154",
+   "pt": "Tyranitar V",
+   "en": "Tyranitar V"
+  },
+  {
+   "n": "155",
+   "pt": "Tyranitar V",
+   "en": "Tyranitar V"
+  },
+  {
+   "n": "156",
+   "pt": "Corviknight V",
+   "en": "Corviknight V"
+  },
+  {
+   "n": "157",
+   "pt": "Stoutland V",
+   "en": "Stoutland V"
+  },
+  {
+   "n": "158",
+   "pt": "Bruno",
+   "en": "Bruno"
+  },
+  {
+   "n": "159",
+   "pt": "Cheryl",
+   "en": "Cheryl"
+  },
+  {
+   "n": "160",
+   "pt": "Foco da Korrina",
+   "en": "Korrina's Focus"
+  },
+  {
+   "n": "161",
+   "pt": "Spectra",
+   "en": "Phoebe"
+  },
+  {
+   "n": "162",
+   "pt": "Mostarda Estilo Golpe Fluido",
+   "en": "Rapid Strike Style Mustard"
+  },
+  {
+   "n": "163",
+   "pt": "Mostarda Estilo Golpe Decisivo",
+   "en": "Single Strike Style Mustard"
+  },
+  {
+   "n": "164",
+   "pt": "Flapple VMAX",
+   "en": "Flapple VMAX"
+  },
+  {
+   "n": "165",
+   "pt": "Victini VMAX",
+   "en": "Victini VMAX"
+  },
+  {
+   "n": "166",
+   "pt": "Tapu Koko VMAX",
+   "en": "Tapu Koko VMAX"
+  },
+  {
+   "n": "167",
+   "pt": "Urshifu Golpe Decisivo VMAX",
+   "en": "Single Strike Urshifu VMAX"
+  },
+  {
+   "n": "168",
+   "pt": "Urshifu Golpe Decisivo VMAX",
+   "en": "Single Strike Urshifu VMAX"
+  },
+  {
+   "n": "169",
+   "pt": "Urshifu Golpe Fluido VMAX",
+   "en": "Rapid Strike Urshifu VMAX"
+  },
+  {
+   "n": "170",
+   "pt": "Urshifu Golpe Fluido VMAX",
+   "en": "Rapid Strike Urshifu VMAX"
+  },
+  {
+   "n": "171",
+   "pt": "Corviknight VMAX",
+   "en": "Corviknight VMAX"
+  },
+  {
+   "n": "172",
+   "pt": "Bruno",
+   "en": "Bruno"
+  },
+  {
+   "n": "173",
+   "pt": "Cheryl",
+   "en": "Cheryl"
+  },
+  {
+   "n": "174",
+   "pt": "Foco da Korrina",
+   "en": "Korrina's Focus"
+  },
+  {
+   "n": "175",
+   "pt": "Spectra",
+   "en": "Phoebe"
+  },
+  {
+   "n": "176",
+   "pt": "Mostarda Estilo Golpe Fluido",
+   "en": "Rapid Strike Style Mustard"
+  },
+  {
+   "n": "177",
+   "pt": "Mostarda Estilo Golpe Decisivo",
+   "en": "Single Strike Style Mustard"
+  },
+  {
+   "n": "178",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "179",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "180",
+   "pt": "Compart. Exp.",
+   "en": "Exp. Share"
+  },
+  {
+   "n": "181",
+   "pt": "Bola de Nível",
+   "en": "Level Ball"
+  },
+  {
+   "n": "182",
+   "pt": "Energia Golpe Fluido",
+   "en": "Rapid Strike Energy"
+  },
+  {
+   "n": "183",
+   "pt": "Energia Golpe Decisivo",
+   "en": "Single Strike Energy"
+  }
+ ]
+}

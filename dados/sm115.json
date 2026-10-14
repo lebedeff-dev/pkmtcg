@@ -1,0 +1,353 @@
+{
+ "set": "sm115",
+ "nome_pt": "Destinos Ocultos",
+ "nome_en": "Hidden Fates",
+ "total": 69,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": null,
+   "en": "Caterpie"
+  },
+  {
+   "n": "2",
+   "pt": null,
+   "en": "Metapod"
+  },
+  {
+   "n": "3",
+   "pt": null,
+   "en": "Butterfree"
+  },
+  {
+   "n": "4",
+   "pt": null,
+   "en": "Paras"
+  },
+  {
+   "n": "5",
+   "pt": null,
+   "en": "Scyther"
+  },
+  {
+   "n": "6",
+   "pt": null,
+   "en": "Pinsir GX"
+  },
+  {
+   "n": "7",
+   "pt": null,
+   "en": "Charmander"
+  },
+  {
+   "n": "8",
+   "pt": null,
+   "en": "Charmeleon"
+  },
+  {
+   "n": "9",
+   "pt": null,
+   "en": "Charizard GX"
+  },
+  {
+   "n": "10",
+   "pt": null,
+   "en": "Magmar"
+  },
+  {
+   "n": "11",
+   "pt": null,
+   "en": "Psyduck"
+  },
+  {
+   "n": "12",
+   "pt": null,
+   "en": "Slowpoke"
+  },
+  {
+   "n": "13",
+   "pt": null,
+   "en": "Staryu"
+  },
+  {
+   "n": "14",
+   "pt": null,
+   "en": "Starmie GX"
+  },
+  {
+   "n": "15",
+   "pt": null,
+   "en": "Magikarp"
+  },
+  {
+   "n": "16",
+   "pt": null,
+   "en": "Gyarados GX"
+  },
+  {
+   "n": "17",
+   "pt": null,
+   "en": "Lapras"
+  },
+  {
+   "n": "18",
+   "pt": null,
+   "en": "Vaporeon"
+  },
+  {
+   "n": "19",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "20",
+   "pt": null,
+   "en": "Raichu GX"
+  },
+  {
+   "n": "21",
+   "pt": null,
+   "en": "Voltorb"
+  },
+  {
+   "n": "22",
+   "pt": null,
+   "en": "Electrode"
+  },
+  {
+   "n": "23",
+   "pt": null,
+   "en": "Jolteon"
+  },
+  {
+   "n": "24",
+   "pt": null,
+   "en": "Zapdos"
+  },
+  {
+   "n": "25",
+   "pt": null,
+   "en": "Ekans"
+  },
+  {
+   "n": "26",
+   "pt": null,
+   "en": "Ekans"
+  },
+  {
+   "n": "27",
+   "pt": null,
+   "en": "Arbok"
+  },
+  {
+   "n": "28",
+   "pt": null,
+   "en": "Koffing"
+  },
+  {
+   "n": "29",
+   "pt": null,
+   "en": "Weezing"
+  },
+  {
+   "n": "30",
+   "pt": null,
+   "en": "Jynx"
+  },
+  {
+   "n": "31",
+   "pt": null,
+   "en": "Mewtwo GX"
+  },
+  {
+   "n": "32",
+   "pt": null,
+   "en": "Mew"
+  },
+  {
+   "n": "33",
+   "pt": null,
+   "en": "Geodude"
+  },
+  {
+   "n": "34",
+   "pt": null,
+   "en": "Graveler"
+  },
+  {
+   "n": "35",
+   "pt": null,
+   "en": "Golem"
+  },
+  {
+   "n": "36",
+   "pt": null,
+   "en": "Onix GX"
+  },
+  {
+   "n": "37",
+   "pt": null,
+   "en": "Cubone"
+  },
+  {
+   "n": "38",
+   "pt": null,
+   "en": "Clefairy"
+  },
+  {
+   "n": "39",
+   "pt": null,
+   "en": "Clefairy"
+  },
+  {
+   "n": "40",
+   "pt": null,
+   "en": "Clefable"
+  },
+  {
+   "n": "41",
+   "pt": null,
+   "en": "Jigglypuff"
+  },
+  {
+   "n": "42",
+   "pt": null,
+   "en": "Wigglytuff GX"
+  },
+  {
+   "n": "43",
+   "pt": null,
+   "en": "Mr. Mime"
+  },
+  {
+   "n": "44",
+   "pt": null,
+   "en": "Moltres & Zapdos & Articuno GX"
+  },
+  {
+   "n": "45",
+   "pt": null,
+   "en": "Farfetch’d"
+  },
+  {
+   "n": "46",
+   "pt": null,
+   "en": "Chansey"
+  },
+  {
+   "n": "47",
+   "pt": null,
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "48",
+   "pt": null,
+   "en": "Eevee"
+  },
+  {
+   "n": "49",
+   "pt": null,
+   "en": "Eevee"
+  },
+  {
+   "n": "50",
+   "pt": null,
+   "en": "Snorlax"
+  },
+  {
+   "n": "51",
+   "pt": null,
+   "en": "Bill’s Analysis"
+  },
+  {
+   "n": "52",
+   "pt": null,
+   "en": "Blaine’s Last Stand"
+  },
+  {
+   "n": "53",
+   "pt": null,
+   "en": "Brock’s Grit"
+  },
+  {
+   "n": "54",
+   "pt": null,
+   "en": "Brock’s Pewter City Gym"
+  },
+  {
+   "n": "55",
+   "pt": null,
+   "en": "Brock’s Training"
+  },
+  {
+   "n": "56",
+   "pt": null,
+   "en": "Erika’s Hospitality"
+  },
+  {
+   "n": "57",
+   "pt": null,
+   "en": "Giovanni’s Exile"
+  },
+  {
+   "n": "58",
+   "pt": null,
+   "en": "Jessie & James"
+  },
+  {
+   "n": "59",
+   "pt": null,
+   "en": "Koga’s Trap"
+  },
+  {
+   "n": "60",
+   "pt": null,
+   "en": "Lt. Surge’s Strategy"
+  },
+  {
+   "n": "61",
+   "pt": null,
+   "en": "Misty’s Cerulean City Gym"
+  },
+  {
+   "n": "62",
+   "pt": null,
+   "en": "Misty’s Determination"
+  },
+  {
+   "n": "63",
+   "pt": null,
+   "en": "Misty’s Water Command"
+  },
+  {
+   "n": "64",
+   "pt": null,
+   "en": "Pokémon Center Lady"
+  },
+  {
+   "n": "65",
+   "pt": null,
+   "en": "Sabrina’s Suggestion"
+  },
+  {
+   "n": "66",
+   "pt": null,
+   "en": "Moltres & Zapdos & Articuno GX"
+  },
+  {
+   "n": "67",
+   "pt": null,
+   "en": "Giovanni’s Exile"
+  },
+  {
+   "n": "68",
+   "pt": null,
+   "en": "Jessie & James"
+  },
+  {
+   "n": "69",
+   "pt": null,
+   "en": "Moltres & Zapdos & Articuno GX"
+  }
+ ]
+}
