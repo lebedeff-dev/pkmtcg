@@ -1,0 +1,159 @@
+{
+ "set": "swsh9tg",
+ "nome_pt": "Astros Cintilantes Galeria de Treinador",
+ "nome_en": "Brilliant Stars Trainer Gallery",
+ "total": 30,
+ "oficial": 30,
+ "cartas": [
+  {
+   "n": "TG01",
+   "pt": "Flareon",
+   "en": "Flareon"
+  },
+  {
+   "n": "TG02",
+   "pt": "Vaporeon",
+   "en": "Vaporeon"
+  },
+  {
+   "n": "TG03",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "TG04",
+   "pt": "Jolteon",
+   "en": "Jolteon"
+  },
+  {
+   "n": "TG05",
+   "pt": "Zekrom",
+   "en": "Zekrom"
+  },
+  {
+   "n": "TG06",
+   "pt": "Dusknoir",
+   "en": "Dusknoir"
+  },
+  {
+   "n": "TG07",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "TG08",
+   "pt": "Alcremie",
+   "en": "Alcremie"
+  },
+  {
+   "n": "TG09",
+   "pt": "Ariados",
+   "en": "Ariados"
+  },
+  {
+   "n": "TG10",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "TG11",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "TG12",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "TG13",
+   "pt": "Boltund V",
+   "en": "Boltund V"
+  },
+  {
+   "n": "TG14",
+   "pt": "Sylveon V",
+   "en": "Sylveon V"
+  },
+  {
+   "n": "TG15",
+   "pt": "Sylveon VMAX",
+   "en": "Sylveon VMAX"
+  },
+  {
+   "n": "TG16",
+   "pt": "Mimikyu V",
+   "en": "Mimikyu V"
+  },
+  {
+   "n": "TG17",
+   "pt": "Mimikyu VMAX",
+   "en": "Mimikyu VMAX"
+  },
+  {
+   "n": "TG18",
+   "pt": "Urshifu Golpe Decisivo V",
+   "en": "Single Strike Urshifu V"
+  },
+  {
+   "n": "TG19",
+   "pt": "Urshifu Golpe Decisivo VMAX",
+   "en": "Single Strike Urshifu VMAX"
+  },
+  {
+   "n": "TG20",
+   "pt": "Urshifu Golpe Fluido V",
+   "en": "Rapid Strike Urshifu V"
+  },
+  {
+   "n": "TG21",
+   "pt": "Urshifu Golpe Fluido VMAX",
+   "en": "Rapid Strike Urshifu VMAX"
+  },
+  {
+   "n": "TG22",
+   "pt": "Umbreon V",
+   "en": "Umbreon V"
+  },
+  {
+   "n": "TG23",
+   "pt": "Umbreon VMAX",
+   "en": "Umbreon VMAX"
+  },
+  {
+   "n": "TG24",
+   "pt": "Premonição da Acerola",
+   "en": "Acerola's Premonition"
+  },
+  {
+   "n": "TG25",
+   "pt": "Mestre do Café",
+   "en": "Café Master"
+  },
+  {
+   "n": "TG26",
+   "pt": "Glória",
+   "en": "Gloria"
+  },
+  {
+   "n": "TG27",
+   "pt": "Mostarda Estilo Golpe Fluido",
+   "en": "Rapid Strike Style Mustard"
+  },
+  {
+   "n": "TG28",
+   "pt": "Mostarda Estilo Golpe Decisivo",
+   "en": "Single Strike Style Mustard"
+  },
+  {
+   "n": "TG29",
+   "pt": "Urshifu Golpe Decisivo VMAX",
+   "en": "Single Strike Urshifu VMAX"
+  },
+  {
+   "n": "TG30",
+   "pt": "Urshifu Golpe Fluido VMAX",
+   "en": "Rapid Strike Urshifu VMAX"
+  }
+ ]
+}

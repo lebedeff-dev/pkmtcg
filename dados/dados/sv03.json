@@ -1,0 +1,1159 @@
+{
+ "set": "sv03",
+ "nome_pt": "Obsidiana em Chamas",
+ "nome_en": "Obsidian Flames",
+ "total": 230,
+ "oficial": 197,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Oddish",
+   "en": "Oddish"
+  },
+  {
+   "n": "002",
+   "pt": "Gloom",
+   "en": "Gloom"
+  },
+  {
+   "n": "003",
+   "pt": "Bellossom",
+   "en": "Bellossom"
+  },
+  {
+   "n": "004",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "005",
+   "pt": "Shuckle",
+   "en": "Shuckle"
+  },
+  {
+   "n": "006",
+   "pt": "Surskit",
+   "en": "Surskit"
+  },
+  {
+   "n": "007",
+   "pt": "Masquerain",
+   "en": "Masquerain"
+  },
+  {
+   "n": "008",
+   "pt": "Combee",
+   "en": "Combee"
+  },
+  {
+   "n": "009",
+   "pt": "Foongus",
+   "en": "Foongus"
+  },
+  {
+   "n": "010",
+   "pt": "Amoonguss",
+   "en": "Amoonguss"
+  },
+  {
+   "n": "011",
+   "pt": "Phantump",
+   "en": "Phantump"
+  },
+  {
+   "n": "012",
+   "pt": "Trevenant",
+   "en": "Trevenant"
+  },
+  {
+   "n": "013",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "014",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "015",
+   "pt": "Decidueye ex",
+   "en": "Decidueye ex"
+  },
+  {
+   "n": "016",
+   "pt": "Bounsweet",
+   "en": "Bounsweet"
+  },
+  {
+   "n": "017",
+   "pt": "Steenee",
+   "en": "Steenee"
+  },
+  {
+   "n": "018",
+   "pt": "Tsareena",
+   "en": "Tsareena"
+  },
+  {
+   "n": "019",
+   "pt": "Smoliv",
+   "en": "Smoliv"
+  },
+  {
+   "n": "020",
+   "pt": "Dolliv",
+   "en": "Dolliv"
+  },
+  {
+   "n": "021",
+   "pt": "Arboliva",
+   "en": "Arboliva"
+  },
+  {
+   "n": "022",
+   "pt": "Toedscruel ex",
+   "en": "Toedscruel ex"
+  },
+  {
+   "n": "023",
+   "pt": "Capsakid",
+   "en": "Capsakid"
+  },
+  {
+   "n": "024",
+   "pt": "Capsakid",
+   "en": "Capsakid"
+  },
+  {
+   "n": "025",
+   "pt": "Scovillain",
+   "en": "Scovillain"
+  },
+  {
+   "n": "026",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "027",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "028",
+   "pt": "Vulpix",
+   "en": "Vulpix"
+  },
+  {
+   "n": "029",
+   "pt": "Ninetales",
+   "en": "Ninetales"
+  },
+  {
+   "n": "030",
+   "pt": "Entei",
+   "en": "Entei"
+  },
+  {
+   "n": "031",
+   "pt": "Numel",
+   "en": "Numel"
+  },
+  {
+   "n": "032",
+   "pt": "Camerupt",
+   "en": "Camerupt"
+  },
+  {
+   "n": "033",
+   "pt": "Victini ex",
+   "en": "Victini ex"
+  },
+  {
+   "n": "034",
+   "pt": "Darumaka",
+   "en": "Darumaka"
+  },
+  {
+   "n": "035",
+   "pt": "Darmanitan",
+   "en": "Darmanitan"
+  },
+  {
+   "n": "036",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "037",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "038",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "039",
+   "pt": "Heatmor",
+   "en": "Heatmor"
+  },
+  {
+   "n": "040",
+   "pt": "Larvesta",
+   "en": "Larvesta"
+  },
+  {
+   "n": "041",
+   "pt": "Volcarona",
+   "en": "Volcarona"
+  },
+  {
+   "n": "042",
+   "pt": "Eiscue ex",
+   "en": "Eiscue ex"
+  },
+  {
+   "n": "043",
+   "pt": "Charcadet",
+   "en": "Charcadet"
+  },
+  {
+   "n": "044",
+   "pt": "Armarouge",
+   "en": "Armarouge"
+  },
+  {
+   "n": "045",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "046",
+   "pt": "Carvanha",
+   "en": "Carvanha"
+  },
+  {
+   "n": "047",
+   "pt": "Sharpedo",
+   "en": "Sharpedo"
+  },
+  {
+   "n": "048",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "049",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "050",
+   "pt": "Tympole",
+   "en": "Tympole"
+  },
+  {
+   "n": "051",
+   "pt": "Palpitoad",
+   "en": "Palpitoad"
+  },
+  {
+   "n": "052",
+   "pt": "Seismitoad",
+   "en": "Seismitoad"
+  },
+  {
+   "n": "053",
+   "pt": "Cubchoo",
+   "en": "Cubchoo"
+  },
+  {
+   "n": "054",
+   "pt": "Beartic",
+   "en": "Beartic"
+  },
+  {
+   "n": "055",
+   "pt": "Cryogonal",
+   "en": "Cryogonal"
+  },
+  {
+   "n": "056",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "057",
+   "pt": "Frogadier",
+   "en": "Frogadier"
+  },
+  {
+   "n": "058",
+   "pt": "Wiglett",
+   "en": "Wiglett"
+  },
+  {
+   "n": "059",
+   "pt": "Wugtrio",
+   "en": "Wugtrio"
+  },
+  {
+   "n": "060",
+   "pt": "Finizen",
+   "en": "Finizen"
+  },
+  {
+   "n": "061",
+   "pt": "Finizen",
+   "en": "Finizen"
+  },
+  {
+   "n": "062",
+   "pt": "Palafin",
+   "en": "Palafin"
+  },
+  {
+   "n": "063",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "064",
+   "pt": "Magneton",
+   "en": "Magneton"
+  },
+  {
+   "n": "065",
+   "pt": "Magnezone",
+   "en": "Magnezone"
+  },
+  {
+   "n": "066",
+   "pt": "Tyranitar ex",
+   "en": "Tyranitar ex"
+  },
+  {
+   "n": "067",
+   "pt": "Tynamo",
+   "en": "Tynamo"
+  },
+  {
+   "n": "068",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "069",
+   "pt": "Eelektross",
+   "en": "Eelektross"
+  },
+  {
+   "n": "070",
+   "pt": "Thundurus",
+   "en": "Thundurus"
+  },
+  {
+   "n": "071",
+   "pt": "Toxel",
+   "en": "Toxel"
+  },
+  {
+   "n": "072",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "073",
+   "pt": "Pawmot ex",
+   "en": "Pawmot ex"
+  },
+  {
+   "n": "074",
+   "pt": "Tadbulb",
+   "en": "Tadbulb"
+  },
+  {
+   "n": "075",
+   "pt": "Tadbulb",
+   "en": "Tadbulb"
+  },
+  {
+   "n": "076",
+   "pt": "Tadbulb",
+   "en": "Tadbulb"
+  },
+  {
+   "n": "077",
+   "pt": "Bellibolt",
+   "en": "Bellibolt"
+  },
+  {
+   "n": "078",
+   "pt": "Bellibolt",
+   "en": "Bellibolt"
+  },
+  {
+   "n": "079",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "080",
+   "pt": "Cleffa",
+   "en": "Cleffa"
+  },
+  {
+   "n": "081",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "082",
+   "pt": "Clefable ex",
+   "en": "Clefable ex"
+  },
+  {
+   "n": "083",
+   "pt": "Togepi",
+   "en": "Togepi"
+  },
+  {
+   "n": "084",
+   "pt": "Togetic",
+   "en": "Togetic"
+  },
+  {
+   "n": "085",
+   "pt": "Togekiss",
+   "en": "Togekiss"
+  },
+  {
+   "n": "086",
+   "pt": "Espeon",
+   "en": "Espeon"
+  },
+  {
+   "n": "087",
+   "pt": "Snubbull",
+   "en": "Snubbull"
+  },
+  {
+   "n": "088",
+   "pt": "Granbull",
+   "en": "Granbull"
+  },
+  {
+   "n": "089",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "090",
+   "pt": "Spoink",
+   "en": "Spoink"
+  },
+  {
+   "n": "091",
+   "pt": "Grumpig",
+   "en": "Grumpig"
+  },
+  {
+   "n": "092",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "093",
+   "pt": "Solrock",
+   "en": "Solrock"
+  },
+  {
+   "n": "094",
+   "pt": "Baltoy",
+   "en": "Baltoy"
+  },
+  {
+   "n": "095",
+   "pt": "Claydol",
+   "en": "Claydol"
+  },
+  {
+   "n": "096",
+   "pt": "Vespiquen ex",
+   "en": "Vespiquen ex"
+  },
+  {
+   "n": "097",
+   "pt": "Sinistea",
+   "en": "Sinistea"
+  },
+  {
+   "n": "098",
+   "pt": "Polteageist",
+   "en": "Polteageist"
+  },
+  {
+   "n": "099",
+   "pt": "Greavard",
+   "en": "Greavard"
+  },
+  {
+   "n": "100",
+   "pt": "Greavard",
+   "en": "Greavard"
+  },
+  {
+   "n": "101",
+   "pt": "Houndstone",
+   "en": "Houndstone"
+  },
+  {
+   "n": "102",
+   "pt": "Houndstone ex",
+   "en": "Houndstone ex"
+  },
+  {
+   "n": "103",
+   "pt": "Diglett",
+   "en": "Diglett"
+  },
+  {
+   "n": "104",
+   "pt": "Dugtrio",
+   "en": "Dugtrio"
+  },
+  {
+   "n": "105",
+   "pt": "Larvitar",
+   "en": "Larvitar"
+  },
+  {
+   "n": "106",
+   "pt": "Pupitar",
+   "en": "Pupitar"
+  },
+  {
+   "n": "107",
+   "pt": "Nosepass",
+   "en": "Nosepass"
+  },
+  {
+   "n": "108",
+   "pt": "Barboach",
+   "en": "Barboach"
+  },
+  {
+   "n": "109",
+   "pt": "Whiscash",
+   "en": "Whiscash"
+  },
+  {
+   "n": "110",
+   "pt": "Bonsly",
+   "en": "Bonsly"
+  },
+  {
+   "n": "111",
+   "pt": "Drilbur",
+   "en": "Drilbur"
+  },
+  {
+   "n": "112",
+   "pt": "Stunfisk",
+   "en": "Stunfisk"
+  },
+  {
+   "n": "113",
+   "pt": "Diggersby",
+   "en": "Diggersby"
+  },
+  {
+   "n": "114",
+   "pt": "Crabrawler",
+   "en": "Crabrawler"
+  },
+  {
+   "n": "115",
+   "pt": "Crabominable",
+   "en": "Crabominable"
+  },
+  {
+   "n": "116",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "117",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "118",
+   "pt": "Toedscool",
+   "en": "Toedscool"
+  },
+  {
+   "n": "119",
+   "pt": "Toedscruel",
+   "en": "Toedscruel"
+  },
+  {
+   "n": "120",
+   "pt": "Klawf ex",
+   "en": "Klawf ex"
+  },
+  {
+   "n": "121",
+   "pt": "Glimmet",
+   "en": "Glimmet"
+  },
+  {
+   "n": "122",
+   "pt": "Glimmet",
+   "en": "Glimmet"
+  },
+  {
+   "n": "123",
+   "pt": "Glimmora ex",
+   "en": "Glimmora ex"
+  },
+  {
+   "n": "124",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "125",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "126",
+   "pt": "Wooper de Paldea",
+   "en": "Paldean Wooper"
+  },
+  {
+   "n": "127",
+   "pt": "Wooper de Paldea",
+   "en": "Paldean Wooper"
+  },
+  {
+   "n": "128",
+   "pt": "Clodsire de Paldea",
+   "en": "Paldean Clodsire"
+  },
+  {
+   "n": "129",
+   "pt": "Clodsire de Paldea",
+   "en": "Paldean Clodsire"
+  },
+  {
+   "n": "130",
+   "pt": "Umbreon",
+   "en": "Umbreon"
+  },
+  {
+   "n": "131",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "132",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "133",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "134",
+   "pt": "Houndoom ex",
+   "en": "Houndoom ex"
+  },
+  {
+   "n": "135",
+   "pt": "Absol ex",
+   "en": "Absol ex"
+  },
+  {
+   "n": "136",
+   "pt": "Darkrai",
+   "en": "Darkrai"
+  },
+  {
+   "n": "137",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "138",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "139",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "140",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "141",
+   "pt": "Scizor",
+   "en": "Scizor"
+  },
+  {
+   "n": "142",
+   "pt": "Skarmory",
+   "en": "Skarmory"
+  },
+  {
+   "n": "143",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "144",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "145",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "146",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "147",
+   "pt": "Excadrill",
+   "en": "Excadrill"
+  },
+  {
+   "n": "148",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "149",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "150",
+   "pt": "Kingambit",
+   "en": "Kingambit"
+  },
+  {
+   "n": "151",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "152",
+   "pt": "Meltan",
+   "en": "Meltan"
+  },
+  {
+   "n": "153",
+   "pt": "Melmetal ex",
+   "en": "Melmetal ex"
+  },
+  {
+   "n": "154",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "155",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "156",
+   "pt": "Revavroom ex",
+   "en": "Revavroom ex"
+  },
+  {
+   "n": "157",
+   "pt": "Dratini",
+   "en": "Dratini"
+  },
+  {
+   "n": "158",
+   "pt": "Dragonair",
+   "en": "Dragonair"
+  },
+  {
+   "n": "159",
+   "pt": "Dragonite ex",
+   "en": "Dragonite ex"
+  },
+  {
+   "n": "160",
+   "pt": "Altaria",
+   "en": "Altaria"
+  },
+  {
+   "n": "161",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "162",
+   "pt": "Pidgey",
+   "en": "Pidgey"
+  },
+  {
+   "n": "163",
+   "pt": "Pidgeotto",
+   "en": "Pidgeotto"
+  },
+  {
+   "n": "164",
+   "pt": "Pidgeot ex",
+   "en": "Pidgeot ex"
+  },
+  {
+   "n": "165",
+   "pt": "Kangaskhan",
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "166",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "167",
+   "pt": "Zigzagoon",
+   "en": "Zigzagoon"
+  },
+  {
+   "n": "168",
+   "pt": "Linoone",
+   "en": "Linoone"
+  },
+  {
+   "n": "169",
+   "pt": "Swablu",
+   "en": "Swablu"
+  },
+  {
+   "n": "170",
+   "pt": "Lillipup",
+   "en": "Lillipup"
+  },
+  {
+   "n": "171",
+   "pt": "Herdier",
+   "en": "Herdier"
+  },
+  {
+   "n": "172",
+   "pt": "Stoutland",
+   "en": "Stoutland"
+  },
+  {
+   "n": "173",
+   "pt": "Audino",
+   "en": "Audino"
+  },
+  {
+   "n": "174",
+   "pt": "Bouffalant",
+   "en": "Bouffalant"
+  },
+  {
+   "n": "175",
+   "pt": "Bunnelby",
+   "en": "Bunnelby"
+  },
+  {
+   "n": "176",
+   "pt": "Yungoos",
+   "en": "Yungoos"
+  },
+  {
+   "n": "177",
+   "pt": "Gumshoos",
+   "en": "Gumshoos"
+  },
+  {
+   "n": "178",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "179",
+   "pt": "Greedent ex",
+   "en": "Greedent ex"
+  },
+  {
+   "n": "180",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "181",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "182",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "183",
+   "pt": "Oinkologne",
+   "en": "Oinkologne"
+  },
+  {
+   "n": "184",
+   "pt": "Oinkologne",
+   "en": "Oinkologne"
+  },
+  {
+   "n": "185",
+   "pt": "Flamigo",
+   "en": "Flamigo"
+  },
+  {
+   "n": "186",
+   "pt": "Arven",
+   "en": "Arven"
+  },
+  {
+   "n": "187",
+   "pt": "Brás",
+   "en": "Brassius"
+  },
+  {
+   "n": "188",
+   "pt": "Guita",
+   "en": "Geeta"
+  },
+  {
+   "n": "189",
+   "pt": "Mensagem de Encorajamento",
+   "en": "Letter of Encouragement"
+  },
+  {
+   "n": "190",
+   "pt": "Ortega",
+   "en": "Ortega"
+  },
+  {
+   "n": "191",
+   "pt": "Chapéu de Patrulha",
+   "en": "Patrol Cap"
+  },
+  {
+   "n": "192",
+   "pt": "Sede da Liga Pokémon",
+   "en": "Pokémon League Headquarters"
+  },
+  {
+   "n": "193",
+   "pt": "Poppy",
+   "en": "Poppy"
+  },
+  {
+   "n": "194",
+   "pt": "Citrina",
+   "en": "Ryme"
+  },
+  {
+   "n": "195",
+   "pt": "Recruta da Equipe Star",
+   "en": "Team Star Grunt"
+  },
+  {
+   "n": "196",
+   "pt": "Loja da Cidade",
+   "en": "Town Store"
+  },
+  {
+   "n": "197",
+   "pt": "Soco Vingativo",
+   "en": "Vengeful Punch"
+  },
+  {
+   "n": "198",
+   "pt": "Gloom",
+   "en": "Gloom"
+  },
+  {
+   "n": "199",
+   "pt": "Ninetales",
+   "en": "Ninetales"
+  },
+  {
+   "n": "200",
+   "pt": "Palafin",
+   "en": "Palafin"
+  },
+  {
+   "n": "201",
+   "pt": "Bellibolt",
+   "en": "Bellibolt"
+  },
+  {
+   "n": "202",
+   "pt": "Cleffa",
+   "en": "Cleffa"
+  },
+  {
+   "n": "203",
+   "pt": "Larvitar",
+   "en": "Larvitar"
+  },
+  {
+   "n": "204",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "205",
+   "pt": "Scizor",
+   "en": "Scizor"
+  },
+  {
+   "n": "206",
+   "pt": "Varoom",
+   "en": "Varoom"
+  },
+  {
+   "n": "207",
+   "pt": "Pidgey",
+   "en": "Pidgey"
+  },
+  {
+   "n": "208",
+   "pt": "Pidgeotto",
+   "en": "Pidgeotto"
+  },
+  {
+   "n": "209",
+   "pt": "Lechonk",
+   "en": "Lechonk"
+  },
+  {
+   "n": "210",
+   "pt": "Eiscue ex",
+   "en": "Eiscue ex"
+  },
+  {
+   "n": "211",
+   "pt": "Tyranitar ex",
+   "en": "Tyranitar ex"
+  },
+  {
+   "n": "212",
+   "pt": "Vespiquen ex",
+   "en": "Vespiquen ex"
+  },
+  {
+   "n": "213",
+   "pt": "Glimmora ex",
+   "en": "Glimmora ex"
+  },
+  {
+   "n": "214",
+   "pt": "Absol ex",
+   "en": "Absol ex"
+  },
+  {
+   "n": "215",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "216",
+   "pt": "Revavroom ex",
+   "en": "Revavroom ex"
+  },
+  {
+   "n": "217",
+   "pt": "Pidgeot ex",
+   "en": "Pidgeot ex"
+  },
+  {
+   "n": "218",
+   "pt": "Guita",
+   "en": "Geeta"
+  },
+  {
+   "n": "219",
+   "pt": "Ortega",
+   "en": "Ortega"
+  },
+  {
+   "n": "220",
+   "pt": "Poppy",
+   "en": "Poppy"
+  },
+  {
+   "n": "221",
+   "pt": "Citrina",
+   "en": "Ryme"
+  },
+  {
+   "n": "222",
+   "pt": "Eiscue ex",
+   "en": "Eiscue ex"
+  },
+  {
+   "n": "223",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "224",
+   "pt": "Revavroom ex",
+   "en": "Revavroom ex"
+  },
+  {
+   "n": "225",
+   "pt": "Pidgeot ex",
+   "en": "Pidgeot ex"
+  },
+  {
+   "n": "226",
+   "pt": "Guita",
+   "en": "Geeta"
+  },
+  {
+   "n": "227",
+   "pt": "Poppy",
+   "en": "Poppy"
+  },
+  {
+   "n": "228",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "229",
+   "pt": "Artazon",
+   "en": "Artazon"
+  },
+  {
+   "n": "230",
+   "pt": "Energia Fire Básica",
+   "en": "Basic Fire Energy"
+  }
+ ]
+}

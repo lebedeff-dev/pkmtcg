@@ -1,0 +1,659 @@
+{
+ "set": "me02",
+ "nome_pt": "Fogo Fantasmagórico",
+ "nome_en": "Phantasmal Flames",
+ "total": 130,
+ "oficial": 94,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Oddish",
+   "en": "Oddish"
+  },
+  {
+   "n": "002",
+   "pt": "Gloom",
+   "en": "Gloom"
+  },
+  {
+   "n": "003",
+   "pt": "Vileplume",
+   "en": "Vileplume"
+  },
+  {
+   "n": "004",
+   "pt": "Mega Heracross ex",
+   "en": "Mega Heracross ex"
+  },
+  {
+   "n": "005",
+   "pt": "Lotad",
+   "en": "Lotad"
+  },
+  {
+   "n": "006",
+   "pt": "Lombre",
+   "en": "Lombre"
+  },
+  {
+   "n": "007",
+   "pt": "Ludicolo",
+   "en": "Ludicolo"
+  },
+  {
+   "n": "008",
+   "pt": "Genesect",
+   "en": "Genesect"
+  },
+  {
+   "n": "009",
+   "pt": "Nymble",
+   "en": "Nymble"
+  },
+  {
+   "n": "010",
+   "pt": "Lokix",
+   "en": "Lokix"
+  },
+  {
+   "n": "011",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "012",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "013",
+   "pt": "Mega Charizard X ex",
+   "en": "Mega Charizard X ex"
+  },
+  {
+   "n": "014",
+   "pt": "Moltres",
+   "en": "Moltres"
+  },
+  {
+   "n": "015",
+   "pt": "Darumaka",
+   "en": "Darumaka"
+  },
+  {
+   "n": "016",
+   "pt": "Darmanitan",
+   "en": "Darmanitan"
+  },
+  {
+   "n": "017",
+   "pt": "Reshiram",
+   "en": "Reshiram"
+  },
+  {
+   "n": "018",
+   "pt": "Oricorio ex",
+   "en": "Oricorio ex"
+  },
+  {
+   "n": "019",
+   "pt": "Charcadet",
+   "en": "Charcadet"
+  },
+  {
+   "n": "020",
+   "pt": "Ceruledge",
+   "en": "Ceruledge"
+  },
+  {
+   "n": "021",
+   "pt": "Seel",
+   "en": "Seel"
+  },
+  {
+   "n": "022",
+   "pt": "Dewgong",
+   "en": "Dewgong"
+  },
+  {
+   "n": "023",
+   "pt": "Swinub",
+   "en": "Swinub"
+  },
+  {
+   "n": "024",
+   "pt": "Piloswine",
+   "en": "Piloswine"
+  },
+  {
+   "n": "025",
+   "pt": "Mamoswine",
+   "en": "Mamoswine"
+  },
+  {
+   "n": "026",
+   "pt": "Suicune",
+   "en": "Suicune"
+  },
+  {
+   "n": "027",
+   "pt": "Piplup",
+   "en": "Piplup"
+  },
+  {
+   "n": "028",
+   "pt": "Prinplup",
+   "en": "Prinplup"
+  },
+  {
+   "n": "029",
+   "pt": "Rotom ex",
+   "en": "Rotom ex"
+  },
+  {
+   "n": "030",
+   "pt": "Yamper",
+   "en": "Yamper"
+  },
+  {
+   "n": "031",
+   "pt": "Boltund",
+   "en": "Boltund"
+  },
+  {
+   "n": "032",
+   "pt": "Pawmi",
+   "en": "Pawmi"
+  },
+  {
+   "n": "033",
+   "pt": "Pawmo",
+   "en": "Pawmo"
+  },
+  {
+   "n": "034",
+   "pt": "Pawmot",
+   "en": "Pawmot"
+  },
+  {
+   "n": "035",
+   "pt": "Misdreavus",
+   "en": "Misdreavus"
+  },
+  {
+   "n": "036",
+   "pt": "Mismagius ex",
+   "en": "Mismagius ex"
+  },
+  {
+   "n": "037",
+   "pt": "Snubbull",
+   "en": "Snubbull"
+  },
+  {
+   "n": "038",
+   "pt": "Granbull",
+   "en": "Granbull"
+  },
+  {
+   "n": "039",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "040",
+   "pt": "Meloetta",
+   "en": "Meloetta"
+  },
+  {
+   "n": "041",
+   "pt": "Mega Diancie ex",
+   "en": "Mega Diancie ex"
+  },
+  {
+   "n": "042",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "043",
+   "pt": "Milcery",
+   "en": "Milcery"
+  },
+  {
+   "n": "044",
+   "pt": "Alcremie",
+   "en": "Alcremie"
+  },
+  {
+   "n": "045",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "046",
+   "pt": "Bramblin",
+   "en": "Bramblin"
+  },
+  {
+   "n": "047",
+   "pt": "Brambleghast",
+   "en": "Brambleghast"
+  },
+  {
+   "n": "048",
+   "pt": "Tauros de Paldea",
+   "en": "Paldean Tauros"
+  },
+  {
+   "n": "049",
+   "pt": "Gligar",
+   "en": "Gligar"
+  },
+  {
+   "n": "050",
+   "pt": "Gliscor",
+   "en": "Gliscor"
+  },
+  {
+   "n": "051",
+   "pt": "Trapinch",
+   "en": "Trapinch"
+  },
+  {
+   "n": "052",
+   "pt": "Vibrava",
+   "en": "Vibrava"
+  },
+  {
+   "n": "053",
+   "pt": "Flygon",
+   "en": "Flygon"
+  },
+  {
+   "n": "054",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "055",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "056",
+   "pt": "Mega Gengar ex",
+   "en": "Mega Gengar ex"
+  },
+  {
+   "n": "057",
+   "pt": "Murkrow",
+   "en": "Murkrow"
+  },
+  {
+   "n": "058",
+   "pt": "Honchkrow",
+   "en": "Honchkrow"
+  },
+  {
+   "n": "059",
+   "pt": "Sableye",
+   "en": "Sableye"
+  },
+  {
+   "n": "060",
+   "pt": "Carvanha",
+   "en": "Carvanha"
+  },
+  {
+   "n": "061",
+   "pt": "Mega Sharpedo ex",
+   "en": "Mega Sharpedo ex"
+  },
+  {
+   "n": "062",
+   "pt": "Seviper",
+   "en": "Seviper"
+  },
+  {
+   "n": "063",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "064",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "065",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "066",
+   "pt": "Krookodile",
+   "en": "Krookodile"
+  },
+  {
+   "n": "067",
+   "pt": "Toxel",
+   "en": "Toxel"
+  },
+  {
+   "n": "068",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "069",
+   "pt": "Eternatus",
+   "en": "Eternatus"
+  },
+  {
+   "n": "070",
+   "pt": "Empoleon ex",
+   "en": "Empoleon ex"
+  },
+  {
+   "n": "071",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "072",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "073",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "074",
+   "pt": "Duraludon",
+   "en": "Duraludon"
+  },
+  {
+   "n": "075",
+   "pt": "Archaludon",
+   "en": "Archaludon"
+  },
+  {
+   "n": "076",
+   "pt": "Jigglypuff",
+   "en": "Jigglypuff"
+  },
+  {
+   "n": "077",
+   "pt": "Wigglytuff",
+   "en": "Wigglytuff"
+  },
+  {
+   "n": "078",
+   "pt": "Aipom",
+   "en": "Aipom"
+  },
+  {
+   "n": "079",
+   "pt": "Ambipom",
+   "en": "Ambipom"
+  },
+  {
+   "n": "080",
+   "pt": "Smeargle",
+   "en": "Smeargle"
+  },
+  {
+   "n": "081",
+   "pt": "Zigzagoon",
+   "en": "Zigzagoon"
+  },
+  {
+   "n": "082",
+   "pt": "Linoone",
+   "en": "Linoone"
+  },
+  {
+   "n": "083",
+   "pt": "Buneary",
+   "en": "Buneary"
+  },
+  {
+   "n": "084",
+   "pt": "Mega Lopunny ex",
+   "en": "Mega Lopunny ex"
+  },
+  {
+   "n": "085",
+   "pt": "Jaula de Batalha",
+   "en": "Battle Cage"
+  },
+  {
+   "n": "086",
+   "pt": "Maçarico",
+   "en": "Blowtorch"
+  },
+  {
+   "n": "087",
+   "pt": "Dawn",
+   "en": "Dawn"
+  },
+  {
+   "n": "088",
+   "pt": "Vale Vertiginoso",
+   "en": "Dizzying Valley"
+  },
+  {
+   "n": "089",
+   "pt": "Cuspidor de Fogo",
+   "en": "Firebreather"
+  },
+  {
+   "n": "090",
+   "pt": "Artimanha do Funesto",
+   "en": "Grimsley's Move"
+  },
+  {
+   "n": "091",
+   "pt": "Sorvetão Jumbo",
+   "en": "Jumbo Ice Cream"
+  },
+  {
+   "n": "092",
+   "pt": "Capacete Punk",
+   "en": "Punk Helmet"
+  },
+  {
+   "n": "093",
+   "pt": "Pingente Sagrado",
+   "en": "Sacred Charm"
+  },
+  {
+   "n": "094",
+   "pt": "Fragmento Encantado",
+   "en": "Wondrous Patch"
+  },
+  {
+   "n": "095",
+   "pt": "Ludicolo",
+   "en": "Ludicolo"
+  },
+  {
+   "n": "096",
+   "pt": "Nymble",
+   "en": "Nymble"
+  },
+  {
+   "n": "097",
+   "pt": "Dewgong",
+   "en": "Dewgong"
+  },
+  {
+   "n": "098",
+   "pt": "Piplup",
+   "en": "Piplup"
+  },
+  {
+   "n": "099",
+   "pt": "Yamper",
+   "en": "Yamper"
+  },
+  {
+   "n": "100",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "101",
+   "pt": "Flygon",
+   "en": "Flygon"
+  },
+  {
+   "n": "102",
+   "pt": "Wooper de Paldea",
+   "en": "Paldean Wooper"
+  },
+  {
+   "n": "103",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "104",
+   "pt": "Togedemaru",
+   "en": "Togedemaru"
+  },
+  {
+   "n": "105",
+   "pt": "Wigglytuff",
+   "en": "Wigglytuff"
+  },
+  {
+   "n": "106",
+   "pt": "Meowth",
+   "en": "Meowth"
+  },
+  {
+   "n": "107",
+   "pt": "Ambipom",
+   "en": "Ambipom"
+  },
+  {
+   "n": "108",
+   "pt": "Mega Heracross ex",
+   "en": "Mega Heracross ex"
+  },
+  {
+   "n": "109",
+   "pt": "Mega Charizard X ex",
+   "en": "Mega Charizard X ex"
+  },
+  {
+   "n": "110",
+   "pt": "Oricorio ex",
+   "en": "Oricorio ex"
+  },
+  {
+   "n": "111",
+   "pt": "Rotom ex",
+   "en": "Rotom ex"
+  },
+  {
+   "n": "112",
+   "pt": "Mismagius ex",
+   "en": "Mismagius ex"
+  },
+  {
+   "n": "113",
+   "pt": "Mega Sharpedo ex",
+   "en": "Mega Sharpedo ex"
+  },
+  {
+   "n": "114",
+   "pt": "Empoleon ex",
+   "en": "Empoleon ex"
+  },
+  {
+   "n": "115",
+   "pt": "Mega Lopunny ex",
+   "en": "Mega Lopunny ex"
+  },
+  {
+   "n": "116",
+   "pt": "Jaula de Batalha",
+   "en": "Battle Cage"
+  },
+  {
+   "n": "117",
+   "pt": "Maçarico",
+   "en": "Blowtorch"
+  },
+  {
+   "n": "118",
+   "pt": "Dawn",
+   "en": "Dawn"
+  },
+  {
+   "n": "119",
+   "pt": "Cuspidor de Fogo",
+   "en": "Firebreather"
+  },
+  {
+   "n": "120",
+   "pt": "Artimanha do Funesto",
+   "en": "Grimsley's Move"
+  },
+  {
+   "n": "121",
+   "pt": "Capacete Punk",
+   "en": "Punk Helmet"
+  },
+  {
+   "n": "122",
+   "pt": "Pingente Sagrado",
+   "en": "Sacred Charm"
+  },
+  {
+   "n": "123",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "124",
+   "pt": "Energia de Ignição",
+   "en": "Ignition Energy"
+  },
+  {
+   "n": "125",
+   "pt": "Mega Charizard X ex",
+   "en": "Mega Charizard X ex"
+  },
+  {
+   "n": "126",
+   "pt": "Rotom ex",
+   "en": "Rotom ex"
+  },
+  {
+   "n": "127",
+   "pt": "Mega Sharpedo ex",
+   "en": "Mega Sharpedo ex"
+  },
+  {
+   "n": "128",
+   "pt": "Mega Lopunny ex",
+   "en": "Mega Lopunny ex"
+  },
+  {
+   "n": "129",
+   "pt": "Dawn",
+   "en": "Dawn"
+  },
+  {
+   "n": "130",
+   "pt": "Mega Charizard X ex",
+   "en": "Mega Charizard X ex"
+  }
+ ]
+}

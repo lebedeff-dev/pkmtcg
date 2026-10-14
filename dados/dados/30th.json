@@ -1,0 +1,799 @@
+{
+ "set": "30th",
+ "nome_pt": "Celebração de 30 Anos",
+ "nome_en": "30th Celebration",
+ "total": 158,
+ "oficial": 128,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "002",
+   "pt": "Exeggutor de Alola",
+   "en": "Alolan Exeggutor"
+  },
+  {
+   "n": "003",
+   "pt": null,
+   "en": "Volbeat"
+  },
+  {
+   "n": "004",
+   "pt": null,
+   "en": "Illumise"
+  },
+  {
+   "n": "005",
+   "pt": null,
+   "en": "Tropius"
+  },
+  {
+   "n": "006",
+   "pt": null,
+   "en": "Cherubi"
+  },
+  {
+   "n": "007",
+   "pt": null,
+   "en": "Cherrim"
+  },
+  {
+   "n": "008",
+   "pt": null,
+   "en": "Vivillon"
+  },
+  {
+   "n": "009",
+   "pt": null,
+   "en": "Vulpix"
+  },
+  {
+   "n": "010",
+   "pt": null,
+   "en": "Ninetales"
+  },
+  {
+   "n": "011",
+   "pt": null,
+   "en": "Moltres"
+  },
+  {
+   "n": "012",
+   "pt": null,
+   "en": "Ho-Oh"
+  },
+  {
+   "n": "013",
+   "pt": null,
+   "en": "Victini"
+  },
+  {
+   "n": "014",
+   "pt": null,
+   "en": "Reshiram"
+  },
+  {
+   "n": "015",
+   "pt": null,
+   "en": "Fuecoco ex"
+  },
+  {
+   "n": "016",
+   "pt": null,
+   "en": "Slowpoke"
+  },
+  {
+   "n": "017",
+   "pt": null,
+   "en": "Lapras"
+  },
+  {
+   "n": "018",
+   "pt": null,
+   "en": "Articuno"
+  },
+  {
+   "n": "019",
+   "pt": null,
+   "en": "Kyogre"
+  },
+  {
+   "n": "020",
+   "pt": null,
+   "en": "Palkia"
+  },
+  {
+   "n": "021",
+   "pt": null,
+   "en": "Greninja ex"
+  },
+  {
+   "n": "022",
+   "pt": null,
+   "en": "Wishiwashi"
+  },
+  {
+   "n": "023",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "024",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "025",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "026",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "027",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "028",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "029",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "030",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "031",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "032",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "033",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "034",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "035",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "036",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "037",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "038",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "039",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "040",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "041",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "042",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "043",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "044",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "045",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "046",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "047",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "048",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "049",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "050",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "051",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "052",
+   "pt": null,
+   "en": "Pikachu"
+  },
+  {
+   "n": "053",
+   "pt": null,
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "054",
+   "pt": null,
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "055",
+   "pt": null,
+   "en": "Zapdos"
+  },
+  {
+   "n": "056",
+   "pt": null,
+   "en": "Zekrom"
+  },
+  {
+   "n": "057",
+   "pt": null,
+   "en": "Zeraora"
+  },
+  {
+   "n": "058",
+   "pt": null,
+   "en": "Toxel"
+  },
+  {
+   "n": "059",
+   "pt": null,
+   "en": "Toxtricity"
+  },
+  {
+   "n": "060",
+   "pt": null,
+   "en": "Toxtricity"
+  },
+  {
+   "n": "061",
+   "pt": null,
+   "en": "Morpeko"
+  },
+  {
+   "n": "062",
+   "pt": null,
+   "en": "Miraidon"
+  },
+  {
+   "n": "063",
+   "pt": null,
+   "en": "Mewtwo"
+  },
+  {
+   "n": "064",
+   "pt": null,
+   "en": "Mewtwo ex"
+  },
+  {
+   "n": "065",
+   "pt": null,
+   "en": "Mew"
+  },
+  {
+   "n": "066",
+   "pt": null,
+   "en": "Mew ex"
+  },
+  {
+   "n": "067",
+   "pt": null,
+   "en": "Marill"
+  },
+  {
+   "n": "068",
+   "pt": null,
+   "en": "Azumarill"
+  },
+  {
+   "n": "069",
+   "pt": null,
+   "en": "Espeon"
+  },
+  {
+   "n": "070",
+   "pt": null,
+   "en": "Espeon ex"
+  },
+  {
+   "n": "071",
+   "pt": null,
+   "en": "Sylveon ex"
+  },
+  {
+   "n": "072",
+   "pt": null,
+   "en": "Unown"
+  },
+  {
+   "n": "073",
+   "pt": null,
+   "en": "Drifloon"
+  },
+  {
+   "n": "074",
+   "pt": null,
+   "en": "Cresselia"
+  },
+  {
+   "n": "075",
+   "pt": null,
+   "en": "Chandelure"
+  },
+  {
+   "n": "076",
+   "pt": null,
+   "en": "Xerneas"
+  },
+  {
+   "n": "077",
+   "pt": null,
+   "en": "Comfey"
+  },
+  {
+   "n": "078",
+   "pt": null,
+   "en": "Cosmog"
+  },
+  {
+   "n": "079",
+   "pt": null,
+   "en": "Cosmoem"
+  },
+  {
+   "n": "080",
+   "pt": null,
+   "en": "Lunala"
+  },
+  {
+   "n": "081",
+   "pt": null,
+   "en": "Gimmighoul"
+  },
+  {
+   "n": "082",
+   "pt": null,
+   "en": "Groudon"
+  },
+  {
+   "n": "083",
+   "pt": null,
+   "en": "Lucario"
+  },
+  {
+   "n": "084",
+   "pt": null,
+   "en": "Seismitoad"
+  },
+  {
+   "n": "085",
+   "pt": null,
+   "en": "Lycanroc"
+  },
+  {
+   "n": "086",
+   "pt": null,
+   "en": "Koraidon"
+  },
+  {
+   "n": "087",
+   "pt": null,
+   "en": "Nidoran♀"
+  },
+  {
+   "n": "088",
+   "pt": null,
+   "en": "Nidorina"
+  },
+  {
+   "n": "089",
+   "pt": null,
+   "en": "Alolan Meowth"
+  },
+  {
+   "n": "090",
+   "pt": null,
+   "en": "Gengar ex"
+  },
+  {
+   "n": "091",
+   "pt": null,
+   "en": "Umbreon"
+  },
+  {
+   "n": "092",
+   "pt": null,
+   "en": "Umbreon ex"
+  },
+  {
+   "n": "093",
+   "pt": null,
+   "en": "Murkrow"
+  },
+  {
+   "n": "094",
+   "pt": null,
+   "en": "Scraggy"
+  },
+  {
+   "n": "095",
+   "pt": null,
+   "en": "Zorua"
+  },
+  {
+   "n": "096",
+   "pt": null,
+   "en": "Zoroark"
+  },
+  {
+   "n": "097",
+   "pt": null,
+   "en": "Deino"
+  },
+  {
+   "n": "098",
+   "pt": null,
+   "en": "Zweilous"
+  },
+  {
+   "n": "099",
+   "pt": null,
+   "en": "Hydreigon"
+  },
+  {
+   "n": "100",
+   "pt": null,
+   "en": "Yveltal"
+  },
+  {
+   "n": "101",
+   "pt": null,
+   "en": "Galarian Meowth"
+  },
+  {
+   "n": "102",
+   "pt": null,
+   "en": "Jirachi ex"
+  },
+  {
+   "n": "103",
+   "pt": null,
+   "en": "Dialga"
+  },
+  {
+   "n": "104",
+   "pt": null,
+   "en": "Ferrothorn"
+  },
+  {
+   "n": "105",
+   "pt": null,
+   "en": "Solgaleo"
+  },
+  {
+   "n": "106",
+   "pt": null,
+   "en": "Zacian"
+  },
+  {
+   "n": "107",
+   "pt": null,
+   "en": "Zamazenta"
+  },
+  {
+   "n": "108",
+   "pt": null,
+   "en": "Gholdengo"
+  },
+  {
+   "n": "109",
+   "pt": null,
+   "en": "Salamence ex"
+  },
+  {
+   "n": "110",
+   "pt": null,
+   "en": "Jangmo-o"
+  },
+  {
+   "n": "111",
+   "pt": null,
+   "en": "Hakamo-o"
+  },
+  {
+   "n": "112",
+   "pt": null,
+   "en": "Kommo-o"
+  },
+  {
+   "n": "113",
+   "pt": null,
+   "en": "Meowth"
+  },
+  {
+   "n": "114",
+   "pt": null,
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "115",
+   "pt": null,
+   "en": "Ditto"
+  },
+  {
+   "n": "116",
+   "pt": null,
+   "en": "Eevee"
+  },
+  {
+   "n": "117",
+   "pt": null,
+   "en": "Eevee"
+  },
+  {
+   "n": "118",
+   "pt": null,
+   "en": "Eevee"
+  },
+  {
+   "n": "119",
+   "pt": null,
+   "en": "Snorlax"
+  },
+  {
+   "n": "120",
+   "pt": null,
+   "en": "Igglybuff"
+  },
+  {
+   "n": "121",
+   "pt": null,
+   "en": "Lugia"
+  },
+  {
+   "n": "122",
+   "pt": null,
+   "en": "Hisuian Zorua"
+  },
+  {
+   "n": "123",
+   "pt": null,
+   "en": "Hisuian Zoroark"
+  },
+  {
+   "n": "124",
+   "pt": null,
+   "en": "Minior"
+  },
+  {
+   "n": "125",
+   "pt": null,
+   "en": "Maushold"
+  },
+  {
+   "n": "126",
+   "pt": null,
+   "en": "Poké Pad"
+  },
+  {
+   "n": "127",
+   "pt": null,
+   "en": "Switch"
+  },
+  {
+   "n": "128",
+   "pt": null,
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "129",
+   "pt": null,
+   "en": "Alolan Exeggutor"
+  },
+  {
+   "n": "130",
+   "pt": null,
+   "en": "Moltres"
+  },
+  {
+   "n": "131",
+   "pt": null,
+   "en": "Lapras"
+  },
+  {
+   "n": "132",
+   "pt": null,
+   "en": "Articuno"
+  },
+  {
+   "n": "133",
+   "pt": null,
+   "en": "Zapdos"
+  },
+  {
+   "n": "134",
+   "pt": null,
+   "en": "Toxtricity"
+  },
+  {
+   "n": "135",
+   "pt": null,
+   "en": "Morpeko"
+  },
+  {
+   "n": "136",
+   "pt": null,
+   "en": "Drifloon"
+  },
+  {
+   "n": "137",
+   "pt": null,
+   "en": "Chandelure"
+  },
+  {
+   "n": "138",
+   "pt": null,
+   "en": "Lycanroc"
+  },
+  {
+   "n": "139",
+   "pt": null,
+   "en": "Alolan Meowth"
+  },
+  {
+   "n": "140",
+   "pt": null,
+   "en": "Scraggy"
+  },
+  {
+   "n": "141",
+   "pt": null,
+   "en": "Galarian Meowth"
+  },
+  {
+   "n": "142",
+   "pt": null,
+   "en": "Gholdengo"
+  },
+  {
+   "n": "143",
+   "pt": null,
+   "en": "Kommo-o"
+  },
+  {
+   "n": "144",
+   "pt": null,
+   "en": "Meowth"
+  },
+  {
+   "n": "145",
+   "pt": null,
+   "en": "Hisuian Zorua"
+  },
+  {
+   "n": "146",
+   "pt": null,
+   "en": "Maushold"
+  },
+  {
+   "n": "147",
+   "pt": null,
+   "en": "Fuecoco ex"
+  },
+  {
+   "n": "148",
+   "pt": null,
+   "en": "Greninja ex"
+  },
+  {
+   "n": "149",
+   "pt": null,
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "150",
+   "pt": null,
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "151",
+   "pt": null,
+   "en": "Mewtwo ex"
+  },
+  {
+   "n": "152",
+   "pt": null,
+   "en": "Mew ex"
+  },
+  {
+   "n": "153",
+   "pt": null,
+   "en": "Sylveon ex"
+  },
+  {
+   "n": "154",
+   "pt": null,
+   "en": "Gengar ex"
+  },
+  {
+   "n": "155",
+   "pt": null,
+   "en": "Jirachi ex"
+  },
+  {
+   "n": "156",
+   "pt": null,
+   "en": "Salamence ex"
+  },
+  {
+   "n": "157",
+   "pt": null,
+   "en": "Mewtwo ex"
+  },
+  {
+   "n": "158",
+   "pt": null,
+   "en": "Mew ex"
+  }
+ ]
+}

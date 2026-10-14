@@ -1,0 +1,619 @@
+{
+ "set": "swsh45sv",
+ "nome_pt": "Destinos Brilhantes Cofre Brilhante",
+ "nome_en": "Shining Fates Shiny Vault",
+ "total": 122,
+ "oficial": 122,
+ "cartas": [
+  {
+   "n": "SV001",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "SV002",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "SV003",
+   "pt": "Decidueye",
+   "en": "Decidueye"
+  },
+  {
+   "n": "SV004",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "SV005",
+   "pt": "Thwackey",
+   "en": "Thwackey"
+  },
+  {
+   "n": "SV006",
+   "pt": "Rillaboom",
+   "en": "Rillaboom"
+  },
+  {
+   "n": "SV007",
+   "pt": "Blipbug",
+   "en": "Blipbug"
+  },
+  {
+   "n": "SV008",
+   "pt": "Dottler",
+   "en": "Dottler"
+  },
+  {
+   "n": "SV009",
+   "pt": "Orbeetle",
+   "en": "Orbeetle"
+  },
+  {
+   "n": "SV010",
+   "pt": "Gossifleur",
+   "en": "Gossifleur"
+  },
+  {
+   "n": "SV011",
+   "pt": "Eldegoss",
+   "en": "Eldegoss"
+  },
+  {
+   "n": "SV012",
+   "pt": "Applin",
+   "en": "Applin"
+  },
+  {
+   "n": "SV013",
+   "pt": "Flapple",
+   "en": "Flapple"
+  },
+  {
+   "n": "SV014",
+   "pt": "Appletun",
+   "en": "Appletun"
+  },
+  {
+   "n": "SV015",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "SV016",
+   "pt": "Raboot",
+   "en": "Raboot"
+  },
+  {
+   "n": "SV017",
+   "pt": "Cinderace",
+   "en": "Cinderace"
+  },
+  {
+   "n": "SV018",
+   "pt": "Sizzlipede",
+   "en": "Sizzlipede"
+  },
+  {
+   "n": "SV019",
+   "pt": "Centiskorch",
+   "en": "Centiskorch"
+  },
+  {
+   "n": "SV020",
+   "pt": "Mr. Mime de Galar",
+   "en": "Galarian Mr. Mime"
+  },
+  {
+   "n": "SV021",
+   "pt": "Mr. Rime de Galar",
+   "en": "Galarian Mr. Rime"
+  },
+  {
+   "n": "SV022",
+   "pt": "Suicune",
+   "en": "Suicune"
+  },
+  {
+   "n": "SV023",
+   "pt": "Darumaka de Galar",
+   "en": "Galarian Darumaka"
+  },
+  {
+   "n": "SV024",
+   "pt": "Darmanitan de Galar",
+   "en": "Galarian Darmanitan"
+  },
+  {
+   "n": "SV025",
+   "pt": "Sobble",
+   "en": "Sobble"
+  },
+  {
+   "n": "SV026",
+   "pt": "Drizzile",
+   "en": "Drizzile"
+  },
+  {
+   "n": "SV027",
+   "pt": "Inteleon",
+   "en": "Inteleon"
+  },
+  {
+   "n": "SV028",
+   "pt": "Chewtle",
+   "en": "Chewtle"
+  },
+  {
+   "n": "SV029",
+   "pt": "Drednaw",
+   "en": "Drednaw"
+  },
+  {
+   "n": "SV030",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "SV031",
+   "pt": "Arrokuda",
+   "en": "Arrokuda"
+  },
+  {
+   "n": "SV032",
+   "pt": "Barraskewda",
+   "en": "Barraskewda"
+  },
+  {
+   "n": "SV033",
+   "pt": "Snom",
+   "en": "Snom"
+  },
+  {
+   "n": "SV034",
+   "pt": "Frosmoth",
+   "en": "Frosmoth"
+  },
+  {
+   "n": "SV035",
+   "pt": "Eiscue",
+   "en": "Eiscue"
+  },
+  {
+   "n": "SV036",
+   "pt": "Dracovish",
+   "en": "Dracovish"
+  },
+  {
+   "n": "SV037",
+   "pt": "Arctovish",
+   "en": "Arctovish"
+  },
+  {
+   "n": "SV038",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "SV039",
+   "pt": "Yamper",
+   "en": "Yamper"
+  },
+  {
+   "n": "SV040",
+   "pt": "Boltund",
+   "en": "Boltund"
+  },
+  {
+   "n": "SV041",
+   "pt": "Toxel",
+   "en": "Toxel"
+  },
+  {
+   "n": "SV042",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "SV043",
+   "pt": "Pincurchin",
+   "en": "Pincurchin"
+  },
+  {
+   "n": "SV044",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "SV045",
+   "pt": "Dracozolt",
+   "en": "Dracozolt"
+  },
+  {
+   "n": "SV046",
+   "pt": "Arctozolt",
+   "en": "Arctozolt"
+  },
+  {
+   "n": "SV047",
+   "pt": "Ponyta de Galar",
+   "en": "Galarian Ponyta"
+  },
+  {
+   "n": "SV048",
+   "pt": "Rapidash de Galar",
+   "en": "Galarian Rapidash"
+  },
+  {
+   "n": "SV049",
+   "pt": "Corsola de Galar",
+   "en": "Galarian Corsola"
+  },
+  {
+   "n": "SV050",
+   "pt": "Cursola de Galar",
+   "en": "Galarian Cursola"
+  },
+  {
+   "n": "SV051",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "SV052",
+   "pt": "Sinistea",
+   "en": "Sinistea"
+  },
+  {
+   "n": "SV053",
+   "pt": "Polteageist",
+   "en": "Polteageist"
+  },
+  {
+   "n": "SV054",
+   "pt": "Hatenna",
+   "en": "Hatenna"
+  },
+  {
+   "n": "SV055",
+   "pt": "Hattrem",
+   "en": "Hattrem"
+  },
+  {
+   "n": "SV056",
+   "pt": "Hatterene",
+   "en": "Hatterene"
+  },
+  {
+   "n": "SV057",
+   "pt": "Milcery",
+   "en": "Milcery"
+  },
+  {
+   "n": "SV058",
+   "pt": "Alcremie",
+   "en": "Alcremie"
+  },
+  {
+   "n": "SV059",
+   "pt": "Indeedee",
+   "en": "Indeedee"
+  },
+  {
+   "n": "SV060",
+   "pt": "Dreepy",
+   "en": "Dreepy"
+  },
+  {
+   "n": "SV061",
+   "pt": "Drakloak",
+   "en": "Drakloak"
+  },
+  {
+   "n": "SV062",
+   "pt": "Dragapult",
+   "en": "Dragapult"
+  },
+  {
+   "n": "SV063",
+   "pt": "Farfetch'd de Galar",
+   "en": "Galarian Farfetch'd"
+  },
+  {
+   "n": "SV064",
+   "pt": "Sirfetch'd de Galar",
+   "en": "Galarian Sirfetch'd"
+  },
+  {
+   "n": "SV065",
+   "pt": "Yamask de Galar",
+   "en": "Galarian Yamask"
+  },
+  {
+   "n": "SV066",
+   "pt": "Runerigus de Galar",
+   "en": "Galarian Runerigus"
+  },
+  {
+   "n": "SV067",
+   "pt": "Rolycoly",
+   "en": "Rolycoly"
+  },
+  {
+   "n": "SV068",
+   "pt": "Carkol",
+   "en": "Carkol"
+  },
+  {
+   "n": "SV069",
+   "pt": "Coalossal",
+   "en": "Coalossal"
+  },
+  {
+   "n": "SV070",
+   "pt": "Silicobra",
+   "en": "Silicobra"
+  },
+  {
+   "n": "SV071",
+   "pt": "Sandaconda",
+   "en": "Sandaconda"
+  },
+  {
+   "n": "SV072",
+   "pt": "Clobbopus",
+   "en": "Clobbopus"
+  },
+  {
+   "n": "SV073",
+   "pt": "Grapploct",
+   "en": "Grapploct"
+  },
+  {
+   "n": "SV074",
+   "pt": "Falinks",
+   "en": "Falinks"
+  },
+  {
+   "n": "SV075",
+   "pt": "Stonjourner",
+   "en": "Stonjourner"
+  },
+  {
+   "n": "SV076",
+   "pt": "Koffing",
+   "en": "Koffing"
+  },
+  {
+   "n": "SV077",
+   "pt": "Weezing de Galar",
+   "en": "Galarian Weezing"
+  },
+  {
+   "n": "SV078",
+   "pt": "Zigzagoon de Galar",
+   "en": "Galarian Zigzagoon"
+  },
+  {
+   "n": "SV079",
+   "pt": "Linoone de Galar",
+   "en": "Galarian Linoone"
+  },
+  {
+   "n": "SV080",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "SV081",
+   "pt": "Nickit",
+   "en": "Nickit"
+  },
+  {
+   "n": "SV082",
+   "pt": "Thievul",
+   "en": "Thievul"
+  },
+  {
+   "n": "SV083",
+   "pt": "Impidimp",
+   "en": "Impidimp"
+  },
+  {
+   "n": "SV084",
+   "pt": "Morgrem",
+   "en": "Morgrem"
+  },
+  {
+   "n": "SV085",
+   "pt": "Grimmsnarl",
+   "en": "Grimmsnarl"
+  },
+  {
+   "n": "SV086",
+   "pt": "Meowth de Galar",
+   "en": "Galarian Meowth"
+  },
+  {
+   "n": "SV087",
+   "pt": "Perrserker de Galar",
+   "en": "Galarian Perrserker"
+  },
+  {
+   "n": "SV088",
+   "pt": "Stunfisk de Galar",
+   "en": "Galarian Stunfisk"
+  },
+  {
+   "n": "SV089",
+   "pt": "Corviknight",
+   "en": "Corviknight"
+  },
+  {
+   "n": "SV090",
+   "pt": "Cufant",
+   "en": "Cufant"
+  },
+  {
+   "n": "SV091",
+   "pt": "Copperajah",
+   "en": "Copperajah"
+  },
+  {
+   "n": "SV092",
+   "pt": "Duraludon",
+   "en": "Duraludon"
+  },
+  {
+   "n": "SV093",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "SV094",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "SV095",
+   "pt": "Ducklett",
+   "en": "Ducklett"
+  },
+  {
+   "n": "SV096",
+   "pt": "Swanna",
+   "en": "Swanna"
+  },
+  {
+   "n": "SV097",
+   "pt": "Bunnelby",
+   "en": "Bunnelby"
+  },
+  {
+   "n": "SV098",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "SV099",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "SV100",
+   "pt": "Greedent",
+   "en": "Greedent"
+  },
+  {
+   "n": "SV101",
+   "pt": "Rookidee",
+   "en": "Rookidee"
+  },
+  {
+   "n": "SV102",
+   "pt": "Corvisquire",
+   "en": "Corvisquire"
+  },
+  {
+   "n": "SV103",
+   "pt": "Wooloo",
+   "en": "Wooloo"
+  },
+  {
+   "n": "SV104",
+   "pt": "Dubwool",
+   "en": "Dubwool"
+  },
+  {
+   "n": "SV105",
+   "pt": "Rillaboom V",
+   "en": "Rillaboom V"
+  },
+  {
+   "n": "SV106",
+   "pt": "Rillaboom VMAX",
+   "en": "Rillaboom VMAX"
+  },
+  {
+   "n": "SV107",
+   "pt": "Charizard VMAX",
+   "en": "Charizard VMAX"
+  },
+  {
+   "n": "SV108",
+   "pt": "Centiskorch V",
+   "en": "Centiskorch V"
+  },
+  {
+   "n": "SV109",
+   "pt": "Centiskorch VMAX",
+   "en": "Centiskorch VMAX"
+  },
+  {
+   "n": "SV110",
+   "pt": "Lapras V",
+   "en": "Lapras V"
+  },
+  {
+   "n": "SV111",
+   "pt": "Lapras VMAX",
+   "en": "Lapras VMAX"
+  },
+  {
+   "n": "SV112",
+   "pt": "Toxtricity V",
+   "en": "Toxtricity V"
+  },
+  {
+   "n": "SV113",
+   "pt": "Toxtricity VMAX",
+   "en": "Toxtricity VMAX"
+  },
+  {
+   "n": "SV114",
+   "pt": "Indeedee V",
+   "en": "Indeedee V"
+  },
+  {
+   "n": "SV115",
+   "pt": "Falinks V",
+   "en": "Falinks V"
+  },
+  {
+   "n": "SV116",
+   "pt": "Grimmsnarl V",
+   "en": "Grimmsnarl V"
+  },
+  {
+   "n": "SV117",
+   "pt": "Grimmsnarl VMAX",
+   "en": "Grimmsnarl VMAX"
+  },
+  {
+   "n": "SV118",
+   "pt": "Ditto V",
+   "en": "Ditto V"
+  },
+  {
+   "n": "SV119",
+   "pt": "Ditto VMAX",
+   "en": "Ditto VMAX"
+  },
+  {
+   "n": "SV120",
+   "pt": "Dubwool V",
+   "en": "Dubwool V"
+  },
+  {
+   "n": "SV121",
+   "pt": "Eternatus V",
+   "en": "Eternatus V"
+  },
+  {
+   "n": "SV122",
+   "pt": "Eternatus VMAX",
+   "en": "Eternatus VMAX"
+  }
+ ]
+}

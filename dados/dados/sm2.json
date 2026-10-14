@@ -1,0 +1,854 @@
+{
+ "set": "sm2",
+ "nome_pt": "Guardiões Ascendentes",
+ "nome_en": "Guardians Rising",
+ "total": 169,
+ "oficial": 145,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Bellsprout",
+   "en": "Bellsprout"
+  },
+  {
+   "n": "2",
+   "pt": "Weepinbell",
+   "en": "Weepinbell"
+  },
+  {
+   "n": "3",
+   "pt": "Victreebel",
+   "en": "Victreebel"
+  },
+  {
+   "n": "4",
+   "pt": "Petilil",
+   "en": "Petilil"
+  },
+  {
+   "n": "5",
+   "pt": "Lilligant",
+   "en": "Lilligant"
+  },
+  {
+   "n": "6",
+   "pt": "Phantump",
+   "en": "Phantump"
+  },
+  {
+   "n": "7",
+   "pt": "Trevenant",
+   "en": "Trevenant"
+  },
+  {
+   "n": "8",
+   "pt": "Wimpod",
+   "en": "Wimpod"
+  },
+  {
+   "n": "9",
+   "pt": "Golisopod",
+   "en": "Golisopod"
+  },
+  {
+   "n": "10",
+   "pt": "Victini",
+   "en": "Victini"
+  },
+  {
+   "n": "11",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "12",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "13",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "14",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "15",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "16",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "17",
+   "pt": "Turtonator",
+   "en": "Turtonator"
+  },
+  {
+   "n": "18",
+   "pt": "Turtonator GX",
+   "en": "Turtonator GX"
+  },
+  {
+   "n": "19",
+   "pt": "Sandshrew de Alola",
+   "en": "Alolan Sandshrew"
+  },
+  {
+   "n": "20",
+   "pt": "Sandslash de Alola",
+   "en": "Alolan Sandslash"
+  },
+  {
+   "n": "21",
+   "pt": "Vulpix de Alola",
+   "en": "Alolan Vulpix"
+  },
+  {
+   "n": "22",
+   "pt": "Ninetales de Alola GX",
+   "en": "Alolan Ninetales GX"
+  },
+  {
+   "n": "23",
+   "pt": "Tentacool",
+   "en": "Tentacool"
+  },
+  {
+   "n": "24",
+   "pt": "Tentacruel",
+   "en": "Tentacruel"
+  },
+  {
+   "n": "25",
+   "pt": "Politoed",
+   "en": "Politoed"
+  },
+  {
+   "n": "26",
+   "pt": "Delibird",
+   "en": "Delibird"
+  },
+  {
+   "n": "27",
+   "pt": "Carvanha",
+   "en": "Carvanha"
+  },
+  {
+   "n": "28",
+   "pt": "Sharpedo",
+   "en": "Sharpedo"
+  },
+  {
+   "n": "29",
+   "pt": "Wailmer",
+   "en": "Wailmer"
+  },
+  {
+   "n": "30",
+   "pt": "Wailord",
+   "en": "Wailord"
+  },
+  {
+   "n": "31",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "32",
+   "pt": "Glalie",
+   "en": "Glalie"
+  },
+  {
+   "n": "33",
+   "pt": "Vanillite",
+   "en": "Vanillite"
+  },
+  {
+   "n": "34",
+   "pt": "Vanillish",
+   "en": "Vanillish"
+  },
+  {
+   "n": "35",
+   "pt": "Vanilluxe",
+   "en": "Vanilluxe"
+  },
+  {
+   "n": "36",
+   "pt": "Alomomola",
+   "en": "Alomomola"
+  },
+  {
+   "n": "37",
+   "pt": "Wishiwashi",
+   "en": "Wishiwashi"
+  },
+  {
+   "n": "38",
+   "pt": "Wishiwashi GX",
+   "en": "Wishiwashi GX"
+  },
+  {
+   "n": "39",
+   "pt": "Mareanie",
+   "en": "Mareanie"
+  },
+  {
+   "n": "40",
+   "pt": "Geodude de Alola",
+   "en": "Alolan Geodude"
+  },
+  {
+   "n": "41",
+   "pt": "Graveler de Alola",
+   "en": "Alolan Graveler"
+  },
+  {
+   "n": "42",
+   "pt": "Golem de Alola",
+   "en": "Alolan Golem"
+  },
+  {
+   "n": "43",
+   "pt": "Helioptile",
+   "en": "Helioptile"
+  },
+  {
+   "n": "44",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "45",
+   "pt": "Vikavolt GX",
+   "en": "Vikavolt GX"
+  },
+  {
+   "n": "46",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "47",
+   "pt": "Tapu Koko GX",
+   "en": "Tapu Koko GX"
+  },
+  {
+   "n": "48",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "49",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "50",
+   "pt": "Trubbish",
+   "en": "Trubbish"
+  },
+  {
+   "n": "51",
+   "pt": "Garbodor",
+   "en": "Garbodor"
+  },
+  {
+   "n": "52",
+   "pt": "Gothita",
+   "en": "Gothita"
+  },
+  {
+   "n": "53",
+   "pt": "Gothorita",
+   "en": "Gothorita"
+  },
+  {
+   "n": "54",
+   "pt": "Gothitelle",
+   "en": "Gothitelle"
+  },
+  {
+   "n": "55",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "56",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "57",
+   "pt": "Toxapex GX",
+   "en": "Toxapex GX"
+  },
+  {
+   "n": "58",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "59",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "60",
+   "pt": "Tapu Lele GX",
+   "en": "Tapu Lele GX"
+  },
+  {
+   "n": "61",
+   "pt": "Lunala",
+   "en": "Lunala"
+  },
+  {
+   "n": "62",
+   "pt": "Machop",
+   "en": "Machop"
+  },
+  {
+   "n": "63",
+   "pt": "Machop",
+   "en": "Machop"
+  },
+  {
+   "n": "64",
+   "pt": "Machoke",
+   "en": "Machoke"
+  },
+  {
+   "n": "65",
+   "pt": "Machamp",
+   "en": "Machamp"
+  },
+  {
+   "n": "66",
+   "pt": "Sudowoodo",
+   "en": "Sudowoodo"
+  },
+  {
+   "n": "67",
+   "pt": "Gligar",
+   "en": "Gligar"
+  },
+  {
+   "n": "68",
+   "pt": "Gliscor",
+   "en": "Gliscor"
+  },
+  {
+   "n": "69",
+   "pt": "Nosepass",
+   "en": "Nosepass"
+  },
+  {
+   "n": "70",
+   "pt": "Barboach",
+   "en": "Barboach"
+  },
+  {
+   "n": "71",
+   "pt": "Whiscash",
+   "en": "Whiscash"
+  },
+  {
+   "n": "72",
+   "pt": "Pancham",
+   "en": "Pancham"
+  },
+  {
+   "n": "73",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "74",
+   "pt": "Lycanroc GX",
+   "en": "Lycanroc GX"
+  },
+  {
+   "n": "75",
+   "pt": "Mudbray",
+   "en": "Mudbray"
+  },
+  {
+   "n": "76",
+   "pt": "Mudsdale",
+   "en": "Mudsdale"
+  },
+  {
+   "n": "77",
+   "pt": "Minior",
+   "en": "Minior"
+  },
+  {
+   "n": "78",
+   "pt": "Murkrow",
+   "en": "Murkrow"
+  },
+  {
+   "n": "79",
+   "pt": "Honchkrow",
+   "en": "Honchkrow"
+  },
+  {
+   "n": "80",
+   "pt": "Sableye",
+   "en": "Sableye"
+  },
+  {
+   "n": "81",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "82",
+   "pt": "Pangoro",
+   "en": "Pangoro"
+  },
+  {
+   "n": "83",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "84",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "85",
+   "pt": "Metagross GX",
+   "en": "Metagross GX"
+  },
+  {
+   "n": "86",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "87",
+   "pt": "Solgaleo",
+   "en": "Solgaleo"
+  },
+  {
+   "n": "88",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "89",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "90",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "91",
+   "pt": "Whimsicott",
+   "en": "Whimsicott"
+  },
+  {
+   "n": "92",
+   "pt": "Sylveon GX",
+   "en": "Sylveon GX"
+  },
+  {
+   "n": "93",
+   "pt": "Comfey",
+   "en": "Comfey"
+  },
+  {
+   "n": "94",
+   "pt": "Goomy",
+   "en": "Goomy"
+  },
+  {
+   "n": "95",
+   "pt": "Sliggoo",
+   "en": "Sliggoo"
+  },
+  {
+   "n": "96",
+   "pt": "Goodra",
+   "en": "Goodra"
+  },
+  {
+   "n": "97",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "98",
+   "pt": "Jangmo-o",
+   "en": "Jangmo-o"
+  },
+  {
+   "n": "99",
+   "pt": "Hakamo-o",
+   "en": "Hakamo-o"
+  },
+  {
+   "n": "100",
+   "pt": "Kommo-o GX",
+   "en": "Kommo-o GX"
+  },
+  {
+   "n": "101",
+   "pt": "Chansey",
+   "en": "Chansey"
+  },
+  {
+   "n": "102",
+   "pt": "Blissey",
+   "en": "Blissey"
+  },
+  {
+   "n": "103",
+   "pt": "Taillow",
+   "en": "Taillow"
+  },
+  {
+   "n": "104",
+   "pt": "Swellow",
+   "en": "Swellow"
+  },
+  {
+   "n": "105",
+   "pt": "Castform",
+   "en": "Castform"
+  },
+  {
+   "n": "106",
+   "pt": "Rayquaza",
+   "en": "Rayquaza"
+  },
+  {
+   "n": "107",
+   "pt": "Patrat",
+   "en": "Patrat"
+  },
+  {
+   "n": "108",
+   "pt": "Watchog",
+   "en": "Watchog"
+  },
+  {
+   "n": "109",
+   "pt": "Fletchling",
+   "en": "Fletchling"
+  },
+  {
+   "n": "110",
+   "pt": "Fletchinder",
+   "en": "Fletchinder"
+  },
+  {
+   "n": "111",
+   "pt": "Talonflame",
+   "en": "Talonflame"
+  },
+  {
+   "n": "112",
+   "pt": "Stufful",
+   "en": "Stufful"
+  },
+  {
+   "n": "113",
+   "pt": "Bewear",
+   "en": "Bewear"
+  },
+  {
+   "n": "114",
+   "pt": "Komala",
+   "en": "Komala"
+  },
+  {
+   "n": "115",
+   "pt": "Drampa GX",
+   "en": "Drampa GX"
+  },
+  {
+   "n": "116",
+   "pt": "Reserva Paraíso Aether",
+   "en": "Aether Paradise Conservation Area"
+  },
+  {
+   "n": "117",
+   "pt": "Altar Lunar",
+   "en": "Altar of the Moone"
+  },
+  {
+   "n": "118",
+   "pt": "Altar Solar",
+   "en": "Altar of the Sunne"
+  },
+  {
+   "n": "119",
+   "pt": "Fragmento Aquático",
+   "en": "Aqua Patch"
+  },
+  {
+   "n": "120",
+   "pt": "Ladeira Brooklet",
+   "en": "Brooklet Hill"
+  },
+  {
+   "n": "121",
+   "pt": "Faixa da Escolha",
+   "en": "Choice Band"
+  },
+  {
+   "n": "122",
+   "pt": "Loto Energia",
+   "en": "Energy Loto"
+  },
+  {
+   "n": "123",
+   "pt": "Reciclador de Energia",
+   "en": "Energy Recycler"
+  },
+  {
+   "n": "124",
+   "pt": "Martelo Avançado",
+   "en": "Enhanced Hammer"
+  },
+  {
+   "n": "125",
+   "pt": "Ventilador de Campo",
+   "en": "Field Blower"
+  },
+  {
+   "n": "126",
+   "pt": "Pandam",
+   "en": "Hala"
+  },
+  {
+   "n": "127",
+   "pt": "Lulú",
+   "en": "Mallow"
+  },
+  {
+   "n": "128",
+   "pt": "Poção Máxima",
+   "en": "Max Potion"
+  },
+  {
+   "n": "129",
+   "pt": "Multissubstituição",
+   "en": "Multi Switch"
+  },
+  {
+   "n": "130",
+   "pt": "Maca de Resgate",
+   "en": "Rescue Stretcher"
+  },
+  {
+   "n": "131",
+   "pt": "Turtonator GX",
+   "en": "Turtonator GX"
+  },
+  {
+   "n": "132",
+   "pt": "Ninetales de Alola GX",
+   "en": "Alolan Ninetales GX"
+  },
+  {
+   "n": "133",
+   "pt": "Wishiwashi GX",
+   "en": "Wishiwashi GX"
+  },
+  {
+   "n": "134",
+   "pt": "Vikavolt GX",
+   "en": "Vikavolt GX"
+  },
+  {
+   "n": "135",
+   "pt": "Tapu Koko GX",
+   "en": "Tapu Koko GX"
+  },
+  {
+   "n": "136",
+   "pt": "Toxapex GX",
+   "en": "Toxapex GX"
+  },
+  {
+   "n": "137",
+   "pt": "Tapu Lele GX",
+   "en": "Tapu Lele GX"
+  },
+  {
+   "n": "138",
+   "pt": "Lycanroc GX",
+   "en": "Lycanroc GX"
+  },
+  {
+   "n": "139",
+   "pt": "Metagross GX",
+   "en": "Metagross GX"
+  },
+  {
+   "n": "140",
+   "pt": "Sylveon GX",
+   "en": "Sylveon GX"
+  },
+  {
+   "n": "141",
+   "pt": "Kommo-o GX",
+   "en": "Kommo-o GX"
+  },
+  {
+   "n": "142",
+   "pt": "Drampa GX",
+   "en": "Drampa GX"
+  },
+  {
+   "n": "143",
+   "pt": "Pandam",
+   "en": "Hala"
+  },
+  {
+   "n": "144",
+   "pt": "Hibi",
+   "en": "Hau"
+  },
+  {
+   "n": "145",
+   "pt": "Lulú",
+   "en": "Mallow"
+  },
+  {
+   "n": "146",
+   "pt": "Decidueye GX",
+   "en": "Decidueye GX"
+  },
+  {
+   "n": "147",
+   "pt": "Incineroar GX",
+   "en": "Incineroar GX"
+  },
+  {
+   "n": "148",
+   "pt": "Turtonator GX",
+   "en": "Turtonator GX"
+  },
+  {
+   "n": "149",
+   "pt": "Primarina GX",
+   "en": "Primarina GX"
+  },
+  {
+   "n": "150",
+   "pt": "Ninetales de Alola GX",
+   "en": "Alolan Ninetales GX"
+  },
+  {
+   "n": "151",
+   "pt": "Wishiwashi GX",
+   "en": "Wishiwashi GX"
+  },
+  {
+   "n": "152",
+   "pt": "Vikavolt GX",
+   "en": "Vikavolt GX"
+  },
+  {
+   "n": "153",
+   "pt": "Tapu Koko GX",
+   "en": "Tapu Koko GX"
+  },
+  {
+   "n": "154",
+   "pt": "Toxapex GX",
+   "en": "Toxapex GX"
+  },
+  {
+   "n": "155",
+   "pt": "Tapu Lele GX",
+   "en": "Tapu Lele GX"
+  },
+  {
+   "n": "156",
+   "pt": "Lycanroc GX",
+   "en": "Lycanroc GX"
+  },
+  {
+   "n": "157",
+   "pt": "Metagross GX",
+   "en": "Metagross GX"
+  },
+  {
+   "n": "158",
+   "pt": "Sylveon GX",
+   "en": "Sylveon GX"
+  },
+  {
+   "n": "159",
+   "pt": "Kommo-o GX",
+   "en": "Kommo-o GX"
+  },
+  {
+   "n": "160",
+   "pt": "Drampa GX",
+   "en": "Drampa GX"
+  },
+  {
+   "n": "161",
+   "pt": "Fragmento Aquático",
+   "en": "Aqua Patch"
+  },
+  {
+   "n": "162",
+   "pt": "Martelo Avançado",
+   "en": "Enhanced Hammer"
+  },
+  {
+   "n": "163",
+   "pt": "Ventilador de Campo",
+   "en": "Field Blower"
+  },
+  {
+   "n": "164",
+   "pt": "Poção Máxima",
+   "en": "Max Potion"
+  },
+  {
+   "n": "165",
+   "pt": "Doce Raro",
+   "en": "Rare Candy"
+  },
+  {
+   "n": "166",
+   "pt": "Energia Incolor Dupla",
+   "en": "Double Colorless Energy"
+  },
+  {
+   "n": "167",
+   "pt": "Energia de Planta",
+   "en": "Grass Energy"
+  },
+  {
+   "n": "168",
+   "pt": "Energia de Raios",
+   "en": "Lightning Energy"
+  },
+  {
+   "n": "169",
+   "pt": "Energia de Luta",
+   "en": "Fighting Energy"
+  }
+ ]
+}

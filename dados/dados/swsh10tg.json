@@ -1,0 +1,159 @@
+{
+ "set": "swsh10tg",
+ "nome_pt": "Estrelas Radiantes Galeria de Treinador",
+ "nome_en": "Astral Radiance Trainer Gallery",
+ "total": 30,
+ "oficial": 30,
+ "cartas": [
+  {
+   "n": "TG01",
+   "pt": "Abomasnow",
+   "en": "Abomasnow"
+  },
+  {
+   "n": "TG02",
+   "pt": "Flapple",
+   "en": "Flapple"
+  },
+  {
+   "n": "TG03",
+   "pt": "Kingdra",
+   "en": "Kingdra"
+  },
+  {
+   "n": "TG04",
+   "pt": "Frosmoth",
+   "en": "Frosmoth"
+  },
+  {
+   "n": "TG05",
+   "pt": "Gardevoir",
+   "en": "Gardevoir"
+  },
+  {
+   "n": "TG06",
+   "pt": "Wyrdeer",
+   "en": "Wyrdeer"
+  },
+  {
+   "n": "TG07",
+   "pt": "Falinks",
+   "en": "Falinks"
+  },
+  {
+   "n": "TG08",
+   "pt": "Kleavor",
+   "en": "Kleavor"
+  },
+  {
+   "n": "TG09",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "TG10",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "TG11",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "TG12",
+   "pt": "Hoothoot",
+   "en": "Hoothoot"
+  },
+  {
+   "n": "TG13",
+   "pt": "Starmie V",
+   "en": "Starmie V"
+  },
+  {
+   "n": "TG14",
+   "pt": "Calyrex Cavaleiro Glacial V",
+   "en": "Ice Rider Calyrex V"
+  },
+  {
+   "n": "TG15",
+   "pt": "Calyrex Cavaleiro Glacial VMAX",
+   "en": "Ice Rider Calyrex VMAX"
+  },
+  {
+   "n": "TG16",
+   "pt": "Articuno de Galar V",
+   "en": "Galarian Articuno V"
+  },
+  {
+   "n": "TG17",
+   "pt": "Calyrex Cavaleiro Espectral V",
+   "en": "Shadow Rider Calyrex V"
+  },
+  {
+   "n": "TG18",
+   "pt": "Calyrex Cavaleiro Espectral VMAX",
+   "en": "Shadow Rider Calyrex VMAX"
+  },
+  {
+   "n": "TG19",
+   "pt": "Zapdos de Galar V",
+   "en": "Galarian Zapdos V"
+  },
+  {
+   "n": "TG20",
+   "pt": "Moltres de Galar V",
+   "en": "Galarian Moltres V"
+  },
+  {
+   "n": "TG21",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "TG22",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "TG23",
+   "pt": "Garchomp V",
+   "en": "Garchomp V"
+  },
+  {
+   "n": "TG24",
+   "pt": "Allister",
+   "en": "Allister"
+  },
+  {
+   "n": "TG25",
+   "pt": "Bia",
+   "en": "Bea"
+  },
+  {
+   "n": "TG26",
+   "pt": "Melony",
+   "en": "Melony"
+  },
+  {
+   "n": "TG27",
+   "pt": "Milo",
+   "en": "Milo"
+  },
+  {
+   "n": "TG28",
+   "pt": "Pietro",
+   "en": "Piers"
+  },
+  {
+   "n": "TG29",
+   "pt": "Calyrex Cavaleiro Glacial VMAX",
+   "en": "Ice Rider Calyrex VMAX"
+  },
+  {
+   "n": "TG30",
+   "pt": "Calyrex Cavaleiro Espectral VMAX",
+   "en": "Shadow Rider Calyrex VMAX"
+  }
+ ]
+}

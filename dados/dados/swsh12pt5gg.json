@@ -1,0 +1,359 @@
+{
+ "set": "swsh12pt5gg",
+ "nome_pt": "Realeza Absoluta Galeria de Galar",
+ "nome_en": "Crown Zenith Galarian Gallery",
+ "total": 70,
+ "oficial": 70,
+ "cartas": [
+  {
+   "n": "GG01",
+   "pt": "Voltorb de Hisui",
+   "en": "Hisuian Voltorb"
+  },
+  {
+   "n": "GG02",
+   "pt": "Kricketune",
+   "en": "Kricketune"
+  },
+  {
+   "n": "GG03",
+   "pt": "Magmortar",
+   "en": "Magmortar"
+  },
+  {
+   "n": "GG04",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "GG05",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "GG06",
+   "pt": "Manaphy",
+   "en": "Manaphy"
+  },
+  {
+   "n": "GG07",
+   "pt": "Keldeo",
+   "en": "Keldeo"
+  },
+  {
+   "n": "GG08",
+   "pt": "Electivire",
+   "en": "Electivire"
+  },
+  {
+   "n": "GG09",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "GG10",
+   "pt": "Mew",
+   "en": "Mew"
+  },
+  {
+   "n": "GG11",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "GG12",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "GG13",
+   "pt": "Diancie",
+   "en": "Diancie"
+  },
+  {
+   "n": "GG14",
+   "pt": "Comfey",
+   "en": "Comfey"
+  },
+  {
+   "n": "GG15",
+   "pt": "Solrock",
+   "en": "Solrock"
+  },
+  {
+   "n": "GG16",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "GG17",
+   "pt": "Thievul",
+   "en": "Thievul"
+  },
+  {
+   "n": "GG18",
+   "pt": "Magnezone",
+   "en": "Magnezone"
+  },
+  {
+   "n": "GG19",
+   "pt": "Altaria",
+   "en": "Altaria"
+  },
+  {
+   "n": "GG20",
+   "pt": "Latias",
+   "en": "Latias"
+  },
+  {
+   "n": "GG21",
+   "pt": "Goodra de Hisui",
+   "en": "Hisuian Goodra"
+  },
+  {
+   "n": "GG22",
+   "pt": "Ditto",
+   "en": "Ditto"
+  },
+  {
+   "n": "GG23",
+   "pt": "Dunsparce",
+   "en": "Dunsparce"
+  },
+  {
+   "n": "GG24",
+   "pt": "Miltank",
+   "en": "Miltank"
+  },
+  {
+   "n": "GG25",
+   "pt": "Bibarel",
+   "en": "Bibarel"
+  },
+  {
+   "n": "GG26",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "GG27",
+   "pt": "Swablu",
+   "en": "Swablu"
+  },
+  {
+   "n": "GG28",
+   "pt": "Duskull",
+   "en": "Duskull"
+  },
+  {
+   "n": "GG29",
+   "pt": "Bidoof",
+   "en": "Bidoof"
+  },
+  {
+   "n": "GG30",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "GG31",
+   "pt": "Turtwig",
+   "en": "Turtwig"
+  },
+  {
+   "n": "GG32",
+   "pt": "Paras",
+   "en": "Paras"
+  },
+  {
+   "n": "GG33",
+   "pt": "Poochyena",
+   "en": "Poochyena"
+  },
+  {
+   "n": "GG34",
+   "pt": "Mareep",
+   "en": "Mareep"
+  },
+  {
+   "n": "GG35",
+   "pt": "Leafeon V-ASTRO",
+   "en": "Leafeon VSTAR"
+  },
+  {
+   "n": "GG36",
+   "pt": "Entei V",
+   "en": "Entei V"
+  },
+  {
+   "n": "GG37",
+   "pt": "Simisear V-ASTRO",
+   "en": "Simisear VSTAR"
+  },
+  {
+   "n": "GG38",
+   "pt": "Suicune V",
+   "en": "Suicune V"
+  },
+  {
+   "n": "GG39",
+   "pt": "Lumineon V",
+   "en": "Lumineon V"
+  },
+  {
+   "n": "GG40",
+   "pt": "Glaceon V-ASTRO",
+   "en": "Glaceon VSTAR"
+  },
+  {
+   "n": "GG41",
+   "pt": "Raikou V",
+   "en": "Raikou V"
+  },
+  {
+   "n": "GG42",
+   "pt": "Zeraora VMAX",
+   "en": "Zeraora VMAX"
+  },
+  {
+   "n": "GG43",
+   "pt": "Zeraora V-ASTRO",
+   "en": "Zeraora VSTAR"
+  },
+  {
+   "n": "GG44",
+   "pt": "Mewtwo V-ASTRO",
+   "en": "Mewtwo VSTAR"
+  },
+  {
+   "n": "GG45",
+   "pt": "Deoxys VMAX",
+   "en": "Deoxys VMAX"
+  },
+  {
+   "n": "GG46",
+   "pt": "Deoxys V-ASTRO",
+   "en": "Deoxys VSTAR"
+  },
+  {
+   "n": "GG47",
+   "pt": "Hatterene VMAX",
+   "en": "Hatterene VMAX"
+  },
+  {
+   "n": "GG48",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "GG49",
+   "pt": "Drapion V",
+   "en": "Drapion V"
+  },
+  {
+   "n": "GG50",
+   "pt": "Darkrai V-ASTRO",
+   "en": "Darkrai VSTAR"
+  },
+  {
+   "n": "GG51",
+   "pt": "Samurott de Hisui V",
+   "en": "Hisuian Samurott V"
+  },
+  {
+   "n": "GG52",
+   "pt": "Samurott de Hisui V-ASTRO",
+   "en": "Hisuian Samurott VSTAR"
+  },
+  {
+   "n": "GG53",
+   "pt": "Hoopa V",
+   "en": "Hoopa V"
+  },
+  {
+   "n": "GG54",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "GG55",
+   "pt": "Regigigas V-ASTRO",
+   "en": "Regigigas VSTAR"
+  },
+  {
+   "n": "GG56",
+   "pt": "Zoroark de Hisui V-ASTRO",
+   "en": "Hisuian Zoroark VSTAR"
+  },
+  {
+   "n": "GG57",
+   "pt": "Ádamo",
+   "en": "Adaman"
+  },
+  {
+   "n": "GG58",
+   "pt": "Cuidado do Cheren",
+   "en": "Cheren's Care"
+  },
+  {
+   "n": "GG59",
+   "pt": "Experimento do Colress",
+   "en": "Colress's Experiment"
+  },
+  {
+   "n": "GG60",
+   "pt": "Ambição da Cíntia",
+   "en": "Cynthia's Ambition"
+  },
+  {
+   "n": "GG61",
+   "pt": "Vigor da Gardênia",
+   "en": "Gardenia's Vigor"
+  },
+  {
+   "n": "GG62",
+   "pt": "Grant",
+   "en": "Grant"
+  },
+  {
+   "n": "GG63",
+   "pt": "Irida",
+   "en": "Irida"
+  },
+  {
+   "n": "GG64",
+   "pt": "Melony",
+   "en": "Melony"
+  },
+  {
+   "n": "GG65",
+   "pt": "Roy",
+   "en": "Raihan"
+  },
+  {
+   "n": "GG66",
+   "pt": "Roxanne",
+   "en": "Roxanne"
+  },
+  {
+   "n": "GG67",
+   "pt": "Palkia Forma Origem V-ASTRO",
+   "en": "Origin Forme Palkia VSTAR"
+  },
+  {
+   "n": "GG68",
+   "pt": "Dialga Forma Origem V-ASTRO",
+   "en": "Origin Forme Dialga VSTAR"
+  },
+  {
+   "n": "GG69",
+   "pt": "Giratina V-ASTRO",
+   "en": "Giratina VSTAR"
+  },
+  {
+   "n": "GG70",
+   "pt": "Arceus V-ASTRO",
+   "en": "Arceus VSTAR"
+  }
+ ]
+}

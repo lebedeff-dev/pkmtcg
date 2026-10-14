@@ -1,0 +1,159 @@
+{
+ "set": "30th-c",
+ "nome_pt": "Coleção Clássica de 30 Anos",
+ "nome_en": "30th Classic Collection",
+ "total": 30,
+ "oficial": null,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "002",
+   "pt": "Delcatty",
+   "en": "Delcatty"
+  },
+  {
+   "n": "003",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "004",
+   "pt": "Genesect EX",
+   "en": "Genesect EX"
+  },
+  {
+   "n": "005",
+   "pt": "Misty",
+   "en": "Misty"
+  },
+  {
+   "n": "006",
+   "pt": "Tyranitar Sombrio",
+   "en": "Dark Tyranitar"
+  },
+  {
+   "n": "007",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "008",
+   "pt": "Pikachu e Zekrom GX",
+   "en": "Pikachu & Zekrom GX"
+  },
+  {
+   "n": "009",
+   "pt": "Greninja TURBO",
+   "en": "Greninja BREAK"
+  },
+  {
+   "n": "010",
+   "pt": "Uxie",
+   "en": "Uxie"
+  },
+  {
+   "n": "011",
+   "pt": "Crobat G",
+   "en": "Crobat G"
+  },
+  {
+   "n": "012",
+   "pt": "Raikou",
+   "en": "Raikou"
+  },
+  {
+   "n": "013",
+   "pt": "Buzzwole GX",
+   "en": "Buzzwole GX"
+  },
+  {
+   "n": "014",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "015",
+   "pt": "Jigglypuff da Érica",
+   "en": "Erika's Jigglypuff"
+  },
+  {
+   "n": "016",
+   "pt": "Rayquaza EX",
+   "en": "Rayquaza EX"
+  },
+  {
+   "n": "017",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  },
+  {
+   "n": "018",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "019",
+   "pt": "Darkrai & Cresselia LENDA",
+   "en": "Darkrai & Cresselia LEGEND"
+  },
+  {
+   "n": "020",
+   "pt": "Darkrai & Cresselia LENDA",
+   "en": "Darkrai & Cresselia LEGEND"
+  },
+  {
+   "n": "021",
+   "pt": "N",
+   "en": "N"
+  },
+  {
+   "n": "022",
+   "pt": "Palkia",
+   "en": "Palkia"
+  },
+  {
+   "n": "023",
+   "pt": "M Gardevoir EX",
+   "en": "M Gardevoir EX"
+  },
+  {
+   "n": "024",
+   "pt": "Celebi Luminescente",
+   "en": "Shining Celebi"
+  },
+  {
+   "n": "025",
+   "pt": "Scizor ex",
+   "en": "Scizor ex"
+  },
+  {
+   "n": "026",
+   "pt": "Mew VMAX",
+   "en": "Mew VMAX"
+  },
+  {
+   "n": "027",
+   "pt": "Arceus V-ASTRO",
+   "en": "Arceus VSTAR"
+  },
+  {
+   "n": "028",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "029",
+   "pt": "Lugia",
+   "en": "Lugia"
+  },
+  {
+   "n": "030",
+   "pt": "Magikarp",
+   "en": "Magikarp"
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "set": "sm4",
+ "nome_pt": "Invasão Carmim",
+ "nome_en": "Crimson Invasion",
+ "total": 125,
+ "oficial": 111,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Weedle",
+   "en": "Weedle"
+  },
+  {
+   "n": "2",
+   "pt": "Kakuna",
+   "en": "Kakuna"
+  },
+  {
+   "n": "3",
+   "pt": "Beedrill",
+   "en": "Beedrill"
+  },
+  {
+   "n": "4",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "5",
+   "pt": "Cacnea",
+   "en": "Cacnea"
+  },
+  {
+   "n": "6",
+   "pt": "Cacturne",
+   "en": "Cacturne"
+  },
+  {
+   "n": "7",
+   "pt": "Karrablast",
+   "en": "Karrablast"
+  },
+  {
+   "n": "8",
+   "pt": "Shelmet",
+   "en": "Shelmet"
+  },
+  {
+   "n": "9",
+   "pt": "Accelgor",
+   "en": "Accelgor"
+  },
+  {
+   "n": "10",
+   "pt": "Skiddo",
+   "en": "Skiddo"
+  },
+  {
+   "n": "11",
+   "pt": "Gogoat",
+   "en": "Gogoat"
+  },
+  {
+   "n": "12",
+   "pt": "Marowak de Alola",
+   "en": "Alolan Marowak"
+  },
+  {
+   "n": "13",
+   "pt": "Numel",
+   "en": "Numel"
+  },
+  {
+   "n": "14",
+   "pt": "Camerupt",
+   "en": "Camerupt"
+  },
+  {
+   "n": "15",
+   "pt": "Staryu",
+   "en": "Staryu"
+  },
+  {
+   "n": "16",
+   "pt": "Starmie",
+   "en": "Starmie"
+  },
+  {
+   "n": "17",
+   "pt": "Magikarp",
+   "en": "Magikarp"
+  },
+  {
+   "n": "18",
+   "pt": "Gyarados GX",
+   "en": "Gyarados GX"
+  },
+  {
+   "n": "19",
+   "pt": "Swinub",
+   "en": "Swinub"
+  },
+  {
+   "n": "20",
+   "pt": "Piloswine",
+   "en": "Piloswine"
+  },
+  {
+   "n": "21",
+   "pt": "Mamoswine",
+   "en": "Mamoswine"
+  },
+  {
+   "n": "22",
+   "pt": "Remoraid",
+   "en": "Remoraid"
+  },
+  {
+   "n": "23",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "24",
+   "pt": "Corphish",
+   "en": "Corphish"
+  },
+  {
+   "n": "25",
+   "pt": "Crawdaunt",
+   "en": "Crawdaunt"
+  },
+  {
+   "n": "26",
+   "pt": "Feebas",
+   "en": "Feebas"
+  },
+  {
+   "n": "27",
+   "pt": "Milotic",
+   "en": "Milotic"
+  },
+  {
+   "n": "28",
+   "pt": "Regice",
+   "en": "Regice"
+  },
+  {
+   "n": "29",
+   "pt": "Shellos",
+   "en": "Shellos"
+  },
+  {
+   "n": "30",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "31",
+   "pt": "Raichu de Alola",
+   "en": "Alolan Raichu"
+  },
+  {
+   "n": "32",
+   "pt": "Geodude de Alola",
+   "en": "Alolan Geodude"
+  },
+  {
+   "n": "33",
+   "pt": "Graveler de Alola",
+   "en": "Alolan Graveler"
+  },
+  {
+   "n": "34",
+   "pt": "Golem de Alola GX",
+   "en": "Alolan Golem GX"
+  },
+  {
+   "n": "35",
+   "pt": "Emolga",
+   "en": "Emolga"
+  },
+  {
+   "n": "36",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "37",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "38",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "39",
+   "pt": "Misdreavus",
+   "en": "Misdreavus"
+  },
+  {
+   "n": "40",
+   "pt": "Mismagius",
+   "en": "Mismagius"
+  },
+  {
+   "n": "41",
+   "pt": "Spoink",
+   "en": "Spoink"
+  },
+  {
+   "n": "42",
+   "pt": "Grumpig",
+   "en": "Grumpig"
+  },
+  {
+   "n": "43",
+   "pt": "Chimecho",
+   "en": "Chimecho"
+  },
+  {
+   "n": "44",
+   "pt": "Pumpkaboo",
+   "en": "Pumpkaboo"
+  },
+  {
+   "n": "45",
+   "pt": "Gourgeist",
+   "en": "Gourgeist"
+  },
+  {
+   "n": "46",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "47",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "48",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "49",
+   "pt": "Nihilego GX",
+   "en": "Nihilego GX"
+  },
+  {
+   "n": "50",
+   "pt": "Mankey",
+   "en": "Mankey"
+  },
+  {
+   "n": "51",
+   "pt": "Primeape",
+   "en": "Primeape"
+  },
+  {
+   "n": "52",
+   "pt": "Cubone",
+   "en": "Cubone"
+  },
+  {
+   "n": "53",
+   "pt": "Regirock",
+   "en": "Regirock"
+  },
+  {
+   "n": "54",
+   "pt": "Gastrodon",
+   "en": "Gastrodon"
+  },
+  {
+   "n": "55",
+   "pt": "Stufful",
+   "en": "Stufful"
+  },
+  {
+   "n": "56",
+   "pt": "Bewear",
+   "en": "Bewear"
+  },
+  {
+   "n": "57",
+   "pt": "Buzzwole GX",
+   "en": "Buzzwole GX"
+  },
+  {
+   "n": "58",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "59",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "60",
+   "pt": "Deino",
+   "en": "Deino"
+  },
+  {
+   "n": "61",
+   "pt": "Zweilous",
+   "en": "Zweilous"
+  },
+  {
+   "n": "62",
+   "pt": "Hydreigon",
+   "en": "Hydreigon"
+  },
+  {
+   "n": "63",
+   "pt": "Guzzlord GX",
+   "en": "Guzzlord GX"
+  },
+  {
+   "n": "63a",
+   "pt": null,
+   "en": "Guzzlord-GX"
+  },
+  {
+   "n": "64",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "65",
+   "pt": "Aron",
+   "en": "Aron"
+  },
+  {
+   "n": "66",
+   "pt": "Lairon",
+   "en": "Lairon"
+  },
+  {
+   "n": "67",
+   "pt": "Aggron",
+   "en": "Aggron"
+  },
+  {
+   "n": "68",
+   "pt": "Registeel",
+   "en": "Registeel"
+  },
+  {
+   "n": "69",
+   "pt": "Escavalier",
+   "en": "Escavalier"
+  },
+  {
+   "n": "70",
+   "pt": "Kartana GX",
+   "en": "Kartana GX"
+  },
+  {
+   "n": "71",
+   "pt": "Jigglypuff",
+   "en": "Jigglypuff"
+  },
+  {
+   "n": "72",
+   "pt": "Wigglytuff",
+   "en": "Wigglytuff"
+  },
+  {
+   "n": "73",
+   "pt": "Xerneas",
+   "en": "Xerneas"
+  },
+  {
+   "n": "74",
+   "pt": "Exeggutor de Alola GX",
+   "en": "Alolan Exeggutor GX"
+  },
+  {
+   "n": "75",
+   "pt": "Jangmo-o",
+   "en": "Jangmo-o"
+  },
+  {
+   "n": "76",
+   "pt": "Hakamo-o",
+   "en": "Hakamo-o"
+  },
+  {
+   "n": "77",
+   "pt": "Kommo-o",
+   "en": "Kommo-o"
+  },
+  {
+   "n": "78",
+   "pt": "Miltank",
+   "en": "Miltank"
+  },
+  {
+   "n": "79",
+   "pt": "Swablu",
+   "en": "Swablu"
+  },
+  {
+   "n": "80",
+   "pt": "Altaria",
+   "en": "Altaria"
+  },
+  {
+   "n": "81",
+   "pt": "Starly",
+   "en": "Starly"
+  },
+  {
+   "n": "82",
+   "pt": "Staravia",
+   "en": "Staravia"
+  },
+  {
+   "n": "83",
+   "pt": "Staraptor",
+   "en": "Staraptor"
+  },
+  {
+   "n": "84",
+   "pt": "Regigigas",
+   "en": "Regigigas"
+  },
+  {
+   "n": "85",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "86",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "87",
+   "pt": "Bunnelby",
+   "en": "Bunnelby"
+  },
+  {
+   "n": "88",
+   "pt": "Diggersby",
+   "en": "Diggersby"
+  },
+  {
+   "n": "89",
+   "pt": "Tipo Nulo",
+   "en": "Type: Null"
+  },
+  {
+   "n": "90",
+   "pt": "Silvally GX",
+   "en": "Silvally GX"
+  },
+  {
+   "n": "91",
+   "pt": "Pegador de Contra-ataque",
+   "en": "Counter Catcher"
+  },
+  {
+   "n": "92",
+   "pt": "Pochete Corredora",
+   "en": "Dashing Pouch"
+  },
+  {
+   "n": "93",
+   "pt": "Campo Devorado",
+   "en": "Devoured Field"
+  },
+  {
+   "n": "94",
+   "pt": "Memória de Luta",
+   "en": "Fighting Memory"
+  },
+  {
+   "n": "95",
+   "pt": "Gladio",
+   "en": "Gladion"
+  },
+  {
+   "n": "96",
+   "pt": "Samina",
+   "en": "Lusamine"
+  },
+  {
+   "n": "97",
+   "pt": "Cartão Vermelho Espião",
+   "en": "Peeking Red Card"
+  },
+  {
+   "n": "98",
+   "pt": "Memória Psíquica",
+   "en": "Psychic Memory"
+  },
+  {
+   "n": "99",
+   "pt": "Mar Vazio",
+   "en": "Sea of Nothingness"
+  },
+  {
+   "n": "100",
+   "pt": "Energia de Contra-ataque",
+   "en": "Counter Energy"
+  },
+  {
+   "n": "101",
+   "pt": "Gyarados GX",
+   "en": "Gyarados GX"
+  },
+  {
+   "n": "102",
+   "pt": "Golem de Alola GX",
+   "en": "Alolan Golem GX"
+  },
+  {
+   "n": "103",
+   "pt": "Nihilego GX",
+   "en": "Nihilego GX"
+  },
+  {
+   "n": "104",
+   "pt": "Buzzwole GX",
+   "en": "Buzzwole GX"
+  },
+  {
+   "n": "105",
+   "pt": "Guzzlord GX",
+   "en": "Guzzlord GX"
+  },
+  {
+   "n": "106",
+   "pt": "Kartana GX",
+   "en": "Kartana GX"
+  },
+  {
+   "n": "107",
+   "pt": "Exeggutor de Alola GX",
+   "en": "Alolan Exeggutor GX"
+  },
+  {
+   "n": "108",
+   "pt": "Silvally GX",
+   "en": "Silvally GX"
+  },
+  {
+   "n": "109",
+   "pt": "Gladio",
+   "en": "Gladion"
+  },
+  {
+   "n": "110",
+   "pt": "Samina",
+   "en": "Lusamine"
+  },
+  {
+   "n": "111",
+   "pt": "Olívia",
+   "en": "Olivia"
+  },
+  {
+   "n": "112",
+   "pt": "Gyarados GX",
+   "en": "Gyarados GX"
+  },
+  {
+   "n": "113",
+   "pt": "Golem de Alola GX",
+   "en": "Alolan Golem GX"
+  },
+  {
+   "n": "114",
+   "pt": "Nihilego GX",
+   "en": "Nihilego GX"
+  },
+  {
+   "n": "115",
+   "pt": "Buzzwole GX",
+   "en": "Buzzwole GX"
+  },
+  {
+   "n": "116",
+   "pt": "Guzzlord GX",
+   "en": "Guzzlord GX"
+  },
+  {
+   "n": "117",
+   "pt": "Kartana GX",
+   "en": "Kartana GX"
+  },
+  {
+   "n": "118",
+   "pt": "Exeggutor de Alola GX",
+   "en": "Alolan Exeggutor GX"
+  },
+  {
+   "n": "119",
+   "pt": "Silvally GX",
+   "en": "Silvally GX"
+  },
+  {
+   "n": "120",
+   "pt": "Pegador de Contra-ataque",
+   "en": "Counter Catcher"
+  },
+  {
+   "n": "121",
+   "pt": "Bastão do Desejo",
+   "en": "Wishful Baton"
+  },
+  {
+   "n": "122",
+   "pt": "Energia de Contra-ataque",
+   "en": "Counter Energy"
+  },
+  {
+   "n": "123",
+   "pt": "Energia de Dobra",
+   "en": "Warp Energy"
+  },
+  {
+   "n": "124",
+   "pt": "Energia de Água",
+   "en": "Water Energy"
+  }
+ ]
+}

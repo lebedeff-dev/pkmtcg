@@ -1,0 +1,874 @@
+{
+ "set": "sm5",
+ "nome_pt": "Ultra Prisma",
+ "nome_en": "Ultra Prism",
+ "total": 173,
+ "oficial": 156,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "2",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "3",
+   "pt": "Yanmega",
+   "en": "Yanmega"
+  },
+  {
+   "n": "4",
+   "pt": "Roselia",
+   "en": "Roselia"
+  },
+  {
+   "n": "5",
+   "pt": "Roserade",
+   "en": "Roserade"
+  },
+  {
+   "n": "6",
+   "pt": "Turtwig",
+   "en": "Turtwig"
+  },
+  {
+   "n": "7",
+   "pt": "Turtwig",
+   "en": "Turtwig"
+  },
+  {
+   "n": "8",
+   "pt": "Grotle",
+   "en": "Grotle"
+  },
+  {
+   "n": "9",
+   "pt": "Torterra",
+   "en": "Torterra"
+  },
+  {
+   "n": "10",
+   "pt": "Cherubi",
+   "en": "Cherubi"
+  },
+  {
+   "n": "11",
+   "pt": "Cherrim",
+   "en": "Cherrim"
+  },
+  {
+   "n": "12",
+   "pt": "Carnivine",
+   "en": "Carnivine"
+  },
+  {
+   "n": "13",
+   "pt": "Leafeon GX",
+   "en": "Leafeon GX"
+  },
+  {
+   "n": "14",
+   "pt": "Rotom Corte",
+   "en": "Mow Rotom"
+  },
+  {
+   "n": "15",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "16",
+   "pt": "Dewpider",
+   "en": "Dewpider"
+  },
+  {
+   "n": "17",
+   "pt": "Araquanid",
+   "en": "Araquanid"
+  },
+  {
+   "n": "18",
+   "pt": "Magmar",
+   "en": "Magmar"
+  },
+  {
+   "n": "19",
+   "pt": "Magmortar",
+   "en": "Magmortar"
+  },
+  {
+   "n": "20",
+   "pt": "Chimchar",
+   "en": "Chimchar"
+  },
+  {
+   "n": "21",
+   "pt": "Chimchar",
+   "en": "Chimchar"
+  },
+  {
+   "n": "22",
+   "pt": "Monferno",
+   "en": "Monferno"
+  },
+  {
+   "n": "23",
+   "pt": "Infernape",
+   "en": "Infernape"
+  },
+  {
+   "n": "24",
+   "pt": "Rotom Calor",
+   "en": "Heat Rotom"
+  },
+  {
+   "n": "25",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "26",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "27",
+   "pt": "Turtonator",
+   "en": "Turtonator"
+  },
+  {
+   "n": "28",
+   "pt": "Sandshrew de Alola",
+   "en": "Alolan Sandshrew"
+  },
+  {
+   "n": "29",
+   "pt": "Sandslash de Alola",
+   "en": "Alolan Sandslash"
+  },
+  {
+   "n": "30",
+   "pt": "Vulpix de Alola",
+   "en": "Alolan Vulpix"
+  },
+  {
+   "n": "31",
+   "pt": "Piplup",
+   "en": "Piplup"
+  },
+  {
+   "n": "32",
+   "pt": "Piplup",
+   "en": "Piplup"
+  },
+  {
+   "n": "33",
+   "pt": "Prinplup",
+   "en": "Prinplup"
+  },
+  {
+   "n": "34",
+   "pt": "Empoleon",
+   "en": "Empoleon"
+  },
+  {
+   "n": "35",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "36",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "37",
+   "pt": "Snover",
+   "en": "Snover"
+  },
+  {
+   "n": "38",
+   "pt": "Abomasnow",
+   "en": "Abomasnow"
+  },
+  {
+   "n": "39",
+   "pt": "Glaceon GX",
+   "en": "Glaceon GX"
+  },
+  {
+   "n": "40",
+   "pt": "Rotom Lavagem",
+   "en": "Wash Rotom"
+  },
+  {
+   "n": "41",
+   "pt": "Rotom Congelante",
+   "en": "Frost Rotom"
+  },
+  {
+   "n": "42",
+   "pt": "Manaphy",
+   "en": "Manaphy"
+  },
+  {
+   "n": "43",
+   "pt": "Electabuzz",
+   "en": "Electabuzz"
+  },
+  {
+   "n": "44",
+   "pt": "Electivire",
+   "en": "Electivire"
+  },
+  {
+   "n": "45",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "46",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "47",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "48",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "49",
+   "pt": "Pachirisu",
+   "en": "Pachirisu"
+  },
+  {
+   "n": "50",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "51",
+   "pt": "Drifloon",
+   "en": "Drifloon"
+  },
+  {
+   "n": "52",
+   "pt": "Drifblim",
+   "en": "Drifblim"
+  },
+  {
+   "n": "53",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "54",
+   "pt": "Skorupi",
+   "en": "Skorupi"
+  },
+  {
+   "n": "55",
+   "pt": "Drapion",
+   "en": "Drapion"
+  },
+  {
+   "n": "56",
+   "pt": "Croagunk",
+   "en": "Croagunk"
+  },
+  {
+   "n": "57",
+   "pt": "Toxicroak",
+   "en": "Toxicroak"
+  },
+  {
+   "n": "58",
+   "pt": "Giratina ◇",
+   "en": "Giratina ◇"
+  },
+  {
+   "n": "59",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "60",
+   "pt": "Cosmog",
+   "en": "Cosmog"
+  },
+  {
+   "n": "61",
+   "pt": "Cosmoem",
+   "en": "Cosmoem"
+  },
+  {
+   "n": "62",
+   "pt": "Lunala ◇",
+   "en": "Lunala ◇"
+  },
+  {
+   "n": "63",
+   "pt": "Necrozma Asas Alvorada GX",
+   "en": "Dawn Wings Necrozma GX"
+  },
+  {
+   "n": "64",
+   "pt": "Cranidos",
+   "en": "Cranidos"
+  },
+  {
+   "n": "65",
+   "pt": "Rampardos",
+   "en": "Rampardos"
+  },
+  {
+   "n": "66",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "67",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "68",
+   "pt": "Hippopotas",
+   "en": "Hippopotas"
+  },
+  {
+   "n": "69",
+   "pt": "Hippowdon",
+   "en": "Hippowdon"
+  },
+  {
+   "n": "70",
+   "pt": "Passimian",
+   "en": "Passimian"
+  },
+  {
+   "n": "71",
+   "pt": "Murkrow",
+   "en": "Murkrow"
+  },
+  {
+   "n": "72",
+   "pt": "Honchkrow",
+   "en": "Honchkrow"
+  },
+  {
+   "n": "73",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "74",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "75",
+   "pt": "Stunky",
+   "en": "Stunky"
+  },
+  {
+   "n": "76",
+   "pt": "Skuntank",
+   "en": "Skuntank"
+  },
+  {
+   "n": "77",
+   "pt": "Darkrai ◇",
+   "en": "Darkrai ◇"
+  },
+  {
+   "n": "78",
+   "pt": "Diglett de Alola",
+   "en": "Alolan Diglett"
+  },
+  {
+   "n": "79",
+   "pt": "Dugtrio de Alola",
+   "en": "Alolan Dugtrio"
+  },
+  {
+   "n": "80",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "81",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "82",
+   "pt": "Magneton",
+   "en": "Magneton"
+  },
+  {
+   "n": "83",
+   "pt": "Magnezone",
+   "en": "Magnezone"
+  },
+  {
+   "n": "84",
+   "pt": "Shieldon",
+   "en": "Shieldon"
+  },
+  {
+   "n": "85",
+   "pt": "Bastiodon",
+   "en": "Bastiodon"
+  },
+  {
+   "n": "86",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "87",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "88",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "89",
+   "pt": "Solgaleo ◇",
+   "en": "Solgaleo ◇"
+  },
+  {
+   "n": "90",
+   "pt": "Necrozma Juba Crepúsculo GX",
+   "en": "Dusk Mane Necrozma GX"
+  },
+  {
+   "n": "91",
+   "pt": "Magearna",
+   "en": "Magearna"
+  },
+  {
+   "n": "92",
+   "pt": "Morelull",
+   "en": "Morelull"
+  },
+  {
+   "n": "93",
+   "pt": "Shiinotic",
+   "en": "Shiinotic"
+  },
+  {
+   "n": "94",
+   "pt": "Tapu Lele",
+   "en": "Tapu Lele"
+  },
+  {
+   "n": "95",
+   "pt": "Exeggutor de Alola",
+   "en": "Alolan Exeggutor"
+  },
+  {
+   "n": "96",
+   "pt": "Gible",
+   "en": "Gible"
+  },
+  {
+   "n": "97",
+   "pt": "Gible",
+   "en": "Gible"
+  },
+  {
+   "n": "98",
+   "pt": "Gabite",
+   "en": "Gabite"
+  },
+  {
+   "n": "99",
+   "pt": "Garchomp",
+   "en": "Garchomp"
+  },
+  {
+   "n": "100",
+   "pt": "Dialga GX",
+   "en": "Dialga GX"
+  },
+  {
+   "n": "101",
+   "pt": "Palkia GX",
+   "en": "Palkia GX"
+  },
+  {
+   "n": "102",
+   "pt": "Lickitung",
+   "en": "Lickitung"
+  },
+  {
+   "n": "103",
+   "pt": "Lickilicky",
+   "en": "Lickilicky"
+  },
+  {
+   "n": "104",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "105",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "106",
+   "pt": "Buneary",
+   "en": "Buneary"
+  },
+  {
+   "n": "107",
+   "pt": "Lopunny",
+   "en": "Lopunny"
+  },
+  {
+   "n": "108",
+   "pt": "Glameow",
+   "en": "Glameow"
+  },
+  {
+   "n": "109",
+   "pt": "Purugly",
+   "en": "Purugly"
+  },
+  {
+   "n": "110",
+   "pt": "Rotom Ventilador",
+   "en": "Fan Rotom"
+  },
+  {
+   "n": "111",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "112",
+   "pt": "Yungoos",
+   "en": "Yungoos"
+  },
+  {
+   "n": "113",
+   "pt": "Gumshoos",
+   "en": "Gumshoos"
+  },
+  {
+   "n": "114",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "115",
+   "pt": "Tipo Nulo",
+   "en": "Type: Null"
+  },
+  {
+   "n": "116",
+   "pt": "Silvally GX",
+   "en": "Silvally GX"
+  },
+  {
+   "n": "117",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "118",
+   "pt": "Cristal Ancestral",
+   "en": "Ancient Crystal"
+  },
+  {
+   "n": "119",
+   "pt": "Cíntia",
+   "en": "Cynthia"
+  },
+  {
+   "n": "120",
+   "pt": "Cyrus ◇",
+   "en": "Cyrus ◇"
+  },
+  {
+   "n": "121",
+   "pt": "Memória Elétrica",
+   "en": "Electric Memory"
+  },
+  {
+   "n": "122",
+   "pt": "Skate de Fuga",
+   "en": "Escape Board"
+  },
+  {
+   "n": "123",
+   "pt": "Memória de Fogo",
+   "en": "Fire Memory"
+  },
+  {
+   "n": "124",
+   "pt": "Gardênia",
+   "en": "Gardenia"
+  },
+  {
+   "n": "125",
+   "pt": "Lílian",
+   "en": "Lillie"
+  },
+  {
+   "n": "126",
+   "pt": "Looker",
+   "en": "Looker"
+  },
+  {
+   "n": "127",
+   "pt": "Apito do Looker",
+   "en": "Looker Whistle"
+  },
+  {
+   "n": "128",
+   "pt": "Marte",
+   "en": "Mars"
+  },
+  {
+   "n": "129",
+   "pt": "Trevo Perdido",
+   "en": "Missing Clover"
+  },
+  {
+   "n": "130",
+   "pt": "Monte Coronete",
+   "en": "Mt. Coronet"
+  },
+  {
+   "n": "131",
+   "pt": "Tablet de Pedido",
+   "en": "Order Pad"
+  },
+  {
+   "n": "132",
+   "pt": "Pal Pad",
+   "en": "Pal Pad"
+  },
+  {
+   "n": "133",
+   "pt": "Fã Clube Pokémon",
+   "en": "Pokémon Fan Club"
+  },
+  {
+   "n": "134",
+   "pt": "Fóssil Não Identificado",
+   "en": "Unidentified Fossil"
+  },
+  {
+   "n": "135",
+   "pt": "Volkner",
+   "en": "Volkner"
+  },
+  {
+   "n": "136",
+   "pt": "Energia Superimpulso ◇",
+   "en": "Super Boost Energy ◇"
+  },
+  {
+   "n": "137",
+   "pt": "Energia Unitária GrassFireWater",
+   "en": "Unit Energy GrassFireWater"
+  },
+  {
+   "n": "138",
+   "pt": "Energia Unitária LightningPsychicMetal",
+   "en": "Unit Energy LightningPsychicMetal"
+  },
+  {
+   "n": "139",
+   "pt": "Leafeon GX",
+   "en": "Leafeon GX"
+  },
+  {
+   "n": "140",
+   "pt": "Pheromosa GX",
+   "en": "Pheromosa GX"
+  },
+  {
+   "n": "141",
+   "pt": "Glaceon GX",
+   "en": "Glaceon GX"
+  },
+  {
+   "n": "142",
+   "pt": "Xurkitree GX",
+   "en": "Xurkitree GX"
+  },
+  {
+   "n": "143",
+   "pt": "Necrozma Asas Alvorada GX",
+   "en": "Dawn Wings Necrozma GX"
+  },
+  {
+   "n": "144",
+   "pt": "Celesteela GX",
+   "en": "Celesteela GX"
+  },
+  {
+   "n": "145",
+   "pt": "Necrozma Juba Crepúsculo GX",
+   "en": "Dusk Mane Necrozma GX"
+  },
+  {
+   "n": "146",
+   "pt": "Dialga GX",
+   "en": "Dialga GX"
+  },
+  {
+   "n": "147",
+   "pt": "Palkia GX",
+   "en": "Palkia GX"
+  },
+  {
+   "n": "148",
+   "pt": "Cíntia",
+   "en": "Cynthia"
+  },
+  {
+   "n": "149",
+   "pt": "Gardênia",
+   "en": "Gardenia"
+  },
+  {
+   "n": "150",
+   "pt": "Vitória",
+   "en": "Lana"
+  },
+  {
+   "n": "151",
+   "pt": "Lílian",
+   "en": "Lillie"
+  },
+  {
+   "n": "152",
+   "pt": "Looker",
+   "en": "Looker"
+  },
+  {
+   "n": "153",
+   "pt": "Samina",
+   "en": "Lusamine"
+  },
+  {
+   "n": "154",
+   "pt": "Marte",
+   "en": "Mars"
+  },
+  {
+   "n": "155",
+   "pt": "Fã Clube Pokémon",
+   "en": "Pokémon Fan Club"
+  },
+  {
+   "n": "156",
+   "pt": "Volkner",
+   "en": "Volkner"
+  },
+  {
+   "n": "157",
+   "pt": "Leafeon GX",
+   "en": "Leafeon GX"
+  },
+  {
+   "n": "158",
+   "pt": "Pheromosa GX",
+   "en": "Pheromosa GX"
+  },
+  {
+   "n": "159",
+   "pt": "Glaceon GX",
+   "en": "Glaceon GX"
+  },
+  {
+   "n": "160",
+   "pt": "Xurkitree GX",
+   "en": "Xurkitree GX"
+  },
+  {
+   "n": "161",
+   "pt": "Necrozma Asas Alvorada GX",
+   "en": "Dawn Wings Necrozma GX"
+  },
+  {
+   "n": "162",
+   "pt": "Celesteela GX",
+   "en": "Celesteela GX"
+  },
+  {
+   "n": "163",
+   "pt": "Necrozma Juba Crepúsculo GX",
+   "en": "Dusk Mane Necrozma GX"
+  },
+  {
+   "n": "164",
+   "pt": "Dialga GX",
+   "en": "Dialga GX"
+  },
+  {
+   "n": "165",
+   "pt": "Palkia GX",
+   "en": "Palkia GX"
+  },
+  {
+   "n": "166",
+   "pt": "Martelo Esmagador",
+   "en": "Crushing Hammer"
+  },
+  {
+   "n": "167",
+   "pt": "Skate de Fuga",
+   "en": "Escape Board"
+  },
+  {
+   "n": "168",
+   "pt": "Trevo Perdido",
+   "en": "Missing Clover"
+  },
+  {
+   "n": "169",
+   "pt": "Cartão Vermelho Espião",
+   "en": "Peeking Red Card"
+  },
+  {
+   "n": "170",
+   "pt": "Energia Unitária GrassFireWater",
+   "en": "Unit Energy GrassFireWater"
+  },
+  {
+   "n": "171",
+   "pt": "Energia Unitária LightningPsychicMetal",
+   "en": "Unit Energy LightningPsychicMetal"
+  },
+  {
+   "n": "172",
+   "pt": "Lunala GX",
+   "en": "Lunala GX"
+  },
+  {
+   "n": "173",
+   "pt": "Solgaleo GX",
+   "en": "Solgaleo GX"
+  }
+ ]
+}

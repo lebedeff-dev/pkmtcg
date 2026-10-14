@@ -1,0 +1,134 @@
+{
+ "set": "cel25c",
+ "nome_pt": "Celebrações Coleção Clássica",
+ "nome_en": "Celebrations Classic Collection",
+ "total": 25,
+ "oficial": 25,
+ "cartas": [
+  {
+   "n": "CC001",
+   "pt": null,
+   "en": "Blastoise"
+  },
+  {
+   "n": "CC002",
+   "pt": null,
+   "en": "Charizard"
+  },
+  {
+   "n": "CC003",
+   "pt": null,
+   "en": "Venusaur"
+  },
+  {
+   "n": "CC004",
+   "pt": null,
+   "en": "Imposter Professor Oak"
+  },
+  {
+   "n": "CC005",
+   "pt": null,
+   "en": "Dark Gyarados"
+  },
+  {
+   "n": "CC006",
+   "pt": null,
+   "en": "Here Comes Team Rocket!"
+  },
+  {
+   "n": "CC007",
+   "pt": null,
+   "en": "Rocket's Zapdos"
+  },
+  {
+   "n": "CC008",
+   "pt": null,
+   "en": "_____'s Pikachu"
+  },
+  {
+   "n": "CC009",
+   "pt": null,
+   "en": "Cleffa"
+  },
+  {
+   "n": "CC010",
+   "pt": null,
+   "en": "Shining Magikarp"
+  },
+  {
+   "n": "CC011",
+   "pt": null,
+   "en": "Team Magma's Groudon"
+  },
+  {
+   "n": "CC012",
+   "pt": null,
+   "en": "Rocket's Admin."
+  },
+  {
+   "n": "CC013",
+   "pt": null,
+   "en": "Mew ex"
+  },
+  {
+   "n": "CC014",
+   "pt": null,
+   "en": "Gardevoir ex"
+  },
+  {
+   "n": "CC015",
+   "pt": null,
+   "en": "Umbreon ☆"
+  },
+  {
+   "n": "CC016",
+   "pt": null,
+   "en": "Claydol"
+  },
+  {
+   "n": "CC017",
+   "pt": null,
+   "en": "Luxray GL LV.X"
+  },
+  {
+   "n": "CC018",
+   "pt": null,
+   "en": "Garchomp C LV.X"
+  },
+  {
+   "n": "CC019",
+   "pt": null,
+   "en": "Donphan"
+  },
+  {
+   "n": "CC020",
+   "pt": null,
+   "en": "Reshiram"
+  },
+  {
+   "n": "CC021",
+   "pt": null,
+   "en": "Zekrom"
+  },
+  {
+   "n": "CC022",
+   "pt": null,
+   "en": "Mewtwo EX"
+  },
+  {
+   "n": "CC023",
+   "pt": null,
+   "en": "Xerneas EX"
+  },
+  {
+   "n": "CC024",
+   "pt": null,
+   "en": "M Rayquaza EX"
+  },
+  {
+   "n": "CC025",
+   "pt": null,
+   "en": "Tapu Lele GX"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "set": "swsh12tg",
+ "nome_pt": "Tempestade Prateada Galeria de Treinador",
+ "nome_en": "Silver Tempest Trainer Gallery",
+ "total": 30,
+ "oficial": 30,
+ "cartas": [
+  {
+   "n": "TG01",
+   "pt": "Braixen",
+   "en": "Braixen"
+  },
+  {
+   "n": "TG02",
+   "pt": "Milotic",
+   "en": "Milotic"
+  },
+  {
+   "n": "TG03",
+   "pt": "Flaaffy",
+   "en": "Flaaffy"
+  },
+  {
+   "n": "TG04",
+   "pt": "Jynx",
+   "en": "Jynx"
+  },
+  {
+   "n": "TG05",
+   "pt": "Gardevoir",
+   "en": "Gardevoir"
+  },
+  {
+   "n": "TG06",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "TG07",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "TG08",
+   "pt": "Passimian",
+   "en": "Passimian"
+  },
+  {
+   "n": "TG09",
+   "pt": "Druddigon",
+   "en": "Druddigon"
+  },
+  {
+   "n": "TG10",
+   "pt": "Smeargle",
+   "en": "Smeargle"
+  },
+  {
+   "n": "TG11",
+   "pt": "Altaria",
+   "en": "Altaria"
+  },
+  {
+   "n": "TG12",
+   "pt": "Kricketune V",
+   "en": "Kricketune V"
+  },
+  {
+   "n": "TG13",
+   "pt": "Serperior V",
+   "en": "Serperior V"
+  },
+  {
+   "n": "TG14",
+   "pt": "Blaziken V",
+   "en": "Blaziken V"
+  },
+  {
+   "n": "TG15",
+   "pt": "Blaziken VMAX",
+   "en": "Blaziken VMAX"
+  },
+  {
+   "n": "TG16",
+   "pt": "Zeraora V",
+   "en": "Zeraora V"
+  },
+  {
+   "n": "TG17",
+   "pt": "Mawile V",
+   "en": "Mawile V"
+  },
+  {
+   "n": "TG18",
+   "pt": "Corviknight V",
+   "en": "Corviknight V"
+  },
+  {
+   "n": "TG19",
+   "pt": "Corviknight VMAX",
+   "en": "Corviknight VMAX"
+  },
+  {
+   "n": "TG20",
+   "pt": "Rayquaza VMAX",
+   "en": "Rayquaza VMAX"
+  },
+  {
+   "n": "TG21",
+   "pt": "Duraludon VMAX",
+   "en": "Duraludon VMAX"
+  },
+  {
+   "n": "TG22",
+   "pt": "Blissey V",
+   "en": "Blissey V"
+  },
+  {
+   "n": "TG23",
+   "pt": "Amigos em Galar",
+   "en": "Friends in Galar"
+  },
+  {
+   "n": "TG24",
+   "pt": "Godinho",
+   "en": "Gordie"
+  },
+  {
+   "n": "TG25",
+   "pt": "Juiz",
+   "en": "Judge"
+  },
+  {
+   "n": "TG26",
+   "pt": "Professora Bruna",
+   "en": "Professor Burnet"
+  },
+  {
+   "n": "TG27",
+   "pt": "Roy",
+   "en": "Raihan"
+  },
+  {
+   "n": "TG28",
+   "pt": "Espadarnaldo e Escudoberto",
+   "en": "Sordward & Shielbert"
+  },
+  {
+   "n": "TG29",
+   "pt": "Rayquaza VMAX",
+   "en": "Rayquaza VMAX"
+  },
+  {
+   "n": "TG30",
+   "pt": "Duraludon VMAX",
+   "en": "Duraludon VMAX"
+  }
+ ]
+}

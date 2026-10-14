@@ -1,0 +1,1044 @@
+{
+ "set": "sv3pt5",
+ "nome_pt": "151",
+ "nome_en": "151",
+ "total": 207,
+ "oficial": 165,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "002",
+   "pt": "Ivysaur",
+   "en": "Ivysaur"
+  },
+  {
+   "n": "003",
+   "pt": "Venusaur ex",
+   "en": "Venusaur ex"
+  },
+  {
+   "n": "004",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "005",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "006",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "007",
+   "pt": "Squirtle",
+   "en": "Squirtle"
+  },
+  {
+   "n": "008",
+   "pt": "Wartortle",
+   "en": "Wartortle"
+  },
+  {
+   "n": "009",
+   "pt": "Blastoise ex",
+   "en": "Blastoise ex"
+  },
+  {
+   "n": "010",
+   "pt": "Caterpie",
+   "en": "Caterpie"
+  },
+  {
+   "n": "011",
+   "pt": "Metapod",
+   "en": "Metapod"
+  },
+  {
+   "n": "012",
+   "pt": "Butterfree",
+   "en": "Butterfree"
+  },
+  {
+   "n": "013",
+   "pt": "Weedle",
+   "en": "Weedle"
+  },
+  {
+   "n": "014",
+   "pt": "Kakuna",
+   "en": "Kakuna"
+  },
+  {
+   "n": "015",
+   "pt": "Beedrill",
+   "en": "Beedrill"
+  },
+  {
+   "n": "016",
+   "pt": "Pidgey",
+   "en": "Pidgey"
+  },
+  {
+   "n": "017",
+   "pt": "Pidgeotto",
+   "en": "Pidgeotto"
+  },
+  {
+   "n": "018",
+   "pt": "Pidgeot",
+   "en": "Pidgeot"
+  },
+  {
+   "n": "019",
+   "pt": "Rattata",
+   "en": "Rattata"
+  },
+  {
+   "n": "020",
+   "pt": "Raticate",
+   "en": "Raticate"
+  },
+  {
+   "n": "021",
+   "pt": "Spearow",
+   "en": "Spearow"
+  },
+  {
+   "n": "022",
+   "pt": "Fearow",
+   "en": "Fearow"
+  },
+  {
+   "n": "023",
+   "pt": "Ekans",
+   "en": "Ekans"
+  },
+  {
+   "n": "024",
+   "pt": "Arbok ex",
+   "en": "Arbok ex"
+  },
+  {
+   "n": "025",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "026",
+   "pt": "Raichu",
+   "en": "Raichu"
+  },
+  {
+   "n": "027",
+   "pt": "Sandshrew",
+   "en": "Sandshrew"
+  },
+  {
+   "n": "028",
+   "pt": "Sandslash",
+   "en": "Sandslash"
+  },
+  {
+   "n": "029",
+   "pt": "Nidoran♀",
+   "en": "Nidoran♀"
+  },
+  {
+   "n": "030",
+   "pt": "Nidorina",
+   "en": "Nidorina"
+  },
+  {
+   "n": "031",
+   "pt": "Nidoqueen",
+   "en": "Nidoqueen"
+  },
+  {
+   "n": "032",
+   "pt": "Nidoran♂",
+   "en": "Nidoran♂"
+  },
+  {
+   "n": "033",
+   "pt": "Nidorino",
+   "en": "Nidorino"
+  },
+  {
+   "n": "034",
+   "pt": "Nidoking",
+   "en": "Nidoking"
+  },
+  {
+   "n": "035",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "036",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "037",
+   "pt": "Vulpix",
+   "en": "Vulpix"
+  },
+  {
+   "n": "038",
+   "pt": "Ninetales ex",
+   "en": "Ninetales ex"
+  },
+  {
+   "n": "039",
+   "pt": "Jigglypuff",
+   "en": "Jigglypuff"
+  },
+  {
+   "n": "040",
+   "pt": "Wigglytuff ex",
+   "en": "Wigglytuff ex"
+  },
+  {
+   "n": "041",
+   "pt": "Zubat",
+   "en": "Zubat"
+  },
+  {
+   "n": "042",
+   "pt": "Golbat",
+   "en": "Golbat"
+  },
+  {
+   "n": "043",
+   "pt": "Oddish",
+   "en": "Oddish"
+  },
+  {
+   "n": "044",
+   "pt": "Gloom",
+   "en": "Gloom"
+  },
+  {
+   "n": "045",
+   "pt": "Vileplume",
+   "en": "Vileplume"
+  },
+  {
+   "n": "046",
+   "pt": "Paras",
+   "en": "Paras"
+  },
+  {
+   "n": "047",
+   "pt": "Parasect",
+   "en": "Parasect"
+  },
+  {
+   "n": "048",
+   "pt": "Venonat",
+   "en": "Venonat"
+  },
+  {
+   "n": "049",
+   "pt": "Venomoth",
+   "en": "Venomoth"
+  },
+  {
+   "n": "050",
+   "pt": "Diglett",
+   "en": "Diglett"
+  },
+  {
+   "n": "051",
+   "pt": "Dugtrio",
+   "en": "Dugtrio"
+  },
+  {
+   "n": "052",
+   "pt": "Meowth",
+   "en": "Meowth"
+  },
+  {
+   "n": "053",
+   "pt": "Persian",
+   "en": "Persian"
+  },
+  {
+   "n": "054",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "055",
+   "pt": "Golduck",
+   "en": "Golduck"
+  },
+  {
+   "n": "056",
+   "pt": "Mankey",
+   "en": "Mankey"
+  },
+  {
+   "n": "057",
+   "pt": "Primeape",
+   "en": "Primeape"
+  },
+  {
+   "n": "058",
+   "pt": "Growlithe",
+   "en": "Growlithe"
+  },
+  {
+   "n": "059",
+   "pt": "Arcanine",
+   "en": "Arcanine"
+  },
+  {
+   "n": "060",
+   "pt": "Poliwag",
+   "en": "Poliwag"
+  },
+  {
+   "n": "061",
+   "pt": "Poliwhirl",
+   "en": "Poliwhirl"
+  },
+  {
+   "n": "062",
+   "pt": "Poliwrath",
+   "en": "Poliwrath"
+  },
+  {
+   "n": "063",
+   "pt": "Abra",
+   "en": "Abra"
+  },
+  {
+   "n": "064",
+   "pt": "Kadabra",
+   "en": "Kadabra"
+  },
+  {
+   "n": "065",
+   "pt": "Alakazam ex",
+   "en": "Alakazam ex"
+  },
+  {
+   "n": "066",
+   "pt": "Machop",
+   "en": "Machop"
+  },
+  {
+   "n": "067",
+   "pt": "Machoke",
+   "en": "Machoke"
+  },
+  {
+   "n": "068",
+   "pt": "Machamp",
+   "en": "Machamp"
+  },
+  {
+   "n": "069",
+   "pt": "Bellsprout",
+   "en": "Bellsprout"
+  },
+  {
+   "n": "070",
+   "pt": "Weepinbell",
+   "en": "Weepinbell"
+  },
+  {
+   "n": "071",
+   "pt": "Victreebel",
+   "en": "Victreebel"
+  },
+  {
+   "n": "072",
+   "pt": "Tentacool",
+   "en": "Tentacool"
+  },
+  {
+   "n": "073",
+   "pt": "Tentacruel",
+   "en": "Tentacruel"
+  },
+  {
+   "n": "074",
+   "pt": "Geodude",
+   "en": "Geodude"
+  },
+  {
+   "n": "075",
+   "pt": "Graveler",
+   "en": "Graveler"
+  },
+  {
+   "n": "076",
+   "pt": "Golem ex",
+   "en": "Golem ex"
+  },
+  {
+   "n": "077",
+   "pt": "Ponyta",
+   "en": "Ponyta"
+  },
+  {
+   "n": "078",
+   "pt": "Rapidash",
+   "en": "Rapidash"
+  },
+  {
+   "n": "079",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "080",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "081",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "082",
+   "pt": "Magneton",
+   "en": "Magneton"
+  },
+  {
+   "n": "083",
+   "pt": "Farfetch'd",
+   "en": "Farfetch'd"
+  },
+  {
+   "n": "084",
+   "pt": "Doduo",
+   "en": "Doduo"
+  },
+  {
+   "n": "085",
+   "pt": "Dodrio",
+   "en": "Dodrio"
+  },
+  {
+   "n": "086",
+   "pt": "Seel",
+   "en": "Seel"
+  },
+  {
+   "n": "087",
+   "pt": "Dewgong",
+   "en": "Dewgong"
+  },
+  {
+   "n": "088",
+   "pt": "Grimer",
+   "en": "Grimer"
+  },
+  {
+   "n": "089",
+   "pt": "Muk",
+   "en": "Muk"
+  },
+  {
+   "n": "090",
+   "pt": "Shellder",
+   "en": "Shellder"
+  },
+  {
+   "n": "091",
+   "pt": "Cloyster",
+   "en": "Cloyster"
+  },
+  {
+   "n": "092",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "093",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "094",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "095",
+   "pt": "Onix",
+   "en": "Onix"
+  },
+  {
+   "n": "096",
+   "pt": "Drowzee",
+   "en": "Drowzee"
+  },
+  {
+   "n": "097",
+   "pt": "Hypno",
+   "en": "Hypno"
+  },
+  {
+   "n": "098",
+   "pt": "Krabby",
+   "en": "Krabby"
+  },
+  {
+   "n": "099",
+   "pt": "Kingler",
+   "en": "Kingler"
+  },
+  {
+   "n": "100",
+   "pt": "Voltorb",
+   "en": "Voltorb"
+  },
+  {
+   "n": "101",
+   "pt": "Electrode",
+   "en": "Electrode"
+  },
+  {
+   "n": "102",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "103",
+   "pt": "Exeggutor",
+   "en": "Exeggutor"
+  },
+  {
+   "n": "104",
+   "pt": "Cubone",
+   "en": "Cubone"
+  },
+  {
+   "n": "105",
+   "pt": "Marowak",
+   "en": "Marowak"
+  },
+  {
+   "n": "106",
+   "pt": "Hitmonlee",
+   "en": "Hitmonlee"
+  },
+  {
+   "n": "107",
+   "pt": "Hitmonchan",
+   "en": "Hitmonchan"
+  },
+  {
+   "n": "108",
+   "pt": "Lickitung",
+   "en": "Lickitung"
+  },
+  {
+   "n": "109",
+   "pt": "Koffing",
+   "en": "Koffing"
+  },
+  {
+   "n": "110",
+   "pt": "Weezing",
+   "en": "Weezing"
+  },
+  {
+   "n": "111",
+   "pt": "Rhyhorn",
+   "en": "Rhyhorn"
+  },
+  {
+   "n": "112",
+   "pt": "Rhydon",
+   "en": "Rhydon"
+  },
+  {
+   "n": "113",
+   "pt": "Chansey",
+   "en": "Chansey"
+  },
+  {
+   "n": "114",
+   "pt": "Tangela",
+   "en": "Tangela"
+  },
+  {
+   "n": "115",
+   "pt": "Kangaskhan ex",
+   "en": "Kangaskhan ex"
+  },
+  {
+   "n": "116",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "117",
+   "pt": "Seadra",
+   "en": "Seadra"
+  },
+  {
+   "n": "118",
+   "pt": "Goldeen",
+   "en": "Goldeen"
+  },
+  {
+   "n": "119",
+   "pt": "Seaking",
+   "en": "Seaking"
+  },
+  {
+   "n": "120",
+   "pt": "Staryu",
+   "en": "Staryu"
+  },
+  {
+   "n": "121",
+   "pt": "Starmie",
+   "en": "Starmie"
+  },
+  {
+   "n": "122",
+   "pt": "Mr. Mime",
+   "en": "Mr. Mime"
+  },
+  {
+   "n": "123",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "124",
+   "pt": "Jynx ex",
+   "en": "Jynx ex"
+  },
+  {
+   "n": "125",
+   "pt": "Electabuzz",
+   "en": "Electabuzz"
+  },
+  {
+   "n": "126",
+   "pt": "Magmar",
+   "en": "Magmar"
+  },
+  {
+   "n": "127",
+   "pt": "Pinsir",
+   "en": "Pinsir"
+  },
+  {
+   "n": "128",
+   "pt": "Tauros",
+   "en": "Tauros"
+  },
+  {
+   "n": "129",
+   "pt": "Magikarp",
+   "en": "Magikarp"
+  },
+  {
+   "n": "130",
+   "pt": "Gyarados",
+   "en": "Gyarados"
+  },
+  {
+   "n": "131",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "132",
+   "pt": "Ditto",
+   "en": "Ditto"
+  },
+  {
+   "n": "133",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "134",
+   "pt": "Vaporeon",
+   "en": "Vaporeon"
+  },
+  {
+   "n": "135",
+   "pt": "Jolteon",
+   "en": "Jolteon"
+  },
+  {
+   "n": "136",
+   "pt": "Flareon",
+   "en": "Flareon"
+  },
+  {
+   "n": "137",
+   "pt": "Porygon",
+   "en": "Porygon"
+  },
+  {
+   "n": "138",
+   "pt": "Omanyte",
+   "en": "Omanyte"
+  },
+  {
+   "n": "139",
+   "pt": "Omastar",
+   "en": "Omastar"
+  },
+  {
+   "n": "140",
+   "pt": "Kabuto",
+   "en": "Kabuto"
+  },
+  {
+   "n": "141",
+   "pt": "Kabutops",
+   "en": "Kabutops"
+  },
+  {
+   "n": "142",
+   "pt": "Aerodactyl",
+   "en": "Aerodactyl"
+  },
+  {
+   "n": "143",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "144",
+   "pt": "Articuno",
+   "en": "Articuno"
+  },
+  {
+   "n": "145",
+   "pt": "Zapdos ex",
+   "en": "Zapdos ex"
+  },
+  {
+   "n": "146",
+   "pt": "Moltres",
+   "en": "Moltres"
+  },
+  {
+   "n": "147",
+   "pt": "Dratini",
+   "en": "Dratini"
+  },
+  {
+   "n": "148",
+   "pt": "Dragonair",
+   "en": "Dragonair"
+  },
+  {
+   "n": "149",
+   "pt": "Dragonite",
+   "en": "Dragonite"
+  },
+  {
+   "n": "150",
+   "pt": "Mewtwo",
+   "en": "Mewtwo"
+  },
+  {
+   "n": "151",
+   "pt": "Mew ex",
+   "en": "Mew ex"
+  },
+  {
+   "n": "152",
+   "pt": "Fóssil Cúpula Arcaico",
+   "en": "Antique Dome Fossil"
+  },
+  {
+   "n": "153",
+   "pt": "Fóssil Espiral Arcaico",
+   "en": "Antique Helix Fossil"
+  },
+  {
+   "n": "154",
+   "pt": "Âmbar Velho Arcaico",
+   "en": "Antique Old Amber"
+  },
+  {
+   "n": "155",
+   "pt": "Grande Balão de Ar",
+   "en": "Big Air Balloon"
+  },
+  {
+   "n": "156",
+   "pt": "Transferência do Bill",
+   "en": "Bill's Transfer"
+  },
+  {
+   "n": "157",
+   "pt": "Ciclovia",
+   "en": "Cycling Road"
+  },
+  {
+   "n": "158",
+   "pt": "Ajuda da Daisy",
+   "en": "Daisy's Help"
+  },
+  {
+   "n": "159",
+   "pt": "Adesivo de Energia",
+   "en": "Energy Sticker"
+  },
+  {
+   "n": "160",
+   "pt": "Convite da Érica",
+   "en": "Erika's Invitation"
+  },
+  {
+   "n": "161",
+   "pt": "Carisma do Giovanni",
+   "en": "Giovanni's Charisma"
+  },
+  {
+   "n": "162",
+   "pt": "Apanhador",
+   "en": "Grabber"
+  },
+  {
+   "n": "163",
+   "pt": "Sobras",
+   "en": "Leftovers"
+  },
+  {
+   "n": "164",
+   "pt": "Óculos Protetores",
+   "en": "Protective Goggles"
+  },
+  {
+   "n": "165",
+   "pt": "Faixa da Rigidez",
+   "en": "Rigid Band"
+  },
+  {
+   "n": "166",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "167",
+   "pt": "Ivysaur",
+   "en": "Ivysaur"
+  },
+  {
+   "n": "168",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "169",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "170",
+   "pt": "Squirtle",
+   "en": "Squirtle"
+  },
+  {
+   "n": "171",
+   "pt": "Wartortle",
+   "en": "Wartortle"
+  },
+  {
+   "n": "172",
+   "pt": "Caterpie",
+   "en": "Caterpie"
+  },
+  {
+   "n": "173",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "174",
+   "pt": "Nidoking",
+   "en": "Nidoking"
+  },
+  {
+   "n": "175",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "176",
+   "pt": "Poliwhirl",
+   "en": "Poliwhirl"
+  },
+  {
+   "n": "177",
+   "pt": "Machoke",
+   "en": "Machoke"
+  },
+  {
+   "n": "178",
+   "pt": "Tangela",
+   "en": "Tangela"
+  },
+  {
+   "n": "179",
+   "pt": "Mr. Mime",
+   "en": "Mr. Mime"
+  },
+  {
+   "n": "180",
+   "pt": "Omanyte",
+   "en": "Omanyte"
+  },
+  {
+   "n": "181",
+   "pt": "Dragonair",
+   "en": "Dragonair"
+  },
+  {
+   "n": "182",
+   "pt": "Venusaur ex",
+   "en": "Venusaur ex"
+  },
+  {
+   "n": "183",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "184",
+   "pt": "Blastoise ex",
+   "en": "Blastoise ex"
+  },
+  {
+   "n": "185",
+   "pt": "Arbok ex",
+   "en": "Arbok ex"
+  },
+  {
+   "n": "186",
+   "pt": "Ninetales ex",
+   "en": "Ninetales ex"
+  },
+  {
+   "n": "187",
+   "pt": "Wigglytuff ex",
+   "en": "Wigglytuff ex"
+  },
+  {
+   "n": "188",
+   "pt": "Alakazam ex",
+   "en": "Alakazam ex"
+  },
+  {
+   "n": "189",
+   "pt": "Golem ex",
+   "en": "Golem ex"
+  },
+  {
+   "n": "190",
+   "pt": "Kangaskhan ex",
+   "en": "Kangaskhan ex"
+  },
+  {
+   "n": "191",
+   "pt": "Jynx ex",
+   "en": "Jynx ex"
+  },
+  {
+   "n": "192",
+   "pt": "Zapdos ex",
+   "en": "Zapdos ex"
+  },
+  {
+   "n": "193",
+   "pt": "Mew ex",
+   "en": "Mew ex"
+  },
+  {
+   "n": "194",
+   "pt": "Transferência do Bill",
+   "en": "Bill's Transfer"
+  },
+  {
+   "n": "195",
+   "pt": "Ajuda da Daisy",
+   "en": "Daisy's Help"
+  },
+  {
+   "n": "196",
+   "pt": "Convite da Érica",
+   "en": "Erika's Invitation"
+  },
+  {
+   "n": "197",
+   "pt": "Carisma do Giovanni",
+   "en": "Giovanni's Charisma"
+  },
+  {
+   "n": "198",
+   "pt": "Venusaur ex",
+   "en": "Venusaur ex"
+  },
+  {
+   "n": "199",
+   "pt": "Charizard ex",
+   "en": "Charizard ex"
+  },
+  {
+   "n": "200",
+   "pt": "Blastoise ex",
+   "en": "Blastoise ex"
+  },
+  {
+   "n": "201",
+   "pt": "Alakazam ex",
+   "en": "Alakazam ex"
+  },
+  {
+   "n": "202",
+   "pt": "Zapdos ex",
+   "en": "Zapdos ex"
+  },
+  {
+   "n": "203",
+   "pt": "Convite da Érica",
+   "en": "Erika's Invitation"
+  },
+  {
+   "n": "204",
+   "pt": "Carisma do Giovanni",
+   "en": "Giovanni's Charisma"
+  },
+  {
+   "n": "205",
+   "pt": "Mew ex",
+   "en": "Mew ex"
+  },
+  {
+   "n": "206",
+   "pt": "Substituição",
+   "en": "Switch"
+  },
+  {
+   "n": "207",
+   "pt": "Energia Psychic Básica",
+   "en": "Basic Psychic Energy"
+  }
+ ]
+}

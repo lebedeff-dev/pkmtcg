@@ -1,0 +1,1089 @@
+{
+ "set": "swsh10",
+ "nome_pt": "Estrelas Radiantes",
+ "nome_en": "Astral Radiance",
+ "total": 216,
+ "oficial": 189,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Beedrill V",
+   "en": "Beedrill V"
+  },
+  {
+   "n": "002",
+   "pt": "Voltorb de Hisui",
+   "en": "Hisuian Voltorb"
+  },
+  {
+   "n": "003",
+   "pt": "Electrode de Hisui",
+   "en": "Hisuian Electrode"
+  },
+  {
+   "n": "004",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "005",
+   "pt": "Scyther",
+   "en": "Scyther"
+  },
+  {
+   "n": "006",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "007",
+   "pt": "Yanmega",
+   "en": "Yanmega"
+  },
+  {
+   "n": "008",
+   "pt": "Heracross",
+   "en": "Heracross"
+  },
+  {
+   "n": "009",
+   "pt": "Kricketot",
+   "en": "Kricketot"
+  },
+  {
+   "n": "010",
+   "pt": "Kricketune",
+   "en": "Kricketune"
+  },
+  {
+   "n": "011",
+   "pt": "Combee",
+   "en": "Combee"
+  },
+  {
+   "n": "012",
+   "pt": "Vespiquen",
+   "en": "Vespiquen"
+  },
+  {
+   "n": "013",
+   "pt": "Leafeon",
+   "en": "Leafeon"
+  },
+  {
+   "n": "014",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "015",
+   "pt": "Petilil",
+   "en": "Petilil"
+  },
+  {
+   "n": "016",
+   "pt": "Lilligant de Hisui",
+   "en": "Hisuian Lilligant"
+  },
+  {
+   "n": "017",
+   "pt": "Lilligant de Hisui V",
+   "en": "Hisuian Lilligant V"
+  },
+  {
+   "n": "018",
+   "pt": "Lilligant de Hisui V-ASTRO",
+   "en": "Hisuian Lilligant VSTAR"
+  },
+  {
+   "n": "019",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "020",
+   "pt": "Dartrix",
+   "en": "Dartrix"
+  },
+  {
+   "n": "021",
+   "pt": "Ponyta",
+   "en": "Ponyta"
+  },
+  {
+   "n": "022",
+   "pt": "Rapidash",
+   "en": "Rapidash"
+  },
+  {
+   "n": "023",
+   "pt": "Cyndaquil",
+   "en": "Cyndaquil"
+  },
+  {
+   "n": "024",
+   "pt": "Quilava",
+   "en": "Quilava"
+  },
+  {
+   "n": "025",
+   "pt": "Heatran V",
+   "en": "Heatran V"
+  },
+  {
+   "n": "026",
+   "pt": "Heatran VMAX",
+   "en": "Heatran VMAX"
+  },
+  {
+   "n": "027",
+   "pt": "Heatran Radiante",
+   "en": "Radiant Heatran"
+  },
+  {
+   "n": "028",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "029",
+   "pt": "Golduck",
+   "en": "Golduck"
+  },
+  {
+   "n": "030",
+   "pt": "Starmie V",
+   "en": "Starmie V"
+  },
+  {
+   "n": "031",
+   "pt": "Swinub",
+   "en": "Swinub"
+  },
+  {
+   "n": "032",
+   "pt": "Piloswine",
+   "en": "Piloswine"
+  },
+  {
+   "n": "033",
+   "pt": "Mamoswine",
+   "en": "Mamoswine"
+  },
+  {
+   "n": "034",
+   "pt": "Mantine",
+   "en": "Mantine"
+  },
+  {
+   "n": "035",
+   "pt": "Barboach",
+   "en": "Barboach"
+  },
+  {
+   "n": "036",
+   "pt": "Whiscash",
+   "en": "Whiscash"
+  },
+  {
+   "n": "037",
+   "pt": "Regice",
+   "en": "Regice"
+  },
+  {
+   "n": "038",
+   "pt": "Glaceon",
+   "en": "Glaceon"
+  },
+  {
+   "n": "039",
+   "pt": "Palkia Forma Origem V",
+   "en": "Origin Forme Palkia V"
+  },
+  {
+   "n": "040",
+   "pt": "Palkia Forma Origem V-ASTRO",
+   "en": "Origin Forme Palkia VSTAR"
+  },
+  {
+   "n": "041",
+   "pt": "Oshawott",
+   "en": "Oshawott"
+  },
+  {
+   "n": "042",
+   "pt": "Dewott",
+   "en": "Dewott"
+  },
+  {
+   "n": "043",
+   "pt": "Basculin de Hisui",
+   "en": "Hisuian Basculin"
+  },
+  {
+   "n": "044",
+   "pt": "Basculegion de Hisui",
+   "en": "Hisuian Basculegion"
+  },
+  {
+   "n": "045",
+   "pt": "Keldeo",
+   "en": "Keldeo"
+  },
+  {
+   "n": "046",
+   "pt": "Greninja Radiante",
+   "en": "Radiant Greninja"
+  },
+  {
+   "n": "047",
+   "pt": "Bergmite",
+   "en": "Bergmite"
+  },
+  {
+   "n": "048",
+   "pt": "Avalugg de Hisui",
+   "en": "Hisuian Avalugg"
+  },
+  {
+   "n": "049",
+   "pt": "Mr. Rime de Galar V",
+   "en": "Galarian Mr. Rime V"
+  },
+  {
+   "n": "050",
+   "pt": "Luxray V",
+   "en": "Luxray V"
+  },
+  {
+   "n": "051",
+   "pt": "Regieleki",
+   "en": "Regieleki"
+  },
+  {
+   "n": "052",
+   "pt": "Typhlosion de Hisui",
+   "en": "Hisuian Typhlosion"
+  },
+  {
+   "n": "053",
+   "pt": "Typhlosion de Hisui V",
+   "en": "Hisuian Typhlosion V"
+  },
+  {
+   "n": "054",
+   "pt": "Typhlosion de Hisui V-ASTRO",
+   "en": "Hisuian Typhlosion VSTAR"
+  },
+  {
+   "n": "055",
+   "pt": "Togepi",
+   "en": "Togepi"
+  },
+  {
+   "n": "056",
+   "pt": "Togetic",
+   "en": "Togetic"
+  },
+  {
+   "n": "057",
+   "pt": "Togekiss",
+   "en": "Togekiss"
+  },
+  {
+   "n": "058",
+   "pt": "Misdreavus",
+   "en": "Misdreavus"
+  },
+  {
+   "n": "059",
+   "pt": "Mismagius",
+   "en": "Mismagius"
+  },
+  {
+   "n": "060",
+   "pt": "Ralts",
+   "en": "Ralts"
+  },
+  {
+   "n": "061",
+   "pt": "Kirlia",
+   "en": "Kirlia"
+  },
+  {
+   "n": "062",
+   "pt": "Gallade",
+   "en": "Gallade"
+  },
+  {
+   "n": "063",
+   "pt": "Drifloon",
+   "en": "Drifloon"
+  },
+  {
+   "n": "064",
+   "pt": "Drifblim",
+   "en": "Drifblim"
+  },
+  {
+   "n": "065",
+   "pt": "Uxie",
+   "en": "Uxie"
+  },
+  {
+   "n": "066",
+   "pt": "Mesprit",
+   "en": "Mesprit"
+  },
+  {
+   "n": "067",
+   "pt": "Azelf",
+   "en": "Azelf"
+  },
+  {
+   "n": "068",
+   "pt": "Diancie",
+   "en": "Diancie"
+  },
+  {
+   "n": "069",
+   "pt": "Wyrdeer",
+   "en": "Wyrdeer"
+  },
+  {
+   "n": "070",
+   "pt": "Growlithe de Hisui",
+   "en": "Hisuian Growlithe"
+  },
+  {
+   "n": "071",
+   "pt": "Arcanine de Hisui",
+   "en": "Hisuian Arcanine"
+  },
+  {
+   "n": "072",
+   "pt": "Machamp V",
+   "en": "Machamp V"
+  },
+  {
+   "n": "073",
+   "pt": "Machamp VMAX",
+   "en": "Machamp VMAX"
+  },
+  {
+   "n": "074",
+   "pt": "Sudowoodo",
+   "en": "Sudowoodo"
+  },
+  {
+   "n": "075",
+   "pt": "Regirock",
+   "en": "Regirock"
+  },
+  {
+   "n": "076",
+   "pt": "Cranidos",
+   "en": "Cranidos"
+  },
+  {
+   "n": "077",
+   "pt": "Rampardos",
+   "en": "Rampardos"
+  },
+  {
+   "n": "078",
+   "pt": "Lucario V",
+   "en": "Lucario V"
+  },
+  {
+   "n": "079",
+   "pt": "Hippopotas",
+   "en": "Hippopotas"
+  },
+  {
+   "n": "080",
+   "pt": "Hippowdon",
+   "en": "Hippowdon"
+  },
+  {
+   "n": "081",
+   "pt": "Hawlucha Radiante",
+   "en": "Radiant Hawlucha"
+  },
+  {
+   "n": "082",
+   "pt": "Decidueye de Hisui",
+   "en": "Hisuian Decidueye"
+  },
+  {
+   "n": "083",
+   "pt": "Decidueye de Hisui V",
+   "en": "Hisuian Decidueye V"
+  },
+  {
+   "n": "084",
+   "pt": "Decidueye de Hisui V-ASTRO",
+   "en": "Hisuian Decidueye VSTAR"
+  },
+  {
+   "n": "085",
+   "pt": "Kleavor",
+   "en": "Kleavor"
+  },
+  {
+   "n": "086",
+   "pt": "Kleavor",
+   "en": "Kleavor"
+  },
+  {
+   "n": "087",
+   "pt": "Kleavor V",
+   "en": "Kleavor V"
+  },
+  {
+   "n": "088",
+   "pt": "Qwilfish de Hisui",
+   "en": "Hisuian Qwilfish"
+  },
+  {
+   "n": "089",
+   "pt": "Qwilfish de Hisui",
+   "en": "Hisuian Qwilfish"
+  },
+  {
+   "n": "090",
+   "pt": "Overqwil de Hisui",
+   "en": "Hisuian Overqwil"
+  },
+  {
+   "n": "091",
+   "pt": "Overqwil de Hisui",
+   "en": "Hisuian Overqwil"
+  },
+  {
+   "n": "092",
+   "pt": "Sneasel de Hisui",
+   "en": "Hisuian Sneasel"
+  },
+  {
+   "n": "093",
+   "pt": "Sneasler de Hisui",
+   "en": "Hisuian Sneasler"
+  },
+  {
+   "n": "094",
+   "pt": "Sneasler de Hisui V",
+   "en": "Hisuian Sneasler V"
+  },
+  {
+   "n": "095",
+   "pt": "Poochyena",
+   "en": "Poochyena"
+  },
+  {
+   "n": "096",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "097",
+   "pt": "Absol",
+   "en": "Absol"
+  },
+  {
+   "n": "098",
+   "pt": "Darkrai V",
+   "en": "Darkrai V"
+  },
+  {
+   "n": "099",
+   "pt": "Darkrai V-ASTRO",
+   "en": "Darkrai VSTAR"
+  },
+  {
+   "n": "100",
+   "pt": "Samurott de Hisui",
+   "en": "Hisuian Samurott"
+  },
+  {
+   "n": "101",
+   "pt": "Samurott de Hisui V",
+   "en": "Hisuian Samurott V"
+  },
+  {
+   "n": "102",
+   "pt": "Samurott de Hisui V-ASTRO",
+   "en": "Hisuian Samurott VSTAR"
+  },
+  {
+   "n": "103",
+   "pt": "Nickit",
+   "en": "Nickit"
+  },
+  {
+   "n": "104",
+   "pt": "Thievul",
+   "en": "Thievul"
+  },
+  {
+   "n": "105",
+   "pt": "Magnemite",
+   "en": "Magnemite"
+  },
+  {
+   "n": "106",
+   "pt": "Magneton",
+   "en": "Magneton"
+  },
+  {
+   "n": "107",
+   "pt": "Magnezone",
+   "en": "Magnezone"
+  },
+  {
+   "n": "108",
+   "pt": "Registeel",
+   "en": "Registeel"
+  },
+  {
+   "n": "109",
+   "pt": "Shieldon",
+   "en": "Shieldon"
+  },
+  {
+   "n": "110",
+   "pt": "Bastiodon",
+   "en": "Bastiodon"
+  },
+  {
+   "n": "111",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "112",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "113",
+   "pt": "Dialga Forma Origem V",
+   "en": "Origin Forme Dialga V"
+  },
+  {
+   "n": "114",
+   "pt": "Dialga Forma Origem V-ASTRO",
+   "en": "Origin Forme Dialga VSTAR"
+  },
+  {
+   "n": "115",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "116",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "117",
+   "pt": "Garchomp V",
+   "en": "Garchomp V"
+  },
+  {
+   "n": "118",
+   "pt": "Regidrago",
+   "en": "Regidrago"
+  },
+  {
+   "n": "119",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "120",
+   "pt": "Hoothoot",
+   "en": "Hoothoot"
+  },
+  {
+   "n": "121",
+   "pt": "Noctowl",
+   "en": "Noctowl"
+  },
+  {
+   "n": "122",
+   "pt": "Teddiursa",
+   "en": "Teddiursa"
+  },
+  {
+   "n": "123",
+   "pt": "Ursaring",
+   "en": "Ursaring"
+  },
+  {
+   "n": "124",
+   "pt": "Ursaluna",
+   "en": "Ursaluna"
+  },
+  {
+   "n": "125",
+   "pt": "Stantler",
+   "en": "Stantler"
+  },
+  {
+   "n": "126",
+   "pt": "Miltank",
+   "en": "Miltank"
+  },
+  {
+   "n": "127",
+   "pt": "Glameow",
+   "en": "Glameow"
+  },
+  {
+   "n": "128",
+   "pt": "Purugly",
+   "en": "Purugly"
+  },
+  {
+   "n": "129",
+   "pt": "Chatot",
+   "en": "Chatot"
+  },
+  {
+   "n": "130",
+   "pt": "Regigigas",
+   "en": "Regigigas"
+  },
+  {
+   "n": "131",
+   "pt": "Rufflet",
+   "en": "Rufflet"
+  },
+  {
+   "n": "132",
+   "pt": "Braviary de Hisui",
+   "en": "Hisuian Braviary"
+  },
+  {
+   "n": "133",
+   "pt": "Oranguru V",
+   "en": "Oranguru V"
+  },
+  {
+   "n": "134",
+   "pt": "Wyrdeer V",
+   "en": "Wyrdeer V"
+  },
+  {
+   "n": "135",
+   "pt": "Ádamo",
+   "en": "Adaman"
+  },
+  {
+   "n": "136",
+   "pt": "Colônia Anuladora",
+   "en": "Canceling Cologne"
+  },
+  {
+   "n": "137",
+   "pt": "Choi",
+   "en": "Choy"
+  },
+  {
+   "n": "138",
+   "pt": "Cilene",
+   "en": "Cyllene"
+  },
+  {
+   "n": "139",
+   "pt": "Fragmento Sombrio",
+   "en": "Dark Patch"
+  },
+  {
+   "n": "140",
+   "pt": "Loto Energia",
+   "en": "Energy Loto"
+  },
+  {
+   "n": "141",
+   "pt": "Bola de Penas",
+   "en": "Feather Ball"
+  },
+  {
+   "n": "142",
+   "pt": "Brejo Gapejaw",
+   "en": "Gapejaw Bog"
+  },
+  {
+   "n": "143",
+   "pt": "Vigor da Gardênia",
+   "en": "Gardenia's Vigor"
+  },
+  {
+   "n": "144",
+   "pt": "Grant",
+   "en": "Grant"
+  },
+  {
+   "n": "145",
+   "pt": "Picareta Corajosa",
+   "en": "Gutsy Pickaxe"
+  },
+  {
+   "n": "146",
+   "pt": "Bola Pesada de Hisui",
+   "en": "Hisuian Heavy Ball"
+  },
+  {
+   "n": "147",
+   "pt": "Irida",
+   "en": "Irida"
+  },
+  {
+   "n": "148",
+   "pt": "Vilarejo de Jubilife",
+   "en": "Jubilife Village"
+  },
+  {
+   "n": "149",
+   "pt": "Sorbus",
+   "en": "Kamado"
+  },
+  {
+   "n": "150",
+   "pt": "Roxanne",
+   "en": "Roxanne"
+  },
+  {
+   "n": "151",
+   "pt": "Curry Temperado e Apimentado",
+   "en": "Spicy Seasoned Curry"
+  },
+  {
+   "n": "152",
+   "pt": "Óculos Supereficazes",
+   "en": "Supereffective Glasses"
+  },
+  {
+   "n": "153",
+   "pt": "Mel Doce",
+   "en": "Sweet Honey"
+  },
+  {
+   "n": "154",
+   "pt": "Carrinho de Substituição",
+   "en": "Switch Cart"
+  },
+  {
+   "n": "155",
+   "pt": "Templo de Sinnoh",
+   "en": "Temple of Sinnoh"
+  },
+  {
+   "n": "156",
+   "pt": "Tênis de Caminhada",
+   "en": "Trekking Shoes"
+  },
+  {
+   "n": "157",
+   "pt": "Fóssil Não Identificado",
+   "en": "Unidentified Fossil"
+  },
+  {
+   "n": "158",
+   "pt": "Esperar para Ver Turbo",
+   "en": "Wait and See Turbo"
+  },
+  {
+   "n": "159",
+   "pt": "Zisu",
+   "en": "Zisu"
+  },
+  {
+   "n": "160",
+   "pt": "Beedrill V",
+   "en": "Beedrill V"
+  },
+  {
+   "n": "161",
+   "pt": "Beedrill V",
+   "en": "Beedrill V"
+  },
+  {
+   "n": "162",
+   "pt": "Lilligant de Hisui V",
+   "en": "Hisuian Lilligant V"
+  },
+  {
+   "n": "163",
+   "pt": "Lilligant de Hisui V",
+   "en": "Hisuian Lilligant V"
+  },
+  {
+   "n": "164",
+   "pt": "Virizion V",
+   "en": "Virizion V"
+  },
+  {
+   "n": "165",
+   "pt": "Heatran V",
+   "en": "Heatran V"
+  },
+  {
+   "n": "166",
+   "pt": "Starmie V",
+   "en": "Starmie V"
+  },
+  {
+   "n": "167",
+   "pt": "Palkia Forma Origem V",
+   "en": "Origin Forme Palkia V"
+  },
+  {
+   "n": "168",
+   "pt": "Luxray V",
+   "en": "Luxray V"
+  },
+  {
+   "n": "169",
+   "pt": "Typhlosion de Hisui V",
+   "en": "Hisuian Typhlosion V"
+  },
+  {
+   "n": "170",
+   "pt": "Jirachi V",
+   "en": "Jirachi V"
+  },
+  {
+   "n": "171",
+   "pt": "Machamp V",
+   "en": "Machamp V"
+  },
+  {
+   "n": "172",
+   "pt": "Machamp V",
+   "en": "Machamp V"
+  },
+  {
+   "n": "173",
+   "pt": "Decidueye de Hisui V",
+   "en": "Hisuian Decidueye V"
+  },
+  {
+   "n": "174",
+   "pt": "Sneasler de Hisui V",
+   "en": "Hisuian Sneasler V"
+  },
+  {
+   "n": "175",
+   "pt": "Sneasler de Hisui V",
+   "en": "Hisuian Sneasler V"
+  },
+  {
+   "n": "176",
+   "pt": "Samurott de Hisui V",
+   "en": "Hisuian Samurott V"
+  },
+  {
+   "n": "177",
+   "pt": "Dialga Forma Origem V",
+   "en": "Origin Forme Dialga V"
+  },
+  {
+   "n": "178",
+   "pt": "Garchomp V",
+   "en": "Garchomp V"
+  },
+  {
+   "n": "179",
+   "pt": "Oranguru V",
+   "en": "Oranguru V"
+  },
+  {
+   "n": "180",
+   "pt": "Wyrdeer V",
+   "en": "Wyrdeer V"
+  },
+  {
+   "n": "181",
+   "pt": "Ádamo",
+   "en": "Adaman"
+  },
+  {
+   "n": "182",
+   "pt": "Choi",
+   "en": "Choy"
+  },
+  {
+   "n": "183",
+   "pt": "Cilene",
+   "en": "Cyllene"
+  },
+  {
+   "n": "184",
+   "pt": "Vigor da Gardênia",
+   "en": "Gardenia's Vigor"
+  },
+  {
+   "n": "185",
+   "pt": "Grant",
+   "en": "Grant"
+  },
+  {
+   "n": "186",
+   "pt": "Irida",
+   "en": "Irida"
+  },
+  {
+   "n": "187",
+   "pt": "Sorbus",
+   "en": "Kamado"
+  },
+  {
+   "n": "188",
+   "pt": "Roxanne",
+   "en": "Roxanne"
+  },
+  {
+   "n": "189",
+   "pt": "Zisu",
+   "en": "Zisu"
+  },
+  {
+   "n": "190",
+   "pt": "Lilligant de Hisui V-ASTRO",
+   "en": "Hisuian Lilligant VSTAR"
+  },
+  {
+   "n": "191",
+   "pt": "Heatran VMAX",
+   "en": "Heatran VMAX"
+  },
+  {
+   "n": "192",
+   "pt": "Palkia Forma Origem V-ASTRO",
+   "en": "Origin Forme Palkia VSTAR"
+  },
+  {
+   "n": "193",
+   "pt": "Typhlosion de Hisui V-ASTRO",
+   "en": "Hisuian Typhlosion VSTAR"
+  },
+  {
+   "n": "194",
+   "pt": "Machamp VMAX",
+   "en": "Machamp VMAX"
+  },
+  {
+   "n": "195",
+   "pt": "Decidueye de Hisui V-ASTRO",
+   "en": "Hisuian Decidueye VSTAR"
+  },
+  {
+   "n": "196",
+   "pt": "Kleavor V-ASTRO",
+   "en": "Kleavor VSTAR"
+  },
+  {
+   "n": "197",
+   "pt": "Samurott de Hisui V-ASTRO",
+   "en": "Hisuian Samurott VSTAR"
+  },
+  {
+   "n": "198",
+   "pt": "Dialga Forma Origem V-ASTRO",
+   "en": "Origin Forme Dialga VSTAR"
+  },
+  {
+   "n": "199",
+   "pt": "Ádamo",
+   "en": "Adaman"
+  },
+  {
+   "n": "200",
+   "pt": "Choi",
+   "en": "Choy"
+  },
+  {
+   "n": "201",
+   "pt": "Cilene",
+   "en": "Cyllene"
+  },
+  {
+   "n": "202",
+   "pt": "Vigor da Gardênia",
+   "en": "Gardenia's Vigor"
+  },
+  {
+   "n": "203",
+   "pt": "Grant",
+   "en": "Grant"
+  },
+  {
+   "n": "204",
+   "pt": "Irida",
+   "en": "Irida"
+  },
+  {
+   "n": "205",
+   "pt": "Sorbus",
+   "en": "Kamado"
+  },
+  {
+   "n": "206",
+   "pt": "Roxanne",
+   "en": "Roxanne"
+  },
+  {
+   "n": "207",
+   "pt": "Zisu",
+   "en": "Zisu"
+  },
+  {
+   "n": "208",
+   "pt": "Palkia Forma Origem V-ASTRO",
+   "en": "Origin Forme Palkia VSTAR"
+  },
+  {
+   "n": "209",
+   "pt": "Samurott de Hisui V-ASTRO",
+   "en": "Hisuian Samurott VSTAR"
+  },
+  {
+   "n": "210",
+   "pt": "Dialga Forma Origem V-ASTRO",
+   "en": "Origin Forme Dialga VSTAR"
+  },
+  {
+   "n": "211",
+   "pt": "Cinturão da Escolha",
+   "en": "Choice Belt"
+  },
+  {
+   "n": "212",
+   "pt": "Vilarejo de Jubilife",
+   "en": "Jubilife Village"
+  },
+  {
+   "n": "213",
+   "pt": "Trilha para o Cume",
+   "en": "Path to the Peak"
+  },
+  {
+   "n": "214",
+   "pt": "Templo de Sinnoh",
+   "en": "Temple of Sinnoh"
+  },
+  {
+   "n": "215",
+   "pt": "Tênis de Caminhada",
+   "en": "Trekking Shoes"
+  },
+  {
+   "n": "216",
+   "pt": "Energia Turbo Dupla",
+   "en": "Double Turbo Energy"
+  }
+ ]
+}

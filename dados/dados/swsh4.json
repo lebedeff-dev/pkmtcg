@@ -1,0 +1,1024 @@
+{
+ "set": "swsh4",
+ "nome_pt": "Voltagem Vívida",
+ "nome_en": "Vivid Voltage",
+ "total": 203,
+ "oficial": 185,
+ "cartas": [
+  {
+   "n": "1",
+   "pt": "Weedle",
+   "en": "Weedle"
+  },
+  {
+   "n": "2",
+   "pt": "Kakuna",
+   "en": "Kakuna"
+  },
+  {
+   "n": "3",
+   "pt": "Beedrill",
+   "en": "Beedrill"
+  },
+  {
+   "n": "4",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "5",
+   "pt": "Exeggutor",
+   "en": "Exeggutor"
+  },
+  {
+   "n": "6",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "7",
+   "pt": "Yanmega",
+   "en": "Yanmega"
+  },
+  {
+   "n": "8",
+   "pt": "Pineco",
+   "en": "Pineco"
+  },
+  {
+   "n": "9",
+   "pt": "Celebi",
+   "en": "Celebi"
+  },
+  {
+   "n": "10",
+   "pt": "Seedot",
+   "en": "Seedot"
+  },
+  {
+   "n": "11",
+   "pt": "Nuzleaf",
+   "en": "Nuzleaf"
+  },
+  {
+   "n": "12",
+   "pt": "Shiftry",
+   "en": "Shiftry"
+  },
+  {
+   "n": "13",
+   "pt": "Nincada",
+   "en": "Nincada"
+  },
+  {
+   "n": "14",
+   "pt": "Ninjask",
+   "en": "Ninjask"
+  },
+  {
+   "n": "15",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "16",
+   "pt": "Genesect",
+   "en": "Genesect"
+  },
+  {
+   "n": "17",
+   "pt": "Skiddo",
+   "en": "Skiddo"
+  },
+  {
+   "n": "18",
+   "pt": "Gogoat",
+   "en": "Gogoat"
+  },
+  {
+   "n": "19",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "20",
+   "pt": "Orbeetle V",
+   "en": "Orbeetle V"
+  },
+  {
+   "n": "21",
+   "pt": "Orbeetle VMAX",
+   "en": "Orbeetle VMAX"
+  },
+  {
+   "n": "22",
+   "pt": "Zarude V",
+   "en": "Zarude V"
+  },
+  {
+   "n": "23",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "24",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "25",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "26",
+   "pt": "Flareon",
+   "en": "Flareon"
+  },
+  {
+   "n": "27",
+   "pt": "Slugma",
+   "en": "Slugma"
+  },
+  {
+   "n": "28",
+   "pt": "Magcargo",
+   "en": "Magcargo"
+  },
+  {
+   "n": "29",
+   "pt": "Talonflame V",
+   "en": "Talonflame V"
+  },
+  {
+   "n": "30",
+   "pt": "Vaporeon",
+   "en": "Vaporeon"
+  },
+  {
+   "n": "31",
+   "pt": "Wailmer",
+   "en": "Wailmer"
+  },
+  {
+   "n": "32",
+   "pt": "Wailord",
+   "en": "Wailord"
+  },
+  {
+   "n": "33",
+   "pt": "Oshawott",
+   "en": "Oshawott"
+  },
+  {
+   "n": "34",
+   "pt": "Dewott",
+   "en": "Dewott"
+  },
+  {
+   "n": "35",
+   "pt": "Samurott",
+   "en": "Samurott"
+  },
+  {
+   "n": "36",
+   "pt": "Darmanitan de Galar V",
+   "en": "Galarian Darmanitan V"
+  },
+  {
+   "n": "37",
+   "pt": "Darmanitan de Galar VMAX",
+   "en": "Galarian Darmanitan VMAX"
+  },
+  {
+   "n": "38",
+   "pt": "Chewtle",
+   "en": "Chewtle"
+  },
+  {
+   "n": "39",
+   "pt": "Drednaw",
+   "en": "Drednaw"
+  },
+  {
+   "n": "40",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "41",
+   "pt": "Arrokuda",
+   "en": "Arrokuda"
+  },
+  {
+   "n": "42",
+   "pt": "Barraskewda",
+   "en": "Barraskewda"
+  },
+  {
+   "n": "43",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "44",
+   "pt": "Pikachu VMAX",
+   "en": "Pikachu VMAX"
+  },
+  {
+   "n": "45",
+   "pt": "Voltorb",
+   "en": "Voltorb"
+  },
+  {
+   "n": "46",
+   "pt": "Electrode",
+   "en": "Electrode"
+  },
+  {
+   "n": "47",
+   "pt": "Jolteon",
+   "en": "Jolteon"
+  },
+  {
+   "n": "48",
+   "pt": "Zapdos",
+   "en": "Zapdos"
+  },
+  {
+   "n": "49",
+   "pt": "Ampharos V",
+   "en": "Ampharos V"
+  },
+  {
+   "n": "50",
+   "pt": "Raikou",
+   "en": "Raikou"
+  },
+  {
+   "n": "51",
+   "pt": "Electrike",
+   "en": "Electrike"
+  },
+  {
+   "n": "52",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "53",
+   "pt": "Blitzle",
+   "en": "Blitzle"
+  },
+  {
+   "n": "54",
+   "pt": "Zebstrika",
+   "en": "Zebstrika"
+  },
+  {
+   "n": "55",
+   "pt": "Joltik",
+   "en": "Joltik"
+  },
+  {
+   "n": "56",
+   "pt": "Galvantula",
+   "en": "Galvantula"
+  },
+  {
+   "n": "57",
+   "pt": "Tynamo",
+   "en": "Tynamo"
+  },
+  {
+   "n": "58",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "59",
+   "pt": "Eelektross",
+   "en": "Eelektross"
+  },
+  {
+   "n": "60",
+   "pt": "Zekrom",
+   "en": "Zekrom"
+  },
+  {
+   "n": "61",
+   "pt": "Zeraora",
+   "en": "Zeraora"
+  },
+  {
+   "n": "62",
+   "pt": "Pincurchin",
+   "en": "Pincurchin"
+  },
+  {
+   "n": "63",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "64",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "65",
+   "pt": "Girafarig",
+   "en": "Girafarig"
+  },
+  {
+   "n": "66",
+   "pt": "Shedinja",
+   "en": "Shedinja"
+  },
+  {
+   "n": "67",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "68",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "69",
+   "pt": "Duskull",
+   "en": "Duskull"
+  },
+  {
+   "n": "70",
+   "pt": "Dusclops",
+   "en": "Dusclops"
+  },
+  {
+   "n": "71",
+   "pt": "Dusknoir",
+   "en": "Dusknoir"
+  },
+  {
+   "n": "72",
+   "pt": "Chimecho",
+   "en": "Chimecho"
+  },
+  {
+   "n": "73",
+   "pt": "Woobat",
+   "en": "Woobat"
+  },
+  {
+   "n": "74",
+   "pt": "Swoobat",
+   "en": "Swoobat"
+  },
+  {
+   "n": "75",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "76",
+   "pt": "Whimsicott",
+   "en": "Whimsicott"
+  },
+  {
+   "n": "77",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "78",
+   "pt": "Xerneas",
+   "en": "Xerneas"
+  },
+  {
+   "n": "79",
+   "pt": "Diancie",
+   "en": "Diancie"
+  },
+  {
+   "n": "80",
+   "pt": "Milcery",
+   "en": "Milcery"
+  },
+  {
+   "n": "81",
+   "pt": "Alcremie",
+   "en": "Alcremie"
+  },
+  {
+   "n": "82",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "83",
+   "pt": "Wooper",
+   "en": "Wooper"
+  },
+  {
+   "n": "84",
+   "pt": "Quagsire",
+   "en": "Quagsire"
+  },
+  {
+   "n": "85",
+   "pt": "Shuckle",
+   "en": "Shuckle"
+  },
+  {
+   "n": "86",
+   "pt": "Phanpy",
+   "en": "Phanpy"
+  },
+  {
+   "n": "87",
+   "pt": "Donphan",
+   "en": "Donphan"
+  },
+  {
+   "n": "88",
+   "pt": "Hitmontop",
+   "en": "Hitmontop"
+  },
+  {
+   "n": "89",
+   "pt": "Regirock",
+   "en": "Regirock"
+  },
+  {
+   "n": "90",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "91",
+   "pt": "Drilbur",
+   "en": "Drilbur"
+  },
+  {
+   "n": "92",
+   "pt": "Terrakion",
+   "en": "Terrakion"
+  },
+  {
+   "n": "93",
+   "pt": "Zygarde",
+   "en": "Zygarde"
+  },
+  {
+   "n": "94",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "95",
+   "pt": "Lycanroc",
+   "en": "Lycanroc"
+  },
+  {
+   "n": "96",
+   "pt": "Mudbray",
+   "en": "Mudbray"
+  },
+  {
+   "n": "97",
+   "pt": "Mudsdale",
+   "en": "Mudsdale"
+  },
+  {
+   "n": "98",
+   "pt": "Coalossal V",
+   "en": "Coalossal V"
+  },
+  {
+   "n": "99",
+   "pt": "Coalossal VMAX",
+   "en": "Coalossal VMAX"
+  },
+  {
+   "n": "100",
+   "pt": "Clobbopus",
+   "en": "Clobbopus"
+  },
+  {
+   "n": "101",
+   "pt": "Grapploct",
+   "en": "Grapploct"
+  },
+  {
+   "n": "102",
+   "pt": "Zamazenta",
+   "en": "Zamazenta"
+  },
+  {
+   "n": "103",
+   "pt": "Poochyena",
+   "en": "Poochyena"
+  },
+  {
+   "n": "104",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "105",
+   "pt": "Sableye",
+   "en": "Sableye"
+  },
+  {
+   "n": "106",
+   "pt": "Drapion V",
+   "en": "Drapion V"
+  },
+  {
+   "n": "107",
+   "pt": "Sandile",
+   "en": "Sandile"
+  },
+  {
+   "n": "108",
+   "pt": "Krokorok",
+   "en": "Krokorok"
+  },
+  {
+   "n": "109",
+   "pt": "Krookodile",
+   "en": "Krookodile"
+  },
+  {
+   "n": "110",
+   "pt": "Trubbish",
+   "en": "Trubbish"
+  },
+  {
+   "n": "111",
+   "pt": "Garbodor",
+   "en": "Garbodor"
+  },
+  {
+   "n": "112",
+   "pt": "Meowth de Galar",
+   "en": "Galarian Meowth"
+  },
+  {
+   "n": "113",
+   "pt": "Perrserker de Galar",
+   "en": "Galarian Perrserker"
+  },
+  {
+   "n": "114",
+   "pt": "Forretress",
+   "en": "Forretress"
+  },
+  {
+   "n": "115",
+   "pt": "Steelix V",
+   "en": "Steelix V"
+  },
+  {
+   "n": "116",
+   "pt": "Beldum",
+   "en": "Beldum"
+  },
+  {
+   "n": "117",
+   "pt": "Metang",
+   "en": "Metang"
+  },
+  {
+   "n": "118",
+   "pt": "Metagross",
+   "en": "Metagross"
+  },
+  {
+   "n": "119",
+   "pt": "Jirachi",
+   "en": "Jirachi"
+  },
+  {
+   "n": "120",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "121",
+   "pt": "Dialga",
+   "en": "Dialga"
+  },
+  {
+   "n": "122",
+   "pt": "Excadrill",
+   "en": "Excadrill"
+  },
+  {
+   "n": "123",
+   "pt": "Ferroseed",
+   "en": "Ferroseed"
+  },
+  {
+   "n": "124",
+   "pt": "Ferrothorn",
+   "en": "Ferrothorn"
+  },
+  {
+   "n": "125",
+   "pt": "Stunfisk de Galar",
+   "en": "Galarian Stunfisk"
+  },
+  {
+   "n": "126",
+   "pt": "Aegislash V",
+   "en": "Aegislash V"
+  },
+  {
+   "n": "127",
+   "pt": "Aegislash VMAX",
+   "en": "Aegislash VMAX"
+  },
+  {
+   "n": "128",
+   "pt": "Magearna",
+   "en": "Magearna"
+  },
+  {
+   "n": "129",
+   "pt": "Duraludon",
+   "en": "Duraludon"
+  },
+  {
+   "n": "130",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "131",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "132",
+   "pt": "Lugia",
+   "en": "Lugia"
+  },
+  {
+   "n": "133",
+   "pt": "Taillow",
+   "en": "Taillow"
+  },
+  {
+   "n": "134",
+   "pt": "Swellow",
+   "en": "Swellow"
+  },
+  {
+   "n": "135",
+   "pt": "Whismur",
+   "en": "Whismur"
+  },
+  {
+   "n": "136",
+   "pt": "Loudred",
+   "en": "Loudred"
+  },
+  {
+   "n": "137",
+   "pt": "Exploud",
+   "en": "Exploud"
+  },
+  {
+   "n": "138",
+   "pt": "Rayquaza",
+   "en": "Rayquaza"
+  },
+  {
+   "n": "139",
+   "pt": "Chatot",
+   "en": "Chatot"
+  },
+  {
+   "n": "140",
+   "pt": "Togekiss V",
+   "en": "Togekiss V"
+  },
+  {
+   "n": "141",
+   "pt": "Togekiss VMAX",
+   "en": "Togekiss VMAX"
+  },
+  {
+   "n": "142",
+   "pt": "Tornadus",
+   "en": "Tornadus"
+  },
+  {
+   "n": "143",
+   "pt": "Pikipek",
+   "en": "Pikipek"
+  },
+  {
+   "n": "144",
+   "pt": "Trumbeak",
+   "en": "Trumbeak"
+  },
+  {
+   "n": "145",
+   "pt": "Toucannon",
+   "en": "Toucannon"
+  },
+  {
+   "n": "146",
+   "pt": "Allister",
+   "en": "Allister"
+  },
+  {
+   "n": "147",
+   "pt": "Bia",
+   "en": "Bea"
+  },
+  {
+   "n": "148",
+   "pt": "Modelo",
+   "en": "Beauty"
+  },
+  {
+   "n": "149",
+   "pt": "Clara Petra",
+   "en": "Cara Liss"
+  },
+  {
+   "n": "150",
+   "pt": "Banho de Circhester",
+   "en": "Circhester Bath"
+  },
+  {
+   "n": "151",
+   "pt": "Drone Rotom",
+   "en": "Drone Rotom"
+  },
+  {
+   "n": "152",
+   "pt": "Medalha do Herói",
+   "en": "Hero's Medal"
+  },
+  {
+   "n": "153",
+   "pt": "Staff da Liga",
+   "en": "League Staff"
+  },
+  {
+   "n": "154",
+   "pt": "Leon",
+   "en": "Leon"
+  },
+  {
+   "n": "155",
+   "pt": "Cápsula de Memória",
+   "en": "Memory Capsule"
+  },
+  {
+   "n": "156",
+   "pt": "Queijo de Moomoo",
+   "en": "Moomoo Cheese"
+  },
+  {
+   "n": "157",
+   "pt": "Vanessa",
+   "en": "Nessa"
+  },
+  {
+   "n": "158",
+   "pt": "Alba",
+   "en": "Opal"
+  },
+  {
+   "n": "159",
+   "pt": "Capacete de Pedra",
+   "en": "Rocky Helmet"
+  },
+  {
+   "n": "160",
+   "pt": "Visão Telescópica",
+   "en": "Telescopic Sight"
+  },
+  {
+   "n": "161",
+   "pt": "Estádio de Wyndon",
+   "en": "Wyndon Stadium"
+  },
+  {
+   "n": "162",
+   "pt": "Energia Grass Aromática",
+   "en": "Aromatic Grass Energy"
+  },
+  {
+   "n": "163",
+   "pt": "Energia Metal Revestida",
+   "en": "Coating Metal Energy"
+  },
+  {
+   "n": "164",
+   "pt": "Energia Fighting Pétrea",
+   "en": "Stone Fighting Energy"
+  },
+  {
+   "n": "165",
+   "pt": "Energia Water Banhada",
+   "en": "Wash Water Energy"
+  },
+  {
+   "n": "166",
+   "pt": "Orbeetle V",
+   "en": "Orbeetle V"
+  },
+  {
+   "n": "167",
+   "pt": "Zarude V",
+   "en": "Zarude V"
+  },
+  {
+   "n": "168",
+   "pt": "Talonflame V",
+   "en": "Talonflame V"
+  },
+  {
+   "n": "169",
+   "pt": "Darmanitan de Galar V",
+   "en": "Galarian Darmanitan V"
+  },
+  {
+   "n": "170",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "171",
+   "pt": "Ampharos V",
+   "en": "Ampharos V"
+  },
+  {
+   "n": "172",
+   "pt": "Alakazam V",
+   "en": "Alakazam V"
+  },
+  {
+   "n": "173",
+   "pt": "Coalossal V",
+   "en": "Coalossal V"
+  },
+  {
+   "n": "174",
+   "pt": "Sirfetch'd de Galar V",
+   "en": "Galarian Sirfetch'd V"
+  },
+  {
+   "n": "175",
+   "pt": "Drapion V",
+   "en": "Drapion V"
+  },
+  {
+   "n": "176",
+   "pt": "Steelix V",
+   "en": "Steelix V"
+  },
+  {
+   "n": "177",
+   "pt": "Aegislash V",
+   "en": "Aegislash V"
+  },
+  {
+   "n": "178",
+   "pt": "Togekiss V",
+   "en": "Togekiss V"
+  },
+  {
+   "n": "179",
+   "pt": "Allister",
+   "en": "Allister"
+  },
+  {
+   "n": "180",
+   "pt": "Bia",
+   "en": "Bea"
+  },
+  {
+   "n": "181",
+   "pt": "Modelo",
+   "en": "Beauty"
+  },
+  {
+   "n": "182",
+   "pt": "Leon",
+   "en": "Leon"
+  },
+  {
+   "n": "183",
+   "pt": "Vanessa",
+   "en": "Nessa"
+  },
+  {
+   "n": "184",
+   "pt": "Alba",
+   "en": "Opal"
+  },
+  {
+   "n": "185",
+   "pt": "Dama do Centro Pokémon",
+   "en": "Pokémon Center Lady"
+  },
+  {
+   "n": "186",
+   "pt": "Orbeetle VMAX",
+   "en": "Orbeetle VMAX"
+  },
+  {
+   "n": "187",
+   "pt": "Darmanitan de Galar VMAX",
+   "en": "Galarian Darmanitan VMAX"
+  },
+  {
+   "n": "188",
+   "pt": "Pikachu VMAX",
+   "en": "Pikachu VMAX"
+  },
+  {
+   "n": "189",
+   "pt": "Coalossal VMAX",
+   "en": "Coalossal VMAX"
+  },
+  {
+   "n": "190",
+   "pt": "Aegislash VMAX",
+   "en": "Aegislash VMAX"
+  },
+  {
+   "n": "191",
+   "pt": "Togekiss VMAX",
+   "en": "Togekiss VMAX"
+  },
+  {
+   "n": "192",
+   "pt": "Allister",
+   "en": "Allister"
+  },
+  {
+   "n": "193",
+   "pt": "Bia",
+   "en": "Bea"
+  },
+  {
+   "n": "194",
+   "pt": "Modelo",
+   "en": "Beauty"
+  },
+  {
+   "n": "195",
+   "pt": "Leon",
+   "en": "Leon"
+  },
+  {
+   "n": "196",
+   "pt": "Vanessa",
+   "en": "Nessa"
+  },
+  {
+   "n": "197",
+   "pt": "Alba",
+   "en": "Opal"
+  },
+  {
+   "n": "198",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "199",
+   "pt": "Oranguru",
+   "en": "Oranguru"
+  },
+  {
+   "n": "200",
+   "pt": "Capa da Determinação",
+   "en": "Cape of Toughness"
+  },
+  {
+   "n": "201",
+   "pt": "Medalha do Herói",
+   "en": "Hero's Medal"
+  },
+  {
+   "n": "202",
+   "pt": "Cápsula de Memória",
+   "en": "Memory Capsule"
+  },
+  {
+   "n": "203",
+   "pt": "Visão Telescópica",
+   "en": "Telescopic Sight"
+  }
+ ]
+}

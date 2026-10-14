@@ -1,0 +1,1484 @@
+{
+ "set": "me2pt5",
+ "nome_pt": "Heróis Excelsos",
+ "nome_en": "Ascended Heroes",
+ "total": 295,
+ "oficial": 217,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Oddish da Érica",
+   "en": "Erika's Oddish"
+  },
+  {
+   "n": "002",
+   "pt": "Gloom da Érica",
+   "en": "Erika's Gloom"
+  },
+  {
+   "n": "003",
+   "pt": "Vileplume ex da Érica",
+   "en": "Erika's Vileplume ex"
+  },
+  {
+   "n": "004",
+   "pt": "Bellsprout da Érica",
+   "en": "Erika's Bellsprout"
+  },
+  {
+   "n": "005",
+   "pt": "Weepinbell da Érica",
+   "en": "Erika's Weepinbell"
+  },
+  {
+   "n": "006",
+   "pt": "Victreebel da Érica",
+   "en": "Erika's Victreebel"
+  },
+  {
+   "n": "007",
+   "pt": "Tangela da Érica",
+   "en": "Erika's Tangela"
+  },
+  {
+   "n": "008",
+   "pt": "Chikorita",
+   "en": "Chikorita"
+  },
+  {
+   "n": "009",
+   "pt": "Bayleef",
+   "en": "Bayleef"
+  },
+  {
+   "n": "010",
+   "pt": "Mega Meganium ex",
+   "en": "Mega Meganium ex"
+  },
+  {
+   "n": "011",
+   "pt": "Wurmple",
+   "en": "Wurmple"
+  },
+  {
+   "n": "012",
+   "pt": "Silcoon",
+   "en": "Silcoon"
+  },
+  {
+   "n": "013",
+   "pt": "Beautifly",
+   "en": "Beautifly"
+  },
+  {
+   "n": "014",
+   "pt": "Cascoon",
+   "en": "Cascoon"
+  },
+  {
+   "n": "015",
+   "pt": "Dustox",
+   "en": "Dustox"
+  },
+  {
+   "n": "016",
+   "pt": "Budew",
+   "en": "Budew"
+  },
+  {
+   "n": "017",
+   "pt": "Grubbin",
+   "en": "Grubbin"
+  },
+  {
+   "n": "018",
+   "pt": "Tarountula da Equipe Rocket",
+   "en": "Team Rocket's Tarountula"
+  },
+  {
+   "n": "019",
+   "pt": "Spidops da Equipe Rocket",
+   "en": "Team Rocket's Spidops"
+  },
+  {
+   "n": "020",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "021",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "022",
+   "pt": "Mega Charizard Y ex",
+   "en": "Mega Charizard Y ex"
+  },
+  {
+   "n": "023",
+   "pt": "Slugma do Ethan",
+   "en": "Ethan's Slugma"
+  },
+  {
+   "n": "024",
+   "pt": "Magcargo do Ethan",
+   "en": "Ethan's Magcargo"
+  },
+  {
+   "n": "025",
+   "pt": "Entei",
+   "en": "Entei"
+  },
+  {
+   "n": "026",
+   "pt": "Ho-Oh ex do Ethan",
+   "en": "Ethan's Ho-Oh ex"
+  },
+  {
+   "n": "027",
+   "pt": "Numel",
+   "en": "Numel"
+  },
+  {
+   "n": "028",
+   "pt": "Camerupt",
+   "en": "Camerupt"
+  },
+  {
+   "n": "029",
+   "pt": "Tepig",
+   "en": "Tepig"
+  },
+  {
+   "n": "030",
+   "pt": "Pignite",
+   "en": "Pignite"
+  },
+  {
+   "n": "031",
+   "pt": "Mega Emboar ex",
+   "en": "Mega Emboar ex"
+  },
+  {
+   "n": "032",
+   "pt": "Darumaka do N",
+   "en": "N's Darumaka"
+  },
+  {
+   "n": "033",
+   "pt": "Darmanitan do N",
+   "en": "N's Darmanitan"
+  },
+  {
+   "n": "034",
+   "pt": "Salandit",
+   "en": "Salandit"
+  },
+  {
+   "n": "035",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "036",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "037",
+   "pt": "Raboot",
+   "en": "Raboot"
+  },
+  {
+   "n": "038",
+   "pt": "Cinderace ex",
+   "en": "Cinderace ex"
+  },
+  {
+   "n": "039",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "040",
+   "pt": "Golduck",
+   "en": "Golduck"
+  },
+  {
+   "n": "041",
+   "pt": "Totodile",
+   "en": "Totodile"
+  },
+  {
+   "n": "042",
+   "pt": "Croconaw",
+   "en": "Croconaw"
+  },
+  {
+   "n": "043",
+   "pt": "Mega Feraligatr ex",
+   "en": "Mega Feraligatr ex"
+  },
+  {
+   "n": "044",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "045",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "046",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "047",
+   "pt": "Mega Froslass ex",
+   "en": "Mega Froslass ex"
+  },
+  {
+   "n": "048",
+   "pt": "Regice ex",
+   "en": "Regice ex"
+  },
+  {
+   "n": "049",
+   "pt": "Vanillite do N",
+   "en": "N's Vanillite"
+  },
+  {
+   "n": "050",
+   "pt": "Vanillish do N",
+   "en": "N's Vanillish"
+  },
+  {
+   "n": "051",
+   "pt": "Vanilluxe do N",
+   "en": "N's Vanilluxe"
+  },
+  {
+   "n": "052",
+   "pt": "Snom",
+   "en": "Snom"
+  },
+  {
+   "n": "053",
+   "pt": "Frosmoth",
+   "en": "Frosmoth"
+  },
+  {
+   "n": "054",
+   "pt": "Glastrier",
+   "en": "Glastrier"
+  },
+  {
+   "n": "055",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "056",
+   "pt": "Raichu",
+   "en": "Raichu"
+  },
+  {
+   "n": "057",
+   "pt": "Pikachu ex",
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "058",
+   "pt": "Voltorb ex",
+   "en": "Voltorb ex"
+  },
+  {
+   "n": "059",
+   "pt": "Tynamo",
+   "en": "Tynamo"
+  },
+  {
+   "n": "060",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "061",
+   "pt": "Mega Eelektross ex",
+   "en": "Mega Eelektross ex"
+  },
+  {
+   "n": "062",
+   "pt": "Stunfisk",
+   "en": "Stunfisk"
+  },
+  {
+   "n": "063",
+   "pt": "Helioptile",
+   "en": "Helioptile"
+  },
+  {
+   "n": "064",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "065",
+   "pt": "Charjabug",
+   "en": "Charjabug"
+  },
+  {
+   "n": "066",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "067",
+   "pt": "Tapu Koko",
+   "en": "Tapu Koko"
+  },
+  {
+   "n": "068",
+   "pt": "Pincurchin ex do Lupo",
+   "en": "Hop's Pincurchin ex"
+  },
+  {
+   "n": "069",
+   "pt": "Tadbulb da Kissera",
+   "en": "Iono's Tadbulb"
+  },
+  {
+   "n": "070",
+   "pt": "Bellibolt ex da Kissera",
+   "en": "Iono's Bellibolt ex"
+  },
+  {
+   "n": "071",
+   "pt": "Wattrel da Kissera",
+   "en": "Iono's Wattrel"
+  },
+  {
+   "n": "072",
+   "pt": "Kilowattrel da Kissera",
+   "en": "Iono's Kilowattrel"
+  },
+  {
+   "n": "073",
+   "pt": "Miraidon ex",
+   "en": "Miraidon ex"
+  },
+  {
+   "n": "074",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "075",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "076",
+   "pt": "Clefairy ex da Lílian",
+   "en": "Lillie's Clefairy ex"
+  },
+  {
+   "n": "077",
+   "pt": "Exeggcute da Equipe Rocket",
+   "en": "Team Rocket's Exeggcute"
+  },
+  {
+   "n": "078",
+   "pt": "Exeggutor da Equipe Rocket",
+   "en": "Team Rocket's Exeggutor"
+  },
+  {
+   "n": "079",
+   "pt": "Mewtwo ex da Equipe Rocket",
+   "en": "Team Rocket's Mewtwo ex"
+  },
+  {
+   "n": "080",
+   "pt": "Togepi",
+   "en": "Togepi"
+  },
+  {
+   "n": "081",
+   "pt": "Togetic",
+   "en": "Togetic"
+  },
+  {
+   "n": "082",
+   "pt": "Togekiss",
+   "en": "Togekiss"
+  },
+  {
+   "n": "083",
+   "pt": "Marill",
+   "en": "Marill"
+  },
+  {
+   "n": "084",
+   "pt": "Azumarill ex",
+   "en": "Azumarill ex"
+  },
+  {
+   "n": "085",
+   "pt": "Misdreavus",
+   "en": "Misdreavus"
+  },
+  {
+   "n": "086",
+   "pt": "Mismagius",
+   "en": "Mismagius"
+  },
+  {
+   "n": "087",
+   "pt": "Ralts",
+   "en": "Ralts"
+  },
+  {
+   "n": "088",
+   "pt": "Kirlia",
+   "en": "Kirlia"
+  },
+  {
+   "n": "089",
+   "pt": "Mega Gardevoir ex",
+   "en": "Mega Gardevoir ex"
+  },
+  {
+   "n": "090",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "091",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "092",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "093",
+   "pt": "Swirlix",
+   "en": "Swirlix"
+  },
+  {
+   "n": "094",
+   "pt": "Slurpuff",
+   "en": "Slurpuff"
+  },
+  {
+   "n": "095",
+   "pt": "Phantump do Lupo",
+   "en": "Hop's Phantump"
+  },
+  {
+   "n": "096",
+   "pt": "Trevenant do Lupo",
+   "en": "Hop's Trevenant"
+  },
+  {
+   "n": "097",
+   "pt": "Mimikyu da Equipe Rocket",
+   "en": "Team Rocket's Mimikyu"
+  },
+  {
+   "n": "098",
+   "pt": "Spectrier",
+   "en": "Spectrier"
+  },
+  {
+   "n": "099",
+   "pt": "Munkidori",
+   "en": "Munkidori"
+  },
+  {
+   "n": "100",
+   "pt": "Diglett da Equipe Rocket",
+   "en": "Team Rocket's Diglett"
+  },
+  {
+   "n": "101",
+   "pt": "Dugtrio da Equipe Rocket",
+   "en": "Team Rocket's Dugtrio"
+  },
+  {
+   "n": "102",
+   "pt": "Hitmontop",
+   "en": "Hitmontop"
+  },
+  {
+   "n": "103",
+   "pt": "Meditite",
+   "en": "Meditite"
+  },
+  {
+   "n": "104",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "105",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "106",
+   "pt": "Solrock",
+   "en": "Solrock"
+  },
+  {
+   "n": "107",
+   "pt": "Regirock ex",
+   "en": "Regirock ex"
+  },
+  {
+   "n": "108",
+   "pt": "Groudon",
+   "en": "Groudon"
+  },
+  {
+   "n": "109",
+   "pt": "Gible da Cíntia",
+   "en": "Cynthia's Gible"
+  },
+  {
+   "n": "110",
+   "pt": "Gabite da Cíntia",
+   "en": "Cynthia's Gabite"
+  },
+  {
+   "n": "111",
+   "pt": "Garchomp ex da Cíntia",
+   "en": "Cynthia's Garchomp ex"
+  },
+  {
+   "n": "112",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "113",
+   "pt": "Mega Lucario ex",
+   "en": "Mega Lucario ex"
+  },
+  {
+   "n": "114",
+   "pt": "Stunfisk ex",
+   "en": "Stunfisk ex"
+  },
+  {
+   "n": "115",
+   "pt": "Pancham",
+   "en": "Pancham"
+  },
+  {
+   "n": "116",
+   "pt": "Mega Hawlucha ex",
+   "en": "Mega Hawlucha ex"
+  },
+  {
+   "n": "117",
+   "pt": "Carbink",
+   "en": "Carbink"
+  },
+  {
+   "n": "118",
+   "pt": "Rolycoly",
+   "en": "Rolycoly"
+  },
+  {
+   "n": "119",
+   "pt": "Carkol",
+   "en": "Carkol"
+  },
+  {
+   "n": "120",
+   "pt": "Coalossal",
+   "en": "Coalossal"
+  },
+  {
+   "n": "121",
+   "pt": "Koraidon ex",
+   "en": "Koraidon ex"
+  },
+  {
+   "n": "122",
+   "pt": "Okidogi",
+   "en": "Okidogi"
+  },
+  {
+   "n": "123",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "124",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "125",
+   "pt": "Mega Gengar ex",
+   "en": "Mega Gengar ex"
+  },
+  {
+   "n": "126",
+   "pt": "Murkrow da Equipe Rocket",
+   "en": "Team Rocket's Murkrow"
+  },
+  {
+   "n": "127",
+   "pt": "Honchkrow da Equipe Rocket",
+   "en": "Team Rocket's Honchkrow"
+  },
+  {
+   "n": "128",
+   "pt": "Poochyena",
+   "en": "Poochyena"
+  },
+  {
+   "n": "129",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "130",
+   "pt": "Zigzagoon de Galar",
+   "en": "Galarian Zigzagoon"
+  },
+  {
+   "n": "131",
+   "pt": "Linoone de Galar",
+   "en": "Galarian Linoone"
+  },
+  {
+   "n": "132",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "133",
+   "pt": "Spiritomb da Cíntia",
+   "en": "Cynthia's Spiritomb"
+  },
+  {
+   "n": "134",
+   "pt": "Scraggy",
+   "en": "Scraggy"
+  },
+  {
+   "n": "135",
+   "pt": "Mega Scrafty ex",
+   "en": "Mega Scrafty ex"
+  },
+  {
+   "n": "136",
+   "pt": "Zorua do N",
+   "en": "N's Zorua"
+  },
+  {
+   "n": "137",
+   "pt": "Zoroark ex do N",
+   "en": "N's Zoroark ex"
+  },
+  {
+   "n": "138",
+   "pt": "Vullaby",
+   "en": "Vullaby"
+  },
+  {
+   "n": "139",
+   "pt": "Mandibuzz ex",
+   "en": "Mandibuzz ex"
+  },
+  {
+   "n": "140",
+   "pt": "Pangoro",
+   "en": "Pangoro"
+  },
+  {
+   "n": "141",
+   "pt": "Hoopa",
+   "en": "Hoopa"
+  },
+  {
+   "n": "142",
+   "pt": "Fezandipiti ex",
+   "en": "Fezandipiti ex"
+  },
+  {
+   "n": "143",
+   "pt": "Pecharunt",
+   "en": "Pecharunt"
+  },
+  {
+   "n": "144",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "145",
+   "pt": "Registeel ex",
+   "en": "Registeel ex"
+  },
+  {
+   "n": "146",
+   "pt": "Pawniard",
+   "en": "Pawniard"
+  },
+  {
+   "n": "147",
+   "pt": "Bisharp",
+   "en": "Bisharp"
+  },
+  {
+   "n": "148",
+   "pt": "Kingambit",
+   "en": "Kingambit"
+  },
+  {
+   "n": "149",
+   "pt": "Togedemaru ex",
+   "en": "Togedemaru ex"
+  },
+  {
+   "n": "150",
+   "pt": "Dratini",
+   "en": "Dratini"
+  },
+  {
+   "n": "151",
+   "pt": "Dragonair",
+   "en": "Dragonair"
+  },
+  {
+   "n": "152",
+   "pt": "Mega Dragonite ex",
+   "en": "Mega Dragonite ex"
+  },
+  {
+   "n": "153",
+   "pt": "Rayquaza",
+   "en": "Rayquaza"
+  },
+  {
+   "n": "154",
+   "pt": "Reshiram do N",
+   "en": "N's Reshiram"
+  },
+  {
+   "n": "155",
+   "pt": "Zekrom do N",
+   "en": "N's Zekrom"
+  },
+  {
+   "n": "156",
+   "pt": "Noibat",
+   "en": "Noibat"
+  },
+  {
+   "n": "157",
+   "pt": "Noivern",
+   "en": "Noivern"
+  },
+  {
+   "n": "158",
+   "pt": "Dreepy",
+   "en": "Dreepy"
+  },
+  {
+   "n": "159",
+   "pt": "Drakloak",
+   "en": "Drakloak"
+  },
+  {
+   "n": "160",
+   "pt": "Dragapult ex",
+   "en": "Dragapult ex"
+  },
+  {
+   "n": "161",
+   "pt": "Meowth da Equipe Rocket",
+   "en": "Team Rocket's Meowth"
+  },
+  {
+   "n": "162",
+   "pt": "Kangaskhan ex da Equipe Rocket",
+   "en": "Team Rocket's Kangaskhan ex"
+  },
+  {
+   "n": "163",
+   "pt": "Dunsparce do Lauro",
+   "en": "Larry's Dunsparce"
+  },
+  {
+   "n": "164",
+   "pt": "Dudunsparce ex do Lauro",
+   "en": "Larry's Dudunsparce ex"
+  },
+  {
+   "n": "165",
+   "pt": "Skitty",
+   "en": "Skitty"
+  },
+  {
+   "n": "166",
+   "pt": "Delcatty",
+   "en": "Delcatty"
+  },
+  {
+   "n": "167",
+   "pt": "Zangoose ex",
+   "en": "Zangoose ex"
+  },
+  {
+   "n": "168",
+   "pt": "Starly do Lauro",
+   "en": "Larry's Starly"
+  },
+  {
+   "n": "169",
+   "pt": "Staravia do Lauro",
+   "en": "Larry's Staravia"
+  },
+  {
+   "n": "170",
+   "pt": "Staraptor do Lauro",
+   "en": "Larry's Staraptor"
+  },
+  {
+   "n": "171",
+   "pt": "Rotom Ventilador",
+   "en": "Fan Rotom"
+  },
+  {
+   "n": "172",
+   "pt": "Mega Audino ex",
+   "en": "Mega Audino ex"
+  },
+  {
+   "n": "173",
+   "pt": "Rufflet do Lauro",
+   "en": "Larry's Rufflet"
+  },
+  {
+   "n": "174",
+   "pt": "Braviary do Lauro",
+   "en": "Larry's Braviary"
+  },
+  {
+   "n": "175",
+   "pt": "Komala do Lauro",
+   "en": "Larry's Komala"
+  },
+  {
+   "n": "176",
+   "pt": "Drampa",
+   "en": "Drampa"
+  },
+  {
+   "n": "177",
+   "pt": "Cramorant do Lupo",
+   "en": "Hop's Cramorant"
+  },
+  {
+   "n": "178",
+   "pt": "Terapagos",
+   "en": "Terapagos"
+  },
+  {
+   "n": "179",
+   "pt": "Terapagos ex",
+   "en": "Terapagos ex"
+  },
+  {
+   "n": "180",
+   "pt": "Traquinagem da Acerola",
+   "en": "Acerola's Mischief"
+  },
+  {
+   "n": "181",
+   "pt": "Balão de Ar",
+   "en": "Air Balloon"
+  },
+  {
+   "n": "182",
+   "pt": "Amor e Paz",
+   "en": "Anthea & Concordia"
+  },
+  {
+   "n": "183",
+   "pt": "Ordem da Chefia",
+   "en": "Boss's Orders"
+  },
+  {
+   "n": "184",
+   "pt": "Poffin de Colega",
+   "en": "Buddy-Buddy Poffin"
+  },
+  {
+   "n": "185",
+   "pt": "Canari",
+   "en": "Canari"
+  },
+  {
+   "n": "186",
+   "pt": "Contra-ataque de Alcance",
+   "en": "Counter Gain"
+  },
+  {
+   "n": "187",
+   "pt": "Gongo de Luta",
+   "en": "Fighting Gong"
+  },
+  {
+   "n": "188",
+   "pt": "Floresta da Vitalidade",
+   "en": "Forest of Vitality"
+  },
+  {
+   "n": "189",
+   "pt": "Trompete de Vidro",
+   "en": "Glass Trumpet"
+  },
+  {
+   "n": "190",
+   "pt": "Espírito de Luta da Iris",
+   "en": "Iris's Fighting Spirit"
+  },
+  {
+   "n": "191",
+   "pt": "Esfera de Luz",
+   "en": "Light Ball"
+  },
+  {
+   "n": "192",
+   "pt": "Determinação da Lílian",
+   "en": "Lillie's Determination"
+  },
+  {
+   "n": "193",
+   "pt": "Megassinal",
+   "en": "Mega Signal"
+  },
+  {
+   "n": "194",
+   "pt": "Jardim Misterioso",
+   "en": "Mystery Garden"
+  },
+  {
+   "n": "195",
+   "pt": "PP Up do N",
+   "en": "N's PP Up"
+  },
+  {
+   "n": "196",
+   "pt": "Maca Noturna",
+   "en": "Night Stretcher"
+  },
+  {
+   "n": "197",
+   "pt": "Mina Noturna",
+   "en": "Nighttime Mine"
+  },
+  {
+   "n": "198",
+   "pt": "Poké Tablet",
+   "en": "Poké Pad"
+  },
+  {
+   "n": "199",
+   "pt": "Suplemento Premium Pro",
+   "en": "Premium Power Pro"
+  },
+  {
+   "n": "200",
+   "pt": "Surfista",
+   "en": "Surfer"
+  },
+  {
+   "n": "201",
+   "pt": "Apollo da Equipe Rocket",
+   "en": "Team Rocket's Archer"
+  },
+  {
+   "n": "202",
+   "pt": "Athena da Equipe Rocket",
+   "en": "Team Rocket's Ariana"
+  },
+  {
+   "n": "203",
+   "pt": "Fábrica da Equipe Rocket",
+   "en": "Team Rocket's Factory"
+  },
+  {
+   "n": "204",
+   "pt": "Giovanni da Equipe Rocket",
+   "en": "Team Rocket's Giovanni"
+  },
+  {
+   "n": "205",
+   "pt": "Grande Bola da Equipe Rocket",
+   "en": "Team Rocket's Great Ball"
+  },
+  {
+   "n": "206",
+   "pt": "Hipnotizador da Equipe Rocket",
+   "en": "Team Rocket's Hypnotizer"
+  },
+  {
+   "n": "207",
+   "pt": "Petrel da Equipe Rocket",
+   "en": "Team Rocket's Petrel"
+  },
+  {
+   "n": "208",
+   "pt": "Próton da Equipe Rocket",
+   "en": "Team Rocket's Proton"
+  },
+  {
+   "n": "209",
+   "pt": "Transmissor da Equipe Rocket",
+   "en": "Team Rocket's Transceiver"
+  },
+  {
+   "n": "210",
+   "pt": "Torre de Vigia da Equipe Rocket",
+   "en": "Team Rocket's Watchtower"
+  },
+  {
+   "n": "211",
+   "pt": "Escama Espessa",
+   "en": "Thick Scale"
+  },
+  {
+   "n": "212",
+   "pt": "Sucateador de Ferramentas",
+   "en": "Tool Scrapper"
+  },
+  {
+   "n": "213",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "214",
+   "pt": "Urbano",
+   "en": "Urbain"
+  },
+  {
+   "n": "215",
+   "pt": "Garçonete",
+   "en": "Waitress"
+  },
+  {
+   "n": "216",
+   "pt": "Energia de Prisma",
+   "en": "Prism Energy"
+  },
+  {
+   "n": "217",
+   "pt": "Energia da Equipe Rocket",
+   "en": "Team Rocket's Energy"
+  },
+  {
+   "n": "218",
+   "pt": "Tangela da Érica",
+   "en": "Erika's Tangela"
+  },
+  {
+   "n": "219",
+   "pt": "Beautifly",
+   "en": "Beautifly"
+  },
+  {
+   "n": "220",
+   "pt": "Dustox",
+   "en": "Dustox"
+  },
+  {
+   "n": "221",
+   "pt": "Budew",
+   "en": "Budew"
+  },
+  {
+   "n": "222",
+   "pt": "Magcargo do Ethan",
+   "en": "Ethan's Magcargo"
+  },
+  {
+   "n": "223",
+   "pt": "Numel",
+   "en": "Numel"
+  },
+  {
+   "n": "224",
+   "pt": "Salazzle",
+   "en": "Salazzle"
+  },
+  {
+   "n": "225",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "226",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "227",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "228",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "229",
+   "pt": "Heliolisk",
+   "en": "Heliolisk"
+  },
+  {
+   "n": "230",
+   "pt": "Vikavolt",
+   "en": "Vikavolt"
+  },
+  {
+   "n": "231",
+   "pt": "Wattrel da Kissera",
+   "en": "Iono's Wattrel"
+  },
+  {
+   "n": "232",
+   "pt": "Marill",
+   "en": "Marill"
+  },
+  {
+   "n": "233",
+   "pt": "Misdreavus",
+   "en": "Misdreavus"
+  },
+  {
+   "n": "234",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "235",
+   "pt": "Togekiss",
+   "en": "Togekiss"
+  },
+  {
+   "n": "236",
+   "pt": "Slurpuff",
+   "en": "Slurpuff"
+  },
+  {
+   "n": "237",
+   "pt": "Trevenant do Lupo",
+   "en": "Hop's Trevenant"
+  },
+  {
+   "n": "238",
+   "pt": "Mimikyu da Equipe Rocket",
+   "en": "Team Rocket's Mimikyu"
+  },
+  {
+   "n": "239",
+   "pt": "Dugtrio da Equipe Rocket",
+   "en": "Team Rocket's Dugtrio"
+  },
+  {
+   "n": "240",
+   "pt": "Hitmontop",
+   "en": "Hitmontop"
+  },
+  {
+   "n": "241",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "242",
+   "pt": "Carbink",
+   "en": "Carbink"
+  },
+  {
+   "n": "243",
+   "pt": "Mightyena",
+   "en": "Mightyena"
+  },
+  {
+   "n": "244",
+   "pt": "Spiritomb da Cíntia",
+   "en": "Cynthia's Spiritomb"
+  },
+  {
+   "n": "245",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "246",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "247",
+   "pt": "Dreepy",
+   "en": "Dreepy"
+  },
+  {
+   "n": "248",
+   "pt": "Drakloak",
+   "en": "Drakloak"
+  },
+  {
+   "n": "249",
+   "pt": "Staraptor do Lauro",
+   "en": "Larry's Staraptor"
+  },
+  {
+   "n": "250",
+   "pt": "Rotom Ventilador",
+   "en": "Fan Rotom"
+  },
+  {
+   "n": "251",
+   "pt": "Sprigatito ex",
+   "en": "Sprigatito ex"
+  },
+  {
+   "n": "252",
+   "pt": "Stunfisk ex",
+   "en": "Stunfisk ex"
+  },
+  {
+   "n": "253",
+   "pt": "Mega Audino ex",
+   "en": "Mega Audino ex"
+  },
+  {
+   "n": "254",
+   "pt": "Amor e Paz",
+   "en": "Anthea & Concordia"
+  },
+  {
+   "n": "255",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "256",
+   "pt": "Ordem da Chefia",
+   "en": "Boss's Orders"
+  },
+  {
+   "n": "257",
+   "pt": "Canari",
+   "en": "Canari"
+  },
+  {
+   "n": "258",
+   "pt": "Cheren",
+   "en": "Cheren"
+  },
+  {
+   "n": "259",
+   "pt": "Contra-ataque de Alcance",
+   "en": "Counter Gain"
+  },
+  {
+   "n": "260",
+   "pt": "Trompete de Vidro",
+   "en": "Glass Trumpet"
+  },
+  {
+   "n": "261",
+   "pt": "Torre de Interferência",
+   "en": "Jamming Tower"
+  },
+  {
+   "n": "262",
+   "pt": "PP Up do N",
+   "en": "N's PP Up"
+  },
+  {
+   "n": "263",
+   "pt": "Transmissor da Equipe Rocket",
+   "en": "Team Rocket's Transceiver"
+  },
+  {
+   "n": "264",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "265",
+   "pt": "Mega Froslass ex",
+   "en": "Mega Froslass ex"
+  },
+  {
+   "n": "266",
+   "pt": "Mega Eelektross ex",
+   "en": "Mega Eelektross ex"
+  },
+  {
+   "n": "267",
+   "pt": "Mega Diancie ex",
+   "en": "Mega Diancie ex"
+  },
+  {
+   "n": "268",
+   "pt": "Mega Hawlucha ex",
+   "en": "Mega Hawlucha ex"
+  },
+  {
+   "n": "269",
+   "pt": "Mega Gengar ex",
+   "en": "Mega Gengar ex"
+  },
+  {
+   "n": "270",
+   "pt": "Mega Scrafty ex",
+   "en": "Mega Scrafty ex"
+  },
+  {
+   "n": "271",
+   "pt": "Mega Dragonite ex",
+   "en": "Mega Dragonite ex"
+  },
+  {
+   "n": "272",
+   "pt": "Mega Meganium ex",
+   "en": "Mega Meganium ex"
+  },
+  {
+   "n": "273",
+   "pt": "Mega Emboar ex",
+   "en": "Mega Emboar ex"
+  },
+  {
+   "n": "274",
+   "pt": "Mega Feraligatr ex",
+   "en": "Mega Feraligatr ex"
+  },
+  {
+   "n": "275",
+   "pt": "Mega Froslass ex",
+   "en": "Mega Froslass ex"
+  },
+  {
+   "n": "276",
+   "pt": "Pikachu ex",
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "277",
+   "pt": "Pikachu ex",
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "278",
+   "pt": "Mega Eelektross ex",
+   "en": "Mega Eelektross ex"
+  },
+  {
+   "n": "279",
+   "pt": "Bellibolt ex da Kissera",
+   "en": "Iono's Bellibolt ex"
+  },
+  {
+   "n": "280",
+   "pt": "Clefairy ex da Lílian",
+   "en": "Lillie's Clefairy ex"
+  },
+  {
+   "n": "281",
+   "pt": "Mewtwo ex da Equipe Rocket",
+   "en": "Team Rocket's Mewtwo ex"
+  },
+  {
+   "n": "282",
+   "pt": "Mega Diancie ex",
+   "en": "Mega Diancie ex"
+  },
+  {
+   "n": "283",
+   "pt": "Mega Hawlucha ex",
+   "en": "Mega Hawlucha ex"
+  },
+  {
+   "n": "284",
+   "pt": "Mega Gengar ex",
+   "en": "Mega Gengar ex"
+  },
+  {
+   "n": "285",
+   "pt": "Mega Scrafty ex",
+   "en": "Mega Scrafty ex"
+  },
+  {
+   "n": "286",
+   "pt": "Zoroark ex do N",
+   "en": "N's Zoroark ex"
+  },
+  {
+   "n": "287",
+   "pt": "Grimmsnarl ex da Marine",
+   "en": "Marnie's Grimmsnarl ex"
+  },
+  {
+   "n": "288",
+   "pt": "Fezandipiti ex",
+   "en": "Fezandipiti ex"
+  },
+  {
+   "n": "289",
+   "pt": "Metagross ex do Steven",
+   "en": "Steven's Metagross ex"
+  },
+  {
+   "n": "290",
+   "pt": "Mega Dragonite ex",
+   "en": "Mega Dragonite ex"
+  },
+  {
+   "n": "291",
+   "pt": "Canari",
+   "en": "Canari"
+  },
+  {
+   "n": "292",
+   "pt": "Espírito de Luta da Iris",
+   "en": "Iris's Fighting Spirit"
+  },
+  {
+   "n": "293",
+   "pt": "Surfista",
+   "en": "Surfer"
+  },
+  {
+   "n": "294",
+   "pt": "Mega Charizard Y ex",
+   "en": "Mega Charizard Y ex"
+  },
+  {
+   "n": "295",
+   "pt": "Mega Dragonite ex",
+   "en": "Mega Dragonite ex"
+  }
+ ]
+}

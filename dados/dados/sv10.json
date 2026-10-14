@@ -1,0 +1,1229 @@
+{
+ "set": "sv10",
+ "nome_pt": "Rivais Predestinados",
+ "nome_en": "Destined Rivals",
+ "total": 244,
+ "oficial": 182,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Pinsir do Ethan",
+   "en": "Ethan's Pinsir"
+  },
+  {
+   "n": "002",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "003",
+   "pt": "Yanmega ex",
+   "en": "Yanmega ex"
+  },
+  {
+   "n": "004",
+   "pt": "Pineco",
+   "en": "Pineco"
+  },
+  {
+   "n": "005",
+   "pt": "Shroomish",
+   "en": "Shroomish"
+  },
+  {
+   "n": "006",
+   "pt": "Breloom",
+   "en": "Breloom"
+  },
+  {
+   "n": "007",
+   "pt": "Roselia da Cíntia",
+   "en": "Cynthia's Roselia"
+  },
+  {
+   "n": "008",
+   "pt": "Roserade da Cíntia",
+   "en": "Cynthia's Roserade"
+  },
+  {
+   "n": "009",
+   "pt": "Rotom Corte",
+   "en": "Mow Rotom"
+  },
+  {
+   "n": "010",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "011",
+   "pt": "Dwebble",
+   "en": "Dwebble"
+  },
+  {
+   "n": "012",
+   "pt": "Crustle",
+   "en": "Crustle"
+  },
+  {
+   "n": "013",
+   "pt": "Fomantis",
+   "en": "Fomantis"
+  },
+  {
+   "n": "014",
+   "pt": "Lurantis",
+   "en": "Lurantis"
+  },
+  {
+   "n": "015",
+   "pt": "Blipbug da Equipe Rocket",
+   "en": "Team Rocket's Blipbug"
+  },
+  {
+   "n": "016",
+   "pt": "Applin",
+   "en": "Applin"
+  },
+  {
+   "n": "017",
+   "pt": "Dipplin",
+   "en": "Dipplin"
+  },
+  {
+   "n": "018",
+   "pt": "Hydrapple",
+   "en": "Hydrapple"
+  },
+  {
+   "n": "019",
+   "pt": "Tarountula da Equipe Rocket",
+   "en": "Team Rocket's Tarountula"
+  },
+  {
+   "n": "020",
+   "pt": "Spidops da Equipe Rocket",
+   "en": "Team Rocket's Spidops"
+  },
+  {
+   "n": "021",
+   "pt": "Smoliv",
+   "en": "Smoliv"
+  },
+  {
+   "n": "022",
+   "pt": "Dolliv",
+   "en": "Dolliv"
+  },
+  {
+   "n": "023",
+   "pt": "Arboliva ex",
+   "en": "Arboliva ex"
+  },
+  {
+   "n": "024",
+   "pt": "Rellor",
+   "en": "Rellor"
+  },
+  {
+   "n": "025",
+   "pt": "Rabsca ex",
+   "en": "Rabsca ex"
+  },
+  {
+   "n": "026",
+   "pt": "Ogerpon Máscara Turquesa",
+   "en": "Teal Mask Ogerpon"
+  },
+  {
+   "n": "027",
+   "pt": "Growlithe",
+   "en": "Growlithe"
+  },
+  {
+   "n": "028",
+   "pt": "Arcanine",
+   "en": "Arcanine"
+  },
+  {
+   "n": "029",
+   "pt": "Ponyta",
+   "en": "Ponyta"
+  },
+  {
+   "n": "030",
+   "pt": "Rapidash",
+   "en": "Rapidash"
+  },
+  {
+   "n": "031",
+   "pt": "Moltres ex da Equipe Rocket",
+   "en": "Team Rocket's Moltres ex"
+  },
+  {
+   "n": "032",
+   "pt": "Cyndaquil do Ethan",
+   "en": "Ethan's Cyndaquil"
+  },
+  {
+   "n": "033",
+   "pt": "Quilava do Ethan",
+   "en": "Ethan's Quilava"
+  },
+  {
+   "n": "034",
+   "pt": "Typhlosion do Ethan",
+   "en": "Ethan's Typhlosion"
+  },
+  {
+   "n": "035",
+   "pt": "Slugma do Ethan",
+   "en": "Ethan's Slugma"
+  },
+  {
+   "n": "036",
+   "pt": "Magcargo do Ethan",
+   "en": "Ethan's Magcargo"
+  },
+  {
+   "n": "037",
+   "pt": "Houndour da Equipe Rocket",
+   "en": "Team Rocket's Houndour"
+  },
+  {
+   "n": "038",
+   "pt": "Houndoom da Equipe Rocket",
+   "en": "Team Rocket's Houndoom"
+  },
+  {
+   "n": "039",
+   "pt": "Ho-Oh ex do Ethan",
+   "en": "Ethan's Ho-Oh ex"
+  },
+  {
+   "n": "040",
+   "pt": "Torchic",
+   "en": "Torchic"
+  },
+  {
+   "n": "041",
+   "pt": "Combusken",
+   "en": "Combusken"
+  },
+  {
+   "n": "042",
+   "pt": "Blaziken",
+   "en": "Blaziken"
+  },
+  {
+   "n": "043",
+   "pt": "Rotom Calor",
+   "en": "Heat Rotom"
+  },
+  {
+   "n": "044",
+   "pt": "Ogerpon Máscara Fornalha",
+   "en": "Hearthflame Mask Ogerpon"
+  },
+  {
+   "n": "045",
+   "pt": "Psyduck da Misty",
+   "en": "Misty's Psyduck"
+  },
+  {
+   "n": "046",
+   "pt": "Staryu da Misty",
+   "en": "Misty's Staryu"
+  },
+  {
+   "n": "047",
+   "pt": "Starmie da Misty",
+   "en": "Misty's Starmie"
+  },
+  {
+   "n": "048",
+   "pt": "Magikarp da Misty",
+   "en": "Misty's Magikarp"
+  },
+  {
+   "n": "049",
+   "pt": "Gyarados da Misty",
+   "en": "Misty's Gyarados"
+  },
+  {
+   "n": "050",
+   "pt": "Lapras da Misty",
+   "en": "Misty's Lapras"
+  },
+  {
+   "n": "051",
+   "pt": "Articuno da Equipe Rocket",
+   "en": "Team Rocket's Articuno"
+  },
+  {
+   "n": "052",
+   "pt": "Feebas da Cíntia",
+   "en": "Cynthia's Feebas"
+  },
+  {
+   "n": "053",
+   "pt": "Milotic da Cíntia",
+   "en": "Cynthia's Milotic"
+  },
+  {
+   "n": "054",
+   "pt": "Clamperl",
+   "en": "Clamperl"
+  },
+  {
+   "n": "055",
+   "pt": "Huntail",
+   "en": "Huntail"
+  },
+  {
+   "n": "056",
+   "pt": "Gorebyss",
+   "en": "Gorebyss"
+  },
+  {
+   "n": "057",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "058",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "059",
+   "pt": "Snover",
+   "en": "Snover"
+  },
+  {
+   "n": "060",
+   "pt": "Abomasnow",
+   "en": "Abomasnow"
+  },
+  {
+   "n": "061",
+   "pt": "Rotom Lavagem",
+   "en": "Wash Rotom"
+  },
+  {
+   "n": "062",
+   "pt": "Arrokuda",
+   "en": "Arrokuda"
+  },
+  {
+   "n": "063",
+   "pt": "Barraskewda",
+   "en": "Barraskewda"
+  },
+  {
+   "n": "064",
+   "pt": "Cetoddle",
+   "en": "Cetoddle"
+  },
+  {
+   "n": "065",
+   "pt": "Cetitan ex",
+   "en": "Cetitan ex"
+  },
+  {
+   "n": "066",
+   "pt": "Dondozo ex",
+   "en": "Dondozo ex"
+  },
+  {
+   "n": "067",
+   "pt": "Ogerpon Máscara Nascente",
+   "en": "Wellspring Mask Ogerpon"
+  },
+  {
+   "n": "068",
+   "pt": "Electabuzz",
+   "en": "Electabuzz"
+  },
+  {
+   "n": "069",
+   "pt": "Electivire ex",
+   "en": "Electivire ex"
+  },
+  {
+   "n": "070",
+   "pt": "Zapdos da Equipe Rocket",
+   "en": "Team Rocket's Zapdos"
+  },
+  {
+   "n": "071",
+   "pt": "Pichu do Ethan",
+   "en": "Ethan's Pichu"
+  },
+  {
+   "n": "072",
+   "pt": "Mareep da Equipe Rocket",
+   "en": "Team Rocket's Mareep"
+  },
+  {
+   "n": "073",
+   "pt": "Flaaffy da Equipe Rocket",
+   "en": "Team Rocket's Flaaffy"
+  },
+  {
+   "n": "074",
+   "pt": "Ampharos da Equipe Rocket",
+   "en": "Team Rocket's Ampharos"
+  },
+  {
+   "n": "075",
+   "pt": "Electrike",
+   "en": "Electrike"
+  },
+  {
+   "n": "076",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "077",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "078",
+   "pt": "Zeraora",
+   "en": "Zeraora"
+  },
+  {
+   "n": "079",
+   "pt": "Drowzee da Equipe Rocket",
+   "en": "Team Rocket's Drowzee"
+  },
+  {
+   "n": "080",
+   "pt": "Hypno da Equipe Rocket",
+   "en": "Team Rocket's Hypno"
+  },
+  {
+   "n": "081",
+   "pt": "Mewtwo ex da Equipe Rocket",
+   "en": "Team Rocket's Mewtwo ex"
+  },
+  {
+   "n": "082",
+   "pt": "Wobbuffet da Equipe Rocket",
+   "en": "Team Rocket's Wobbuffet"
+  },
+  {
+   "n": "083",
+   "pt": "Baltoy do Steven",
+   "en": "Steven's Baltoy"
+  },
+  {
+   "n": "084",
+   "pt": "Claydol do Steven",
+   "en": "Steven's Claydol"
+  },
+  {
+   "n": "085",
+   "pt": "Chingling da Equipe Rocket",
+   "en": "Team Rocket's Chingling"
+  },
+  {
+   "n": "086",
+   "pt": "Carbink do Steven",
+   "en": "Steven's Carbink"
+  },
+  {
+   "n": "087",
+   "pt": "Mimikyu da Equipe Rocket",
+   "en": "Team Rocket's Mimikyu"
+  },
+  {
+   "n": "088",
+   "pt": "Dottler da Equipe Rocket",
+   "en": "Team Rocket's Dottler"
+  },
+  {
+   "n": "089",
+   "pt": "Orbeetle da Equipe Rocket",
+   "en": "Team Rocket's Orbeetle"
+  },
+  {
+   "n": "090",
+   "pt": "Mankey",
+   "en": "Mankey"
+  },
+  {
+   "n": "091",
+   "pt": "Primeape",
+   "en": "Primeape"
+  },
+  {
+   "n": "092",
+   "pt": "Annihilape",
+   "en": "Annihilape"
+  },
+  {
+   "n": "093",
+   "pt": "Sudowoodo do Ethan",
+   "en": "Ethan's Sudowoodo"
+  },
+  {
+   "n": "094",
+   "pt": "Larvitar da Equipe Rocket",
+   "en": "Team Rocket's Larvitar"
+  },
+  {
+   "n": "095",
+   "pt": "Pupitar da Equipe Rocket",
+   "en": "Team Rocket's Pupitar"
+  },
+  {
+   "n": "096",
+   "pt": "Tyranitar da Equipe Rocket",
+   "en": "Team Rocket's Tyranitar"
+  },
+  {
+   "n": "097",
+   "pt": "Nosepass",
+   "en": "Nosepass"
+  },
+  {
+   "n": "098",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "099",
+   "pt": "Meditite",
+   "en": "Meditite"
+  },
+  {
+   "n": "100",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "101",
+   "pt": "Regirock ex",
+   "en": "Regirock ex"
+  },
+  {
+   "n": "102",
+   "pt": "Gible da Cíntia",
+   "en": "Cynthia's Gible"
+  },
+  {
+   "n": "103",
+   "pt": "Gabite da Cíntia",
+   "en": "Cynthia's Gabite"
+  },
+  {
+   "n": "104",
+   "pt": "Garchomp ex da Cíntia",
+   "en": "Cynthia's Garchomp ex"
+  },
+  {
+   "n": "105",
+   "pt": "Hippopotas",
+   "en": "Hippopotas"
+  },
+  {
+   "n": "106",
+   "pt": "Hippowdon",
+   "en": "Hippowdon"
+  },
+  {
+   "n": "107",
+   "pt": "Mudbray",
+   "en": "Mudbray"
+  },
+  {
+   "n": "108",
+   "pt": "Mudsdale",
+   "en": "Mudsdale"
+  },
+  {
+   "n": "109",
+   "pt": "Toedscool do Arven",
+   "en": "Arven's Toedscool"
+  },
+  {
+   "n": "110",
+   "pt": "Toedscruel do Arven",
+   "en": "Arven's Toedscruel"
+  },
+  {
+   "n": "111",
+   "pt": "Ogerpon Máscara Alicerce",
+   "en": "Cornerstone Mask Ogerpon"
+  },
+  {
+   "n": "112",
+   "pt": "Ekans da Equipe Rocket",
+   "en": "Team Rocket's Ekans"
+  },
+  {
+   "n": "113",
+   "pt": "Arbok da Equipe Rocket",
+   "en": "Team Rocket's Arbok"
+  },
+  {
+   "n": "114",
+   "pt": "Nidoran♀ da Equipe Rocket",
+   "en": "Team Rocket's Nidoran♀"
+  },
+  {
+   "n": "115",
+   "pt": "Nidorina da Equipe Rocket",
+   "en": "Team Rocket's Nidorina"
+  },
+  {
+   "n": "116",
+   "pt": "Nidoqueen da Equipe Rocket",
+   "en": "Team Rocket's Nidoqueen"
+  },
+  {
+   "n": "117",
+   "pt": "Nidoran♂ da Equipe Rocket",
+   "en": "Team Rocket's Nidoran♂"
+  },
+  {
+   "n": "118",
+   "pt": "Nidorino da Equipe Rocket",
+   "en": "Team Rocket's Nidorino"
+  },
+  {
+   "n": "119",
+   "pt": "Nidoking ex da Equipe Rocket",
+   "en": "Team Rocket's Nidoking ex"
+  },
+  {
+   "n": "120",
+   "pt": "Zubat da Equipe Rocket",
+   "en": "Team Rocket's Zubat"
+  },
+  {
+   "n": "121",
+   "pt": "Golbat da Equipe Rocket",
+   "en": "Team Rocket's Golbat"
+  },
+  {
+   "n": "122",
+   "pt": "Crobat ex da Equipe Rocket",
+   "en": "Team Rocket's Crobat ex"
+  },
+  {
+   "n": "123",
+   "pt": "Grimer da Equipe Rocket",
+   "en": "Team Rocket's Grimer"
+  },
+  {
+   "n": "124",
+   "pt": "Muk da Equipe Rocket",
+   "en": "Team Rocket's Muk"
+  },
+  {
+   "n": "125",
+   "pt": "Koffing da Equipe Rocket",
+   "en": "Team Rocket's Koffing"
+  },
+  {
+   "n": "126",
+   "pt": "Weezing da Equipe Rocket",
+   "en": "Team Rocket's Weezing"
+  },
+  {
+   "n": "127",
+   "pt": "Murkrow da Equipe Rocket",
+   "en": "Team Rocket's Murkrow"
+  },
+  {
+   "n": "128",
+   "pt": "Sneasel da Equipe Rocket",
+   "en": "Team Rocket's Sneasel"
+  },
+  {
+   "n": "129",
+   "pt": "Spiritomb da Cíntia",
+   "en": "Cynthia's Spiritomb"
+  },
+  {
+   "n": "130",
+   "pt": "Purrloin da Marine",
+   "en": "Marnie's Purrloin"
+  },
+  {
+   "n": "131",
+   "pt": "Liepard da Marine",
+   "en": "Marnie's Liepard"
+  },
+  {
+   "n": "132",
+   "pt": "Scraggy da Marine",
+   "en": "Marnie's Scraggy"
+  },
+  {
+   "n": "133",
+   "pt": "Scrafty da Marine",
+   "en": "Marnie's Scrafty"
+  },
+  {
+   "n": "134",
+   "pt": "Impidimp da Marine",
+   "en": "Marnie's Impidimp"
+  },
+  {
+   "n": "135",
+   "pt": "Morgrem da Marine",
+   "en": "Marnie's Morgrem"
+  },
+  {
+   "n": "136",
+   "pt": "Grimmsnarl ex da Marine",
+   "en": "Marnie's Grimmsnarl ex"
+  },
+  {
+   "n": "137",
+   "pt": "Morpeko da Marine",
+   "en": "Marnie's Morpeko"
+  },
+  {
+   "n": "138",
+   "pt": "Maschiff do Arven",
+   "en": "Arven's Maschiff"
+  },
+  {
+   "n": "139",
+   "pt": "Mabosstiff ex do Arven",
+   "en": "Arven's Mabosstiff ex"
+  },
+  {
+   "n": "140",
+   "pt": "Forretress",
+   "en": "Forretress"
+  },
+  {
+   "n": "141",
+   "pt": "Skarmory",
+   "en": "Skarmory"
+  },
+  {
+   "n": "142",
+   "pt": "Skarmory do Steven",
+   "en": "Steven's Skarmory"
+  },
+  {
+   "n": "143",
+   "pt": "Beldum do Steven",
+   "en": "Steven's Beldum"
+  },
+  {
+   "n": "144",
+   "pt": "Metang do Steven",
+   "en": "Steven's Metang"
+  },
+  {
+   "n": "145",
+   "pt": "Metagross ex do Steven",
+   "en": "Steven's Metagross ex"
+  },
+  {
+   "n": "146",
+   "pt": "Zamazenta",
+   "en": "Zamazenta"
+  },
+  {
+   "n": "147",
+   "pt": "Rattata da Equipe Rocket",
+   "en": "Team Rocket's Rattata"
+  },
+  {
+   "n": "148",
+   "pt": "Raticate da Equipe Rocket",
+   "en": "Team Rocket's Raticate"
+  },
+  {
+   "n": "149",
+   "pt": "Meowth da Equipe Rocket",
+   "en": "Team Rocket's Meowth"
+  },
+  {
+   "n": "150",
+   "pt": "Persian ex da Equipe Rocket",
+   "en": "Team Rocket's Persian ex"
+  },
+  {
+   "n": "151",
+   "pt": "Kangaskhan",
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "152",
+   "pt": "Tauros",
+   "en": "Tauros"
+  },
+  {
+   "n": "153",
+   "pt": "Porygon da Equipe Rocket",
+   "en": "Team Rocket's Porygon"
+  },
+  {
+   "n": "154",
+   "pt": "Porygon2 da Equipe Rocket",
+   "en": "Team Rocket's Porygon2"
+  },
+  {
+   "n": "155",
+   "pt": "Porygon-Z da Equipe Rocket",
+   "en": "Team Rocket's Porygon-Z"
+  },
+  {
+   "n": "156",
+   "pt": "Taillow",
+   "en": "Taillow"
+  },
+  {
+   "n": "157",
+   "pt": "Swellow",
+   "en": "Swellow"
+  },
+  {
+   "n": "158",
+   "pt": "Skwovet do Arven",
+   "en": "Arven's Skwovet"
+  },
+  {
+   "n": "159",
+   "pt": "Greedent do Arven",
+   "en": "Arven's Greedent"
+  },
+  {
+   "n": "160",
+   "pt": "Squawkabilly",
+   "en": "Squawkabilly"
+  },
+  {
+   "n": "161",
+   "pt": "Sanduíche do Arven",
+   "en": "Arven's Sandwich"
+  },
+  {
+   "n": "162",
+   "pt": "Peso de Poder da Cíntia",
+   "en": "Cynthia's Power Weight"
+  },
+  {
+   "n": "163",
+   "pt": "Hype da Emcee",
+   "en": "Emcee's Hype"
+  },
+  {
+   "n": "164",
+   "pt": "Reciclador de Energia",
+   "en": "Energy Recycler"
+  },
+  {
+   "n": "165",
+   "pt": "Aventura do Ethan",
+   "en": "Ethan's Adventure"
+  },
+  {
+   "n": "166",
+   "pt": "Caverna de Granito",
+   "en": "Granite Cave"
+  },
+  {
+   "n": "167",
+   "pt": "Juiz",
+   "en": "Judge"
+  },
+  {
+   "n": "168",
+   "pt": "Cinza Sagrada",
+   "en": "Sacred Ash"
+  },
+  {
+   "n": "169",
+   "pt": "Ginásio de Spikemuth",
+   "en": "Spikemuth Gym"
+  },
+  {
+   "n": "170",
+   "pt": "Apollo da Equipe Rocket",
+   "en": "Team Rocket's Archer"
+  },
+  {
+   "n": "171",
+   "pt": "Athena da Equipe Rocket",
+   "en": "Team Rocket's Ariana"
+  },
+  {
+   "n": "172",
+   "pt": "Azucrinabot da Equipe Rocket",
+   "en": "Team Rocket's Bother-Bot"
+  },
+  {
+   "n": "173",
+   "pt": "Fábrica da Equipe Rocket",
+   "en": "Team Rocket's Factory"
+  },
+  {
+   "n": "174",
+   "pt": "Giovanni da Equipe Rocket",
+   "en": "Team Rocket's Giovanni"
+  },
+  {
+   "n": "175",
+   "pt": "Grande Bola da Equipe Rocket",
+   "en": "Team Rocket's Great Ball"
+  },
+  {
+   "n": "176",
+   "pt": "Petrel da Equipe Rocket",
+   "en": "Team Rocket's Petrel"
+  },
+  {
+   "n": "177",
+   "pt": "Próton da Equipe Rocket",
+   "en": "Team Rocket's Proton"
+  },
+  {
+   "n": "178",
+   "pt": "Transmissor da Equipe Rocket",
+   "en": "Team Rocket's Transceiver"
+  },
+  {
+   "n": "179",
+   "pt": "Bomba de Risco da Equipe Rocket",
+   "en": "Team Rocket's Venture Bomb"
+  },
+  {
+   "n": "180",
+   "pt": "Torre de Vigia da Equipe Rocket",
+   "en": "Team Rocket's Watchtower"
+  },
+  {
+   "n": "181",
+   "pt": "Máquina de MT",
+   "en": "TM Machine"
+  },
+  {
+   "n": "182",
+   "pt": "Energia da Equipe Rocket",
+   "en": "Team Rocket's Energy"
+  },
+  {
+   "n": "183",
+   "pt": "Yanma",
+   "en": "Yanma"
+  },
+  {
+   "n": "184",
+   "pt": "Roserade da Cíntia",
+   "en": "Cynthia's Roserade"
+  },
+  {
+   "n": "185",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "186",
+   "pt": "Crustle",
+   "en": "Crustle"
+  },
+  {
+   "n": "187",
+   "pt": "Spidops da Equipe Rocket",
+   "en": "Team Rocket's Spidops"
+  },
+  {
+   "n": "188",
+   "pt": "Hydrapple",
+   "en": "Hydrapple"
+  },
+  {
+   "n": "189",
+   "pt": "Rapidash",
+   "en": "Rapidash"
+  },
+  {
+   "n": "190",
+   "pt": "Typhlosion do Ethan",
+   "en": "Ethan's Typhlosion"
+  },
+  {
+   "n": "191",
+   "pt": "Houndoom da Equipe Rocket",
+   "en": "Team Rocket's Houndoom"
+  },
+  {
+   "n": "192",
+   "pt": "Blaziken",
+   "en": "Blaziken"
+  },
+  {
+   "n": "193",
+   "pt": "Psyduck da Misty",
+   "en": "Misty's Psyduck"
+  },
+  {
+   "n": "194",
+   "pt": "Lapras da Misty",
+   "en": "Misty's Lapras"
+  },
+  {
+   "n": "195",
+   "pt": "Clamperl",
+   "en": "Clamperl"
+  },
+  {
+   "n": "196",
+   "pt": "Electrike",
+   "en": "Electrike"
+  },
+  {
+   "n": "197",
+   "pt": "Rotom",
+   "en": "Rotom"
+  },
+  {
+   "n": "198",
+   "pt": "Orbeetle da Equipe Rocket",
+   "en": "Team Rocket's Orbeetle"
+  },
+  {
+   "n": "199",
+   "pt": "Weezing da Equipe Rocket",
+   "en": "Team Rocket's Weezing"
+  },
+  {
+   "n": "200",
+   "pt": "Murkrow da Equipe Rocket",
+   "en": "Team Rocket's Murkrow"
+  },
+  {
+   "n": "201",
+   "pt": "Zamazenta",
+   "en": "Zamazenta"
+  },
+  {
+   "n": "202",
+   "pt": "Raticate da Equipe Rocket",
+   "en": "Team Rocket's Raticate"
+  },
+  {
+   "n": "203",
+   "pt": "Meowth da Equipe Rocket",
+   "en": "Team Rocket's Meowth"
+  },
+  {
+   "n": "204",
+   "pt": "Kangaskhan",
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "205",
+   "pt": "Greedent do Arven",
+   "en": "Arven's Greedent"
+  },
+  {
+   "n": "206",
+   "pt": "Yanmega ex",
+   "en": "Yanmega ex"
+  },
+  {
+   "n": "207",
+   "pt": "Arboliva ex",
+   "en": "Arboliva ex"
+  },
+  {
+   "n": "208",
+   "pt": "Moltres ex da Equipe Rocket",
+   "en": "Team Rocket's Moltres ex"
+  },
+  {
+   "n": "209",
+   "pt": "Ho-Oh ex do Ethan",
+   "en": "Ethan's Ho-Oh ex"
+  },
+  {
+   "n": "210",
+   "pt": "Cetitan ex",
+   "en": "Cetitan ex"
+  },
+  {
+   "n": "211",
+   "pt": "Dondozo ex",
+   "en": "Dondozo ex"
+  },
+  {
+   "n": "212",
+   "pt": "Electivire ex",
+   "en": "Electivire ex"
+  },
+  {
+   "n": "213",
+   "pt": "Mewtwo ex da Equipe Rocket",
+   "en": "Team Rocket's Mewtwo ex"
+  },
+  {
+   "n": "214",
+   "pt": "Regirock ex",
+   "en": "Regirock ex"
+  },
+  {
+   "n": "215",
+   "pt": "Garchomp ex da Cíntia",
+   "en": "Cynthia's Garchomp ex"
+  },
+  {
+   "n": "216",
+   "pt": "Nidoking ex da Equipe Rocket",
+   "en": "Team Rocket's Nidoking ex"
+  },
+  {
+   "n": "217",
+   "pt": "Crobat ex da Equipe Rocket",
+   "en": "Team Rocket's Crobat ex"
+  },
+  {
+   "n": "218",
+   "pt": "Mabosstiff ex do Arven",
+   "en": "Arven's Mabosstiff ex"
+  },
+  {
+   "n": "219",
+   "pt": "Persian ex da Equipe Rocket",
+   "en": "Team Rocket's Persian ex"
+  },
+  {
+   "n": "220",
+   "pt": "Hype da Emcee",
+   "en": "Emcee's Hype"
+  },
+  {
+   "n": "221",
+   "pt": "Aventura do Ethan",
+   "en": "Ethan's Adventure"
+  },
+  {
+   "n": "222",
+   "pt": "Juiz",
+   "en": "Judge"
+  },
+  {
+   "n": "223",
+   "pt": "Apollo da Equipe Rocket",
+   "en": "Team Rocket's Archer"
+  },
+  {
+   "n": "224",
+   "pt": "Athena da Equipe Rocket",
+   "en": "Team Rocket's Ariana"
+  },
+  {
+   "n": "225",
+   "pt": "Giovanni da Equipe Rocket",
+   "en": "Team Rocket's Giovanni"
+  },
+  {
+   "n": "226",
+   "pt": "Petrel da Equipe Rocket",
+   "en": "Team Rocket's Petrel"
+  },
+  {
+   "n": "227",
+   "pt": "Próton da Equipe Rocket",
+   "en": "Team Rocket's Proton"
+  },
+  {
+   "n": "228",
+   "pt": "Yanmega ex",
+   "en": "Yanmega ex"
+  },
+  {
+   "n": "229",
+   "pt": "Moltres ex da Equipe Rocket",
+   "en": "Team Rocket's Moltres ex"
+  },
+  {
+   "n": "230",
+   "pt": "Ho-Oh ex do Ethan",
+   "en": "Ethan's Ho-Oh ex"
+  },
+  {
+   "n": "231",
+   "pt": "Mewtwo ex da Equipe Rocket",
+   "en": "Team Rocket's Mewtwo ex"
+  },
+  {
+   "n": "232",
+   "pt": "Garchomp ex da Cíntia",
+   "en": "Cynthia's Garchomp ex"
+  },
+  {
+   "n": "233",
+   "pt": "Nidoking ex da Equipe Rocket",
+   "en": "Team Rocket's Nidoking ex"
+  },
+  {
+   "n": "234",
+   "pt": "Crobat ex da Equipe Rocket",
+   "en": "Team Rocket's Crobat ex"
+  },
+  {
+   "n": "235",
+   "pt": "Mabosstiff ex do Arven",
+   "en": "Arven's Mabosstiff ex"
+  },
+  {
+   "n": "236",
+   "pt": "Aventura do Ethan",
+   "en": "Ethan's Adventure"
+  },
+  {
+   "n": "237",
+   "pt": "Athena da Equipe Rocket",
+   "en": "Team Rocket's Ariana"
+  },
+  {
+   "n": "238",
+   "pt": "Giovanni da Equipe Rocket",
+   "en": "Team Rocket's Giovanni"
+  },
+  {
+   "n": "239",
+   "pt": "Ho-Oh ex do Ethan",
+   "en": "Ethan's Ho-Oh ex"
+  },
+  {
+   "n": "240",
+   "pt": "Mewtwo ex da Equipe Rocket",
+   "en": "Team Rocket's Mewtwo ex"
+  },
+  {
+   "n": "241",
+   "pt": "Garchomp ex da Cíntia",
+   "en": "Cynthia's Garchomp ex"
+  },
+  {
+   "n": "242",
+   "pt": "Crobat ex da Equipe Rocket",
+   "en": "Team Rocket's Crobat ex"
+  },
+  {
+   "n": "243",
+   "pt": "Torre de Interferência",
+   "en": "Jamming Tower"
+  },
+  {
+   "n": "244",
+   "pt": "Levincia",
+   "en": "Levincia"
+  }
+ ]
+}

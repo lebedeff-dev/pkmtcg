@@ -1,0 +1,939 @@
+{
+ "set": "swsh9",
+ "nome_pt": "Astros Cintilantes",
+ "nome_en": "Brilliant Stars",
+ "total": 186,
+ "oficial": 172,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "002",
+   "pt": "Exeggutor",
+   "en": "Exeggutor"
+  },
+  {
+   "n": "003",
+   "pt": "Shroomish",
+   "en": "Shroomish"
+  },
+  {
+   "n": "004",
+   "pt": "Breloom",
+   "en": "Breloom"
+  },
+  {
+   "n": "005",
+   "pt": "Tropius",
+   "en": "Tropius"
+  },
+  {
+   "n": "006",
+   "pt": "Turtwig",
+   "en": "Turtwig"
+  },
+  {
+   "n": "007",
+   "pt": "Grotle",
+   "en": "Grotle"
+  },
+  {
+   "n": "008",
+   "pt": "Torterra",
+   "en": "Torterra"
+  },
+  {
+   "n": "009",
+   "pt": "Burmy",
+   "en": "Burmy"
+  },
+  {
+   "n": "010",
+   "pt": "Wormadam",
+   "en": "Wormadam"
+  },
+  {
+   "n": "011",
+   "pt": "Mothim",
+   "en": "Mothim"
+  },
+  {
+   "n": "012",
+   "pt": "Cherubi",
+   "en": "Cherubi"
+  },
+  {
+   "n": "013",
+   "pt": "Shaymin V",
+   "en": "Shaymin V"
+  },
+  {
+   "n": "014",
+   "pt": "Shaymin V-ASTRO",
+   "en": "Shaymin VSTAR"
+  },
+  {
+   "n": "015",
+   "pt": "Karrablast",
+   "en": "Karrablast"
+  },
+  {
+   "n": "016",
+   "pt": "Zarude V",
+   "en": "Zarude V"
+  },
+  {
+   "n": "017",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "018",
+   "pt": "Charizard V-ASTRO",
+   "en": "Charizard VSTAR"
+  },
+  {
+   "n": "019",
+   "pt": "Magmar",
+   "en": "Magmar"
+  },
+  {
+   "n": "020",
+   "pt": "Magmortar",
+   "en": "Magmortar"
+  },
+  {
+   "n": "021",
+   "pt": "Moltres",
+   "en": "Moltres"
+  },
+  {
+   "n": "022",
+   "pt": "Entei V",
+   "en": "Entei V"
+  },
+  {
+   "n": "023",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "024",
+   "pt": "Chimchar",
+   "en": "Chimchar"
+  },
+  {
+   "n": "025",
+   "pt": "Monferno",
+   "en": "Monferno"
+  },
+  {
+   "n": "026",
+   "pt": "Infernape",
+   "en": "Infernape"
+  },
+  {
+   "n": "027",
+   "pt": "Simisear V",
+   "en": "Simisear V"
+  },
+  {
+   "n": "028",
+   "pt": "Kingler V",
+   "en": "Kingler V"
+  },
+  {
+   "n": "029",
+   "pt": "Kingler VMAX",
+   "en": "Kingler VMAX"
+  },
+  {
+   "n": "030",
+   "pt": "Staryu",
+   "en": "Staryu"
+  },
+  {
+   "n": "031",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "032",
+   "pt": "Corphish",
+   "en": "Corphish"
+  },
+  {
+   "n": "033",
+   "pt": "Crawdaunt",
+   "en": "Crawdaunt"
+  },
+  {
+   "n": "034",
+   "pt": "Snorunt",
+   "en": "Snorunt"
+  },
+  {
+   "n": "035",
+   "pt": "Piplup",
+   "en": "Piplup"
+  },
+  {
+   "n": "036",
+   "pt": "Prinplup",
+   "en": "Prinplup"
+  },
+  {
+   "n": "037",
+   "pt": "Empoleon",
+   "en": "Empoleon"
+  },
+  {
+   "n": "038",
+   "pt": "Buizel",
+   "en": "Buizel"
+  },
+  {
+   "n": "039",
+   "pt": "Floatzel",
+   "en": "Floatzel"
+  },
+  {
+   "n": "040",
+   "pt": "Lumineon V",
+   "en": "Lumineon V"
+  },
+  {
+   "n": "041",
+   "pt": "Manaphy",
+   "en": "Manaphy"
+  },
+  {
+   "n": "042",
+   "pt": "Cubchoo",
+   "en": "Cubchoo"
+  },
+  {
+   "n": "043",
+   "pt": "Beartic",
+   "en": "Beartic"
+  },
+  {
+   "n": "044",
+   "pt": "Eiscue",
+   "en": "Eiscue"
+  },
+  {
+   "n": "045",
+   "pt": "Raichu V",
+   "en": "Raichu V"
+  },
+  {
+   "n": "046",
+   "pt": "Electabuzz",
+   "en": "Electabuzz"
+  },
+  {
+   "n": "047",
+   "pt": "Electivire",
+   "en": "Electivire"
+  },
+  {
+   "n": "048",
+   "pt": "Raikou V",
+   "en": "Raikou V"
+  },
+  {
+   "n": "049",
+   "pt": "Shinx",
+   "en": "Shinx"
+  },
+  {
+   "n": "050",
+   "pt": "Luxio",
+   "en": "Luxio"
+  },
+  {
+   "n": "051",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "052",
+   "pt": "Pachirisu",
+   "en": "Pachirisu"
+  },
+  {
+   "n": "053",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "054",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "055",
+   "pt": "Starmie",
+   "en": "Starmie"
+  },
+  {
+   "n": "056",
+   "pt": "Mewtwo",
+   "en": "Mewtwo"
+  },
+  {
+   "n": "057",
+   "pt": "Granbull V",
+   "en": "Granbull V"
+  },
+  {
+   "n": "058",
+   "pt": "Baltoy",
+   "en": "Baltoy"
+  },
+  {
+   "n": "059",
+   "pt": "Claydol",
+   "en": "Claydol"
+  },
+  {
+   "n": "060",
+   "pt": "Duskull",
+   "en": "Duskull"
+  },
+  {
+   "n": "061",
+   "pt": "Dusclops",
+   "en": "Dusclops"
+  },
+  {
+   "n": "062",
+   "pt": "Dusknoir",
+   "en": "Dusknoir"
+  },
+  {
+   "n": "063",
+   "pt": "Chimecho",
+   "en": "Chimecho"
+  },
+  {
+   "n": "064",
+   "pt": "Whimsicott V",
+   "en": "Whimsicott V"
+  },
+  {
+   "n": "065",
+   "pt": "Whimsicott V-ASTRO",
+   "en": "Whimsicott VSTAR"
+  },
+  {
+   "n": "066",
+   "pt": "Sigilyph",
+   "en": "Sigilyph"
+  },
+  {
+   "n": "067",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "068",
+   "pt": "Mimikyu V",
+   "en": "Mimikyu V"
+  },
+  {
+   "n": "069",
+   "pt": "Mimikyu VMAX",
+   "en": "Mimikyu VMAX"
+  },
+  {
+   "n": "070",
+   "pt": "Milcery",
+   "en": "Milcery"
+  },
+  {
+   "n": "071",
+   "pt": "Alcremie",
+   "en": "Alcremie"
+  },
+  {
+   "n": "072",
+   "pt": "Hitmontop",
+   "en": "Hitmontop"
+  },
+  {
+   "n": "073",
+   "pt": "Nosepass",
+   "en": "Nosepass"
+  },
+  {
+   "n": "074",
+   "pt": "Trapinch",
+   "en": "Trapinch"
+  },
+  {
+   "n": "075",
+   "pt": "Vibrava",
+   "en": "Vibrava"
+  },
+  {
+   "n": "076",
+   "pt": "Flygon",
+   "en": "Flygon"
+  },
+  {
+   "n": "077",
+   "pt": "Wormadam",
+   "en": "Wormadam"
+  },
+  {
+   "n": "078",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "079",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "080",
+   "pt": "Throh",
+   "en": "Throh"
+  },
+  {
+   "n": "081",
+   "pt": "Sawk",
+   "en": "Sawk"
+  },
+  {
+   "n": "082",
+   "pt": "Golett",
+   "en": "Golett"
+  },
+  {
+   "n": "083",
+   "pt": "Golurk",
+   "en": "Golurk"
+  },
+  {
+   "n": "084",
+   "pt": "Grimer",
+   "en": "Grimer"
+  },
+  {
+   "n": "085",
+   "pt": "Muk",
+   "en": "Muk"
+  },
+  {
+   "n": "086",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "087",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "088",
+   "pt": "Honchkrow V",
+   "en": "Honchkrow V"
+  },
+  {
+   "n": "089",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "090",
+   "pt": "Purrloin",
+   "en": "Purrloin"
+  },
+  {
+   "n": "091",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "092",
+   "pt": "Impidimp",
+   "en": "Impidimp"
+  },
+  {
+   "n": "093",
+   "pt": "Morgrem",
+   "en": "Morgrem"
+  },
+  {
+   "n": "094",
+   "pt": "Grimmsnarl",
+   "en": "Grimmsnarl"
+  },
+  {
+   "n": "095",
+   "pt": "Morpeko V",
+   "en": "Morpeko V"
+  },
+  {
+   "n": "096",
+   "pt": "Aggron V",
+   "en": "Aggron V"
+  },
+  {
+   "n": "097",
+   "pt": "Aggron VMAX",
+   "en": "Aggron VMAX"
+  },
+  {
+   "n": "098",
+   "pt": "Wormadam",
+   "en": "Wormadam"
+  },
+  {
+   "n": "099",
+   "pt": "Probopass",
+   "en": "Probopass"
+  },
+  {
+   "n": "100",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "101",
+   "pt": "Escavalier",
+   "en": "Escavalier"
+  },
+  {
+   "n": "102",
+   "pt": "Klink",
+   "en": "Klink"
+  },
+  {
+   "n": "103",
+   "pt": "Klang",
+   "en": "Klang"
+  },
+  {
+   "n": "104",
+   "pt": "Klinklang",
+   "en": "Klinklang"
+  },
+  {
+   "n": "105",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "106",
+   "pt": "Flygon V",
+   "en": "Flygon V"
+  },
+  {
+   "n": "107",
+   "pt": "Gible",
+   "en": "Gible"
+  },
+  {
+   "n": "108",
+   "pt": "Gabite",
+   "en": "Gabite"
+  },
+  {
+   "n": "109",
+   "pt": "Garchomp",
+   "en": "Garchomp"
+  },
+  {
+   "n": "110",
+   "pt": "Axew",
+   "en": "Axew"
+  },
+  {
+   "n": "111",
+   "pt": "Fraxure",
+   "en": "Fraxure"
+  },
+  {
+   "n": "112",
+   "pt": "Haxorus",
+   "en": "Haxorus"
+  },
+  {
+   "n": "113",
+   "pt": "Druddigon",
+   "en": "Druddigon"
+  },
+  {
+   "n": "114",
+   "pt": "Dracovish V",
+   "en": "Dracovish V"
+  },
+  {
+   "n": "115",
+   "pt": "Farfetch'd",
+   "en": "Farfetch'd"
+  },
+  {
+   "n": "116",
+   "pt": "Castform",
+   "en": "Castform"
+  },
+  {
+   "n": "117",
+   "pt": "Starly",
+   "en": "Starly"
+  },
+  {
+   "n": "118",
+   "pt": "Staravia",
+   "en": "Staravia"
+  },
+  {
+   "n": "119",
+   "pt": "Staraptor",
+   "en": "Staraptor"
+  },
+  {
+   "n": "120",
+   "pt": "Bidoof",
+   "en": "Bidoof"
+  },
+  {
+   "n": "121",
+   "pt": "Bibarel",
+   "en": "Bibarel"
+  },
+  {
+   "n": "122",
+   "pt": "Arceus V",
+   "en": "Arceus V"
+  },
+  {
+   "n": "123",
+   "pt": "Arceus V-ASTRO",
+   "en": "Arceus VSTAR"
+  },
+  {
+   "n": "124",
+   "pt": "Minccino",
+   "en": "Minccino"
+  },
+  {
+   "n": "125",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "126",
+   "pt": "Tornadus",
+   "en": "Tornadus"
+  },
+  {
+   "n": "127",
+   "pt": "Hawlucha",
+   "en": "Hawlucha"
+  },
+  {
+   "n": "128",
+   "pt": "Drampa V",
+   "en": "Drampa V"
+  },
+  {
+   "n": "129",
+   "pt": "Premonição da Acerola",
+   "en": "Acerola's Premonition"
+  },
+  {
+   "n": "130",
+   "pt": "Barry",
+   "en": "Barry"
+  },
+  {
+   "n": "131",
+   "pt": "Seguro Contra Erro",
+   "en": "Blunder Policy"
+  },
+  {
+   "n": "132",
+   "pt": "Ordem da Chefia",
+   "en": "Boss's Orders"
+  },
+  {
+   "n": "133",
+   "pt": "Mestre do Café",
+   "en": "Café Master"
+  },
+  {
+   "n": "134",
+   "pt": "Cuidado do Cheren",
+   "en": "Cheren's Care"
+  },
+  {
+   "n": "135",
+   "pt": "Cinturão da Escolha",
+   "en": "Choice Belt"
+  },
+  {
+   "n": "136",
+   "pt": "Luvas de Purificação",
+   "en": "Cleansing Gloves"
+  },
+  {
+   "n": "137",
+   "pt": "Estádio Desmoronado",
+   "en": "Collapsed Stadium"
+  },
+  {
+   "n": "138",
+   "pt": "Ambição da Cíntia",
+   "en": "Cynthia's Ambition"
+  },
+  {
+   "n": "139",
+   "pt": "Conjunto de Água Fresca",
+   "en": "Fresh Water Set"
+  },
+  {
+   "n": "140",
+   "pt": "Amigos em Galar",
+   "en": "Friends in Galar"
+  },
+  {
+   "n": "141",
+   "pt": "Glória",
+   "en": "Gloria"
+  },
+  {
+   "n": "142",
+   "pt": "Luvas de Caça",
+   "en": "Hunting Gloves"
+  },
+  {
+   "n": "143",
+   "pt": "Ateador de Fogo",
+   "en": "Kindler"
+  },
+  {
+   "n": "144",
+   "pt": "Reservatório de Magma",
+   "en": "Magma Basin"
+  },
+  {
+   "n": "145",
+   "pt": "Orgulho da Marine",
+   "en": "Marnie's Pride"
+  },
+  {
+   "n": "146",
+   "pt": "Capacete de Panela",
+   "en": "Pot Helmet"
+  },
+  {
+   "n": "147",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "148",
+   "pt": "Backup da Roseanne",
+   "en": "Roseanne's Backup"
+  },
+  {
+   "n": "149",
+   "pt": "Torcida da Equipe Yell",
+   "en": "Team Yell's Cheer"
+  },
+  {
+   "n": "150",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  },
+  {
+   "n": "151",
+   "pt": "Energia Turbo Dupla",
+   "en": "Double Turbo Energy"
+  },
+  {
+   "n": "152",
+   "pt": "Shaymin V",
+   "en": "Shaymin V"
+  },
+  {
+   "n": "153",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "154",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "155",
+   "pt": "Lumineon V",
+   "en": "Lumineon V"
+  },
+  {
+   "n": "156",
+   "pt": "Lumineon V",
+   "en": "Lumineon V"
+  },
+  {
+   "n": "157",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "158",
+   "pt": "Raichu V",
+   "en": "Raichu V"
+  },
+  {
+   "n": "159",
+   "pt": "Granbull V",
+   "en": "Granbull V"
+  },
+  {
+   "n": "160",
+   "pt": "Whimsicott V",
+   "en": "Whimsicott V"
+  },
+  {
+   "n": "161",
+   "pt": "Honchkrow V",
+   "en": "Honchkrow V"
+  },
+  {
+   "n": "162",
+   "pt": "Honchkrow V",
+   "en": "Honchkrow V"
+  },
+  {
+   "n": "163",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "164",
+   "pt": "Flygon V",
+   "en": "Flygon V"
+  },
+  {
+   "n": "165",
+   "pt": "Arceus V",
+   "en": "Arceus V"
+  },
+  {
+   "n": "166",
+   "pt": "Arceus V",
+   "en": "Arceus V"
+  },
+  {
+   "n": "167",
+   "pt": "Barry",
+   "en": "Barry"
+  },
+  {
+   "n": "168",
+   "pt": "Cuidado do Cheren",
+   "en": "Cheren's Care"
+  },
+  {
+   "n": "169",
+   "pt": "Ambição da Cíntia",
+   "en": "Cynthia's Ambition"
+  },
+  {
+   "n": "170",
+   "pt": "Ateador de Fogo",
+   "en": "Kindler"
+  },
+  {
+   "n": "171",
+   "pt": "Orgulho da Marine",
+   "en": "Marnie's Pride"
+  },
+  {
+   "n": "172",
+   "pt": "Backup da Roseanne",
+   "en": "Roseanne's Backup"
+  },
+  {
+   "n": "173",
+   "pt": "Shaymin V-ASTRO",
+   "en": "Shaymin VSTAR"
+  },
+  {
+   "n": "174",
+   "pt": "Charizard V-ASTRO",
+   "en": "Charizard VSTAR"
+  },
+  {
+   "n": "175",
+   "pt": "Whimsicott V-ASTRO",
+   "en": "Whimsicott VSTAR"
+  },
+  {
+   "n": "176",
+   "pt": "Arceus V-ASTRO",
+   "en": "Arceus VSTAR"
+  },
+  {
+   "n": "177",
+   "pt": "Cuidado do Cheren",
+   "en": "Cheren's Care"
+  },
+  {
+   "n": "178",
+   "pt": "Ambição da Cíntia",
+   "en": "Cynthia's Ambition"
+  },
+  {
+   "n": "179",
+   "pt": "Ateador de Fogo",
+   "en": "Kindler"
+  },
+  {
+   "n": "180",
+   "pt": "Backup da Roseanne",
+   "en": "Roseanne's Backup"
+  },
+  {
+   "n": "181",
+   "pt": "Articuno de Galar V",
+   "en": "Galarian Articuno V"
+  },
+  {
+   "n": "182",
+   "pt": "Zapdos de Galar V",
+   "en": "Galarian Zapdos V"
+  },
+  {
+   "n": "183",
+   "pt": "Moltres de Galar V",
+   "en": "Galarian Moltres V"
+  },
+  {
+   "n": "184",
+   "pt": "Arceus V-ASTRO",
+   "en": "Arceus VSTAR"
+  },
+  {
+   "n": "185",
+   "pt": "Reservatório de Magma",
+   "en": "Magma Basin"
+  },
+  {
+   "n": "186",
+   "pt": "Ultra Bola",
+   "en": "Ultra Ball"
+  }
+ ]
+}

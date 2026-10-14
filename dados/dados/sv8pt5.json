@@ -1,0 +1,909 @@
+{
+ "set": "sv8pt5",
+ "nome_pt": "Evoluções Prismáticas",
+ "nome_en": "Prismatic Evolutions",
+ "total": 180,
+ "oficial": 131,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Exeggcute",
+   "en": "Exeggcute"
+  },
+  {
+   "n": "002",
+   "pt": "Exeggutor",
+   "en": "Exeggutor"
+  },
+  {
+   "n": "003",
+   "pt": "Pinsir",
+   "en": "Pinsir"
+  },
+  {
+   "n": "004",
+   "pt": "Budew",
+   "en": "Budew"
+  },
+  {
+   "n": "005",
+   "pt": "Leafeon",
+   "en": "Leafeon"
+  },
+  {
+   "n": "006",
+   "pt": "Leafeon ex",
+   "en": "Leafeon ex"
+  },
+  {
+   "n": "007",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "008",
+   "pt": "Whimsicott",
+   "en": "Whimsicott"
+  },
+  {
+   "n": "009",
+   "pt": "Applin",
+   "en": "Applin"
+  },
+  {
+   "n": "010",
+   "pt": "Dipplin",
+   "en": "Dipplin"
+  },
+  {
+   "n": "011",
+   "pt": "Hydrapple ex",
+   "en": "Hydrapple ex"
+  },
+  {
+   "n": "012",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "013",
+   "pt": "Flareon",
+   "en": "Flareon"
+  },
+  {
+   "n": "014",
+   "pt": "Flareon ex",
+   "en": "Flareon ex"
+  },
+  {
+   "n": "015",
+   "pt": "Litleo",
+   "en": "Litleo"
+  },
+  {
+   "n": "016",
+   "pt": "Pyroar",
+   "en": "Pyroar"
+  },
+  {
+   "n": "017",
+   "pt": "Ogerpon Máscara Fornalha ex",
+   "en": "Hearthflame Mask Ogerpon ex"
+  },
+  {
+   "n": "018",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "019",
+   "pt": "Slowking",
+   "en": "Slowking"
+  },
+  {
+   "n": "020",
+   "pt": "Goldeen",
+   "en": "Goldeen"
+  },
+  {
+   "n": "021",
+   "pt": "Seaking",
+   "en": "Seaking"
+  },
+  {
+   "n": "022",
+   "pt": "Vaporeon",
+   "en": "Vaporeon"
+  },
+  {
+   "n": "023",
+   "pt": "Vaporeon ex",
+   "en": "Vaporeon ex"
+  },
+  {
+   "n": "024",
+   "pt": "Suicune",
+   "en": "Suicune"
+  },
+  {
+   "n": "025",
+   "pt": "Glaceon",
+   "en": "Glaceon"
+  },
+  {
+   "n": "026",
+   "pt": "Glaceon ex",
+   "en": "Glaceon ex"
+  },
+  {
+   "n": "027",
+   "pt": "Ogerpon Máscara Nascente ex",
+   "en": "Wellspring Mask Ogerpon ex"
+  },
+  {
+   "n": "028",
+   "pt": "Pikachu ex",
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "029",
+   "pt": "Jolteon",
+   "en": "Jolteon"
+  },
+  {
+   "n": "030",
+   "pt": "Jolteon ex",
+   "en": "Jolteon ex"
+  },
+  {
+   "n": "031",
+   "pt": "Mãos Férreas ex",
+   "en": "Iron Hands ex"
+  },
+  {
+   "n": "032",
+   "pt": "Espinhos Férreos ex",
+   "en": "Iron Thorns ex"
+  },
+  {
+   "n": "033",
+   "pt": "Espeon",
+   "en": "Espeon"
+  },
+  {
+   "n": "034",
+   "pt": "Espeon ex",
+   "en": "Espeon ex"
+  },
+  {
+   "n": "035",
+   "pt": "Duskull",
+   "en": "Duskull"
+  },
+  {
+   "n": "036",
+   "pt": "Dusclops",
+   "en": "Dusclops"
+  },
+  {
+   "n": "037",
+   "pt": "Dusknoir",
+   "en": "Dusknoir"
+  },
+  {
+   "n": "038",
+   "pt": "Spritzee",
+   "en": "Spritzee"
+  },
+  {
+   "n": "039",
+   "pt": "Aromatisse",
+   "en": "Aromatisse"
+  },
+  {
+   "n": "040",
+   "pt": "Sylveon",
+   "en": "Sylveon"
+  },
+  {
+   "n": "041",
+   "pt": "Sylveon ex",
+   "en": "Sylveon ex"
+  },
+  {
+   "n": "042",
+   "pt": "Cauda Brado",
+   "en": "Scream Tail"
+  },
+  {
+   "n": "043",
+   "pt": "Juba Sopro",
+   "en": "Flutter Mane"
+  },
+  {
+   "n": "044",
+   "pt": "Munkidori",
+   "en": "Munkidori"
+  },
+  {
+   "n": "045",
+   "pt": "Fezandipiti",
+   "en": "Fezandipiti"
+  },
+  {
+   "n": "046",
+   "pt": "Rocha Férrea",
+   "en": "Iron Boulder"
+  },
+  {
+   "n": "047",
+   "pt": "Larvitar",
+   "en": "Larvitar"
+  },
+  {
+   "n": "048",
+   "pt": "Pupitar",
+   "en": "Pupitar"
+  },
+  {
+   "n": "049",
+   "pt": "Groudon",
+   "en": "Groudon"
+  },
+  {
+   "n": "050",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "051",
+   "pt": "Lucario ex",
+   "en": "Lucario ex"
+  },
+  {
+   "n": "052",
+   "pt": "Hippopotas",
+   "en": "Hippopotas"
+  },
+  {
+   "n": "053",
+   "pt": "Hippowdon",
+   "en": "Hippowdon"
+  },
+  {
+   "n": "054",
+   "pt": "Ursaluna Lua Sangrenta",
+   "en": "Bloodmoon Ursaluna"
+  },
+  {
+   "n": "055",
+   "pt": "Presa Grande",
+   "en": "Great Tusk"
+  },
+  {
+   "n": "056",
+   "pt": "Choque Areia ex",
+   "en": "Sandy Shocks ex"
+  },
+  {
+   "n": "057",
+   "pt": "Okidogi",
+   "en": "Okidogi"
+  },
+  {
+   "n": "058",
+   "pt": "Ogerpon Máscara Alicerce ex",
+   "en": "Cornerstone Mask Ogerpon ex"
+  },
+  {
+   "n": "059",
+   "pt": "Umbreon",
+   "en": "Umbreon"
+  },
+  {
+   "n": "060",
+   "pt": "Umbreon ex",
+   "en": "Umbreon ex"
+  },
+  {
+   "n": "061",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "062",
+   "pt": "Houndour",
+   "en": "Houndour"
+  },
+  {
+   "n": "063",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "064",
+   "pt": "Tyranitar ex",
+   "en": "Tyranitar ex"
+  },
+  {
+   "n": "065",
+   "pt": "Lua Estrondo",
+   "en": "Roaring Moon"
+  },
+  {
+   "n": "066",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "067",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "068",
+   "pt": "Heatran",
+   "en": "Heatran"
+  },
+  {
+   "n": "069",
+   "pt": "Duraludon",
+   "en": "Duraludon"
+  },
+  {
+   "n": "070",
+   "pt": "Archaludon",
+   "en": "Archaludon"
+  },
+  {
+   "n": "071",
+   "pt": "Dreepy",
+   "en": "Dreepy"
+  },
+  {
+   "n": "072",
+   "pt": "Drakloak",
+   "en": "Drakloak"
+  },
+  {
+   "n": "073",
+   "pt": "Dragapult ex",
+   "en": "Dragapult ex"
+  },
+  {
+   "n": "074",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "075",
+   "pt": "Eevee ex",
+   "en": "Eevee ex"
+  },
+  {
+   "n": "076",
+   "pt": "Snorlax ex",
+   "en": "Snorlax ex"
+  },
+  {
+   "n": "077",
+   "pt": "Hoothoot",
+   "en": "Hoothoot"
+  },
+  {
+   "n": "078",
+   "pt": "Noctowl",
+   "en": "Noctowl"
+  },
+  {
+   "n": "079",
+   "pt": "Dunsparce",
+   "en": "Dunsparce"
+  },
+  {
+   "n": "080",
+   "pt": "Dudunsparce",
+   "en": "Dudunsparce"
+  },
+  {
+   "n": "081",
+   "pt": "Miltank",
+   "en": "Miltank"
+  },
+  {
+   "n": "082",
+   "pt": "Lugia ex",
+   "en": "Lugia ex"
+  },
+  {
+   "n": "083",
+   "pt": "Buneary",
+   "en": "Buneary"
+  },
+  {
+   "n": "084",
+   "pt": "Lopunny",
+   "en": "Lopunny"
+  },
+  {
+   "n": "085",
+   "pt": "Rotom Ventilador",
+   "en": "Fan Rotom"
+  },
+  {
+   "n": "086",
+   "pt": "Regigigas",
+   "en": "Regigigas"
+  },
+  {
+   "n": "087",
+   "pt": "Shaymin",
+   "en": "Shaymin"
+  },
+  {
+   "n": "088",
+   "pt": "Furfrou",
+   "en": "Furfrou"
+  },
+  {
+   "n": "089",
+   "pt": "Hawlucha",
+   "en": "Hawlucha"
+  },
+  {
+   "n": "090",
+   "pt": "Noibat",
+   "en": "Noibat"
+  },
+  {
+   "n": "091",
+   "pt": "Noivern ex",
+   "en": "Noivern ex"
+  },
+  {
+   "n": "092",
+   "pt": "Terapagos ex",
+   "en": "Terapagos ex"
+  },
+  {
+   "n": "093",
+   "pt": "Amarílis",
+   "en": "Amarys"
+  },
+  {
+   "n": "094",
+   "pt": "Abismo da Área Zero",
+   "en": "Area Zero Underdepths"
+  },
+  {
+   "n": "095",
+   "pt": "Moti Vinculante",
+   "en": "Binding Mochi"
+  },
+  {
+   "n": "096",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "097",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "098",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "099",
+   "pt": "Treino de Faixa Preta",
+   "en": "Black Belt's Training"
+  },
+  {
+   "n": "100",
+   "pt": "Urzy",
+   "en": "Briar"
+  },
+  {
+   "n": "101",
+   "pt": "Poffin de Colega",
+   "en": "Buddy-Buddy Poffin"
+  },
+  {
+   "n": "102",
+   "pt": "Kit Caça-inseto",
+   "en": "Bug Catching Set"
+  },
+  {
+   "n": "103",
+   "pt": "Carmine",
+   "en": "Carmine"
+  },
+  {
+   "n": "104",
+   "pt": "Decodificação da Criptomaníaca",
+   "en": "Ciphermaniac's Codebreaking"
+  },
+  {
+   "n": "105",
+   "pt": "Plínio",
+   "en": "Crispin"
+  },
+  {
+   "n": "106",
+   "pt": "Recipiente Terrestre",
+   "en": "Earthen Vessel"
+  },
+  {
+   "n": "107",
+   "pt": "Liderança do Explorador",
+   "en": "Explorer's Guidance"
+  },
+  {
+   "n": "108",
+   "pt": "Praça de Festas",
+   "en": "Festival Grounds"
+  },
+  {
+   "n": "109",
+   "pt": "Amigos em Paldea",
+   "en": "Friends in Paldea"
+  },
+  {
+   "n": "110",
+   "pt": "Trompete de Vidro",
+   "en": "Glass Trumpet"
+  },
+  {
+   "n": "111",
+   "pt": "Fruta Meraçá",
+   "en": "Haban Berry"
+  },
+  {
+   "n": "112",
+   "pt": "Dom Secreto da Janine",
+   "en": "Janine's Secret Art"
+  },
+  {
+   "n": "113",
+   "pt": "Kiran",
+   "en": "Kieran"
+  },
+  {
+   "n": "114",
+   "pt": "Tarsila",
+   "en": "Lacey"
+  },
+  {
+   "n": "115",
+   "pt": "Talento do Lauro",
+   "en": "Larry's Skill"
+  },
+  {
+   "n": "116",
+   "pt": "Vara de Pescar Max",
+   "en": "Max Rod"
+  },
+  {
+   "n": "117",
+   "pt": "Cinturão Máximo",
+   "en": "Maximum Belt"
+  },
+  {
+   "n": "118",
+   "pt": "Máscara do Ogro",
+   "en": "Ogre's Mask"
+  },
+  {
+   "n": "119",
+   "pt": "Pegador Superior",
+   "en": "Prime Catcher"
+  },
+  {
+   "n": "120",
+   "pt": "Vitalidade da Professora Arka",
+   "en": "Professor Sada's Vitality"
+  },
+  {
+   "n": "121",
+   "pt": "Hipótese do Professor Turo",
+   "en": "Professor Turo's Scenario"
+  },
+  {
+   "n": "122",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "123",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "124",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "125",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "126",
+   "pt": "Skate de Resgate",
+   "en": "Rescue Board"
+  },
+  {
+   "n": "127",
+   "pt": "Roto-bastão",
+   "en": "Roto-Stick"
+  },
+  {
+   "n": "128",
+   "pt": "Recolhida Ciclone",
+   "en": "Scoop Up Cyclone"
+  },
+  {
+   "n": "129",
+   "pt": "Cristal Cintilante",
+   "en": "Sparkling Crystal"
+  },
+  {
+   "n": "130",
+   "pt": "Radar Tecnológico",
+   "en": "Techno Radar"
+  },
+  {
+   "n": "131",
+   "pt": "Rastreador de Tesouros",
+   "en": "Treasure Tracker"
+  },
+  {
+   "n": "132",
+   "pt": "Amarílis",
+   "en": "Amarys"
+  },
+  {
+   "n": "133",
+   "pt": "Érico",
+   "en": "Atticus"
+  },
+  {
+   "n": "134",
+   "pt": "Érico",
+   "en": "Atticus"
+  },
+  {
+   "n": "135",
+   "pt": "Brás",
+   "en": "Brassius"
+  },
+  {
+   "n": "136",
+   "pt": "Êri",
+   "en": "Eri"
+  },
+  {
+   "n": "137",
+   "pt": "Amigos em Paldea",
+   "en": "Friends in Paldea"
+  },
+  {
+   "n": "138",
+   "pt": "Giacomo",
+   "en": "Giacomo"
+  },
+  {
+   "n": "139",
+   "pt": "Talento do Lauro",
+   "en": "Larry's Skill"
+  },
+  {
+   "n": "140",
+   "pt": "Mélia",
+   "en": "Mela"
+  },
+  {
+   "n": "141",
+   "pt": "Ortega",
+   "en": "Ortega"
+  },
+  {
+   "n": "142",
+   "pt": "Moira",
+   "en": "Raifort"
+  },
+  {
+   "n": "143",
+   "pt": "Tomila",
+   "en": "Tyme"
+  },
+  {
+   "n": "144",
+   "pt": "Leafeon ex",
+   "en": "Leafeon ex"
+  },
+  {
+   "n": "145",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "146",
+   "pt": "Flareon ex",
+   "en": "Flareon ex"
+  },
+  {
+   "n": "147",
+   "pt": "Ceruledge ex",
+   "en": "Ceruledge ex"
+  },
+  {
+   "n": "148",
+   "pt": "Ogerpon Máscara Fornalha ex",
+   "en": "Hearthflame Mask Ogerpon ex"
+  },
+  {
+   "n": "149",
+   "pt": "Vaporeon ex",
+   "en": "Vaporeon ex"
+  },
+  {
+   "n": "150",
+   "pt": "Glaceon ex",
+   "en": "Glaceon ex"
+  },
+  {
+   "n": "151",
+   "pt": "Palafin ex",
+   "en": "Palafin ex"
+  },
+  {
+   "n": "152",
+   "pt": "Ogerpon Máscara Nascente ex",
+   "en": "Wellspring Mask Ogerpon ex"
+  },
+  {
+   "n": "153",
+   "pt": "Jolteon ex",
+   "en": "Jolteon ex"
+  },
+  {
+   "n": "154",
+   "pt": "Mãos Férreas ex",
+   "en": "Iron Hands ex"
+  },
+  {
+   "n": "155",
+   "pt": "Espeon ex",
+   "en": "Espeon ex"
+  },
+  {
+   "n": "156",
+   "pt": "Sylveon ex",
+   "en": "Sylveon ex"
+  },
+  {
+   "n": "157",
+   "pt": "Valentia Férrea ex",
+   "en": "Iron Valiant ex"
+  },
+  {
+   "n": "158",
+   "pt": "Chifres Férreos ex",
+   "en": "Iron Crown ex"
+  },
+  {
+   "n": "159",
+   "pt": "Choque Areia ex",
+   "en": "Sandy Shocks ex"
+  },
+  {
+   "n": "160",
+   "pt": "Ogerpon Máscara Alicerce ex",
+   "en": "Cornerstone Mask Ogerpon ex"
+  },
+  {
+   "n": "161",
+   "pt": "Umbreon ex",
+   "en": "Umbreon ex"
+  },
+  {
+   "n": "162",
+   "pt": "Lua Estrondo ex",
+   "en": "Roaring Moon ex"
+  },
+  {
+   "n": "163",
+   "pt": "Pecharunt ex",
+   "en": "Pecharunt ex"
+  },
+  {
+   "n": "164",
+   "pt": "Gholdengo ex",
+   "en": "Gholdengo ex"
+  },
+  {
+   "n": "165",
+   "pt": "Dragapult ex",
+   "en": "Dragapult ex"
+  },
+  {
+   "n": "166",
+   "pt": "Raio Fúria ex",
+   "en": "Raging Bolt ex"
+  },
+  {
+   "n": "167",
+   "pt": "Eevee ex",
+   "en": "Eevee ex"
+  },
+  {
+   "n": "168",
+   "pt": "Ursaluna Lua Sangrenta ex",
+   "en": "Bloodmoon Ursaluna ex"
+  },
+  {
+   "n": "169",
+   "pt": "Terapagos ex",
+   "en": "Terapagos ex"
+  },
+  {
+   "n": "170",
+   "pt": "Amarílis",
+   "en": "Amarys"
+  },
+  {
+   "n": "171",
+   "pt": "Plínio",
+   "en": "Crispin"
+  },
+  {
+   "n": "172",
+   "pt": "Drayton",
+   "en": "Drayton"
+  },
+  {
+   "n": "173",
+   "pt": "Dom Secreto da Janine",
+   "en": "Janine's Secret Art"
+  },
+  {
+   "n": "174",
+   "pt": "Kiran",
+   "en": "Kieran"
+  },
+  {
+   "n": "175",
+   "pt": "Tarsila",
+   "en": "Lacey"
+  },
+  {
+   "n": "176",
+   "pt": "Folhas Férreas ex",
+   "en": "Iron Leaves ex"
+  },
+  {
+   "n": "177",
+   "pt": "Ogerpon Máscara Turquesa ex",
+   "en": "Teal Mask Ogerpon ex"
+  },
+  {
+   "n": "178",
+   "pt": "Onda Ando ex",
+   "en": "Walking Wake ex"
+  },
+  {
+   "n": "179",
+   "pt": "Pikachu ex",
+   "en": "Pikachu ex"
+  },
+  {
+   "n": "180",
+   "pt": "Terapagos ex",
+   "en": "Terapagos ex"
+  }
+ ]
+}

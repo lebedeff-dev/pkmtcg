@@ -1,0 +1,1094 @@
+{
+ "set": "swsh11",
+ "nome_pt": "Origem Perdida",
+ "nome_en": "Lost Origin",
+ "total": 217,
+ "oficial": 196,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Oddish",
+   "en": "Oddish"
+  },
+  {
+   "n": "002",
+   "pt": "Gloom",
+   "en": "Gloom"
+  },
+  {
+   "n": "003",
+   "pt": "Vileplume",
+   "en": "Vileplume"
+  },
+  {
+   "n": "004",
+   "pt": "Paras",
+   "en": "Paras"
+  },
+  {
+   "n": "005",
+   "pt": "Parasect",
+   "en": "Parasect"
+  },
+  {
+   "n": "006",
+   "pt": "Wurmple",
+   "en": "Wurmple"
+  },
+  {
+   "n": "007",
+   "pt": "Silcoon",
+   "en": "Silcoon"
+  },
+  {
+   "n": "008",
+   "pt": "Beautifly",
+   "en": "Beautifly"
+  },
+  {
+   "n": "009",
+   "pt": "Cascoon",
+   "en": "Cascoon"
+  },
+  {
+   "n": "010",
+   "pt": "Dustox",
+   "en": "Dustox"
+  },
+  {
+   "n": "011",
+   "pt": "Seedot",
+   "en": "Seedot"
+  },
+  {
+   "n": "012",
+   "pt": "Nuzleaf",
+   "en": "Nuzleaf"
+  },
+  {
+   "n": "013",
+   "pt": "Shiftry",
+   "en": "Shiftry"
+  },
+  {
+   "n": "014",
+   "pt": "Roselia",
+   "en": "Roselia"
+  },
+  {
+   "n": "015",
+   "pt": "Roserade",
+   "en": "Roserade"
+  },
+  {
+   "n": "016",
+   "pt": "Phantump",
+   "en": "Phantump"
+  },
+  {
+   "n": "017",
+   "pt": "Trevenant",
+   "en": "Trevenant"
+  },
+  {
+   "n": "018",
+   "pt": "Blipbug",
+   "en": "Blipbug"
+  },
+  {
+   "n": "019",
+   "pt": "Dottler",
+   "en": "Dottler"
+  },
+  {
+   "n": "020",
+   "pt": "Orbeetle",
+   "en": "Orbeetle"
+  },
+  {
+   "n": "021",
+   "pt": "Slugma",
+   "en": "Slugma"
+  },
+  {
+   "n": "022",
+   "pt": "Magcargo",
+   "en": "Magcargo"
+  },
+  {
+   "n": "023",
+   "pt": "Torkoal",
+   "en": "Torkoal"
+  },
+  {
+   "n": "024",
+   "pt": "Litwick",
+   "en": "Litwick"
+  },
+  {
+   "n": "025",
+   "pt": "Lampent",
+   "en": "Lampent"
+  },
+  {
+   "n": "026",
+   "pt": "Chandelure",
+   "en": "Chandelure"
+  },
+  {
+   "n": "027",
+   "pt": "Delphox V",
+   "en": "Delphox V"
+  },
+  {
+   "n": "028",
+   "pt": "Litleo",
+   "en": "Litleo"
+  },
+  {
+   "n": "029",
+   "pt": "Pyroar",
+   "en": "Pyroar"
+  },
+  {
+   "n": "030",
+   "pt": "Poliwag",
+   "en": "Poliwag"
+  },
+  {
+   "n": "031",
+   "pt": "Poliwhirl",
+   "en": "Poliwhirl"
+  },
+  {
+   "n": "032",
+   "pt": "Politoed",
+   "en": "Politoed"
+  },
+  {
+   "n": "033",
+   "pt": "Seel",
+   "en": "Seel"
+  },
+  {
+   "n": "034",
+   "pt": "Dewgong",
+   "en": "Dewgong"
+  },
+  {
+   "n": "035",
+   "pt": "Horsea",
+   "en": "Horsea"
+  },
+  {
+   "n": "036",
+   "pt": "Seadra",
+   "en": "Seadra"
+  },
+  {
+   "n": "037",
+   "pt": "Kingdra",
+   "en": "Kingdra"
+  },
+  {
+   "n": "038",
+   "pt": "Luvdisc",
+   "en": "Luvdisc"
+  },
+  {
+   "n": "039",
+   "pt": "Shellos",
+   "en": "Shellos"
+  },
+  {
+   "n": "040",
+   "pt": "Finneon",
+   "en": "Finneon"
+  },
+  {
+   "n": "041",
+   "pt": "Lumineon",
+   "en": "Lumineon"
+  },
+  {
+   "n": "042",
+   "pt": "Snover",
+   "en": "Snover"
+  },
+  {
+   "n": "043",
+   "pt": "Abomasnow",
+   "en": "Abomasnow"
+  },
+  {
+   "n": "044",
+   "pt": "Basculin de Hisui",
+   "en": "Hisuian Basculin"
+  },
+  {
+   "n": "045",
+   "pt": "Basculegion de Hisui",
+   "en": "Hisuian Basculegion"
+  },
+  {
+   "n": "046",
+   "pt": "Ducklett",
+   "en": "Ducklett"
+  },
+  {
+   "n": "047",
+   "pt": "Swanna",
+   "en": "Swanna"
+  },
+  {
+   "n": "048",
+   "pt": "Kyurem V",
+   "en": "Kyurem V"
+  },
+  {
+   "n": "049",
+   "pt": "Kyurem VMAX",
+   "en": "Kyurem VMAX"
+  },
+  {
+   "n": "050",
+   "pt": "Cramorant",
+   "en": "Cramorant"
+  },
+  {
+   "n": "051",
+   "pt": "Glastrier",
+   "en": "Glastrier"
+  },
+  {
+   "n": "052",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "053",
+   "pt": "Raichu",
+   "en": "Raichu"
+  },
+  {
+   "n": "054",
+   "pt": "Electrike",
+   "en": "Electrike"
+  },
+  {
+   "n": "055",
+   "pt": "Manectric",
+   "en": "Manectric"
+  },
+  {
+   "n": "056",
+   "pt": "Magnezone V",
+   "en": "Magnezone V"
+  },
+  {
+   "n": "057",
+   "pt": "Magnezone V-ASTRO",
+   "en": "Magnezone VSTAR"
+  },
+  {
+   "n": "058",
+   "pt": "Rotom V",
+   "en": "Rotom V"
+  },
+  {
+   "n": "059",
+   "pt": "Tynamo",
+   "en": "Tynamo"
+  },
+  {
+   "n": "060",
+   "pt": "Eelektrik",
+   "en": "Eelektrik"
+  },
+  {
+   "n": "061",
+   "pt": "Eelektross",
+   "en": "Eelektross"
+  },
+  {
+   "n": "062",
+   "pt": "Clefairy",
+   "en": "Clefairy"
+  },
+  {
+   "n": "063",
+   "pt": "Clefable",
+   "en": "Clefable"
+  },
+  {
+   "n": "064",
+   "pt": "Gastly",
+   "en": "Gastly"
+  },
+  {
+   "n": "065",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "066",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "067",
+   "pt": "Mr. Mime",
+   "en": "Mr. Mime"
+  },
+  {
+   "n": "068",
+   "pt": "Jynx",
+   "en": "Jynx"
+  },
+  {
+   "n": "069",
+   "pt": "Gardevoir Radiante",
+   "en": "Radiant Gardevoir"
+  },
+  {
+   "n": "070",
+   "pt": "Sableye",
+   "en": "Sableye"
+  },
+  {
+   "n": "071",
+   "pt": "Mawile",
+   "en": "Mawile"
+  },
+  {
+   "n": "072",
+   "pt": "Shuppet",
+   "en": "Shuppet"
+  },
+  {
+   "n": "073",
+   "pt": "Banette",
+   "en": "Banette"
+  },
+  {
+   "n": "074",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "075",
+   "pt": "Zorua de Hisui",
+   "en": "Hisuian Zorua"
+  },
+  {
+   "n": "076",
+   "pt": "Zoroark de Hisui",
+   "en": "Hisuian Zoroark"
+  },
+  {
+   "n": "077",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "078",
+   "pt": "Malamar",
+   "en": "Malamar"
+  },
+  {
+   "n": "079",
+   "pt": "Comfey",
+   "en": "Comfey"
+  },
+  {
+   "n": "080",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "081",
+   "pt": "Spectrier",
+   "en": "Spectrier"
+  },
+  {
+   "n": "082",
+   "pt": "Enamorus V",
+   "en": "Enamorus V"
+  },
+  {
+   "n": "083",
+   "pt": "Growlithe de Hisui",
+   "en": "Hisuian Growlithe"
+  },
+  {
+   "n": "084",
+   "pt": "Arcanine de Hisui",
+   "en": "Hisuian Arcanine"
+  },
+  {
+   "n": "085",
+   "pt": "Poliwrath",
+   "en": "Poliwrath"
+  },
+  {
+   "n": "086",
+   "pt": "Machop",
+   "en": "Machop"
+  },
+  {
+   "n": "087",
+   "pt": "Machoke",
+   "en": "Machoke"
+  },
+  {
+   "n": "088",
+   "pt": "Machamp",
+   "en": "Machamp"
+  },
+  {
+   "n": "089",
+   "pt": "Rhyhorn",
+   "en": "Rhyhorn"
+  },
+  {
+   "n": "090",
+   "pt": "Rhydon",
+   "en": "Rhydon"
+  },
+  {
+   "n": "091",
+   "pt": "Rhyperior",
+   "en": "Rhyperior"
+  },
+  {
+   "n": "092",
+   "pt": "Aerodactyl V",
+   "en": "Aerodactyl V"
+  },
+  {
+   "n": "093",
+   "pt": "Aerodactyl V-ASTRO",
+   "en": "Aerodactyl VSTAR"
+  },
+  {
+   "n": "094",
+   "pt": "Sudowoodo",
+   "en": "Sudowoodo"
+  },
+  {
+   "n": "095",
+   "pt": "Gligar",
+   "en": "Gligar"
+  },
+  {
+   "n": "096",
+   "pt": "Gliscor",
+   "en": "Gliscor"
+  },
+  {
+   "n": "097",
+   "pt": "Makuhita",
+   "en": "Makuhita"
+  },
+  {
+   "n": "098",
+   "pt": "Hariyama",
+   "en": "Hariyama"
+  },
+  {
+   "n": "099",
+   "pt": "Meditite",
+   "en": "Meditite"
+  },
+  {
+   "n": "100",
+   "pt": "Medicham",
+   "en": "Medicham"
+  },
+  {
+   "n": "101",
+   "pt": "Relicanth",
+   "en": "Relicanth"
+  },
+  {
+   "n": "102",
+   "pt": "Gastrodon",
+   "en": "Gastrodon"
+  },
+  {
+   "n": "103",
+   "pt": "Mienfoo",
+   "en": "Mienfoo"
+  },
+  {
+   "n": "104",
+   "pt": "Mienshao",
+   "en": "Mienshao"
+  },
+  {
+   "n": "105",
+   "pt": "Landorus",
+   "en": "Landorus"
+  },
+  {
+   "n": "106",
+   "pt": "Binacle",
+   "en": "Binacle"
+  },
+  {
+   "n": "107",
+   "pt": "Barbaracle",
+   "en": "Barbaracle"
+  },
+  {
+   "n": "108",
+   "pt": "Carbink",
+   "en": "Carbink"
+  },
+  {
+   "n": "109",
+   "pt": "Rockruff",
+   "en": "Rockruff"
+  },
+  {
+   "n": "110",
+   "pt": "Falinks",
+   "en": "Falinks"
+  },
+  {
+   "n": "111",
+   "pt": "Stonjourner",
+   "en": "Stonjourner"
+  },
+  {
+   "n": "112",
+   "pt": "Spinarak",
+   "en": "Spinarak"
+  },
+  {
+   "n": "113",
+   "pt": "Ariados",
+   "en": "Ariados"
+  },
+  {
+   "n": "114",
+   "pt": "Murkrow",
+   "en": "Murkrow"
+  },
+  {
+   "n": "115",
+   "pt": "Honchkrow",
+   "en": "Honchkrow"
+  },
+  {
+   "n": "116",
+   "pt": "Seviper",
+   "en": "Seviper"
+  },
+  {
+   "n": "117",
+   "pt": "Spiritomb",
+   "en": "Spiritomb"
+  },
+  {
+   "n": "118",
+   "pt": "Drapion V",
+   "en": "Drapion V"
+  },
+  {
+   "n": "119",
+   "pt": "Drapion V-ASTRO",
+   "en": "Drapion VSTAR"
+  },
+  {
+   "n": "120",
+   "pt": "Darkrai",
+   "en": "Darkrai"
+  },
+  {
+   "n": "121",
+   "pt": "Inkay",
+   "en": "Inkay"
+  },
+  {
+   "n": "122",
+   "pt": "Hoopa",
+   "en": "Hoopa"
+  },
+  {
+   "n": "123",
+   "pt": "Sneasler de Hisui Radiante",
+   "en": "Radiant Hisuian Sneasler"
+  },
+  {
+   "n": "124",
+   "pt": "Steelix Radiante",
+   "en": "Radiant Steelix"
+  },
+  {
+   "n": "125",
+   "pt": "Bronzor",
+   "en": "Bronzor"
+  },
+  {
+   "n": "126",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "127",
+   "pt": "Stunfisk de Galar",
+   "en": "Galarian Stunfisk"
+  },
+  {
+   "n": "128",
+   "pt": "Magearna",
+   "en": "Magearna"
+  },
+  {
+   "n": "129",
+   "pt": "Perrserker de Galar V",
+   "en": "Galarian Perrserker V"
+  },
+  {
+   "n": "130",
+   "pt": "Giratina V",
+   "en": "Giratina V"
+  },
+  {
+   "n": "131",
+   "pt": "Giratina V-ASTRO",
+   "en": "Giratina VSTAR"
+  },
+  {
+   "n": "132",
+   "pt": "Goomy",
+   "en": "Goomy"
+  },
+  {
+   "n": "133",
+   "pt": "Sliggoo de Hisui",
+   "en": "Hisuian Sliggoo"
+  },
+  {
+   "n": "134",
+   "pt": "Goodra de Hisui",
+   "en": "Hisuian Goodra"
+  },
+  {
+   "n": "135",
+   "pt": "Goodra de Hisui V",
+   "en": "Hisuian Goodra V"
+  },
+  {
+   "n": "136",
+   "pt": "Goodra de Hisui V-ASTRO",
+   "en": "Hisuian Goodra VSTAR"
+  },
+  {
+   "n": "137",
+   "pt": "Pidgeot V",
+   "en": "Pidgeot V"
+  },
+  {
+   "n": "138",
+   "pt": "Lickitung",
+   "en": "Lickitung"
+  },
+  {
+   "n": "139",
+   "pt": "Lickilicky",
+   "en": "Lickilicky"
+  },
+  {
+   "n": "140",
+   "pt": "Porygon",
+   "en": "Porygon"
+  },
+  {
+   "n": "141",
+   "pt": "Porygon2",
+   "en": "Porygon2"
+  },
+  {
+   "n": "142",
+   "pt": "Porygon-Z",
+   "en": "Porygon-Z"
+  },
+  {
+   "n": "143",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "144",
+   "pt": "Aipom",
+   "en": "Aipom"
+  },
+  {
+   "n": "145",
+   "pt": "Ambipom",
+   "en": "Ambipom"
+  },
+  {
+   "n": "146",
+   "pt": "Zoroark de Hisui V",
+   "en": "Hisuian Zoroark V"
+  },
+  {
+   "n": "147",
+   "pt": "Zoroark de Hisui V-ASTRO",
+   "en": "Hisuian Zoroark VSTAR"
+  },
+  {
+   "n": "148",
+   "pt": "Bouffalant",
+   "en": "Bouffalant"
+  },
+  {
+   "n": "149",
+   "pt": "Komala",
+   "en": "Komala"
+  },
+  {
+   "n": "150",
+   "pt": "Skwovet",
+   "en": "Skwovet"
+  },
+  {
+   "n": "151",
+   "pt": "Greedent",
+   "en": "Greedent"
+  },
+  {
+   "n": "152",
+   "pt": "Arc Fone",
+   "en": "Arc Phone"
+  },
+  {
+   "n": "153",
+   "pt": "Areza",
+   "en": "Arezu"
+  },
+  {
+   "n": "154",
+   "pt": "Caixa do Desastre",
+   "en": "Box of Disaster"
+  },
+  {
+   "n": "155",
+   "pt": "Experimento do Colress",
+   "en": "Colress's Experiment"
+  },
+  {
+   "n": "156",
+   "pt": "Bomba de Dano",
+   "en": "Damage Pump"
+  },
+  {
+   "n": "157",
+   "pt": "Fantina",
+   "en": "Fantina"
+  },
+  {
+   "n": "158",
+   "pt": "Miscano",
+   "en": "Iscan"
+  },
+  {
+   "n": "159",
+   "pt": "Dama",
+   "en": "Lady"
+  },
+  {
+   "n": "160",
+   "pt": "Lago da Verdade",
+   "en": "Lake Acuity"
+  },
+  {
+   "n": "161",
+   "pt": "Cidade Perdida",
+   "en": "Lost City"
+  },
+  {
+   "n": "162",
+   "pt": "Aspirador Perdido",
+   "en": "Lost Vacuum"
+  },
+  {
+   "n": "163",
+   "pt": "Portão da Miragem",
+   "en": "Mirage Gate"
+  },
+  {
+   "n": "164",
+   "pt": "Irmãs Infortúnio",
+   "en": "Miss Fortune Sisters"
+  },
+  {
+   "n": "165",
+   "pt": "Máscara Apavorante",
+   "en": "Panic Mask"
+  },
+  {
+   "n": "166",
+   "pt": "Riley",
+   "en": "Riley"
+  },
+  {
+   "n": "167",
+   "pt": "Spino",
+   "en": "Thorton"
+  },
+  {
+   "n": "168",
+   "pt": "Kit de Ferramentas",
+   "en": "Tool Box"
+  },
+  {
+   "n": "169",
+   "pt": "Volo",
+   "en": "Volo"
+  },
+  {
+   "n": "170",
+   "pt": "Braço de Corda",
+   "en": "Windup Arm"
+  },
+  {
+   "n": "171",
+   "pt": "Energia de Presente",
+   "en": "Gift Energy"
+  },
+  {
+   "n": "172",
+   "pt": "Electrode de Hisui V",
+   "en": "Hisuian Electrode V"
+  },
+  {
+   "n": "173",
+   "pt": "Delphox V",
+   "en": "Delphox V"
+  },
+  {
+   "n": "174",
+   "pt": "Kyurem V",
+   "en": "Kyurem V"
+  },
+  {
+   "n": "175",
+   "pt": "Magnezone V",
+   "en": "Magnezone V"
+  },
+  {
+   "n": "176",
+   "pt": "Rotom V",
+   "en": "Rotom V"
+  },
+  {
+   "n": "177",
+   "pt": "Rotom V",
+   "en": "Rotom V"
+  },
+  {
+   "n": "178",
+   "pt": "Enamorus V",
+   "en": "Enamorus V"
+  },
+  {
+   "n": "179",
+   "pt": "Aerodactyl V",
+   "en": "Aerodactyl V"
+  },
+  {
+   "n": "180",
+   "pt": "Aerodactyl V",
+   "en": "Aerodactyl V"
+  },
+  {
+   "n": "181",
+   "pt": "Gallade V",
+   "en": "Gallade V"
+  },
+  {
+   "n": "182",
+   "pt": "Drapion V",
+   "en": "Drapion V"
+  },
+  {
+   "n": "183",
+   "pt": "Perrserker de Galar V",
+   "en": "Galarian Perrserker V"
+  },
+  {
+   "n": "184",
+   "pt": "Perrserker de Galar V",
+   "en": "Galarian Perrserker V"
+  },
+  {
+   "n": "185",
+   "pt": "Giratina V",
+   "en": "Giratina V"
+  },
+  {
+   "n": "186",
+   "pt": "Giratina V",
+   "en": "Giratina V"
+  },
+  {
+   "n": "187",
+   "pt": "Goodra de Hisui V",
+   "en": "Hisuian Goodra V"
+  },
+  {
+   "n": "188",
+   "pt": "Pidgeot V",
+   "en": "Pidgeot V"
+  },
+  {
+   "n": "189",
+   "pt": "Areza",
+   "en": "Arezu"
+  },
+  {
+   "n": "190",
+   "pt": "Experimento do Colress",
+   "en": "Colress's Experiment"
+  },
+  {
+   "n": "191",
+   "pt": "Fantina",
+   "en": "Fantina"
+  },
+  {
+   "n": "192",
+   "pt": "Miscano",
+   "en": "Iscan"
+  },
+  {
+   "n": "193",
+   "pt": "Dama",
+   "en": "Lady"
+  },
+  {
+   "n": "194",
+   "pt": "Irmãs Infortúnio",
+   "en": "Miss Fortune Sisters"
+  },
+  {
+   "n": "195",
+   "pt": "Spino",
+   "en": "Thorton"
+  },
+  {
+   "n": "196",
+   "pt": "Volo",
+   "en": "Volo"
+  },
+  {
+   "n": "197",
+   "pt": "Kyurem VMAX",
+   "en": "Kyurem VMAX"
+  },
+  {
+   "n": "198",
+   "pt": "Magnezone V-ASTRO",
+   "en": "Magnezone VSTAR"
+  },
+  {
+   "n": "199",
+   "pt": "Aerodactyl V-ASTRO",
+   "en": "Aerodactyl VSTAR"
+  },
+  {
+   "n": "200",
+   "pt": "Drapion V-ASTRO",
+   "en": "Drapion VSTAR"
+  },
+  {
+   "n": "201",
+   "pt": "Giratina V-ASTRO",
+   "en": "Giratina VSTAR"
+  },
+  {
+   "n": "202",
+   "pt": "Goodra de Hisui V-ASTRO",
+   "en": "Hisuian Goodra VSTAR"
+  },
+  {
+   "n": "203",
+   "pt": "Zoroark de Hisui V-ASTRO",
+   "en": "Hisuian Zoroark VSTAR"
+  },
+  {
+   "n": "204",
+   "pt": "Areza",
+   "en": "Arezu"
+  },
+  {
+   "n": "205",
+   "pt": "Experimento do Colress",
+   "en": "Colress's Experiment"
+  },
+  {
+   "n": "206",
+   "pt": "Fantina",
+   "en": "Fantina"
+  },
+  {
+   "n": "207",
+   "pt": "Miscano",
+   "en": "Iscan"
+  },
+  {
+   "n": "208",
+   "pt": "Dama",
+   "en": "Lady"
+  },
+  {
+   "n": "209",
+   "pt": "Irmãs Infortúnio",
+   "en": "Miss Fortune Sisters"
+  },
+  {
+   "n": "210",
+   "pt": "Spino",
+   "en": "Thorton"
+  },
+  {
+   "n": "211",
+   "pt": "Volo",
+   "en": "Volo"
+  },
+  {
+   "n": "212",
+   "pt": "Giratina V-ASTRO",
+   "en": "Giratina VSTAR"
+  },
+  {
+   "n": "213",
+   "pt": "Zoroark de Hisui V-ASTRO",
+   "en": "Hisuian Zoroark VSTAR"
+  },
+  {
+   "n": "214",
+   "pt": "Caixa do Desastre",
+   "en": "Box of Disaster"
+  },
+  {
+   "n": "215",
+   "pt": "Estádio Desmoronado",
+   "en": "Collapsed Stadium"
+  },
+  {
+   "n": "216",
+   "pt": "Fragmento Sombrio",
+   "en": "Dark Patch"
+  },
+  {
+   "n": "217",
+   "pt": "Aspirador Perdido",
+   "en": "Lost Vacuum"
+  }
+ ]
+}

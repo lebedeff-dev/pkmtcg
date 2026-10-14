@@ -1,0 +1,454 @@
+{
+ "set": "mep",
+ "nome_pt": "MEP Black Star Promos",
+ "nome_en": "MEP Black Star Promos",
+ "total": 89,
+ "oficial": null,
+ "cartas": [
+  {
+   "n": "001",
+   "pt": "Meganium",
+   "en": "Meganium"
+  },
+  {
+   "n": "002",
+   "pt": "Inteleon",
+   "en": "Inteleon"
+  },
+  {
+   "n": "003",
+   "pt": "Alakazam",
+   "en": "Alakazam"
+  },
+  {
+   "n": "004",
+   "pt": "Lunatone",
+   "en": "Lunatone"
+  },
+  {
+   "n": "005",
+   "pt": "Drifloon",
+   "en": "Drifloon"
+  },
+  {
+   "n": "006",
+   "pt": "Drifblim",
+   "en": "Drifblim"
+  },
+  {
+   "n": "007",
+   "pt": "Psyduck",
+   "en": "Psyduck"
+  },
+  {
+   "n": "008",
+   "pt": "Golduck",
+   "en": "Golduck"
+  },
+  {
+   "n": "009",
+   "pt": "Alakazam",
+   "en": "Alakazam"
+  },
+  {
+   "n": "010",
+   "pt": "Riolu",
+   "en": "Riolu"
+  },
+  {
+   "n": "011",
+   "pt": "Mega Latias ex",
+   "en": "Mega Latias ex"
+  },
+  {
+   "n": "012",
+   "pt": "Mega Lucario ex",
+   "en": "Mega Lucario ex"
+  },
+  {
+   "n": "013",
+   "pt": "Mega Venusaur ex",
+   "en": "Mega Venusaur ex"
+  },
+  {
+   "n": "014",
+   "pt": "Ceruledge",
+   "en": "Ceruledge"
+  },
+  {
+   "n": "015",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "016",
+   "pt": "Flygon",
+   "en": "Flygon"
+  },
+  {
+   "n": "017",
+   "pt": "Toxtricity",
+   "en": "Toxtricity"
+  },
+  {
+   "n": "018",
+   "pt": "Cottonee",
+   "en": "Cottonee"
+  },
+  {
+   "n": "019",
+   "pt": "Whimsicott",
+   "en": "Whimsicott"
+  },
+  {
+   "n": "020",
+   "pt": "Sneasel",
+   "en": "Sneasel"
+  },
+  {
+   "n": "021",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "022",
+   "pt": "Charcadet",
+   "en": "Charcadet"
+  },
+  {
+   "n": "023",
+   "pt": "Mega Charizard X ex",
+   "en": "Mega Charizard X ex"
+  },
+  {
+   "n": "024",
+   "pt": "Oricorio ex",
+   "en": "Oricorio ex"
+  },
+  {
+   "n": "025",
+   "pt": "Mega Kangaskhan ex",
+   "en": "Mega Kangaskhan ex"
+  },
+  {
+   "n": "026",
+   "pt": "Meloetta",
+   "en": "Meloetta"
+  },
+  {
+   "n": "027",
+   "pt": "Haunter",
+   "en": "Haunter"
+  },
+  {
+   "n": "028",
+   "pt": "Fanfarra de Celebração",
+   "en": "Celebratory Fanfare"
+  },
+  {
+   "n": "029",
+   "pt": "Mega Charizard X ex",
+   "en": "Mega Charizard X ex"
+  },
+  {
+   "n": "030",
+   "pt": "Mega Charizard Y ex",
+   "en": "Mega Charizard Y ex"
+  },
+  {
+   "n": "031",
+   "pt": "Zekrom do N",
+   "en": "N's Zekrom"
+  },
+  {
+   "n": "032",
+   "pt": "Mega Gardevoir ex",
+   "en": "Mega Gardevoir ex"
+  },
+  {
+   "n": "033",
+   "pt": "Mega Lucario ex",
+   "en": "Mega Lucario ex"
+  },
+  {
+   "n": "034",
+   "pt": "Mega Meganium ex",
+   "en": "Mega Meganium ex"
+  },
+  {
+   "n": "035",
+   "pt": "Mega Emboar ex",
+   "en": "Mega Emboar ex"
+  },
+  {
+   "n": "036",
+   "pt": "Mega Feraligatr ex",
+   "en": "Mega Feraligatr ex"
+  },
+  {
+   "n": "037",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "038",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "039",
+   "pt": "Squirtle",
+   "en": "Squirtle"
+  },
+  {
+   "n": "040",
+   "pt": "Turtwig",
+   "en": "Turtwig"
+  },
+  {
+   "n": "041",
+   "pt": "Chimchar",
+   "en": "Chimchar"
+  },
+  {
+   "n": "042",
+   "pt": "Piplup",
+   "en": "Piplup"
+  },
+  {
+   "n": "043",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "044",
+   "pt": "Litten",
+   "en": "Litten"
+  },
+  {
+   "n": "045",
+   "pt": "Popplio",
+   "en": "Popplio"
+  },
+  {
+   "n": "046",
+   "pt": "Chikorita",
+   "en": "Chikorita"
+  },
+  {
+   "n": "047",
+   "pt": "Cyndaquil",
+   "en": "Cyndaquil"
+  },
+  {
+   "n": "048",
+   "pt": "Totodile",
+   "en": "Totodile"
+  },
+  {
+   "n": "049",
+   "pt": "Snivy",
+   "en": "Snivy"
+  },
+  {
+   "n": "050",
+   "pt": "Tepig",
+   "en": "Tepig"
+  },
+  {
+   "n": "051",
+   "pt": "Oshawott",
+   "en": "Oshawott"
+  },
+  {
+   "n": "052",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "053",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "054",
+   "pt": "Sobble",
+   "en": "Sobble"
+  },
+  {
+   "n": "055",
+   "pt": "Treecko",
+   "en": "Treecko"
+  },
+  {
+   "n": "056",
+   "pt": "Torchic",
+   "en": "Torchic"
+  },
+  {
+   "n": "057",
+   "pt": "Mudkip",
+   "en": "Mudkip"
+  },
+  {
+   "n": "058",
+   "pt": "Chespin",
+   "en": "Chespin"
+  },
+  {
+   "n": "059",
+   "pt": "Fennekin",
+   "en": "Fennekin"
+  },
+  {
+   "n": "060",
+   "pt": "Froakie",
+   "en": "Froakie"
+  },
+  {
+   "n": "061",
+   "pt": "Sprigatito",
+   "en": "Sprigatito"
+  },
+  {
+   "n": "062",
+   "pt": "Fuecoco",
+   "en": "Fuecoco"
+  },
+  {
+   "n": "063",
+   "pt": "Quaxly",
+   "en": "Quaxly"
+  },
+  {
+   "n": "064",
+   "pt": "Serperior",
+   "en": "Serperior"
+  },
+  {
+   "n": "065",
+   "pt": "Barbaracle",
+   "en": "Barbaracle"
+  },
+  {
+   "n": "066",
+   "pt": "Tyrantrum",
+   "en": "Tyrantrum"
+  },
+  {
+   "n": "067",
+   "pt": "Doublade",
+   "en": "Doublade"
+  },
+  {
+   "n": "068",
+   "pt": "Makuhita",
+   "en": "Makuhita"
+  },
+  {
+   "n": "069",
+   "pt": "Chikorita",
+   "en": "Chikorita"
+  },
+  {
+   "n": "070",
+   "pt": "Tyrunt",
+   "en": "Tyrunt"
+  },
+  {
+   "n": "071",
+   "pt": "Mega Zygarde ex",
+   "en": "Mega Zygarde ex"
+  },
+  {
+   "n": "072",
+   "pt": "Mega Clefable ex",
+   "en": "Mega Clefable ex"
+  },
+  {
+   "n": "073",
+   "pt": "Mega Gengar ex",
+   "en": "Mega Gengar ex"
+  },
+  {
+   "n": "074",
+   "pt": "Delphox",
+   "en": "Delphox"
+  },
+  {
+   "n": "075",
+   "pt": "Ampharos",
+   "en": "Ampharos"
+  },
+  {
+   "n": "076",
+   "pt": "Crobat",
+   "en": "Crobat"
+  },
+  {
+   "n": "077",
+   "pt": "Goodra",
+   "en": "Goodra"
+  },
+  {
+   "n": "078",
+   "pt": "Toxel",
+   "en": "Toxel"
+  },
+  {
+   "n": "079",
+   "pt": "Charmeleon",
+   "en": "Charmeleon"
+  },
+  {
+   "n": "080",
+   "pt": "Fennekin",
+   "en": "Fennekin"
+  },
+  {
+   "n": "081",
+   "pt": "Mega Greninja ex",
+   "en": "Mega Greninja ex"
+  },
+  {
+   "n": "082",
+   "pt": "Miraidon",
+   "en": "Miraidon"
+  },
+  {
+   "n": "083",
+   "pt": "Slowbro",
+   "en": "Slowbro"
+  },
+  {
+   "n": "084",
+   "pt": "Dhelmise",
+   "en": "Dhelmise"
+  },
+  {
+   "n": "085",
+   "pt": "Bastiodon",
+   "en": "Bastiodon"
+  },
+  {
+   "n": "086",
+   "pt": "Slowpoke",
+   "en": "Slowpoke"
+  },
+  {
+   "n": "087",
+   "pt": "Binacle",
+   "en": "Binacle"
+  },
+  {
+   "n": "088",
+   "pt": "Zarude",
+   "en": "Zarude"
+  },
+  {
+   "n": "Museum",
+   "pt": null,
+   "en": "Pikachu at the Museum"
+  }
+ ]
+}

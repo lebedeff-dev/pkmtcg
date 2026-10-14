@@ -1,0 +1,1544 @@
+{
+ "set": "swshp",
+ "nome_pt": "ESES Promos",
+ "nome_en": "SWSH Black Star Promos",
+ "total": 307,
+ "oficial": 307,
+ "cartas": [
+  {
+   "n": "SWSH001",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "SWSH002",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "SWSH003",
+   "pt": "Sobble",
+   "en": "Sobble"
+  },
+  {
+   "n": "SWSH004",
+   "pt": "Meowth V",
+   "en": "Meowth V"
+  },
+  {
+   "n": "SWSH005",
+   "pt": "Meowth VMAX",
+   "en": "Meowth VMAX"
+  },
+  {
+   "n": "SWSH006",
+   "pt": "Rillaboom",
+   "en": "Rillaboom"
+  },
+  {
+   "n": "SWSH007",
+   "pt": "Frosmoth",
+   "en": "Frosmoth"
+  },
+  {
+   "n": "SWSH008",
+   "pt": "Perrserker de Galar",
+   "en": "Galarian Perrserker"
+  },
+  {
+   "n": "SWSH009",
+   "pt": "Cinccino",
+   "en": "Cinccino"
+  },
+  {
+   "n": "SWSH010",
+   "pt": "Gossifleur",
+   "en": "Gossifleur"
+  },
+  {
+   "n": "SWSH011",
+   "pt": "Wooloo",
+   "en": "Wooloo"
+  },
+  {
+   "n": "SWSH012",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "SWSH013",
+   "pt": "Ponyta de Galar",
+   "en": "Galarian Ponyta"
+  },
+  {
+   "n": "SWSH014",
+   "pt": "Rillaboom V",
+   "en": "Rillaboom V"
+  },
+  {
+   "n": "SWSH015",
+   "pt": "Cinderace V",
+   "en": "Cinderace V"
+  },
+  {
+   "n": "SWSH016",
+   "pt": "Inteleon V",
+   "en": "Inteleon V"
+  },
+  {
+   "n": "SWSH017",
+   "pt": "Toxtricity V",
+   "en": "Toxtricity V"
+  },
+  {
+   "n": "SWSH018",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "SWSH019",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "SWSH020",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SWSH021",
+   "pt": "Polteageist V",
+   "en": "Polteageist V"
+  },
+  {
+   "n": "SWSH022",
+   "pt": "Flapple",
+   "en": "Flapple"
+  },
+  {
+   "n": "SWSH023",
+   "pt": "Luxray",
+   "en": "Luxray"
+  },
+  {
+   "n": "SWSH024",
+   "pt": "Coalossal",
+   "en": "Coalossal"
+  },
+  {
+   "n": "SWSH025",
+   "pt": "Garbodor",
+   "en": "Garbodor"
+  },
+  {
+   "n": "SWSH026",
+   "pt": "Mantine",
+   "en": "Mantine"
+  },
+  {
+   "n": "SWSH027",
+   "pt": "Noctowl",
+   "en": "Noctowl"
+  },
+  {
+   "n": "SWSH028",
+   "pt": "Duraludon",
+   "en": "Duraludon"
+  },
+  {
+   "n": "SWSH029",
+   "pt": "Rayquaza",
+   "en": "Rayquaza"
+  },
+  {
+   "n": "SWSH030",
+   "pt": "Copperajah V",
+   "en": "Copperajah V"
+  },
+  {
+   "n": "SWSH031",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "SWSH032",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "SWSH033",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "SWSH034",
+   "pt": "Zamazenta",
+   "en": "Zamazenta"
+  },
+  {
+   "n": "SWSH035",
+   "pt": "Decidueye",
+   "en": "Decidueye"
+  },
+  {
+   "n": "SWSH036",
+   "pt": "Arctozolt",
+   "en": "Arctozolt"
+  },
+  {
+   "n": "SWSH037",
+   "pt": "Hydreigon",
+   "en": "Hydreigon"
+  },
+  {
+   "n": "SWSH038",
+   "pt": "Kangaskhan",
+   "en": "Kangaskhan"
+  },
+  {
+   "n": "SWSH039",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SWSH040",
+   "pt": "Hatenna",
+   "en": "Hatenna"
+  },
+  {
+   "n": "SWSH041",
+   "pt": "Flareon",
+   "en": "Flareon"
+  },
+  {
+   "n": "SWSH042",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH043",
+   "pt": "Sirfetch'd de Galar V",
+   "en": "Galarian Sirfetch'd V"
+  },
+  {
+   "n": "SWSH044",
+   "pt": "Eternatus V",
+   "en": "Eternatus V"
+  },
+  {
+   "n": "SWSH045",
+   "pt": "Eternatus VMAX",
+   "en": "Eternatus VMAX"
+  },
+  {
+   "n": "SWSH046",
+   "pt": "Eldegoss",
+   "en": "Eldegoss"
+  },
+  {
+   "n": "SWSH047",
+   "pt": "Drednaw",
+   "en": "Drednaw"
+  },
+  {
+   "n": "SWSH048",
+   "pt": "Centiskorch",
+   "en": "Centiskorch"
+  },
+  {
+   "n": "SWSH049",
+   "pt": "Dubwool V",
+   "en": "Dubwool V"
+  },
+  {
+   "n": "SWSH050",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "SWSH051",
+   "pt": "Lapras",
+   "en": "Lapras"
+  },
+  {
+   "n": "SWSH052",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "SWSH053",
+   "pt": "Machamp",
+   "en": "Machamp"
+  },
+  {
+   "n": "SWSH054",
+   "pt": "Coalossal",
+   "en": "Coalossal"
+  },
+  {
+   "n": "SWSH055",
+   "pt": "Hatterene V",
+   "en": "Hatterene V"
+  },
+  {
+   "n": "SWSH056",
+   "pt": "Morpeko V",
+   "en": "Morpeko V"
+  },
+  {
+   "n": "SWSH057",
+   "pt": "Grimmsnarl V",
+   "en": "Grimmsnarl V"
+  },
+  {
+   "n": "SWSH058",
+   "pt": "Alcremie",
+   "en": "Alcremie"
+  },
+  {
+   "n": "SWSH059",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "SWSH060",
+   "pt": "Duraludon",
+   "en": "Duraludon"
+  },
+  {
+   "n": "SWSH061",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "SWSH062",
+   "pt": "Pikachu VMAX",
+   "en": "Pikachu VMAX"
+  },
+  {
+   "n": "SWSH063",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "SWSH064",
+   "pt": "Eternatus V",
+   "en": "Eternatus V"
+  },
+  {
+   "n": "SWSH065",
+   "pt": "Eevee V",
+   "en": "Eevee V"
+  },
+  {
+   "n": "SWSH066",
+   "pt": "Charizard",
+   "en": "Charizard"
+  },
+  {
+   "n": "SWSH067",
+   "pt": "Donphan",
+   "en": "Donphan"
+  },
+  {
+   "n": "SWSH068",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "SWSH069",
+   "pt": "Lugia",
+   "en": "Lugia"
+  },
+  {
+   "n": "SWSH070",
+   "pt": "Grookey",
+   "en": "Grookey"
+  },
+  {
+   "n": "SWSH071",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "SWSH072",
+   "pt": "Vaporeon",
+   "en": "Vaporeon"
+  },
+  {
+   "n": "SWSH073",
+   "pt": "Sobble",
+   "en": "Sobble"
+  },
+  {
+   "n": "SWSH074",
+   "pt": "Special Delivery Pikachu",
+   "en": "Special Delivery Pikachu"
+  },
+  {
+   "n": "SWSH075",
+   "pt": null,
+   "en": "Special Delivery Charizard"
+  },
+  {
+   "n": "SWSH076",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "SWSH077",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "SWSH078",
+   "pt": "Orbeetle V",
+   "en": "Orbeetle V"
+  },
+  {
+   "n": "SWSH079",
+   "pt": "Mr. Rime de Galar",
+   "en": "Galarian Mr. Rime"
+  },
+  {
+   "n": "SWSH080",
+   "pt": "Dedenne",
+   "en": "Dedenne"
+  },
+  {
+   "n": "SWSH081",
+   "pt": "Polteageist",
+   "en": "Polteageist"
+  },
+  {
+   "n": "SWSH082",
+   "pt": "Bunnelby",
+   "en": "Bunnelby"
+  },
+  {
+   "n": "SWSH083",
+   "pt": "Alakazam V",
+   "en": "Alakazam V"
+  },
+  {
+   "n": "SWSH084",
+   "pt": "Eldegoss V",
+   "en": "Eldegoss V"
+  },
+  {
+   "n": "SWSH085",
+   "pt": "Boltund V",
+   "en": "Boltund V"
+  },
+  {
+   "n": "SWSH086",
+   "pt": "Cramorant V",
+   "en": "Cramorant V"
+  },
+  {
+   "n": "SWSH087",
+   "pt": "Eevee VMAX",
+   "en": "Eevee VMAX"
+  },
+  {
+   "n": "SWSH088",
+   "pt": "Cherrim",
+   "en": "Cherrim"
+  },
+  {
+   "n": "SWSH089",
+   "pt": "Octillery",
+   "en": "Octillery"
+  },
+  {
+   "n": "SWSH090",
+   "pt": "Houndoom",
+   "en": "Houndoom"
+  },
+  {
+   "n": "SWSH091",
+   "pt": "Bronzong",
+   "en": "Bronzong"
+  },
+  {
+   "n": "SWSH092",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "SWSH093",
+   "pt": "Arrokuda",
+   "en": "Arrokuda"
+  },
+  {
+   "n": "SWSH094",
+   "pt": "Jolteon",
+   "en": "Jolteon"
+  },
+  {
+   "n": "SWSH095",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH096",
+   "pt": "Dragapult V",
+   "en": "Dragapult V"
+  },
+  {
+   "n": "SWSH097",
+   "pt": "Dragapult VMAX",
+   "en": "Dragapult VMAX"
+  },
+  {
+   "n": "SWSH098",
+   "pt": "Crobat V",
+   "en": "Crobat V"
+  },
+  {
+   "n": "SWSH099",
+   "pt": "Crobat VMAX",
+   "en": "Crobat VMAX"
+  },
+  {
+   "n": "SWSH100",
+   "pt": "Venusaur V",
+   "en": "Venusaur V"
+  },
+  {
+   "n": "SWSH101",
+   "pt": "Blastoise V",
+   "en": "Blastoise V"
+  },
+  {
+   "n": "SWSH102",
+   "pt": "Venusaur VMAX",
+   "en": "Venusaur VMAX"
+  },
+  {
+   "n": "SWSH103",
+   "pt": "Blastoise VMAX",
+   "en": "Blastoise VMAX"
+  },
+  {
+   "n": "SWSH104",
+   "pt": "Victini V",
+   "en": "Victini V"
+  },
+  {
+   "n": "SWSH105",
+   "pt": "Gardevoir V",
+   "en": "Gardevoir V"
+  },
+  {
+   "n": "SWSH106",
+   "pt": "Urshifu Golpe Decisivo V",
+   "en": "Single Strike Urshifu V"
+  },
+  {
+   "n": "SWSH107",
+   "pt": "Urshifu Golpe Fluido V",
+   "en": "Rapid Strike Urshifu V"
+  },
+  {
+   "n": "SWSH108",
+   "pt": "Empoleon V",
+   "en": "Empoleon V"
+  },
+  {
+   "n": "SWSH109",
+   "pt": "Tyranitar V",
+   "en": "Tyranitar V"
+  },
+  {
+   "n": "SWSH110",
+   "pt": "Crobat V",
+   "en": "Crobat V"
+  },
+  {
+   "n": "SWSH111",
+   "pt": "Rapidash de Galar V",
+   "en": "Galarian Rapidash V"
+  },
+  {
+   "n": "SWSH112",
+   "pt": "Cinderace",
+   "en": "Cinderace"
+  },
+  {
+   "n": "SWSH113",
+   "pt": "Inteleon",
+   "en": "Inteleon"
+  },
+  {
+   "n": "SWSH114",
+   "pt": "Cresselia",
+   "en": "Cresselia"
+  },
+  {
+   "n": "SWSH115",
+   "pt": "Passimian",
+   "en": "Passimian"
+  },
+  {
+   "n": "SWSH116",
+   "pt": "Morpeko",
+   "en": "Morpeko"
+  },
+  {
+   "n": "SWSH117",
+   "pt": "Phanpy",
+   "en": "Phanpy"
+  },
+  {
+   "n": "SWSH118",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH119",
+   "pt": "Snorlax",
+   "en": "Snorlax"
+  },
+  {
+   "n": "SWSH120",
+   "pt": "Marine",
+   "en": "Marnie"
+  },
+  {
+   "n": "SWSH121",
+   "pt": "Marine",
+   "en": "Marnie"
+  },
+  {
+   "n": "SWSH122",
+   "pt": "Flaaffy",
+   "en": "Flaaffy"
+  },
+  {
+   "n": "SWSH123",
+   "pt": "Articuno de Galar",
+   "en": "Galarian Articuno"
+  },
+  {
+   "n": "SWSH124",
+   "pt": "Zapdos de Galar",
+   "en": "Galarian Zapdos"
+  },
+  {
+   "n": "SWSH125",
+   "pt": "Moltres de Galar",
+   "en": "Galarian Moltres"
+  },
+  {
+   "n": "SWSH126",
+   "pt": "Slowpoke de Galar",
+   "en": "Galarian Slowpoke"
+  },
+  {
+   "n": "SWSH127",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH128",
+   "pt": "Eiscue",
+   "en": "Eiscue"
+  },
+  {
+   "n": "SWSH129",
+   "pt": "Umbreon",
+   "en": "Umbreon"
+  },
+  {
+   "n": "SWSH130",
+   "pt": "Calyrex Cavaleiro Glacial V",
+   "en": "Ice Rider Calyrex V"
+  },
+  {
+   "n": "SWSH131",
+   "pt": "Calyrex Cavaleiro Espectral V",
+   "en": "Shadow Rider Calyrex V"
+  },
+  {
+   "n": "SWSH132",
+   "pt": "Dragapult",
+   "en": "Dragapult"
+  },
+  {
+   "n": "SWSH133",
+   "pt": "Charizard V do Lance",
+   "en": "Lance's Charizard V"
+  },
+  {
+   "n": "SWSH134",
+   "pt": "Sylveon Sombrio V",
+   "en": "Dark Sylveon V"
+  },
+  {
+   "n": "SWSH135",
+   "pt": "Zacian",
+   "en": "Zacian"
+  },
+  {
+   "n": "SWSH136",
+   "pt": "Mimikyu",
+   "en": "Mimikyu"
+  },
+  {
+   "n": "SWSH137",
+   "pt": "Toxtricity Luminoso",
+   "en": "Light Toxtricity"
+  },
+  {
+   "n": "SWSH138",
+   "pt": "Hydreigon C",
+   "en": "Hydreigon C"
+  },
+  {
+   "n": "SWSH139",
+   "pt": "Pikachu V-UNIÃO",
+   "en": "Pikachu V-UNION"
+  },
+  {
+   "n": "SWSH140",
+   "pt": "Pikachu V-UNIÃO",
+   "en": "Pikachu V-UNION"
+  },
+  {
+   "n": "SWSH141",
+   "pt": "Pikachu V-UNIÃO",
+   "en": "Pikachu V-UNION"
+  },
+  {
+   "n": "SWSH142",
+   "pt": "Pikachu V-UNIÃO",
+   "en": "Pikachu V-UNION"
+  },
+  {
+   "n": "SWSH143",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "SWSH144",
+   "pt": "Greninja ☆",
+   "en": "Greninja ☆"
+  },
+  {
+   "n": "SWSH145",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "SWSH146",
+   "pt": "Poké Bola",
+   "en": "Poké Ball"
+  },
+  {
+   "n": "SWSH147",
+   "pt": "Rayquaza V",
+   "en": "Rayquaza V"
+  },
+  {
+   "n": "SWSH148",
+   "pt": "Noivern V",
+   "en": "Noivern V"
+  },
+  {
+   "n": "SWSH149",
+   "pt": "Flareon V",
+   "en": "Flareon V"
+  },
+  {
+   "n": "SWSH150",
+   "pt": "Vaporeon V",
+   "en": "Vaporeon V"
+  },
+  {
+   "n": "SWSH151",
+   "pt": "Jolteon V",
+   "en": "Jolteon V"
+  },
+  {
+   "n": "SWSH152",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "SWSH153",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SWSH154",
+   "pt": "Dragonite V",
+   "en": "Dragonite V"
+  },
+  {
+   "n": "SWSH155",
+   "pt": "Greninja V-UNIÃO",
+   "en": "Greninja V-UNION"
+  },
+  {
+   "n": "SWSH156",
+   "pt": "Greninja V-UNIÃO",
+   "en": "Greninja V-UNION"
+  },
+  {
+   "n": "SWSH157",
+   "pt": "Greninja V-UNIÃO",
+   "en": "Greninja V-UNION"
+  },
+  {
+   "n": "SWSH158",
+   "pt": "Greninja V-UNIÃO",
+   "en": "Greninja V-UNION"
+  },
+  {
+   "n": "SWSH159",
+   "pt": "Mewtwo V-UNIÃO",
+   "en": "Mewtwo V-UNION"
+  },
+  {
+   "n": "SWSH160",
+   "pt": "Mewtwo V-UNIÃO",
+   "en": "Mewtwo V-UNION"
+  },
+  {
+   "n": "SWSH161",
+   "pt": "Mewtwo V-UNIÃO",
+   "en": "Mewtwo V-UNION"
+  },
+  {
+   "n": "SWSH162",
+   "pt": "Mewtwo V-UNIÃO",
+   "en": "Mewtwo V-UNION"
+  },
+  {
+   "n": "SWSH163",
+   "pt": "Zacian V-UNIÃO",
+   "en": "Zacian V-UNION"
+  },
+  {
+   "n": "SWSH164",
+   "pt": "Zacian V-UNIÃO",
+   "en": "Zacian V-UNION"
+  },
+  {
+   "n": "SWSH165",
+   "pt": "Zacian V-UNIÃO",
+   "en": "Zacian V-UNION"
+  },
+  {
+   "n": "SWSH166",
+   "pt": "Zacian V-UNIÃO",
+   "en": "Zacian V-UNION"
+  },
+  {
+   "n": "SWSH167",
+   "pt": "Professora Bruna",
+   "en": "Professor Burnet"
+  },
+  {
+   "n": "SWSH168",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "SWSH169",
+   "pt": "Pyukumuku",
+   "en": "Pyukumuku"
+  },
+  {
+   "n": "SWSH170",
+   "pt": "Deoxys",
+   "en": "Deoxys"
+  },
+  {
+   "n": "SWSH171",
+   "pt": "Latias",
+   "en": "Latias"
+  },
+  {
+   "n": "SWSH172",
+   "pt": "Tepig",
+   "en": "Tepig"
+  },
+  {
+   "n": "SWSH173",
+   "pt": "Blitzle",
+   "en": "Blitzle"
+  },
+  {
+   "n": "SWSH174",
+   "pt": "Espeon",
+   "en": "Espeon"
+  },
+  {
+   "n": "SWSH175",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH176",
+   "pt": "Hoopa V",
+   "en": "Hoopa V"
+  },
+  {
+   "n": "SWSH177",
+   "pt": null,
+   "en": "Special Delivery Bidoof"
+  },
+  {
+   "n": "SWSH178",
+   "pt": "Pesquisa de Professores",
+   "en": "Professor's Research"
+  },
+  {
+   "n": "SWSH179",
+   "pt": "Flareon V",
+   "en": "Flareon V"
+  },
+  {
+   "n": "SWSH180",
+   "pt": "Flareon VMAX",
+   "en": "Flareon VMAX"
+  },
+  {
+   "n": "SWSH181",
+   "pt": "Vaporeon V",
+   "en": "Vaporeon V"
+  },
+  {
+   "n": "SWSH182",
+   "pt": "Vaporeon VMAX",
+   "en": "Vaporeon VMAX"
+  },
+  {
+   "n": "SWSH183",
+   "pt": "Jolteon V",
+   "en": "Jolteon V"
+  },
+  {
+   "n": "SWSH184",
+   "pt": "Jolteon VMAX",
+   "en": "Jolteon VMAX"
+  },
+  {
+   "n": "SWSH185",
+   "pt": "Moltres",
+   "en": "Moltres"
+  },
+  {
+   "n": "SWSH186",
+   "pt": "Lucario",
+   "en": "Lucario"
+  },
+  {
+   "n": "SWSH187",
+   "pt": "Liepard",
+   "en": "Liepard"
+  },
+  {
+   "n": "SWSH188",
+   "pt": "Bibarel",
+   "en": "Bibarel"
+  },
+  {
+   "n": "SWSH189",
+   "pt": "Flapple",
+   "en": "Flapple"
+  },
+  {
+   "n": "SWSH190",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH191",
+   "pt": "Leafeon",
+   "en": "Leafeon"
+  },
+  {
+   "n": "SWSH192",
+   "pt": "Glaceon",
+   "en": "Glaceon"
+  },
+  {
+   "n": "SWSH193",
+   "pt": "Obstagoon de Galar",
+   "en": "Galarian Obstagoon"
+  },
+  {
+   "n": "SWSH194",
+   "pt": "Leafeon V",
+   "en": "Leafeon V"
+  },
+  {
+   "n": "SWSH195",
+   "pt": "Leafeon V-ASTRO",
+   "en": "Leafeon VSTAR"
+  },
+  {
+   "n": "SWSH196",
+   "pt": "Glaceon V",
+   "en": "Glaceon V"
+  },
+  {
+   "n": "SWSH197",
+   "pt": "Glaceon V-ASTRO",
+   "en": "Glaceon VSTAR"
+  },
+  {
+   "n": "SWSH198",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "SWSH199",
+   "pt": "Lycanroc V",
+   "en": "Lycanroc V"
+  },
+  {
+   "n": "SWSH200",
+   "pt": "Corviknight V",
+   "en": "Corviknight V"
+  },
+  {
+   "n": "SWSH201",
+   "pt": "Espeon V",
+   "en": "Espeon V"
+  },
+  {
+   "n": "SWSH202",
+   "pt": "Sylveon V",
+   "en": "Sylveon V"
+  },
+  {
+   "n": "SWSH203",
+   "pt": "Umbreon V",
+   "en": "Umbreon V"
+  },
+  {
+   "n": "SWSH204",
+   "pt": "Arceus V",
+   "en": "Arceus V"
+  },
+  {
+   "n": "SWSH205",
+   "pt": "Basculegion de Hisui",
+   "en": "Hisuian Basculegion"
+  },
+  {
+   "n": "SWSH206",
+   "pt": "Wyrdeer",
+   "en": "Wyrdeer"
+  },
+  {
+   "n": "SWSH207",
+   "pt": "Samurott de Hisui",
+   "en": "Hisuian Samurott"
+  },
+  {
+   "n": "SWSH208",
+   "pt": "Magnezone",
+   "en": "Magnezone"
+  },
+  {
+   "n": "SWSH209",
+   "pt": "Toxel",
+   "en": "Toxel"
+  },
+  {
+   "n": "SWSH210",
+   "pt": "Oricorio",
+   "en": "Oricorio"
+  },
+  {
+   "n": "SWSH211",
+   "pt": "Sylveon",
+   "en": "Sylveon"
+  },
+  {
+   "n": "SWSH212",
+   "pt": "Eevee",
+   "en": "Eevee"
+  },
+  {
+   "n": "SWSH213",
+   "pt": "Lucario V",
+   "en": "Lucario V"
+  },
+  {
+   "n": "SWSH214",
+   "pt": "Lucario V-ASTRO",
+   "en": "Lucario VSTAR"
+  },
+  {
+   "n": "SWSH215",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH216",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH217",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH218",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH219",
+   "pt": "Boltund V",
+   "en": "Boltund V"
+  },
+  {
+   "n": "SWSH220",
+   "pt": "Rowlet",
+   "en": "Rowlet"
+  },
+  {
+   "n": "SWSH221",
+   "pt": "Cyndaquil",
+   "en": "Cyndaquil"
+  },
+  {
+   "n": "SWSH222",
+   "pt": "Oshawott",
+   "en": "Oshawott"
+  },
+  {
+   "n": "SWSH223",
+   "pt": "Mewtwo V",
+   "en": "Mewtwo V"
+  },
+  {
+   "n": "SWSH224",
+   "pt": "Melmetal V",
+   "en": "Melmetal V"
+  },
+  {
+   "n": "SWSH225",
+   "pt": "Exeggutor de Alola V",
+   "en": "Alolan Exeggutor V"
+  },
+  {
+   "n": "SWSH226",
+   "pt": "Spark",
+   "en": "Spark"
+  },
+  {
+   "n": "SWSH227",
+   "pt": "Blanche",
+   "en": "Blanche"
+  },
+  {
+   "n": "SWSH228",
+   "pt": "Candela",
+   "en": "Candela"
+  },
+  {
+   "n": "SWSH229",
+   "pt": "Mewtwo V",
+   "en": "Mewtwo V"
+  },
+  {
+   "n": "SWSH230",
+   "pt": "Eevee Radiante",
+   "en": "Radiant Eevee"
+  },
+  {
+   "n": "SWSH231",
+   "pt": "Bulbasaur",
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "SWSH232",
+   "pt": "Charmander",
+   "en": "Charmander"
+  },
+  {
+   "n": "SWSH233",
+   "pt": "Squirtle",
+   "en": "Squirtle"
+  },
+  {
+   "n": "SWSH234",
+   "pt": "Pikachu",
+   "en": "Pikachu"
+  },
+  {
+   "n": "SWSH235",
+   "pt": "Dragonite V",
+   "en": "Dragonite V"
+  },
+  {
+   "n": "SWSH236",
+   "pt": "Dragonite V-ASTRO",
+   "en": "Dragonite VSTAR"
+  },
+  {
+   "n": "SWSH237",
+   "pt": "Typhlosion de Hisui V",
+   "en": "Hisuian Typhlosion V"
+  },
+  {
+   "n": "SWSH238",
+   "pt": "Decidueye de Hisui V",
+   "en": "Hisuian Decidueye V"
+  },
+  {
+   "n": "SWSH239",
+   "pt": "Samurott de Hisui V",
+   "en": "Hisuian Samurott V"
+  },
+  {
+   "n": "SWSH240",
+   "pt": "Finneon",
+   "en": "Finneon"
+  },
+  {
+   "n": "SWSH241",
+   "pt": "Gengar",
+   "en": "Gengar"
+  },
+  {
+   "n": "SWSH242",
+   "pt": "Comfey",
+   "en": "Comfey"
+  },
+  {
+   "n": "SWSH243",
+   "pt": "Machamp",
+   "en": "Machamp"
+  },
+  {
+   "n": "SWSH244",
+   "pt": "Scorbunny",
+   "en": "Scorbunny"
+  },
+  {
+   "n": "SWSH245",
+   "pt": "Croagunk",
+   "en": "Croagunk"
+  },
+  {
+   "n": "SWSH246",
+   "pt": "Weavile",
+   "en": "Weavile"
+  },
+  {
+   "n": "SWSH247",
+   "pt": "Regigigas",
+   "en": "Regigigas"
+  },
+  {
+   "n": "SWSH248",
+   "pt": "Kleavor V",
+   "en": "Kleavor V"
+  },
+  {
+   "n": "SWSH249",
+   "pt": "Kleavor V-ASTRO",
+   "en": "Kleavor VSTAR"
+  },
+  {
+   "n": "SWSH250",
+   "pt": "Lumineon V",
+   "en": "Lumineon V"
+  },
+  {
+   "n": "SWSH251",
+   "pt": "Ordens da Chefia",
+   "en": "Boss's Orders"
+  },
+  {
+   "n": "SWSH252",
+   "pt": "Infernape V",
+   "en": "Infernape V"
+  },
+  {
+   "n": "SWSH253",
+   "pt": "Palkia Forma Origem V",
+   "en": "Origin Forme Palkia V"
+  },
+  {
+   "n": "SWSH254",
+   "pt": "Palkia Forma Origem V-ASTRO",
+   "en": "Origin Forme Palkia VSTAR"
+  },
+  {
+   "n": "SWSH255",
+   "pt": "Dialga Forma Origem V",
+   "en": "Origin Forme Dialga V"
+  },
+  {
+   "n": "SWSH256",
+   "pt": "Dialga Forma Origem V-ASTRO",
+   "en": "Origin Forme Dialga VSTAR"
+  },
+  {
+   "n": "SWSH257",
+   "pt": "Rotom V",
+   "en": "Rotom V"
+  },
+  {
+   "n": "SWSH258",
+   "pt": "Gallade V",
+   "en": "Gallade V"
+  },
+  {
+   "n": "SWSH259",
+   "pt": "Giratina V",
+   "en": "Giratina V"
+  },
+  {
+   "n": "SWSH260",
+   "pt": "Charizard V",
+   "en": "Charizard V"
+  },
+  {
+   "n": "SWSH261",
+   "pt": "Charizard VMAX",
+   "en": "Charizard VMAX"
+  },
+  {
+   "n": "SWSH262",
+   "pt": "Charizard V-ASTRO",
+   "en": "Charizard VSTAR"
+  },
+  {
+   "n": "SWSH263",
+   "pt": "Zeraora V",
+   "en": "Zeraora V"
+  },
+  {
+   "n": "SWSH264",
+   "pt": "Zeraora VMAX",
+   "en": "Zeraora VMAX"
+  },
+  {
+   "n": "SWSH265",
+   "pt": "Zeraora V-ASTRO",
+   "en": "Zeraora VSTAR"
+  },
+  {
+   "n": "SWSH266",
+   "pt": "Deoxys V",
+   "en": "Deoxys V"
+  },
+  {
+   "n": "SWSH267",
+   "pt": "Deoxys VMAX",
+   "en": "Deoxys VMAX"
+  },
+  {
+   "n": "SWSH268",
+   "pt": "Deoxys V-ASTRO",
+   "en": "Deoxys VSTAR"
+  },
+  {
+   "n": "SWSH269",
+   "pt": "Sunflora",
+   "en": "Sunflora"
+  },
+  {
+   "n": "SWSH270",
+   "pt": "Rapidash",
+   "en": "Rapidash"
+  },
+  {
+   "n": "SWSH271",
+   "pt": "Kirlia",
+   "en": "Kirlia"
+  },
+  {
+   "n": "SWSH272",
+   "pt": "Archeops",
+   "en": "Archeops"
+  },
+  {
+   "n": "SWSH273",
+   "pt": "Basculin de Hisui",
+   "en": "Hisuian Basculin"
+  },
+  {
+   "n": "SWSH274",
+   "pt": "Cranidos",
+   "en": "Cranidos"
+  },
+  {
+   "n": "SWSH275",
+   "pt": "Manaphy",
+   "en": "Manaphy"
+  },
+  {
+   "n": "SWSH276",
+   "pt": "Togetic",
+   "en": "Togetic"
+  },
+  {
+   "n": "SWSH277",
+   "pt": "Rillaboom",
+   "en": "Rillaboom"
+  },
+  {
+   "n": "SWSH278",
+   "pt": "Cinderace",
+   "en": "Cinderace"
+  },
+  {
+   "n": "SWSH279",
+   "pt": "Inteleon",
+   "en": "Inteleon"
+  },
+  {
+   "n": "SWSH280",
+   "pt": "Regieleki V",
+   "en": "Regieleki V"
+  },
+  {
+   "n": "SWSH281",
+   "pt": "Regidrago V",
+   "en": "Regidrago V"
+  },
+  {
+   "n": "SWSH282",
+   "pt": "Articuno de Galar",
+   "en": "Galarian Articuno"
+  },
+  {
+   "n": "SWSH283",
+   "pt": "Zapdos de Galar",
+   "en": "Galarian Zapdos"
+  },
+  {
+   "n": "SWSH284",
+   "pt": "Moltres de Galar",
+   "en": "Galarian Moltres"
+  },
+  {
+   "n": "SWSH285",
+   "pt": "Pikachu V",
+   "en": "Pikachu V"
+  },
+  {
+   "n": "SWSH286",
+   "pt": "Pikachu VMAX",
+   "en": "Pikachu VMAX"
+  },
+  {
+   "n": "SWSH287",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH288",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH289",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH290",
+   "pt": "Morpeko V-UNIÃO",
+   "en": "Morpeko V-UNION"
+  },
+  {
+   "n": "SWSH291",
+   "pt": "Lucario V-ASTRO",
+   "en": "Lucario VSTAR"
+  },
+  {
+   "n": "SWSH292",
+   "pt": "Zacian V",
+   "en": "Zacian V"
+  },
+  {
+   "n": "SWSH293",
+   "pt": "Zamazenta V",
+   "en": "Zamazenta V"
+  },
+  {
+   "n": "SWSH294",
+   "pt": "Electrode de Hisui V",
+   "en": "Hisuian Electrode V"
+  },
+  {
+   "n": "SWSH295",
+   "pt": "Virizion V",
+   "en": "Virizion V"
+  },
+  {
+   "n": "SWSH296",
+   "pt": "Festival dos Campeões",
+   "en": "Champions Festival"
+  },
+  {
+   "n": "SWSH297",
+   "pt": "Zoroark de Hisui V",
+   "en": "Hisuian Zoroark V"
+  },
+  {
+   "n": "SWSH298",
+   "pt": "Zoroark de Hisui V-ASTRO",
+   "en": "Hisuian Zoroark VSTAR"
+  },
+  {
+   "n": "SWSH299",
+   "pt": "Jirachi V",
+   "en": "Jirachi V"
+  },
+  {
+   "n": "SWSH300",
+   "pt": "Unown V",
+   "en": "Unown V"
+  },
+  {
+   "n": "SWSH301",
+   "pt": "Lugia V",
+   "en": "Lugia V"
+  },
+  {
+   "n": "SWSH302",
+   "pt": "Klara",
+   "en": "Klara"
+  },
+  {
+   "n": "SWSH303",
+   "pt": null,
+   "en": "Bulbasaur"
+  },
+  {
+   "n": "SWSH304",
+   "pt": null,
+   "en": "Arcanine"
+  },
+  {
+   "n": "SWSH305",
+   "pt": null,
+   "en": "Greninja"
+  },
+  {
+   "n": "SWSH306",
+   "pt": "Arceus V",
+   "en": "Arceus V"
+  },
+  {
+   "n": "SWSH307",
+   "pt": "Arceus V-ASTRO",
+   "en": "Arceus VSTAR"
+  }
+ ]
+}
